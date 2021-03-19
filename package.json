@@ -1,0 +1,30 @@
+{
+  "name": "website-11ty-stefanimhoff.de",
+  "version": "0.0.1",
+  "description": "Personal website build with 11ty",
+  "scripts": {
+    "build": "ELEVENTY_ENV=dev npx eleventy",
+    "build:prod": "ELEVENTY_ENV=prod npx eleventy",
+    "clean": "npx del dist",
+    "debug": "DEBUG=* npx eleventy",
+    "prebuild": "npm run clean",
+    "prestart": "npm run clean",
+    "serve": "ELEVENTY_ENV=dev npx eleventy --serve",
+    "start": "npm run serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kogakure/website-11ty-stefanimhoff.de.git"
+  },
+  "keywords": [
+    "11ty"
+  ],
+  "author": "Stefan Imhoff",
+  "license": "ISC",
+  "homepage": "https://www.stefanimhoff.de",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1",
+    "del-cli": "^3.0.1"
+  },
+  "dependencies": {}
+}
