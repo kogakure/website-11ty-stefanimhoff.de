@@ -1,0 +1,6 @@
+@import 'variables';
+
+body {
+  background: $bodyColor;
+  color: $textColor;
+}

@@ -3,14 +3,17 @@
   "version": "0.0.1",
   "description": "Personal website build with 11ty",
   "scripts": {
-    "build": "ELEVENTY_ENV=dev npx eleventy",
-    "build:prod": "ELEVENTY_ENV=prod npx eleventy",
+    "build": "npm-run-all build:css build:html",
+    "build:css": "postcss src/assets/postcss/styles.css -o dist/assets/css/styles.css",
+    "build:html": "eleventy",
     "clean": "npx del dist",
     "debug": "DEBUG=* npx eleventy",
     "prebuild": "npm run clean",
     "prestart": "npm run clean",
-    "serve": "ELEVENTY_ENV=dev npx eleventy --serve",
-    "start": "npm run serve"
+    "start": "npm run watch",
+    "watch": "npm-run-all --parallel watch:*",
+    "watch:css": "postcss src/assets/postcss/styles.css -o dist/assets/css/styles.css --watch",
+    "watch:html": "eleventy --serve"
   },
   "repository": {
     "type": "git",
@@ -22,9 +25,21 @@
   "author": "Stefan Imhoff",
   "license": "ISC",
   "homepage": "https://www.stefanimhoff.de",
-  "devDependencies": {
+  "dependencies": {
     "@11ty/eleventy": "^0.11.1",
-    "del-cli": "^3.0.1"
-  },
-  "dependencies": {}
+    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "autoprefixer": "^10.2.5",
+    "cssnano": "^4.1.10",
+    "del-cli": "^3.0.1",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^8.2.8",
+    "postcss-advanced-variables": "^3.0.1",
+    "postcss-cli": "^8.3.1",
+    "postcss-custom-media": "^8.0.0",
+    "postcss-custom-properties": "^11.0.0",
+    "postcss-import": "^14.0.0",
+    "postcss-media-minmax": "^5.0.0",
+    "postcss-nested": "^5.0.5",
+    "uglify-js": "^3.13.3"
+  }
 }

@@ -1,0 +1,4 @@
+{% set js %} 
+  {% include "../assets/js/main.js" %}
+{% endset %}
+<script>{{ js | jsmin | safe }}</script>
