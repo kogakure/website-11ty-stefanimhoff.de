@@ -11,11 +11,11 @@ module.exports = function (eleventyConfig) {
   }
 
   // Watch for changes and reload
-  eleventyConfig.addWatchTarget('src/assets/postcss');
+  eleventyConfig.addWatchTarget('src/postcss');
+  eleventyConfig.addWatchTarget('src/javascript');
 
-  // Copy assets to dist
-  eleventyConfig.addPassthroughCopy({ 'src/assets/image': 'assets/images' });
-  eleventyConfig.addPassthroughCopy({ 'src/assets/js': 'assets/js' });
+  // Copy images to dist
+  eleventyConfig.addPassthroughCopy({ 'src/image': 'images' });
 
   // Set input and output folders
   return {

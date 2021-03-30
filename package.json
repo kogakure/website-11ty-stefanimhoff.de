@@ -4,7 +4,7 @@
   "description": "Personal website build with 11ty",
   "scripts": {
     "build": "npm-run-all build:css build:html",
-    "build:css": "postcss src/assets/postcss/styles.css -o dist/assets/css/styles.css",
+    "build:css": "postcss src/postcss/styles.css -o dist/css/styles.css",
     "build:html": "eleventy",
     "clean": "npx del dist",
     "debug": "DEBUG=* npx eleventy",
@@ -12,7 +12,7 @@
     "prestart": "npm run clean",
     "start": "npm run watch",
     "watch": "npm-run-all --parallel watch:*",
-    "watch:css": "postcss src/assets/postcss/styles.css -o dist/assets/css/styles.css --watch",
+    "watch:css": "postcss src/postcss/styles.css -o dist/css/styles.css --watch",
     "watch:html": "eleventy --serve"
   },
   "repository": {
