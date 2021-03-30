@@ -10,6 +10,7 @@ module.exports = {
     require('postcss-nested'),
     require('postcss-media-minmax'),
     require('postcss-custom-media'),
+    require('postcss-100vh-fix'),
     require('autoprefixer'),
     ...(process.env.NODE_ENV === 'production'
       ? [purgecss, require('cssnano')]

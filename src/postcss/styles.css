@@ -1,6 +1,148 @@
 @import 'variables';
+@import 'colors';
+
+html {
+  box-sizing: border-box;
+  font-size: 100%;
+  scroll-behavior: smooth;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
 
 body {
-  background: $bodyColor;
-  color: $textColor;
+  background-color: var(--color-bg);
+  color: var(--color-fg);
+  font-family: 'Playfair Display Webfont', 'Georgia', serif;
+  height: 100vh;
+  line-height: 1.6;
+}
+
+figure {
+  margin: 0;
+}
+
+figcaption {
+  font-size: clamp(0.8rem, 0.8vw, 0.75rem);
+  text-align: left;
+}
+
+abbr {
+  font-family: 'Playfair Display SC Webfont', 'Georgia', serif;
+  font-variant: small-caps;
+}
+
+body code,
+body kbd,
+body samp {
+  font-family: 'Fira Code', 'Operator', 'Hasklig', 'Monoid', monospace;
+  font-size: clamp(0.8rem, 1.1vw, 1.25rem);
+}
+
+.code-block {
+  border-color: var(--color-fg-soft);
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: clamp(2.074rem, 4.44vw, 2.488rem);
+  margin-top: clamp(2.074rem, 4.44vw, 2.488rem);
+  overflow-y: auto;
+  width: 88.8vw;
+}
+
+@media (min-width: 768px) {
+  .code-block {
+    width: 55.5vw;
+  }
+}
+
+@media (min-width: 1200px) {
+  .code-block {
+    width: 33.3vw;
+  }
+}
+
+/* ===================================
+ * Georgia is the fallback font during
+ * loading. As it is wider it needs to
+ * be set in font-weight 400.
+ * ==================================*/
+.wf-loading h1,
+.wf-loading h2,
+.wf-loading h3 {
+  font-weight: 400;
+}
+
+/* ===================================
+ * Corrections
+ * ==================================*/
+del {
+  text-decoration-thickness: 0.1em;
+}
+
+ins {
+  text-decoration-style: wavy;
+  text-decoration-thickness: 0.05em;
+}
+
+/* ===================================
+ * Abbrevations & Definitions
+ * ==================================*/
+abbr,
+dfn {
+  cursor: help;
+}
+
+/* ===================================
+ * Quotations
+ * ==================================*/
+[lang|='en'] blockquote,
+blockquote[lang|='en'],
+[lang|='en'] q,
+q[lang|='en'] {
+  quotes: '“' '”' '‘' '’';
+}
+
+[lang|='de'] blockquote,
+blockquote[lang|='de'],
+[lang|='de'] q,
+q[lang|='de'] {
+  quotes: '»' '«' '›' '‹';
+}
+
+[lang|='ja'] blockquote,
+blockquote[lang|='ja'],
+[lang|='ja'] q,
+q[lang|='ja'] {
+  quotes: '「' '」' '『' '』';
+}
+
+/* ===================================
+ * Footnotes
+ * ==================================*/
+a.footnote-ref {
+  cursor: help;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+a.footnote-backref {
+  display: inline-block;
+  line-height: 1;
+  margin-left: 8px;
+  text-decoration: none;
+  transition-duration: 500ms;
+  transition-property: transform;
+  transition-timing-function: ease-in-out;
+}
+
+a.footnote-backref:hover,
+a.footnote-backref:focus {
+  transform: translate3d(-0.25rem, 0, 0);
+}
+
+.footnotes ol li {
+  font-size: 0.88;
 }
