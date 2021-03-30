@@ -1,0 +1,28 @@
+{
+  "plugins": [
+    "stylelint-order",
+    "stylelint-config-rational-order/plugin",
+    "stylelint-a11y",
+    "stylelint-high-performance-animation",
+    "stylelint-prettier"
+  ],
+  "extends": [
+    "stylelint-config-recommended",
+    "stylelint-a11y/recommended",
+    "stylelint-prettier/recommended"
+  ],
+  "syntax": "scss",
+  "rules": {
+    "property-no-unknown": [
+      true,
+      {
+        "ignoreProperties": ["suffix", "symbols", "system"]
+      }
+    ],
+    "order/order": ["custom-properties", "declarations"],
+    "order/properties-alphabetical-order": true,
+    "plugin/no-low-performance-animation-properties": true,
+    "string-quotes": "single",
+    "prettier/prettier": true
+  }
+}
