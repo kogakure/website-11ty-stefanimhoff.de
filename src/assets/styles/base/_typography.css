@@ -1,0 +1,59 @@
+figcaption {
+  font-size: clamp(0.8rem, 0.8vw, 0.75rem);
+  text-align: left;
+}
+
+abbr {
+  font-variant: small-caps;
+}
+
+code,
+kbd,
+samp {
+  font-family: $font-family-mono;
+  font-size: clamp(0.8rem, 1.1vw, 1.25rem);
+}
+
+/* ===================================
+ * Corrections
+ * ==================================*/
+del {
+  text-decoration-thickness: 0.1em;
+}
+
+ins {
+  text-decoration-style: wavy;
+  text-decoration-thickness: 0.05em;
+}
+
+/* ===================================
+ * Abbrevations & Definitions
+ * ==================================*/
+abbr,
+dfn {
+  cursor: help;
+}
+
+/* ===================================
+ * Quotations
+ * ==================================*/
+[lang|='en'] blockquote,
+blockquote[lang|='en'],
+[lang|='en'] q,
+q[lang|='en'] {
+  quotes: '“' '”' '‘' '’';
+}
+
+[lang|='de'] blockquote,
+blockquote[lang|='de'],
+[lang|='de'] q,
+q[lang|='de'] {
+  quotes: '»' '«' '›' '‹';
+}
+
+[lang|='ja'] blockquote,
+blockquote[lang|='ja'],
+[lang|='ja'] q,
+q[lang|='ja'] {
+  quotes: '「' '」' '『' '』';
+}

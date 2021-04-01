@@ -1,29 +1,29 @@
-module.exports = function (eleventyConfig) {
+module.exports = function (config) {
   // Compress and combine JS files
-  eleventyConfig.addFilter('jsmin', require('./src/utils/minify-js.js'));
+  config.addFilter('jsmin', require('./src/utils/minify-js.js'));
 
   // Minify the HTML in production
   if (process.env.NODE_ENV == 'production') {
-    eleventyConfig.addTransform(
-      'htmlmin',
-      require('./src/utils/minify-html.js')
-    );
+    config.addTransform('htmlmin', require('./src/utils/minify-html.js'));
   }
 
-  // Watch for changes and reload
-  eleventyConfig.addWatchTarget('src/postcss');
-  eleventyConfig.addWatchTarget('src/javascript');
+  // Layouts
+  config.addLayoutAlias('base', 'base.njk');
 
-  // Copy images to dist
-  eleventyConfig.addPassthroughCopy({ 'src/image': 'images' });
+  // Watch for changes and reload
+  config.addWatchTarget('src/assets');
+
+  // Copy static files to dist
+  config.addPassthroughCopy({ 'src/assets/fonts': 'assets/fonts' });
+  config.addPassthroughCopy({ 'src/assets/images': 'assets/images' });
 
   // Set input and output folders
   return {
     dir: {
-      input: 'src/site',
-      data: '../data',
-      includes: '../includes',
-      layouts: '../layouts',
+      input: 'src',
+      data: 'data',
+      includes: 'includes',
+      layouts: 'layouts',
       output: 'dist',
     },
     templateFormats: ['njk', 'md', '11ty.js'],

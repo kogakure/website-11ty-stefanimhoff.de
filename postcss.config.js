@@ -1,5 +1,5 @@
 const purgecss = require('@fullhuman/postcss-purgecss')({
-  content: ['./src/site/**/*.njk'],
+  content: ['./src/**/*.njk'],
 });
 
 module.exports = {

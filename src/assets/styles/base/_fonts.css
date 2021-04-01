@@ -1,0 +1,17 @@
+@font-face {
+  font-display: swap;
+  font-family: 'Secuela';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/fonts/secuela-regular.woff2') format('woff2'),
+    url('/assets/fonts/secuela-regular.woff') format('woff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Secuela';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/assets/fonts/secuela-italic.woff2') format('woff2'),
+    url('/assets/fonts/secuela-italic.woff') format('woff');
+}
