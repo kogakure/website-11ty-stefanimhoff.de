@@ -3,6 +3,9 @@
 @custom-media --tablet (width >= 768px);
 @custom-media --desktop (width >= 1200px);
 
+/* Grids */
+$grid-fullsize: repeat(18, 1fr);
+
 /* Border Widths */
 $border-width-1: 1px;
 $border-width-10: 0.1em;
@@ -66,11 +69,12 @@ $space-17: clamp(5.16rem, 11.04vw, 6.192rem);
 $space-18: clamp(6.192rem, 13.25vw, 7.43rem);
 $space-19: clamp(7.43rem, 15.9vw, 8.916rem);
 $space-20: clamp(8.916rem, 19.08vw, 10.699rem);
+$space-55: 5.55vw;
 
 /* Transitions */
 $transition-duration-1: 100ms;
 $transition-duration-2: 200ms;
-$transition-duration-3: 500ms;
+$transition-duration-5: 500ms;
 
 :root {
   --color-accent: hsl(357, 96%, 46%);

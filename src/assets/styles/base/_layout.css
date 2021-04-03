@@ -13,7 +13,13 @@ html {
 body {
   background-color: var(--color-bg);
   color: var(--color-fg);
+  display: flex;
+  flex-direction: column;
   font-family: $font-family-base;
   height: 100vh;
   line-height: 1.6;
+}
+
+.page-content {
+  flex-grow: 1;
 }

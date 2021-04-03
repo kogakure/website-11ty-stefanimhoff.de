@@ -39,6 +39,7 @@
     "eslint": "^7.23.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-prettier": "^3.3.1",
+    "moment": "^2.29.1",
     "npm-run-all": "^4.1.5",
     "postcss": "^8.2.8",
     "postcss-100vh-fix": "^1.0.2",
@@ -59,6 +60,5 @@
     "stylelint-order": "^4.1.0",
     "stylelint-prettier": "^1.2.0",
     "uglify-js": "^3.13.3"
-  },
-  "dependencies": {}
+  }
 }

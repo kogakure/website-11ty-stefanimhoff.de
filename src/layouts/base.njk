@@ -9,12 +9,12 @@
     <link rel="preload" href="{{ '/assets/fonts/secuela-italic.woff2' | url }}" as="font" type="font/woff2" crossorigin />
     <link rel="stylesheet" href="{{ '/assets/styles/main.css' | url }}" />
   </head>
-  <body>
-    {% include "navigation.njk" %}
-    <button onClick={window.__toggleTheme()}>Toggle Theme</button>
-    <main>
+  <body {% if bodyClass %}class="{{ bodyClass }}"{% endif %}>
+    {% include "page-header.njk" %}
+    <main class="page-content">
       {{ content | safe }}
     </main>
+    {% include "page-footer.njk" %}
     {% include "scripts.njk" %}
   </body>
 </html>

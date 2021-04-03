@@ -1,5 +1,11 @@
 @import 'base/normalize';
 @import 'base/variables';
 @import 'base/fonts';
-@import 'base/layout';
 @import 'base/typography';
+@import 'base/layout';
+@import 'base/header';
+@import 'base/navigation';
+@import 'base/theme-toggle';
+@import 'base/footer';
+@import 'base/legal';
+@import 'base/up-link';

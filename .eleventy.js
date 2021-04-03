@@ -1,3 +1,5 @@
+const filters = require('./src/utils/filters.js');
+
 module.exports = function (config) {
   // Compress and combine JS files
   config.addFilter('jsmin', require('./src/utils/minify-js.js'));
@@ -9,6 +11,11 @@ module.exports = function (config) {
 
   // Layouts
   config.addLayoutAlias('base', 'base.njk');
+
+  // Filters
+  Object.keys(filters).forEach((filterName) => {
+    config.addFilter(filterName, filters[filterName]);
+  });
 
   // Watch for changes and reload
   config.addWatchTarget('src/assets');

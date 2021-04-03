@@ -1,0 +1,29 @@
+.theme-toggle {
+  align-items: center;
+  align-self: center;
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+  display: flex;
+  font-size: 0;
+  grid-column: -2;
+  height: 40px;
+  justify-content: center;
+  justify-self: center;
+  width: 40px;
+}
+
+.theme-toggle-icon {
+  fill: var(--color-fg);
+  font-size: 12px;
+  height: 12px;
+  transition-duration: $transition-duration-5;
+  transition-property: transform;
+  transition-timing-function: ease-in-out;
+  width: 12px;
+
+  .theme-toggle:hover &,
+  .theme-toggle:focus & {
+    transform: scale(1.25);
+  }
+}
