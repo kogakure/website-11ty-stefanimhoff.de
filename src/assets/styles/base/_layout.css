@@ -16,6 +16,7 @@ body {
   display: flex;
   flex-direction: column;
   font-family: $font-family-base;
+  font-weight: 400;
   height: 100vh;
   line-height: 1.6;
 }

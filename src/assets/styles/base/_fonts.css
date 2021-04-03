@@ -1,17 +1,19 @@
 @font-face {
   font-display: swap;
-  font-family: 'Secuela';
+  font-family: 'SecuelaVariable';
   font-style: normal;
-  font-weight: 400;
-  src: url('/assets/fonts/secuela-regular.woff2') format('woff2'),
-    url('/assets/fonts/secuela-regular.woff') format('woff');
+  font-weight: 1 999;
+  src: url('/assets/fonts/secuela-regular-vf.woff2') format('woff2'),
+    url('/assets/fonts/secuela-regular-vf.woff') format('woff');
 }
 
 @font-face {
   font-display: swap;
-  font-family: 'Secuela';
+  font-family: 'SecuelaVariable';
   font-style: italic;
-  font-weight: 400;
-  src: url('/assets/fonts/secuela-italic.woff2') format('woff2'),
-    url('/assets/fonts/secuela-italic.woff') format('woff');
+  font-weight: 1 999;
+  src: url('/assets/fonts/secuela-italic-vf.woff2') format('woff2'),
+    url('/assets/fonts/secuela-italic-vf.woff') format('woff');
 }
+
+/* TODO: Add fallback fonts for needed weights later */

@@ -43,17 +43,3 @@ blockquote[lang|='en'],
 q[lang|='en'] {
   quotes: '“' '”' '‘' '’';
 }
-
-[lang|='de'] blockquote,
-blockquote[lang|='de'],
-[lang|='de'] q,
-q[lang|='de'] {
-  quotes: '»' '«' '›' '‹';
-}
-
-[lang|='ja'] blockquote,
-blockquote[lang|='ja'],
-[lang|='ja'] q,
-q[lang|='ja'] {
-  quotes: '「' '」' '『' '』';
-}

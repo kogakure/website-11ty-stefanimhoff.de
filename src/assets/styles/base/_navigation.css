@@ -15,7 +15,7 @@
   margin-inline-end: 10px;
 
   @media (--phone) {
-    margin-inline-end: 20px;
+    margin-inline-end: 15px;
   }
 }
 
