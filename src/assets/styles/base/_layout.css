@@ -36,16 +36,6 @@
       grid-column: 3 / -3;
     }
   }
-
-  & .wrapper-implicit {
-    display: grid;
-    grid-column: 2 / -2;
-    grid-template-columns: $grid-fullsize;
-
-    @media (--tablet) {
-      grid-column: 3 / -3;
-    }
-  }
 }
 
 /* ===================================
