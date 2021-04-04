@@ -13,7 +13,10 @@
 
 /* Components */
 @import 'components/verse';
+@import 'components/divider';
+@import 'components/download-link';
 
 /* Screens */
 @import 'screens/about';
 @import 'screens/error-404';
+@import 'screens/cv';

@@ -1,4 +1,5 @@
 const filters = require('./src/utils/filters.js');
+const shortcodes = require('./src/utils/shortcodes.js');
 
 module.exports = function (config) {
   // Compress and combine JS files
@@ -11,6 +12,10 @@ module.exports = function (config) {
 
   // Layouts
   config.addLayoutAlias('base', 'base.njk');
+
+  // Shortcodes
+  config.addShortcode('protectedEmail', shortcodes.protectedEmail);
+  config.addShortcode('downloadLink', shortcodes.downloadLink);
 
   // Filters
   Object.keys(filters).forEach((filterName) => {

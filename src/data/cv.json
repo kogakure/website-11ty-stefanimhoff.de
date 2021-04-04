@@ -1,0 +1,256 @@
+{
+  "personal": {
+    "name": "Stefan Imhoff",
+    "tagline": "Front-End Web Developer & UX/UI Designer"
+  },
+  "summary": {
+    "headline": "Professional Summary",
+    "text": "I’m a Front-End Web Developer and Designer with 17 years of experience in creating and building  beautiful, user-centric layouts for devices of all sizes on the web. My passion is creating sophisticated, but easy to use UI and remarkable UX. I love bringing simplicity and minimalism to everything I create."
+  },
+  "experience": {
+    "headline": "Professional Experience",
+    "items": [
+      {
+        "company": "XING",
+        "url": "https://www.xing.com",
+        "title": "Senior Software Engineer",
+        "location": "Hamburg, Germany",
+        "duration": "03/2020-current",
+        "tasks": [
+          "Programming of central components for the XING Platform with React and CSS.",
+          "Development, maintenance and documentation of the XING Design System.",
+          "Support for the product teams with the integration of new interfaces from components of the Design System.",
+          "Conception of new components in collaboration with designers and developers.",
+          "Evaluation of coding challenges and interviews for hiring new Frontend Developers.",
+          "Administration of a Slack workspace with over 800 participants."
+        ]
+      },
+      {
+        "company": "XING",
+        "url": "https://www.xing.com",
+        "location": "Hamburg, Germany",
+        "title": "Front-End Engineer",
+        "duration": "01/2011-02/2020",
+        "tasks": [
+          "Development, deployment and monitoring of multiple XING products.",
+          "Concept, idea and development of user interface improvements on the job marketplace, which lead to 59 % more visitors on job ads.",
+          "Idea and conception of a freelancer marketplace in a Hack Week, which lead to a new product on the platform.",
+          "Development of an iPad hybrid app with Backbone.js.",
+          "Creation of a screencast series in cooperation with User Care.",
+          "Development of multiple products as the logged out profile, public search, onboarding user flow and profile-filling widget with React, Redux and GraphQL."
+        ]
+      },
+      {
+        "company": "Dumrath & Fassnacht",
+        "location": "Hamburg, Germany",
+        "title": "Web Designer",
+        "duration": "09/2005-12/2010",
+        "tasks": [
+          "Planning, design and layout of websites.",
+          "Implementation in W3C standard with HTML and CSS.",
+          "Programming websites with content management systems and blog systems.",
+          "Revision and update of existing customer website.",
+          "Customer advisory"
+        ]
+      },
+      {
+        "company": "IGS Development",
+        "location": "Harbke, Germany",
+        "title": "Media Designer",
+        "duration": "02/2002-01/2005",
+        "tasks": [
+          "Creation of Internet and Intranet pages with HTML, CSS, PHP, MySQL and Typo3.",
+          "Filming of industrial processes and production facilities in Germany and France.",
+          "Editing and Postproduction with Premiere, Avid and After Effect.",
+          "Creation of 3D models and animations with 3ds max and Cinema 4D."
+        ]
+      },
+      {
+        "company": "Schmitz Kommunikation",
+        "location": "Hamburg, Germany",
+        "title": "Intern Web Design",
+        "duration": "03/2001-04/2001",
+        "tasks": [
+          "Relaunch, conception and realisation of websites with Dreamweaver, Fireworks, Photos and Flash 5 & ActionScript."
+        ]
+      }
+    ]
+  },
+  "education": {
+    "headline": "Education",
+    "items": [
+      {
+        "school": "bib International College",
+        "url": "https://www.bib.de",
+        "degree": "Computer Scientist",
+        "location": "Hanover, Germany",
+        "duration": "10/1999-09/2001"
+      }
+    ]
+  },
+  "skills": {
+    "headline": "Key Skills",
+    "items": [
+      {
+        "headline": "Fontend",
+        "tags": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "TypeScript",
+          "SVG",
+          "Web API & DOM",
+          "Responsive Webdesign (RWD)",
+          "Adaptive Webdesign (AWD)",
+          "CSS Grid Layout",
+          "Flexbox",
+          "Markdown",
+          "Progressive Web Apps (PWA)",
+          "Service Worker",
+          "Critical Render Path",
+          "Performance",
+          "Styled Components",
+          "PostCSS",
+          "CSS Modules",
+          "Sass/SCSS",
+          "Stylelint",
+          "ESlint",
+          "React",
+          "Redux",
+          "Apollo",
+          "Babel",
+          "Webpack",
+          "Browserify",
+          "Gulp",
+          "Jest",
+          "Enzyme",
+          "Cypress",
+          "SEO",
+          "Accessibility (A11Y)",
+          "Usability"
+        ]
+      },
+      {
+        "headline": "Design",
+        "tags": [
+          "UX/UI Design",
+          "Information Architecture",
+          "Affinity Designer",
+          "Affinity Photo",
+          "Affinity Publisher",
+          "Sketch",
+          "Adobe Photoshop",
+          "Adobe Illustrator"
+        ]
+      },
+      {
+        "headline": "Backend",
+        "tags": [
+          "Node.js",
+          "Express",
+          "RESTful Services",
+          "GraphQL",
+          "Ruby",
+          "Ruby on Rails",
+          "MySQL",
+          "PostgreSQL",
+          "SQLite"
+        ]
+      },
+      {
+        "headline": "Dev Ops",
+        "tags": [
+          "Jenkins",
+          "Travis CI",
+          "Docker",
+          "Kubernetes",
+          "Apache",
+          "NGINX",
+          "SSH",
+          "FTP"
+        ]
+      },
+      {
+        "headline": "Collaboration",
+        "tags": [
+          "Git",
+          "GitHub",
+          "Slack",
+          "Confluence",
+          "Jira",
+          "Basecamp",
+          "Notion"
+        ]
+      },
+      {
+        "headline": "Agile Methods & Productivity",
+        "tags": [
+          "Kanban",
+          "Scrum",
+          "Miro",
+          "Abstract",
+          "OKR",
+          "GTD",
+          "Pomodoro",
+          "Zettelkasten Method",
+          "Bullet Journal"
+        ]
+      },
+      {
+        "headline": "Miscellaneous",
+        "tags": [
+          "Gatsby",
+          "Hugo",
+          "Jekyll",
+          "Zsh",
+          "Bash",
+          "Vim",
+          "Visual Studio Code",
+          "tmux",
+          "MacOS",
+          "Linux"
+        ]
+      }
+    ]
+  },
+  "languages": {
+    "headline": "Languages",
+    "items": [
+      {
+        "language": "German",
+        "level": "native language"
+      },
+      {
+        "language": "English",
+        "level": "fluently spoken and written"
+      },
+      {
+        "language": "Japanese",
+        "level": "basic"
+      },
+      {
+        "language": "Spanish",
+        "level": "beginner"
+      }
+    ]
+  },
+  "awards": {
+    "headline": "Awards",
+    "items": [
+      "Three times winner of yearly company-wide innovation award of XING Prototyping Days (2013, 2015, 2017).",
+      "SEMY Award – German Search Marketing Award 2015."
+    ]
+  },
+  "interests": {
+    "headline": "Interests & Hobbies",
+    "items": [
+      "I do <strong>Calisthenics</strong> (Body Weight Training), like walking long distances and regularly do Meditation to keep my body and mind fresh and stay in a growth mindset.",
+      "I do <strong>Sketchnotes</strong> and love <em>Visual Thinking</em>. With these skills I collect and visualize my ideas to deepen understanding.",
+      "I have a passion for <strong>writing</strong>. Besides writing articles, I wrote a book and follow the <em>Zettelkasten</em> method of note-taking.",
+      "I have a high interest in <strong>design and art</strong>, and related topics as architecture, interior design or typography.",
+      "I’m a regular reader and love <strong>books</strong>. Whenever possible I read books about philosophy, science, history or related topics. My library has around 1.000 books.",
+      "<strong>Japanese things</strong> fascinate me a lot. Be it the language, Kanji character, Japanese aesthetics and design (<em>wabi sabi</em>, <em>iki</em>, <em>shibui</em>) or art forms like <em>shodō</em>, <em>sumi-e</em>, <em>ukiyo-e</em> or <em>irezumi</em>, to name just a few. I also write my own <a href='/haiku/'>Haiku</a>.",
+      "I started learning manual <strong>photography</strong>. My camera is a <em>Fuji X100T</em>, with it’s fixed lens the perfect tool for city photography, sports or people."
+    ]
+  }
+}

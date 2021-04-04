@@ -37,11 +37,16 @@ btnHandler(
     if (event.target.classList.contains('objuscated')) {
       const link = event.target;
       const lock = link.parentNode.querySelector('#lock-box');
+
       event.preventDefault();
+
       link.classList.remove('objuscated');
-      lock.classList.remove('hidden');
       link.text = 'hey@imhoff.name';
       link.href = 'mailto:hey@imhoff.name';
+
+      if (lock) {
+        lock.classList.remove('hidden');
+      }
     } else {
       return;
     }
