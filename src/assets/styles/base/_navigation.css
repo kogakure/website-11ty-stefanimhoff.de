@@ -21,6 +21,7 @@
 
 .navigation-item-link {
   color: var(--color-fg);
+  font-weight: 300;
   text-decoration: none;
 
   &:hover,
