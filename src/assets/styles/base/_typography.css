@@ -1,3 +1,74 @@
+/* ===================================
+ * Headlines
+ * ==================================*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.title,
+.headline,
+.subheadline {
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  line-height: $line-height-1;
+  margin-top: 0;
+}
+
+h1,
+.title {
+  font-size: $font-size-6;
+  margin-bottom: $space-13;
+}
+
+h2,
+.headline {
+  font-size: $font-size-5;
+  margin-bottom: $space-10;
+}
+
+h3,
+h4,
+h5,
+h6,
+.subheadline {
+  font-size: $font-size-4;
+  margin-bottom: $space-8;
+}
+
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5,
+.dark h6,
+.dark .title,
+.dark .headline,
+.dark .subheadline {
+  font-weight: 800;
+}
+
+p,
+.paragraph {
+  font-size: $font-size-3;
+  font-weight: 400;
+  letter-spacing: normal;
+  line-height: $line-height-2;
+  margin-bottom: $space-10;
+  margin-top: 0;
+}
+
+.dark p,
+.dark .paragraph {
+  font-weight: 300;
+}
+
+.no-margin {
+  margin: 0;
+}
+
 figcaption {
   font-size: clamp(0.8rem, 0.8vw, 0.75rem);
   text-align: start;
@@ -7,9 +78,7 @@ abbr {
   font-variant: small-caps;
 }
 
-code,
-kbd,
-samp {
+:is(code, kbd, samp) {
   font-family: $font-family-mono;
   font-size: clamp(0.8rem, 1.1vw, 1.25rem);
 }
@@ -29,8 +98,7 @@ ins {
 /* ===================================
  * Abbrevations & Definitions
  * ==================================*/
-abbr,
-dfn {
+:is(abbr, dfn) {
   cursor: help;
 }
 

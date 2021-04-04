@@ -28,13 +28,13 @@
     text-decoration: underline;
     text-decoration-color: var(--color-fg-soft);
     text-decoration-thickness: 0.15em;
-    text-underline-offset: 0.1em;
+    text-underline-offset: 0;
   }
 
   &.active {
     text-decoration: underline;
     text-decoration-color: var(--color-accent);
     text-decoration-thickness: 0.15em;
-    text-underline-offset: 0.1em;
+    text-underline-offset: 0;
   }
 }

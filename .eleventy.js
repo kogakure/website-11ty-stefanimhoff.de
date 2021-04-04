@@ -23,6 +23,7 @@ module.exports = function (config) {
   // Copy static files to dist
   config.addPassthroughCopy({ 'src/assets/fonts': 'assets/fonts' });
   config.addPassthroughCopy({ 'src/assets/images': 'assets/images' });
+  config.addPassthroughCopy({ 'src/downloads': 'downloads' });
 
   // Set input and output folders
   return {

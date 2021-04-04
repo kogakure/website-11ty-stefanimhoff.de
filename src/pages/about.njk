@@ -1,7 +1,142 @@
 ---
 title: About
-layout: base
+layout: fullsize
 permalink: /about/
 ---
 
-<h1>About</h1>
+<h1 class="about-title">About</h1>
+
+<div class="about-photo-container">
+  <img
+    class="about-photo"
+    src="/assets/images/portrait-stefan-imhoff.jpg"
+    alt="Stefan Imhoff"
+  />
+</div>
+
+<section class="about-me">
+  <div data-sal="slide-up" data-sal-duration="800" data-sal-delay="300">
+    <h2 class="subheadline">About Me</h2>
+    <p>
+      I’m <em>Stefan Imhoff</em>, a Front-End Web Developer, and Designer from
+      Hamburg, Germany. I love design and art, reading books, watching movies
+      and TV shows, creating <a href="/sketchnotes/">Sketchnotes</a>, taking
+      photos, and writing <a href="/haiku/">Haiku</a>.
+    </p>
+  </div>
+  <div data-sal="slide-up" data-sal-duration="800">
+    <p>
+      I love
+      <a
+        href="https://hamburg.stefanimhoff.de/"
+        rel="nofollow noopener noreferrer"
+        target="_blank"
+      >walking and cycling</a>, and do <a href="/calisthenics/">Calisthenics</a> 
+      to stay fit. My ideal weather is thunderstorms and rain, but I like also 
+      warm sunny weather. My favorite places are the sea and forests.
+    </p>
+    <p>
+      When I’m inside I like reading in my roughly 1,000 books. I love reading
+      about typography, architecture, or interior design. But I am also a big
+      fan of movies and TV shows. I like to cook,
+      <a
+        href="https://en.wikipedia.org/wiki/Hochzeitssuppe"
+        rel="nofollow noopener noreferrer"
+        target="_blank"
+      >Niedersächsische Hochzeitssuppe</a> is my favorite dish.
+    </p>
+    <p>
+      I see myself as a <a href="/minimalism/">Minimalist</a>, a Stoic, an
+      Introvert, and Japanophile. Writing is a passion for me. Besides writing
+      <a href="/journal/">articles</a> I’ve written a
+      <a
+        href="https://book.kogakure.de/"
+        re="nofollow noopener noreferrer"
+        target="_blank"
+      >book</a> and run a
+      <a href="https://www.kogakure.de/" target="_blank">website</a>
+      about Ninja and Ninjutsu.
+    </p>
+    <p class="no-margin">See what I’m doing right <a href="/now/">now</a>.</p>
+  </div>
+</section>
+
+<section class="about-website" data-sal="slide-up" data-sal-duration="800">
+  <h2 class="subheadline">
+    About This Website
+  </h2>
+  <p>
+    I build this website with
+    <a href="https://www.11ty.dev/">Eleventy</a>, a fast, fun, and simple static site generator.
+  </p>
+  <p>
+    The source code of this website is available on
+    <a href="https://github.com/kogakure/website-11ty-stefanimhoff.de">GitHub</a>.
+    Feel free to learn from the source code and reuse code for your
+    projects. Don’t just steal it. Learn from it. Remix. Reuse. Build your own
+    stuff.
+  </p>
+  <p class="no-margin">
+    The website is hosted on
+    <a href="https://www.netlify.com/">Netlify</a>.
+  </p>
+</section>
+
+<section id="contact" class="about-contact" data-sal="slide-up" data-sal-duration="800">
+  <h2 class="subheadline">
+    Contact
+  </h2>
+  <p class="no-margin">
+    You’ve got mail!
+  </p>
+  <p>
+    <a id="email" class="objuscated" href="mailto:hey (at) imhoff (dot) name">Say hello.</a>
+    <span id="lock-box" class="about-lock-box hidden">
+      <a
+        title={downloadText}
+        aria-label={downloadText}
+        href="/downloads/publickey.hey@imhoff.name-9cb867d4ccd2c1d7d9fde82f4b649797f3e007a9.asc"
+      >
+       <svg class="about-lock-icon" viewbox="0 0 24 24" width="1em" height="1em" aria-hidden="true">
+          <path fill="none" d="M0 0h24v24H0z" />
+          <path d="M19 10h1a1 1 0 011 1v10a1 1 0 01-1 1H4a1 1 0 01-1-1V11a1 1 0 011-1h1V9a7 7 0 1114 0v1zM5 12v8h14v-8H5zm6 2h2v4h-2v-4zm6-4V9A5 5 0 007 9v1h10z" />
+        </svg>
+      </a>
+    </span>
+  </p>
+  <p class="no-margin">
+    You can send me a text message on
+    <a 
+      href="https://t.me/kogakure" 
+      rel="nofollow noopener noreferrer"
+      target="_blank">Telegram</a>,
+    <a 
+      href="https://matrix.to/#/@kogakure:matrix.org" 
+      rel="nofollow noopener noreferrer"
+      target="_blank">Matrix</a>
+    or anonymous on
+    <a 
+      href="https://getsession.org/" 
+      rel="nofollow noopener noreferrer"
+      target="_blank">Session</a>&nbsp;
+    (<a 
+      href="/downloads/session-id.txt" 
+      target="_blank">ID</a>).
+  </p>
+</section>
+
+<section id="connect" class="about-connect" data-sal="slide-up" data-sal-duration="800">
+  <h2 class="subheadline">
+    Connect
+  </h2>
+  <ul class="about-social-media">
+    {% for item in socialmedia %}
+      <li>
+        <a 
+          href={{ item.url }}
+          rel="nofollow noopener noreferrer"
+          target="_blank">{{ item.text }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
