@@ -1,6 +1,11 @@
 .navigation {
   align-self: center;
-  grid-column: 2 / -3;
+  grid-column: 2 / -2;
+
+  @media (--tablet) {
+    grid-column: 3 / -3;
+    margin-inline-end: 15px;
+  }
 }
 
 .navigation-list {
