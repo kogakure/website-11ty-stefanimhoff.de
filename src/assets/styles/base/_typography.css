@@ -121,6 +121,10 @@ abbr {
   font-variant: small-caps;
 }
 
+pre {
+  white-space: pre;
+}
+
 :is(code, kbd, samp) {
   font-family: $font-family-mono;
   font-size: clamp(0.8rem, 1.1vw, 1.25rem);

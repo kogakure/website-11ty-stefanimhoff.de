@@ -11,5 +11,9 @@
 @import 'base/legal';
 @import 'base/up-link';
 
+/* Components */
+@import 'components/verse';
+
 /* Screens */
 @import 'screens/about';
+@import 'screens/error-404';

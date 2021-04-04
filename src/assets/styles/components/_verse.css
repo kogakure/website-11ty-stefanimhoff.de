@@ -1,0 +1,21 @@
+.verse {
+  display: flex;
+  font-style: italic;
+  margin-bottom: $space-10;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: $space-10;
+
+  & pre {
+    font-family: inherit;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+}
+
+.verse.verse-center {
+  & pre {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

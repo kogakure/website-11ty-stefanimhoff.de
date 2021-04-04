@@ -1,0 +1,38 @@
+.error-404-title {
+  grid-column: 1 / -1;
+  grid-row: 1;
+  margin-bottom: 0;
+  z-index: 1;
+
+  @media (--desktop) {
+    grid-column: 1 / -9;
+  }
+}
+
+.error-404-haiku {
+  font-size: $font-size-4;
+  grid-column: 1 / -1;
+  grid-row: 2;
+  z-index: 1;
+
+  @media (--tablet) {
+    grid-column: 3 / -6;
+  }
+}
+
+.error-404-huge {
+  color: var(--color-fg-feather);
+  font-size: $font-size-9;
+  font-weight: 900;
+  grid-column: -6 / -1;
+  grid-row: 2 / 4;
+  line-height: 0.6;
+  text-align: right;
+  writing-mode: vertical-lr;
+  z-index: 0;
+
+  @media (--desktop) {
+    grid-column: -6 / -2;
+    grid-row: 1 / 4;
+  }
+}
