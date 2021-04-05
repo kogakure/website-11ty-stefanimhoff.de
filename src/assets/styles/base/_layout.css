@@ -18,7 +18,6 @@
   display: grid;
   grid-column: 1 / -1;
   grid-template-columns: $grid-fullsize;
-  grid-template-rows: clamp(3rem, $space-55, 9rem);
 }
 
 /* ===================================
