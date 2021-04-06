@@ -1,8 +1,83 @@
 ---
 title: Home
-layout: base
+layout: fullsize
 permalink: /
 ---
 
-Home
+<div class="homepage-title">
+  <h1 class="no-margin">{{ site.owner }}</h1>
+  <p class="homepage-tagline">{{ site.tagline }}</p>
+</div>
 
+<div class="homepage-photo-container">
+  <img class="homepage-photo" src="/assets/images/bonsai.jpg" alt="Bonsai" />
+</div>
+
+<article
+  class="homepage-about-me"
+  data-sal="slide-up"
+  data-sal-duration="800"
+  data-sal-delay="300"
+>
+  <h2>About Me</h2>
+  <p>
+    I’m a Front-End Web Developer and Designer from Hamburg, Germany. I love
+    design and art, reading books, creating Sketchnotes, taking photos, and
+    writing Haiku.
+  </p>
+  <p>{% moreLink "Read more about me", "/about/" %}</p>
+</article>
+
+<article class="homepage-what-i-do" data-sal="slide-up" data-sal-duration="800">
+  <h2>What I Do</h2>
+  <div class="homepage-what-i-do-text">
+    <p>
+      I create and build beautiful, user-centric layouts for devices of all
+      sizes on the web for nearly two decades and love bringing simplicity and
+      minimalism to everything&nbsp;I&nbsp;create.
+    </p>
+    <p>
+      I deeply care about good user experience: Writing good text, choosing the
+      right photography, typography, and colors. Programming fast, reusable,
+      well-tested, and easy-to-maintain code or creating
+      engaging&nbsp;animations.
+    </p>
+    <p>
+      I am currently working at
+      <a href="https://www.xing.com/">XING</a>, the biggest business network in
+      Europe, working on the Design&nbsp;System.
+    </p>
+    <p>
+      I love innovating: During multiple
+      <a href="https://medium.com/xing-hackweek">Hackweeks</a> I was part of a
+      small team creating a completely new job platform for freelancers. I am
+      also a three-time winner of the <em>Prototyping Days</em>, a yearly
+      two-day company-wide prototyping&nbsp;event.
+    </p>
+    <p>{% moreLink "See what I do", "/projects/" %}</p>
+  </div>
+</article>
+
+<article class="homepage-journal">
+  <div data-sal="slide-up" data-sal-duration="800">
+    <h2>Latest Articles</h2>
+    <div class="homepage-journal-introduction">
+      <div class="homepage-journal-text">
+        <p>
+          I am writing about code, design, productivity, self-improvement,
+          films, and books in this Journal and publish a monthly article with
+          recommendations.
+        </p>
+        <p>{% moreLink "See all articles", "/journal/" %}</p>
+      </div>
+      <div class="homepage-journal-subscribe">
+        <h3>Subscribe</h3>
+        <p>
+          Stay up to date. Subscribe to my <dfn title="Rich Site Summary">RSS</dfn> feeds:
+          <a href="/index.xml">All</a>, <a href="#">Articles</a>, 
+          <a href="#">Links</a>, or <a href="#">Quotes</a>.
+        </p>
+      </div>
+    </div>
+  </div>
+</article>

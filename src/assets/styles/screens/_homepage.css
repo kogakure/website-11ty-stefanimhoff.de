@@ -1,0 +1,95 @@
+.homepage-title {
+  grid-column: 2 / -2;
+  grid-row: 1;
+
+  @media (--desktop) {
+    grid-column: 3 / -3;
+  }
+}
+
+.homepage-tagline {
+  margin-left: 0.2em;
+  margin-top: -0.85em;
+}
+
+.homepage-photo-container {
+  grid-column: 1 / -5;
+  grid-row: 2;
+
+  @media (--tablet) {
+    grid-column: 1 / -9;
+  }
+}
+
+.homepage-photo {
+  border-left-width: 0;
+}
+
+.homepage-about-me {
+  align-self: center;
+  grid-column: 2 / -2;
+  grid-row: 3;
+
+  @media (--tablet) {
+    grid-column: 12 / -2;
+    grid-row: 2;
+  }
+
+  @media (--desktop) {
+    grid-column: 13 / -3;
+  }
+}
+
+.homepage-what-i-do {
+  grid-column: 2 / -2;
+  grid-row: 4;
+
+  @media (--tablet) {
+    grid-column: 3 / -3;
+    grid-row: 3;
+  }
+
+  @media (--desktop) {
+    grid-column: 5 / -5;
+  }
+}
+
+.homepage-what-i-do-text {
+  column-count: 1;
+  column-gap: 2.775vw;
+
+  @media (--tablet) {
+    column-count: 2;
+  }
+}
+
+.homepage-journal {
+  grid-column: 2 / -2;
+
+  @media (--tablet) {
+    grid-column: 3 / -3;
+  }
+}
+
+.homepage-journal-introduction {
+  display: grid;
+  grid-template-columns: repeat(14, 1fr);
+}
+
+.homepage-journal-text {
+  grid-column: 1 / -1;
+  margin-bottom: $space-10;
+
+  @media (--tablet) {
+    grid-column: 1 / 7;
+  }
+}
+
+.homepage-journal-subscribe {
+  grid-column: 1 / -1;
+  margin-bottom: $space-10;
+
+  @media (--tablet) {
+    grid-column: 8 / -1;
+  }
+}

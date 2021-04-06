@@ -54,6 +54,7 @@ h2,
 .headline {
   font-size: $font-size-5;
   margin-bottom: $space-10;
+  margin-top: $space-16;
 }
 
 h3,
@@ -63,6 +64,15 @@ h6,
 .subheadline {
   font-size: $font-size-4;
   margin-bottom: $space-8;
+  margin-top: $space-14;
+}
+
+h2:first-of-type,
+h3:first-of-type,
+h4:first-of-type,
+h5:first-of-type,
+h6:first-of-type {
+  margin-top: 0;
 }
 
 .dark h1,
@@ -85,6 +95,10 @@ p,
   line-height: $line-height-2;
   margin-bottom: $space-10;
   margin-top: 0;
+}
+
+p:last-of-type {
+  margin-bottom: 0;
 }
 
 .dark p,

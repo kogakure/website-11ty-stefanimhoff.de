@@ -12,11 +12,13 @@
 @import 'base/up-link';
 
 /* Components */
-@import 'components/verse';
 @import 'components/divider';
 @import 'components/download-link';
+@import 'components/more-link';
+@import 'components/verse';
 
 /* Screens */
 @import 'screens/about';
-@import 'screens/error-404';
 @import 'screens/cv';
+@import 'screens/error-404';
+@import 'screens/homepage';

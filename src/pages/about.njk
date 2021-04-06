@@ -15,7 +15,7 @@ permalink: /about/
 </div>
 
 <section class="about-me">
-  <div data-sal="slide-up" data-sal-duration="800" data-sal-delay="300">
+  <div class="about-me-intro" data-sal="slide-up" data-sal-duration="800" data-sal-delay="300">
     <h2 class="subheadline">About Me</h2>
     <p>
       I’m <em>Stefan Imhoff</em>, a Front-End Web Developer, and Designer from
@@ -31,8 +31,8 @@ permalink: /about/
         href="https://hamburg.stefanimhoff.de/"
         rel="nofollow noopener noreferrer"
         target="_blank"
-      >walking and cycling</a>, and do <a href="/calisthenics/">Calisthenics</a> 
-      to stay fit. My ideal weather is thunderstorms and rain, but I like also 
+      >walking and cycling</a>, and do <a href="/calisthenics/">Calisthenics</a>
+      to stay fit. My ideal weather is thunderstorms and rain, but I like also
       warm sunny weather. My favorite places are the sea and forests.
     </p>
     <p>
@@ -43,7 +43,8 @@ permalink: /about/
         href="https://en.wikipedia.org/wiki/Hochzeitssuppe"
         rel="nofollow noopener noreferrer"
         target="_blank"
-      >Niedersächsische Hochzeitssuppe</a> is my favorite dish.
+      >Niedersächsische Hochzeitssuppe</a>
+      is my favorite dish.
     </p>
     <p>
       I see myself as a <a href="/minimalism/">Minimalist</a>, a Stoic, an
@@ -53,28 +54,27 @@ permalink: /about/
         href="https://book.kogakure.de/"
         re="nofollow noopener noreferrer"
         target="_blank"
-      >book</a> and run a
+      >book</a>
+      and run a
       <a href="https://www.kogakure.de/" target="_blank">website</a>
       about Ninja and Ninjutsu.
     </p>
-    <p class="no-margin">See what I’m doing right <a href="/now/">now</a>.</p>
+    <p>See what I’m doing right <a href="/now/">now</a>.</p>
   </div>
 </section>
 
 <section class="about-website" data-sal="slide-up" data-sal-duration="800">
-  <h2 class="subheadline">
-    About This Website
-  </h2>
+  <h2 class="subheadline">About This Website</h2>
   <p>
     I build this website with
-    <a href="https://www.11ty.dev/">Eleventy</a>, a fast, fun, and simple static site generator.
+    <a href="https://www.11ty.dev/">Eleventy</a>, a fast, fun, and simple static
+    site generator.
   </p>
   <p>
     The source code of this website is available on
-    <a href="https://github.com/kogakure/website-11ty-stefanimhoff.de">GitHub</a>.
-    Feel free to learn from the source code and reuse code for your
-    projects. Don’t just steal it. Learn from it. Remix. Reuse. Build your own
-    stuff.
+    <a href="https://github.com/kogakure/website-11ty-stefanimhoff.de">GitHub</a>. 
+    Feel free to learn from the source code and reuse code for your projects.
+    Don’t just steal it. Learn from it. Remix. Reuse. Build your own stuff.
   </p>
   <p class="no-margin">
     The website is hosted on
@@ -82,48 +82,50 @@ permalink: /about/
   </p>
 </section>
 
-<section id="contact" class="about-contact" data-sal="slide-up" data-sal-duration="800">
-  <h2 class="subheadline">
-    Contact
-  </h2>
-  <p class="no-margin">
-    You’ve got mail!
-  </p>
-  <p>
-    {% protectedEmail "Say hello.", true %}
-  </p>
+<section
+  id="contact"
+  class="about-contact"
+  data-sal="slide-up"
+  data-sal-duration="800"
+>
+  <h2 class="subheadline">Contact</h2>
+  <p class="no-margin">You’ve got mail!</p>
+  <p>{% protectedEmail "Say hello.", true %}</p>
   <p class="no-margin">
     You can send me a text message on
-    <a 
-      href="https://t.me/kogakure" 
+    <a
+      href="https://t.me/kogakure"
       rel="nofollow noopener noreferrer"
-      target="_blank">Telegram</a>,
-    <a 
-      href="https://matrix.to/#/@kogakure:matrix.org" 
+      target="_blank"
+      >Telegram</a>,
+    <a
+      href="https://matrix.to/#/@kogakure:matrix.org"
       rel="nofollow noopener noreferrer"
       target="_blank">Matrix</a>
     or anonymous on
-    <a 
-      href="https://getsession.org/" 
+    <a
+      href="https://getsession.org/"
       rel="nofollow noopener noreferrer"
-      target="_blank">Session</a>&nbsp;
-    (<a 
-      href="/downloads/session-id.txt" 
-      target="_blank">ID</a>).
+      target="_blank"
+    >Session</a>&nbsp;(<a href="/downloads/session-id.txt" target="_blank">ID</a>).
   </p>
 </section>
 
-<section id="connect" class="about-connect" data-sal="slide-up" data-sal-duration="800">
-  <h2 class="subheadline">
-    Connect
-  </h2>
+<section
+  id="connect"
+  class="about-connect"
+  data-sal="slide-up"
+  data-sal-duration="800"
+>
+  <h2 class="subheadline">Connect</h2>
   <ul class="about-social-media">
     {% for item in connect %}
       <li>
-        <a 
-          href={{ item.url }}
+        <a
+          href="{{ item.url }}"
           rel="nofollow noopener noreferrer"
-          target="_blank">{{ item.text }}</a>
+          target="_blank"
+        >{{ item.text }}</a>
       </li>
     {% endfor %}
   </ul>

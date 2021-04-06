@@ -7,31 +7,32 @@ robots: "noindex,follow"
 
 # Imprint
 
-## Contact Person
+### Contact Person
 
 Stefan Imhoff<br />
 Walter-Heitmann-Str. 2<br />
 22159 Hamburg<br />
 [Contact](/about/#contact)
 
-## Acknowledgments
+### Acknowledgments
 
-- This website is built with [Eleventy], a free and open-source framework based on React and hosted for free on [Netfify].
+- This website is built with [Eleventy], a simpler static site generator
+- It is hosted for free on [Netfify].
 - The design was created with [Affinity Designer] and uses the typeface [Secuela] by [deFharo].
 - The Bonsai image on my homepage was taken by [Norio Nakayama].
 - The minimalistic icons are created by [Remix Icon] which is [Jimmy Cheung] and [Wendy Gao].
 
-## License
+### License
 
-All content is copyrighted by _Stefan Imhoff_ unless otherwise stated. Feel free to learn from the [Source Code] and reuse code for your projects. You can see all styles of this website on the [Styleguide].
+All content is copyrighted by _Stefan Imhoff_ unless otherwise stated. Feel free to learn from the [Source Code] and reuse code for your projects.
 
 The articles in my [Journal](/journal/) of this website are licensed under a [Creative Commons license].
 
 The use of my design—the unique combination of layout, photos, or illustrations—my private photos, personal data, and logo are only allowed with written permission.
 
-In _easier_ words: **This is not a free theme**. Learn from it. Remix. Reuse. Build your own stuff. I believe in you. You can do it! 🤘
+In _easier_ words: **This is not a free theme**. Learn from it. Remix. Reuse. Build your own stuff. 🤘
 
-## Legal Fine Print
+### Legal Fine Print
 
 Responsible for content according to § 10 paragraph 3 MDStV: **Stefan&nbsp;Imhoff**.
 

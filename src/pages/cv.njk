@@ -10,13 +10,13 @@ robots: "noindex,follow"
 
   <article class="cv-summary">
     <h2>{{ cv.summary.headline }}</h2>
-    <p class="no-margin">{{ cv.summary.text }}</p>
+    <p>{{ cv.summary.text }}</p>
   </article>
 
   <article class="cv-personal">
     <h2>Personal Information</h2>
-    <h3 class="cv-item-title no-margin">{{ cv.personal.name }}</h3>
-    <p class="no-margin">{{ cv.personal.tagline }}</p>
+    <h3 class="cv-item-title">{{ cv.personal.name }}</h3>
+    <p>{{ cv.personal.tagline }}</p>
     <a href="https://www.stefanimhoff.de">Website</a> /
     {% protectedEmail "Email" %} /
     {% downloadLink "CV", "/downloads/cv-stefan-imhoff.zip" %} /
@@ -27,9 +27,10 @@ robots: "noindex,follow"
 
   <article class="cv-column-main">
     <h2>{{ cv.experience.headline }}</h2>
+
     {% for item in cv.experience.items %}
       <div>
-        <h3 class="cv-item-title no-margin">{{ item.title }}</h3>
+        <h3 class="cv-item-title">{{ item.title }}</h3>
         <div class="cv-item-duration">{{ item.duration | safe }}</div>
         <div class="cv-item-headline-row">
           <strong>{{ item.company }}</strong> / {{ item.location }}
@@ -48,9 +49,10 @@ robots: "noindex,follow"
     {% endfor %}
     
     <h2>{{ cv.education.headline }}</h2>
+
     {% for item in cv.education.items %}
       <div class="cv-education">
-        <h3 class="cv-item-title no-margin">{{ item.degree }}</h3>
+        <h3 class="cv-item-title">{{ item.degree }}</h3>
         <div class="cv-item-duration">{{ item.duration }}</div>
         <div class="cv-item-headline-row">
           <strong>{{ item.school }}</strong> / {{ item.location }}
@@ -67,9 +69,10 @@ robots: "noindex,follow"
   <aside class="cv-column-side">
     <article>
       <h2>{{ cv.skills.headline }}</h2>
+
       {% for item in cv.skills.items %}
         <div>
-          <h3 class="cv-item-title no-margin">{{ item.headline }}</h3>
+          <h3 class="cv-item-title">{{ item.headline }}</h3>
           <ul class="cv-item-list">
             {% for tag in item.tags %}
               <li class="cv-item-list-item">
@@ -83,20 +86,22 @@ robots: "noindex,follow"
     
     <article>
       <h2>{{ cv.languages.headline }}</h2>
-        <ul>
-          {% for item in cv.languages.items %}
-            <li><strong>{{ item.language }}</strong> ({{ item.level }})</li>
-          {% endfor %}
-        </ul>
+
+      <ul>
+        {% for item in cv.languages.items %}
+          <li><strong>{{ item.language }}</strong> ({{ item.level }})</li>
+        {% endfor %}
+      </ul>
     </article>
 
     <article>
       <h2>{{ cv.awards.headline }}</h2>
-        <ul>
-          {% for item in cv.awards.items %}
-            <li>{{ item }}</li>
-          {% endfor %}
-        </ul>
+
+      <ul>
+        {% for item in cv.awards.items %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
     </article>
   </aside>
 
@@ -104,6 +109,7 @@ robots: "noindex,follow"
   
   <article class="cv-interests">
     <h2>{{ cv.interests.headline }}</h2>
+
     <ul class="cv-interests-list">
       {% for item in cv.interests.items %}
         <li>{{ item | safe }}</li>

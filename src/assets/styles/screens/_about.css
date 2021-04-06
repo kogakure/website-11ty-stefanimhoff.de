@@ -46,6 +46,10 @@
   }
 }
 
+.about-me-intro {
+  margin-bottom: $space-10;
+}
+
 .about-website {
   grid-column: 2 / -2;
   grid-row: 4;
