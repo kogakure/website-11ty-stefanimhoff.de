@@ -30,10 +30,12 @@
 
   & .wrapper {
     grid-column: 2 / -2;
+  }
+}
 
-    @media (--tablet) {
-      grid-column: 3 / -3;
-    }
+@media (--tablet) {
+  .layout-wide .wrapper {
+    grid-column: 3 / -3;
   }
 }
 
@@ -47,13 +49,17 @@
 
   & .wrapper {
     grid-column: 2 / -2;
+  }
+}
 
-    @media (--tablet) {
-      grid-column: 6 / -6;
-    }
+@media (--tablet) {
+  .layout-narrow .wrapper {
+    grid-column: 6 / -6;
+  }
+}
 
-    @media (--desktop) {
-      grid-column: 7 / -7;
-    }
+@media (--desktop) {
+  .layout-narrow .wrapper {
+    grid-column: 7 / -7;
   }
 }

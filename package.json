@@ -51,6 +51,7 @@
     "postcss-import": "^14.0.0",
     "postcss-media-minmax": "^5.0.0",
     "postcss-nested": "^5.0.5",
+    "postcss-sort-media-queries": "^3.7.7",
     "prettier": "^2.2.1",
     "stylelint": "^13.12.0",
     "stylelint-a11y": "^1.2.3",

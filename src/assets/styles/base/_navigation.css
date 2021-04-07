@@ -1,8 +1,10 @@
 .navigation {
   align-self: center;
   grid-column: 2 / -2;
+}
 
-  @media (--tablet) {
+@media (--tablet) {
+  .navigation {
     grid-column: 3 / -3;
     margin-inline-end: 15px;
   }
@@ -18,8 +20,10 @@
 
 .navigation-list-item {
   margin-inline-end: 10px;
+}
 
-  @media (--phone) {
+@media (--phone) {
+  .navigation-list-item {
     margin-inline-end: 15px;
   }
 }

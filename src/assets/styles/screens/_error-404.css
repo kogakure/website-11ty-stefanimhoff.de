@@ -3,8 +3,10 @@
   grid-row: 1;
   margin-bottom: 0;
   z-index: 1;
+}
 
-  @media (--desktop) {
+@media (--desktop) {
+  .error-404-title {
     grid-column: 3 / -6;
   }
 }
@@ -14,8 +16,10 @@
   grid-column: 3 / -3;
   grid-row: 2;
   z-index: 1;
+}
 
-  @media (--tablet) {
+@media (--tablet) {
+  .error-404-haiku {
     grid-column: 5 / -9;
   }
 }
@@ -30,8 +34,10 @@
   text-align: right;
   writing-mode: vertical-lr;
   z-index: 0;
+}
 
-  @media (--desktop) {
+@media (--desktop) {
+  .error-404-huge {
     grid-column: -6 / -3;
     grid-row: 1 / 4;
   }

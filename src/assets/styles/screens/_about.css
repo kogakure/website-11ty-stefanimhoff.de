@@ -2,12 +2,16 @@
   grid-column: 2 / -2;
   grid-row: 1;
   margin: 0;
+}
 
-  @media (--tablet) {
+@media (--tablet) {
+  .about-title {
     grid-column: 5 / -7;
   }
+}
 
-  @media (--desktop) {
+@media (--desktop) {
+  .about-title {
     grid-column: 8 / -7;
   }
 }
@@ -15,20 +19,26 @@
 .about-photo-container {
   grid-column: 1 / 12;
   grid-row: 2;
+}
 
-  @media (--tablet) {
+@media (--tablet) {
+  .about-photo-container {
     grid-column: 4 / 10;
   }
+}
 
-  @media (--desktop) {
+@media (--desktop) {
+  .about-photo-container {
     grid-column: 7 / 10;
   }
 }
 
 .about-photo {
   border-left-width: 0;
+}
 
-  @media (--tablet) {
+@media (--tablet) {
+  .about-photo {
     border-left-width: 1px;
   }
 }
@@ -36,12 +46,16 @@
 .about-me {
   grid-column: 2 / -2;
   grid-row: 3;
+}
 
-  @media (--tablet) {
+@media (--tablet) {
+  .about-me {
     grid-column: 6 / 14;
   }
+}
 
-  @media (--desktop) {
+@media (--desktop) {
+  .about-me {
     grid-column: 8 / 13;
   }
 }
@@ -53,12 +67,16 @@
 .about-website {
   grid-column: 2 / -2;
   grid-row: 4;
+}
 
-  @media (--tablet) {
+@media (--tablet) {
+  .about-website {
     grid-column: 5 / 13;
   }
+}
 
-  @media (--desktop) {
+@media (--desktop) {
+  .about-website {
     grid-column: 7 / 12;
   }
 }
@@ -66,12 +84,16 @@
 .about-contact {
   grid-column: 2 / -2;
   grid-row: 5;
+}
 
-  @media (--tablet) {
+@media (--tablet) {
+  .about-contact {
     grid-column: 3 / 11;
   }
+}
 
-  @media (--desktop) {
+@media (--desktop) {
+  .about-contact {
     grid-column: 5 / 9;
   }
 }
@@ -97,13 +119,17 @@
 .about-connect {
   grid-column: 2 / -2;
   grid-row: 6;
+}
 
-  @media (--tablet) {
+@media (--tablet) {
+  .about-connect {
     grid-column: 12 / -3;
     grid-row: 5;
   }
+}
 
-  @media (--desktop) {
+@media (--desktop) {
+  .about-connect {
     grid-column: 10 / -5;
   }
 }
@@ -111,20 +137,28 @@
 .about-social-media {
   column-count: 1;
   margin: 0;
+}
 
-  @media (width >= 300px) {
+@media (width >= 300px) {
+  .about-social-media {
     column-count: 2;
   }
+}
 
-  @media (width >= 400px) {
+@media (width >= 400px) {
+  .about-social-media {
     column-count: 3;
   }
+}
 
-  @media (--tablet) {
+@media (--tablet) {
+  .about-social-media {
     column-count: 2;
   }
+}
 
-  @media (width >= 1100px) {
+@media (width >= 1100px) {
+  .about-social-media {
     column-count: 3;
   }
 }

@@ -11,6 +11,7 @@ module.exports = {
     require('postcss-media-minmax'),
     require('postcss-custom-media'),
     require('postcss-100vh-fix'),
+    require('postcss-sort-media-queries')(),
     require('autoprefixer'),
     ...(process.env.NODE_ENV === 'production'
       ? [purgecss, require('cssnano')]
