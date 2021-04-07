@@ -10,8 +10,8 @@
 }
 
 .homepage-tagline {
-  margin-left: 0.2em;
-  margin-top: -0.85em;
+  margin-block-start: -0.85em;
+  margin-inline-start: 0.2em;
 }
 
 .homepage-photo-container {
@@ -26,7 +26,7 @@
 }
 
 .homepage-photo {
-  border-left-width: 0;
+  border-inline-start-width: 0;
 }
 
 .homepage-about-me {
@@ -94,7 +94,7 @@
 
 .homepage-journal-text {
   grid-column: 1 / -1;
-  margin-bottom: $space-10;
+  margin-block-end: $space-10;
 }
 
 @media (--tablet) {
@@ -105,7 +105,7 @@
 
 .homepage-journal-subscribe {
   grid-column: 1 / -1;
-  margin-bottom: $space-10;
+  margin-block-end: $space-10;
 }
 
 @media (--tablet) {

@@ -87,12 +87,13 @@ $transition-duration-5: 500ms;
 .light {
   --color-bg-full: #ffffff;
   --color-bg: hsl(40, 7%, 90%);
+  --color-border: rgb(185, 184, 182);
   --color-fg-feather-inverse: rgba(255, 255, 255, 0.05);
   --color-fg-feather: rgba(0, 0, 0, 0.05);
   --color-fg-full-inverse: #ffffff;
   --color-fg-full: #000000;
   --color-fg-soft-inverse: rgba(255, 255, 255, 0.2);
-  --color-fg-soft: hsla(40, 7%, 5%, 0.2);
+  --color-fg-soft: rgba(0, 0, 0, 0.2);
   --color-fg-strong-inverse: rgba(255, 255, 255, 0.8);
   --color-fg-strong: rgba(0, 0, 0, 0.8);
   --color-fg: hsl(40, 7%, 5%);
@@ -103,6 +104,7 @@ $transition-duration-5: 500ms;
 .dark {
   --color-bg-full: #000000;
   --color-bg: hsl(40, 7%, 10%);
+  --color-border: rgb(73, 72, 70);
   --color-fg-feather-inverse: rgba(0, 0, 0, 0.05);
   --color-fg-feather: rgba(255, 255, 255, 0.05);
   --color-fg-full-inverse: #000000;
@@ -111,7 +113,7 @@ $transition-duration-5: 500ms;
   --color-fg-soft: rgba(255, 255, 255, 0.2);
   --color-fg-strong-inverse: rgba(0, 0, 0, 0.8);
   --color-fg-strong: rgba(255, 255, 255, 0.8);
-  --color-fg: hsla(40, 7%, 90%, 0.87);
+  --color-fg: hsl(40, 7%, 90%);
   --opacity-dark: 0;
   --opacity-light: 1;
 }

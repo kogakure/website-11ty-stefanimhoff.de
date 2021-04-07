@@ -135,7 +135,7 @@ sub {
 }
 
 sup {
-  top: -0.5em;
+  inset-block-start: -0.5em;
 }
 
 /* Embedded content

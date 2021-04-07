@@ -4,18 +4,48 @@ layout: fullsize
 permalink: /projects/
 ---
 
-Projects
+<h1 class="projects-title">Projects</h1>
+
+<article class="projects-intro"
+  data-sal="slide-up"
+  data-sal-duration="800"
+  data-sal-delay="300"
+>
+  <p>
+    I’m a <em>Frontend Developer</em> by profession. But I worked in previous
+    jobs also in Design, Editing, and 3D Animation. I even created Flash
+    Animations and Multimedia CD-ROMs when this was still a thing.
+  </p>
+  <p>
+    I like the concept of the
+    <a
+      href="https://simple.wikipedia.org/wiki/Renaissance_man"
+      rel="nofollow noopener noreferrer"
+      target="_blank"
+    >Renaissance Man</a>
+    and try out as many different professions as possible.
+  </p>
+  <p>
+    These are some of the projects I created over the last years.
+  </p>
+</article>
 
 {% for project in projects %}
-  <article class="{{ project.class }}">
-    {{ project.title }}
-    {{ project.categories | join(" / ") }}
-    {{ project.text | safe }}
+  <article class="project-container">
+    <figure class="project-figure {{ project.class }}">
     {% if project.image %}
-    <img src="{{ project.image | url }}" alt="{{ project.title }}" />
+      <div class="image-shadow project-image-container">
+        <img src="{{ project.image | url }}" alt="{{ project.title }}" />
+      </div>
     {% endif %}
-    {% if project.link %}
-      {% moreLink project.linkText, project.link %}
-    {% endif %}
+    <figcaption>
+      <small class="project-categories">{{ project.categories | join(" / ") }}</small>
+      <h2>{{ project.title }}</h2>
+      {{ project.text | safe }}
+      {% if project.link %}
+        <p>{% moreLink project.linkText, project.link %}</p>
+      {% endif %}
+    </figcaption>
+    </figure>
   </article>
 {% endfor %}

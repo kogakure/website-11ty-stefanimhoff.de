@@ -1,7 +1,7 @@
 .error-404-title {
   grid-column: 3 / -3;
   grid-row: 1;
-  margin-bottom: 0;
+  margin-block-end: 0;
   z-index: 1;
 }
 
@@ -31,7 +31,7 @@
   grid-column: -9 / -3;
   grid-row: 2 / 4;
   line-height: 0.6;
-  text-align: right;
+  text-align: end;
   writing-mode: vertical-lr;
   z-index: 0;
 }

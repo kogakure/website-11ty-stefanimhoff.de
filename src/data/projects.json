@@ -5,8 +5,8 @@
     "text": "<p>In 2007 I stumbled upon a Japanese book about the traditional colors of Japan by <strong>Nobyoshi Hamada</strong>. He listed all 250 colors with their color value in the appendix. I took some time to create an ASE file to be used with all common design software.</p><p>With this version of the website I finally dedicate an extra section to the colors, listing them all with their name and color values.</p>",
     "linkText": "See Traditional Colors of Japan",
     "link": "/traditional-colors-of-japan/",
-    "image": "/assets/images/projects/XXX.jpg",
-    "class": ""
+    "image": "/assets/images/projects/traditional-colors-of-japan.svg",
+    "class": "project-layout-50-end no-border svg-japanese-color"
   },
   {
     "title": "Journal & Blog",
@@ -14,15 +14,7 @@
     "text": "<p>I have been writing articles on this website since <strong>2007</strong>. The topics include programming, design, self-improvement, productivity, books, and films. The collection has been much bigger, but I deleted outdated and irrelevant articles. Since <strong>2019</strong> I also write a monthly article with recommendations of the past month.</>",
     "linkText": "Read Journal",
     "link": "/journal/",
-    "class": ""
-  },
-  {
-    "title": "Haiku",
-    "categories": ["Poetry", "Writing"],
-    "text": "<p>I started writing Haiku poetry some years ago inspired by the works of the Japanese Haiku poet <strong>Matsuo Bashō</strong>. I think Haiku is a fun, creative way to use limitation and brevity while saying something meaningful.</p>",
-    "linkText": "Read Haiku",
-    "link": "/haiku/",
-    "class": ""
+    "class": "project-layout-50-only-start"
   },
   {
     "title": "Sketchnotes",
@@ -31,7 +23,15 @@
     "linkText": "See Sketchnotes",
     "link": "/sketchnotes/",
     "image": "/assets/images/projects/sketchnotes.jpg",
-    "class": ""
+    "class": "project-layout-50-end"
+  },
+  {
+    "title": "Haiku",
+    "categories": ["Poetry", "Writing"],
+    "text": "<p>I started writing Haiku poetry some years ago inspired by the works of the Japanese Haiku poet <strong>Matsuo Bashō</strong>. I think Haiku is a fun, creative way to use limitation and brevity while saying something meaningful.</p>",
+    "linkText": "Read Haiku",
+    "link": "/haiku/",
+    "class": "project-layout-50-only-end"
   },
   {
     "title": "XING Onboarding Illustration",
@@ -40,14 +40,14 @@
     "linkText": "See Illustrations",
     "link": "/projects/xing-onboarding-illustrations/",
     "image": "/assets/images/projects/xing-illustrations.jpg",
-    "class": ""
+    "class": "project-layout-70-start"
   },
   {
     "title": "Bamboo Illustration",
     "categories": ["Illustration"],
     "text": "<p>I created the bamboo illustration in <strong>2006</strong> for my <a href='https://www.kogakure.de/' rel='nofollow noopener noreferrer external'>Martial Arts website</a> used Adobe Illustrator and the gradient grid tool.</p><p><strong>2015</strong> I decided to use my bamboo as <abbr title='Scalable Vector Graphics'>SVG</abbr> on my Unfortunately, the gradient tool is not supported in <abbr>SVG</abbr> and I needed recreate my bamboo with linear, radial, and other supported gradients in <a href='https://affinity.serif.com/designer/' rel='nofollow noopener noreferrer external'>Affinity Designer</a>.</p>",
     "image": "/assets/images/projects/bamboo-illustration.svg",
-    "class": ""
+    "class": "project-layout-100-end svg-bamboo no-border"
   },
   {
     "title": "Martial Arts Website",
@@ -56,7 +56,7 @@
     "linkText": "See Project",
     "link": "/projects/kogakure/",
     "image": "/assets/images/projects/martial-arts-website.jpg",
-    "class": ""
+    "class": "project-layout-50-start"
   },
   {
     "title": "Book & Book Cover",
@@ -65,7 +65,7 @@
     "linkText": "Read Book",
     "link": "https://book.kogakure.de/",
     "image": "/assets/images/projects/book-kogakure.jpg",
-    "class": ""
+    "class": "project-layout-50-end"
   },
   {
     "title": "Personal Website & Blog",
@@ -74,7 +74,7 @@
     "linkText": "See Project",
     "link": "/projects/stefanimhoff-v2/",
     "image": "/assets/images/projects/stefanimhoff-v2.jpg",
-    "class": ""
+    "class": "project-layout-50-start"
   },
   {
     "title": "Exploring Hamburg",
@@ -83,7 +83,7 @@
     "linkText": "See Project",
     "link": "/projects/hamburg-blog/",
     "image": "/assets/images/projects/hamburg-blog.jpg",
-    "class": ""
+    "class": "project-layout-50-end"
   },
   {
     "title": "Koi Illustration",
@@ -92,7 +92,7 @@
     "linkText": "See Project",
     "link": "/projects/koi-illustration/",
     "image": "/assets/images/projects/koi-illustration.jpg",
-    "class": ""
+    "class": "project-layout-70-start"
   },
   {
     "title": "Osteopathie-Institut Hamburg",
@@ -101,7 +101,7 @@
     "linkText": "See Project",
     "link": "/projects/osteopathie-hamburg/",
     "image": "/assets/images/projects/osteopathie-hamburg.jpg",
-    "class": ""
+    "class": "project-layout-50-start"
   },
   {
     "title": "Thai Restaurants Hamburg",
@@ -110,7 +110,7 @@
     "linkText": "See Project",
     "link": "/projects/thai-restaurants-hamburg/",
     "image": "/assets/images/projects/thai-restaurant.jpg",
-    "class": ""
+    "class": "project-layout-50-end"
   },
   {
     "title": "Ingo: Iga Ninja Cipher Font",
@@ -119,6 +119,6 @@
     "linkText": "See on GitHub",
     "link": "https://github.com/kogakure/font-ingo",
     "image": "/assets/images/projects/ingo-iga-ninja-cipher.jpg",
-    "class": ""
+    "class": "project-layout-50-start"
   }
 ]

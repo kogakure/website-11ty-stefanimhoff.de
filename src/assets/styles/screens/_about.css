@@ -34,12 +34,12 @@
 }
 
 .about-photo {
-  border-left-width: 0;
+  border-inline-start-width: 0;
 }
 
 @media (--tablet) {
   .about-photo {
-    border-left-width: 1px;
+    border-inline-start-width: 1px;
   }
 }
 
@@ -61,7 +61,7 @@
 }
 
 .about-me-intro {
-  margin-bottom: $space-10;
+  margin-block-end: $space-10;
 }
 
 .about-website {
@@ -105,9 +105,9 @@
   cursor: pointer;
   display: inline-flex;
   height: 20px;
+  inset-block-start: 0.2em;
   justify-content: center;
   position: relative;
-  top: 0.2em;
   width: 25px;
 }
 

@@ -15,5 +15,3 @@
   src: url('/assets/fonts/secuela-italic-vf.woff2') format('woff2'),
     url('/assets/fonts/secuela-italic-vf.woff') format('woff');
 }
-
-/* TODO: Add fallback fonts for needed weights later */

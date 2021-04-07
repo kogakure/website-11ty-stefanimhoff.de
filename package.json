@@ -48,6 +48,7 @@
     "postcss-cli": "^8.3.1",
     "postcss-custom-media": "^8.0.0",
     "postcss-custom-properties": "^11.0.0",
+    "postcss-extend": "^1.0.5",
     "postcss-import": "^14.0.0",
     "postcss-media-minmax": "^5.0.0",
     "postcss-nested": "^5.0.5",

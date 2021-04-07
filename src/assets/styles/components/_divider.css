@@ -1,10 +1,10 @@
 hr,
 .divider {
-  border-bottom-width: $border-width-10;
-  border-color: var(--color-fg-feather);
-  border-left-width: 0;
-  border-right-width: 0;
+  border-block-end-width: $border-width-10;
+  border-block-start-width: 0;
+  border-color: var(--color-border);
+  border-inline-end-width: 0;
+  border-inline-start-width: 0;
   border-style: solid;
-  border-top-width: 0;
   width: 100%;
 }

@@ -22,6 +22,12 @@
     "order/order": ["custom-properties", "declarations"],
     "order/properties-alphabetical-order": true,
     "plugin/no-low-performance-animation-properties": true,
+    "at-rule-no-unknown": [
+      true,
+      {
+        "ignoreAtRules": ["define-placeholder", "extend"]
+      }
+    ],
     "string-quotes": "single",
     "prettier/prettier": true
   }
