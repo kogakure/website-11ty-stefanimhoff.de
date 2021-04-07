@@ -1,0 +1,21 @@
+---
+title: Projects
+layout: fullsize
+permalink: /projects/
+---
+
+Projects
+
+{% for project in projects %}
+  <article class="{{ project.class }}">
+    {{ project.title }}
+    {{ project.categories | join(" / ") }}
+    {{ project.text | safe }}
+    {% if project.image %}
+    <img src="{{ project.image | url }}" alt="{{ project.title }}" />
+    {% endif %}
+    {% if project.link %}
+      {% moreLink project.linkText, project.link %}
+    {% endif %}
+  </article>
+{% endfor %}
