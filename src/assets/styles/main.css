@@ -20,6 +20,7 @@
 
 /* Screens */
 @import 'screens/about';
+@import 'screens/colors-japan';
 @import 'screens/cv';
 @import 'screens/error-404';
 @import 'screens/homepage';

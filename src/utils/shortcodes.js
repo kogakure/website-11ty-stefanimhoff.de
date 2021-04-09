@@ -7,7 +7,7 @@ module.exports = {
 
     if (description) {
       hasBackside = 'has-backside';
-      clickHandler = `onClick="this.classList.toggle('${activeClass}')" ontouchstart="this.classList.toggle('${activeClass}');"`;
+      clickHandler = `onClick="this.classList.toggle('${activeClass}')"`;
     } else {
       clickHandler = '';
       hasBackside = '';
@@ -30,7 +30,7 @@ module.exports = {
         </div>
       </div>
       <div class="color-swatch-back">
-        <h2 class="color-swatch-title">Description</h2>
+        <h2 class="color-swatch-back-title">Description</h2>
         ${description}
       </div>
     </div>

@@ -79,6 +79,11 @@
   margin-bottom: 0;
 }
 
+.color-swatch-back-title {
+  font-size: $font-size-3;
+  margin-bottom: $space-2;
+}
+
 .color-swatch-value {
   color: var(--color-fg);
   font-size: $font-size-3;

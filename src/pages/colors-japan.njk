@@ -1,0 +1,40 @@
+---
+title: The Traditional Colors of Japan
+layout: wide
+permalink: /traditional-colors-of-japan/
+---
+
+<section class="cv rowgap">
+  <h1 class="colors-japan-title">{{ title }}</h1>
+
+  <article
+    class="color-japan-introduction"
+    data-sal="slide-up"
+    data-sal-duration="800"
+  >
+    <p>
+      A few years ago I found by accident the book
+      <cite>The Traditional Colors of Japan</cite> by
+      <strong>Nobyoshi Hamada</strong>. He also wrote the sister book
+      <cite>Traditional Japanese Color Palette</cite>.
+    </p>
+    <p>
+      It’s the best book about Japanese colors I know. The book is filled with
+      beautiful photography showing examples of nature, craftsmanship, and art
+      applying the colors.
+    </p>
+    <p>
+      I took the time and converted all colors in the book into an ASE (Adobe
+      Swatch Exchange) file that is usable in all Graphic software. You can
+      download the file or browse all colors on this page.
+    </p>
+    <p>
+      {% downloadLink "Download the Color Palette", "/downloads/traditional-colors-of-japan-rgb.zip" %}
+    </p>
+  </article>
+  <article class="color-japan-grid">
+    {% for item in japaneseColors %}
+      {% colorSwatch item.color, item.name, item.description %}
+    {% endfor %}
+  </article>
+</section>

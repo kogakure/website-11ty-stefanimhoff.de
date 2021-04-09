@@ -1,0 +1,31 @@
+.colors-japan-title {
+  grid-column: 1 / -1;
+  grid-row: 1;
+  margin-bottom: 0;
+  z-index: 1;
+}
+
+.color-japan-introduction {
+  grid-column: 1 / -1;
+  grid-row: 2;
+  margin-bottom: 0;
+  z-index: 1;
+
+  @media (--tablet) {
+    grid-column: 1 / 8;
+  }
+
+  @media (--desktop) {
+    align-content: center;
+    display: grid;
+    grid-column: 1 / 8;
+  }
+}
+
+.color-japan-grid {
+  display: grid;
+  grid-column: 1 / -1;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+}
