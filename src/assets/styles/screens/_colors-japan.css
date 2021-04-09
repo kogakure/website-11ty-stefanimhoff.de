@@ -23,16 +23,17 @@
 }
 
 .color-japan-books {
-  align-self: start;
   display: flex;
   grid-column: 1 / -1;
   grid-row: 3;
   grid-template-columns: repeat(2, 1fr);
-  justify-content: center;
   margin-bottom: 0;
 
   & .amazon-book {
-    align-self: stretch;
+    /* Hack for grid bug in Safari: 
+     * https://github.com/rachelandrew/gridbugs#5-items-with-an-intrinsic-aspect-ratio-should-align-start
+     */
+    align-self: flex-end;
     max-width: 300px;
 
     &:first-of-type {
@@ -42,6 +43,13 @@
     &:last-of-type {
       margin-left: 1.5vw;
     }
+  }
+
+  & img {
+    /* Hack for grid bug in Safari: 
+     * https://github.com/rachelandrew/gridbugs#5-items-with-an-intrinsic-aspect-ratio-should-align-start
+     */
+    align-self: flex-end;
   }
 
   @media (--tablet) {
