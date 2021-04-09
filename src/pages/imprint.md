@@ -5,7 +5,7 @@ permalink: "/imprint/"
 robots: "noindex,follow"
 ---
 
-# Imprint
+# {{ title }}
 
 ### Contact Person
 
