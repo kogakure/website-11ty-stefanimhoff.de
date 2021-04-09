@@ -32,8 +32,14 @@ permalink: /traditional-colors-of-japan/
       {% downloadLink "Download the Color Palette", "/downloads/traditional-colors-of-japan-rgb.zip" %}
     </p>
   </article>
+
+  <article class="color-japan-books" data-sal="slide-up" data-sal-duration="800">
+    {% amazonBook "475624100X", "The Traditional Colors of Japan" %}
+    {% amazonBook "475624114X", "Traditional Japanese Color Palette" %}
+  </article>
+
   <article class="color-japan-grid">
-    {% for item in japaneseColors %}
+    {% for item in colorsJapan %}
       {% colorSwatch item.color, item.name, item.description %}
     {% endfor %}
   </article>

@@ -18,6 +18,7 @@ module.exports = function (config) {
   config.addShortcode('moreLink', shortcodes.moreLink);
   config.addShortcode('downloadLink', shortcodes.downloadLink);
   config.addShortcode('colorSwatch', shortcodes.colorSwatch);
+  config.addShortcode('amazonBook', shortcodes.amazonBook);
 
   // Filters
   Object.keys(filters).forEach((filterName) => {

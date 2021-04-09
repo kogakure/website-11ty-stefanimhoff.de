@@ -47,7 +47,7 @@
   @extend color-swatch-base;
   @extend color-swatch-front-back;
   background: var(--color-fg-full-inverse);
-  font-size: $font-size-3;
+  font-size: 0.85rem;
   padding-bottom: $space-10;
   padding-left: $space-6;
   padding-right: $space-6;
@@ -62,7 +62,7 @@
   border-bottom-width: 1px;
   border-top-left-radius: $radius-25;
   border-top-right-radius: $radius-25;
-  min-height: 8rem;
+  min-height: 7rem;
 }
 
 .color-swatch-info {

@@ -22,6 +22,35 @@
   }
 }
 
+.color-japan-books {
+  align-self: start;
+  display: flex;
+  grid-column: 1 / -1;
+  grid-row: 3;
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: center;
+  margin-bottom: 0;
+
+  & .amazon-book {
+    align-self: stretch;
+    max-width: 300px;
+
+    &:first-of-type {
+      margin-right: 1.5vw;
+    }
+
+    &:last-of-type {
+      margin-left: 1.5vw;
+    }
+  }
+
+  @media (--tablet) {
+    grid-column: 9 / -1;
+    grid-row: 2;
+    justify-content: flex-end;
+  }
+}
+
 .color-japan-grid {
   display: grid;
   grid-column: 1 / -1;
