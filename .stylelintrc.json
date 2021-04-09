@@ -19,6 +19,7 @@
         "ignoreProperties": ["suffix", "symbols", "system"]
       }
     ],
+    "no-descending-specificity": null,
     "order/order": ["custom-properties", "declarations"],
     "order/properties-alphabetical-order": true,
     "plugin/no-low-performance-animation-properties": true,

@@ -12,6 +12,7 @@
 @import 'base/up-link';
 
 /* Components */
+@import 'components/color-swatch';
 @import 'components/divider';
 @import 'components/download-link';
 @import 'components/more-link';

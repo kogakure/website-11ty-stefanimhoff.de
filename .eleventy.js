@@ -17,6 +17,7 @@ module.exports = function (config) {
   config.addShortcode('protectedEmail', shortcodes.protectedEmail);
   config.addShortcode('moreLink', shortcodes.moreLink);
   config.addShortcode('downloadLink', shortcodes.downloadLink);
+  config.addShortcode('colorSwatch', shortcodes.colorSwatch);
 
   // Filters
   Object.keys(filters).forEach((filterName) => {
