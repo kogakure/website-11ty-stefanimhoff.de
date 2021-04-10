@@ -4,7 +4,13 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>{{ title }} · {{ site.owner }}</title>
+    <title>
+    {% if page.url === "/" %}
+      {{ site.owner }} · {{ site.homepageTitle }}
+    {% else %}
+      {{ title }} · {{ site.owner }}
+    {% endif %}
+    </title>
 
     <script type="module">
       document.documentElement.classList.remove('no-js');
