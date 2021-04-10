@@ -20,7 +20,7 @@ I learned a lot about Graphic Design while working on it. I created the complete
 
 ---
 
-<figure class="light image-shadow">
+<figure class="dark image-shadow">
 
 ![Typeface Diavlo](./images/thai-restaurant-typefaces.svg)
 
