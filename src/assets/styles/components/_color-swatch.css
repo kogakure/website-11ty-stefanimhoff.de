@@ -8,7 +8,7 @@
 @define-placeholder color-swatch-front-back {
   backface-visibility: hidden;
   border-radius: $radius-25;
-  box-shadow: $shadow-subtle-shade;
+  box-shadow: 0 0.1em 0.5em rgba(0, 0, 0, 0.5);
   box-sizing: border-box;
   left: 0;
   position: absolute;
@@ -25,6 +25,10 @@
 
   &.has-backside {
     cursor: pointer;
+  }
+
+  & .image-shadow::after {
+    border-radius: $radius-25;
   }
 }
 

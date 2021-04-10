@@ -1,5 +1,5 @@
 {% set js %} 
-  {% include "../assets/scripts/theme-switcher.js" %}
-  {% include "../assets/scripts/main.js" %}
+  {% include "../assets/scripts/embedded/theme-switcher.js" %}
 {% endset %}
 <script>{{ js | jsmin | safe }}</script>
+<script src="/assets/scripts/main.js" async></script>

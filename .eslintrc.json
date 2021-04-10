@@ -1,13 +1,17 @@
 {
-  "parserOptions": {
-    "ecmaVersion": 2017
+  "env": {
+    "es6": true,
+    "node": true,
+    "browser": true
+  },
+  "extends": ["eslint:recommended", "plugin:prettier/recommended"],
+  "ecmaFeatures": {
+    "experimentalObjectRestSpread": true
   },
   "plugins": ["prettier"],
-  "extends": ["eslint:recommended", "plugin:prettier/recommended"],
-  "env": {
-    "browser": true,
-    "es6": true,
-    "node": true
+  "parserOptions": {
+    "ecmaVersion": 2017,
+    "sourceType": "module"
   },
   "rules": {
     "prettier/prettier": "error"

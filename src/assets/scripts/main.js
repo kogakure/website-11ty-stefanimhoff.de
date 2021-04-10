@@ -1,55 +1,51 @@
-const sourceCodeInfo =
-  '👋 I see you’re interested in the source code of this site? You can find it here: https://github.com/kogakure/website-11ty-stefanimhoff.de';
+import '../styles/main.css';
 
-console.info(sourceCodeInfo);
+import { btnHandler } from './modules/btn-handler';
+import { sourceCodeInfo } from './modules/source-code-info';
 
-function btnHandler(selector, callback, prevent = true) {
-  const btn = document.querySelector(selector);
-  if (!btn) return;
+if (
+  'querySelector' in document &&
+  'localStorage' in window &&
+  'addEventListener' in window
+) {
+  /* Show link to source code in console */
+  sourceCodeInfo();
 
-  btn.addEventListener(
-    'click',
+  /* Toggle the theme */
+  btnHandler('#theme-toggle', function () {
+    window.__toggleTheme();
+  });
+
+  /* Smooth scrolling to the top */
+  btnHandler('#up-link', function () {
+    window.scroll({
+      top: 0,
+      left: 0,
+      behavior: 'smooth',
+    });
+  });
+
+  /* Deobfuscate the email */
+  btnHandler(
+    '#email',
     function (event) {
-      if (prevent) {
+      if (event.target.classList.contains('objuscated')) {
+        const link = event.target;
+        const lock = link.parentNode.querySelector('#lock-box');
+
         event.preventDefault();
+
+        link.classList.remove('objuscated');
+        link.text = 'hey@imhoff.name';
+        link.href = 'mailto:hey@imhoff.name';
+
+        if (lock) {
+          lock.classList.remove('hidden');
+        }
+      } else {
+        return;
       }
-      callback(event);
     },
     false
   );
 }
-
-btnHandler('#theme-toggle', function () {
-  window.__toggleTheme();
-});
-
-btnHandler('#up-link', function () {
-  window.scroll({
-    top: 0,
-    left: 0,
-    behavior: 'smooth',
-  });
-});
-
-btnHandler(
-  '#email',
-  function (event) {
-    if (event.target.classList.contains('objuscated')) {
-      const link = event.target;
-      const lock = link.parentNode.querySelector('#lock-box');
-
-      event.preventDefault();
-
-      link.classList.remove('objuscated');
-      link.text = 'hey@imhoff.name';
-      link.href = 'mailto:hey@imhoff.name';
-
-      if (lock) {
-        lock.classList.remove('hidden');
-      }
-    } else {
-      return;
-    }
-  },
-  false
-);

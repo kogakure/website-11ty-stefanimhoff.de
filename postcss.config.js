@@ -1,7 +1,3 @@
-const purgecss = require('@fullhuman/postcss-purgecss')({
-  content: ['./src/**/*.njk'],
-});
-
 module.exports = {
   plugins: [
     require('postcss-advanced-variables'),
@@ -14,8 +10,6 @@ module.exports = {
     require('postcss-100vh-fix'),
     require('postcss-sort-media-queries')(),
     require('autoprefixer'),
-    ...(process.env.NODE_ENV === 'production'
-      ? [purgecss, require('cssnano')]
-      : []),
+    ...(process.env.NODE_ENV === 'production' ? [require('cssnano')] : []),
   ],
 };

@@ -11,7 +11,7 @@
   {
     "title": "Journal & Blog",
     "categories": ["Writing"],
-    "text": "<p>I have been writing articles on this website since <strong>2007</strong>. The topics include programming, design, self-improvement, productivity, books, and films. The collection has been much bigger, but I deleted outdated and irrelevant articles. Since <strong>2019</strong> I also write a monthly article with recommendations of the past month.</>",
+    "text": "<p>I have been writing articles on this website since <strong>2007</strong>. The topics include programming, design, self-improvement, productivity, books, and films. The collection has been much bigger, but I deleted outdated and irrelevant articles. Since <strong>2019</strong> I also write a monthly article with recommendations of the past month.</p>",
     "linkText": "Read Journal",
     "link": "/journal/",
     "class": "project-layout-50-only-start"
