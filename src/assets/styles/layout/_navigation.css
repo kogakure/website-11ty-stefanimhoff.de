@@ -37,14 +37,14 @@
   &:focus {
     text-decoration: underline;
     text-decoration-color: var(--color-fg-soft);
-    text-decoration-thickness: 0.15em;
-    text-underline-offset: 0;
+    text-decoration-thickness: 0.2em;
+    text-underline-offset: auto;
   }
 
   &.active {
     text-decoration: underline;
     text-decoration-color: var(--color-accent);
-    text-decoration-thickness: 0.15em;
-    text-underline-offset: 0;
+    text-decoration-thickness: 0.2em;
+    text-underline-offset: auto;
   }
 }

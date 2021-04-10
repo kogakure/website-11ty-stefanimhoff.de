@@ -15,12 +15,7 @@ permalink: /about/
 </div>
 
 <section class="about-me">
-  <div
-    class="about-me-intro"
-    data-sal="slide-up"
-    data-sal-duration="800"
-    data-sal-delay="300"
-  >
+  <div class="about-me-intro" {{ site.animationDelay }}>
     <h2 class="subheadline">About Me</h2>
     <p>
       I’m <em>Stefan Imhoff</em>, a Front-End Web Developer and Designer from
@@ -29,7 +24,7 @@ permalink: /about/
       photos, and writing <a href="/haiku/">Haiku</a>.
     </p>
   </div>
-  <div data-sal="slide-up" data-sal-duration="800">
+  <div {{ site.animation }}>
     <p>
       I love
       <a
@@ -64,7 +59,7 @@ permalink: /about/
   </div>
 </section>
 
-<section class="about-website" data-sal="slide-up" data-sal-duration="800">
+<section class="about-website" {{ site.animation }}>
   <h2 class="subheadline">About This Website</h2>
   <p>
     I build this website with
@@ -83,12 +78,7 @@ permalink: /about/
   </p>
 </section>
 
-<section
-  id="contact"
-  class="about-contact"
-  data-sal="slide-up"
-  data-sal-duration="800"
->
+<section id="contact" class="about-contact" {{ site.animation }}>
   <h2 class="subheadline">Contact</h2>
   <p class="no-margin">You’ve got mail!</p>
   <p>{% protectedEmail "Say hello.", true %}</p>
@@ -110,12 +100,7 @@ permalink: /about/
   </p>
 </section>
 
-<section
-  id="connect"
-  class="about-connect"
-  data-sal="slide-up"
-  data-sal-duration="800"
->
+<section id="connect" class="about-connect" {{ site.animation }}>
   <h2 class="subheadline">Connect</h2>
   <ul class="about-social-media">
     {% for item in connect %}

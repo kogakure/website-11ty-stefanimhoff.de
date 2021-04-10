@@ -1,5 +1,6 @@
 import '../styles/main.css';
 
+import sal from 'sal.js';
 import { btnHandler } from './modules/btn-handler';
 import { scrollHandler } from './modules/scroll-handler';
 import { sourceCodeInfo } from './modules/source-code-info';
@@ -9,6 +10,11 @@ if (
   'localStorage' in window &&
   'addEventListener' in window
 ) {
+  /* Initialize scroll reveal */
+  sal({
+    threshold: 0.1,
+  });
+
   /* Show link to source code in console */
   sourceCodeInfo();
 

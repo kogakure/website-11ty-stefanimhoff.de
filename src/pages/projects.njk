@@ -6,11 +6,7 @@ permalink: /projects/
 
 <h1 class="projects-title">{{ title }}</h1>
 
-<article class="projects-intro"
-  data-sal="slide-up"
-  data-sal-duration="800"
-  data-sal-delay="300"
->
+<article class="projects-intro" {{ site.animationDelay }}>
   <p>
     I’m a <em>Frontend Developer</em> by profession. But I worked in previous
     jobs also in Design, Editing, and 3D Animation. I even created Flash
@@ -30,7 +26,7 @@ permalink: /projects/
 </article>
 
 {% for project in projects %}
-  <article class="project-container">
+  <article class="project-container" {{ site.animationDelay }}>
     <figure class="project-figure {{ project.class }}">
     {% if project.image %}
       <div class="image-shadow project-image-container">

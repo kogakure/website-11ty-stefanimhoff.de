@@ -164,9 +164,10 @@ q[lang|='en'] {
 a {
   color: var(--color-fg);
   font-weight: 600;
+  text-decoration: underline;
   text-decoration-color: var(--color-fg-soft);
-  text-decoration-thickness: 0.15em;
-  text-underline-offset: 0;
+  text-decoration-thickness: 0.2em;
+  text-underline-offset: auto;
 
   &:hover,
   &:focus {

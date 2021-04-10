@@ -13,12 +13,7 @@ permalink: /
   <img class="homepage-photo" src="/assets/images/bonsai.jpg" alt="Bonsai" />
 </div>
 
-<article
-  class="homepage-about-me"
-  data-sal="slide-up"
-  data-sal-duration="800"
-  data-sal-delay="300"
->
+<article class="homepage-about-me" {{ site.animationDelay }}>
   <h2>About Me</h2>
   <p>
     I’m a Front-End Web Developer and Designer from Hamburg, Germany. I love
@@ -28,7 +23,7 @@ permalink: /
   <p>{% moreLink "Read more about me", "/about/" %}</p>
 </article>
 
-<article class="homepage-what-i-do" data-sal="slide-up" data-sal-duration="800">
+<article class="homepage-what-i-do" {{ site.animation }}>
   <h2>What I Do</h2>
   <div class="homepage-what-i-do-text">
     <p>
@@ -59,7 +54,7 @@ permalink: /
 </article>
 
 <article class="homepage-journal">
-  <div data-sal="slide-up" data-sal-duration="800">
+  <div {{ site.animation }}>
     <h2>Latest Articles</h2>
     <div class="homepage-journal-introduction">
       <div class="homepage-journal-text">

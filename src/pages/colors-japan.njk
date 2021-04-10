@@ -7,11 +7,7 @@ permalink: /traditional-colors-of-japan/
 <section class="cv rowgap">
   <h1 class="colors-japan-title">{{ title }}</h1>
 
-  <article
-    class="color-japan-introduction"
-    data-sal="slide-up"
-    data-sal-duration="800"
-  >
+  <article class="color-japan-introduction" {{ site.animation }}>
     <p>
       A few years ago I found by accident the book
       <cite>The Traditional Colors of Japan</cite> by
@@ -33,7 +29,7 @@ permalink: /traditional-colors-of-japan/
     </p>
   </article>
 
-  <article class="color-japan-books" data-sal="slide-up" data-sal-duration="800">
+  <article class="color-japan-books" {{ site.animation }}>
     {% amazonBook "475624100X", "The Traditional Colors of Japan" %}
     {% amazonBook "475624114X", "Traditional Japanese Color Palette" %}
   </article>
