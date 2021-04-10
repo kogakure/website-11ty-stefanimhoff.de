@@ -6,5 +6,7 @@ hr,
   border-inline-end-width: 0;
   border-inline-start-width: 0;
   border-style: solid;
+  margin-block-end: $space-14;
+  margin-block-start: $space-14;
   width: 100%;
 }

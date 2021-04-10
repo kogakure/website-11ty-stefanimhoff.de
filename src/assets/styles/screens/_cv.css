@@ -31,6 +31,8 @@
 
 .cv-divider {
   grid-column: 1 / -1;
+  margin-block-end: 0;
+  margin-block-start: 0;
   width: 90%;
 }
 

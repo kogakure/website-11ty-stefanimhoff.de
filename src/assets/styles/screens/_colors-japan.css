@@ -1,14 +1,14 @@
 .colors-japan-title {
   grid-column: 1 / -1;
   grid-row: 1;
-  margin-bottom: 0;
+  margin-block-end: 0;
   z-index: 1;
 }
 
 .color-japan-introduction {
   grid-column: 1 / -1;
   grid-row: 2;
-  margin-bottom: 0;
+  margin-block-end: 0;
   z-index: 1;
 
   @media (--tablet) {
@@ -27,7 +27,7 @@
   grid-column: 1 / -1;
   grid-row: 3;
   grid-template-columns: repeat(2, 1fr);
-  margin-bottom: 0;
+  margin-block-end: 0;
 
   & .amazon-book {
     /* Hack for grid bug in Safari: 
@@ -37,11 +37,11 @@
     max-width: 300px;
 
     &:first-of-type {
-      margin-right: 1.5vw;
+      margin-inline-end: 1.5vw;
     }
 
     &:last-of-type {
-      margin-left: 1.5vw;
+      margin-inline-start: 1.5vw;
     }
   }
 
