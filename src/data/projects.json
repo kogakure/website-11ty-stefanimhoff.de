@@ -36,7 +36,7 @@
   {
     "title": "XING Onboarding Illustration",
     "categories": ["Illustration", "Icon Design"],
-    "text": "<p>I was asked to create three new illustrations that could be used for an Onboarding screen on <a href='https://www.xing.com/' rel='nofollow noopener noreferrer external'>XING</a>. I accepted the challenge to take over this task outside of my job description and finished the whole process from concept, scribbles to final illustrations in a day.</p>",
+    "text": "<p>I was asked to create three new illustrations that could be used for an Onboarding screen on <a href='https://www.xing.com/' rel='nofollow noopener noreferrer external' target='_blank'>XING</a>. I accepted the challenge to take over this task outside of my job description and finished the whole process from concept, scribbles to final illustrations in a day.</p>",
     "linkText": "See Illustrations",
     "link": "/projects/xing-onboarding-illustrations/",
     "image": "/assets/images/projects/xing-illustrations.jpg",
@@ -45,14 +45,14 @@
   {
     "title": "Bamboo Illustration",
     "categories": ["Illustration"],
-    "text": "<p>I created the bamboo illustration in <strong>2006</strong> for my <a href='https://www.kogakure.de/' rel='nofollow noopener noreferrer external'>Martial Arts website</a> used Adobe Illustrator and the gradient grid tool.</p><p><strong>2015</strong> I decided to use my bamboo as <abbr title='Scalable Vector Graphics'>SVG</abbr> on my Unfortunately, the gradient tool is not supported in <abbr>SVG</abbr> and I needed recreate my bamboo with linear, radial, and other supported gradients in <a href='https://affinity.serif.com/designer/' rel='nofollow noopener noreferrer external'>Affinity Designer</a>.</p>",
+    "text": "<p>I created the bamboo illustration in <strong>2006</strong> for my <a href='https://www.kogakure.de/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> used Adobe Illustrator and the gradient grid tool.</p><p><strong>2015</strong> I decided to use my bamboo as <abbr title='Scalable Vector Graphics'>SVG</abbr> on my Unfortunately, the gradient tool is not supported in <abbr>SVG</abbr> and I needed recreate my bamboo with linear, radial, and other supported gradients in <a href='https://affinity.serif.com/designer/' rel='nofollow noopener noreferrer external' target='_blank'>Affinity Designer</a>.</p>",
     "image": "/assets/images/projects/bamboo-illustration.svg",
     "class": "project-layout-100-end svg-bamboo no-border"
   },
   {
     "title": "Martial Arts Website",
     "categories": ["Web Design", "Web Development", "Writing"],
-    "text": "<p>My <a href='https://www.kogakure.de/' rel='nofollow noopener noreferrer external'>Martial Arts Online Magazine</a> with the topic of <em>Ninja</em> &amp; <em>Ninjutsu</em> was first launched in <strong>1999</strong> and is my oldest and most visited website. The current design is already the <strong>7th</strong> iteration of the design.</p>",
+    "text": "<p>My <a href='https://www.kogakure.de/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts Online Magazine</a> with the topic of <em>Ninja</em> &amp; <em>Ninjutsu</em> was first launched in <strong>1999</strong> and is my oldest and most visited website. The current design is already the <strong>7th</strong> iteration of the design.</p>",
     "linkText": "See Project",
     "link": "/projects/kogakure/",
     "image": "/assets/images/projects/martial-arts-website.jpg",
@@ -61,9 +61,10 @@
   {
     "title": "Book & Book Cover",
     "categories": ["Writing", "Graphic Design"],
-    "text": "<p>I wrote this book in <strong>2017</strong> out of the articles I’ve written on my <a href='https://www.kogakure.de/' rel='nofollow noopener noreferrer external'>Martial Arts website</a> in the last 20 years. It’s a book in German about the Ninja and their secret art of Ninjutsu.</p><p>I also designed the book cover for my book. The book was written with <a href='https://www.gitbook.com/' rel='nofollow noopener noreferrer external'>GitBook</a> and can be read or downloaded for free as PDF, ePub, or Mobi eBook.</p>",
+    "text": "<p>I wrote this book in <strong>2017</strong> out of the articles I’ve written on my <a href='https://www.kogakure.de/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> in the last 20 years. It’s a book in German about the Ninja and their secret art of Ninjutsu.</p><p>I also designed the book cover for my book. The book was written with <a href='https://www.gitbook.com/' rel='nofollow noopener noreferrer external' target='_blank'>GitBook</a> and can be read or downloaded for free as PDF, ePub, or Mobi eBook.</p>",
     "linkText": "Read Book",
     "link": "https://book.kogakure.de/",
+    "external": true,
     "image": "/assets/images/projects/book-kogakure.jpg",
     "class": "project-layout-50-end"
   },
@@ -79,7 +80,7 @@
   {
     "title": "Exploring Hamburg",
     "categories": ["Web Design", "Web Development", "Photography"],
-    "text": "<p>I created this <a href='https://hamburg.stefanimhoff.de/' rel='nofollow noopener noreferrer external'>Photography Blog</a> for one of my hobbies: I explore the city Hamburg, mostly walking, sometimes biking to find out more about the individual districts and to shoot photos.</p>",
+    "text": "<p>I created this <a href='https://hamburg.stefanimhoff.de/' rel='nofollow noopener noreferrer external' target='_blank'>Photography Blog</a> for one of my hobbies: I explore the city Hamburg, mostly walking, sometimes biking to find out more about the individual districts and to shoot photos.</p>",
     "linkText": "See Project",
     "link": "/projects/hamburg-blog/",
     "image": "/assets/images/projects/hamburg-blog.jpg",
@@ -118,6 +119,7 @@
     "text": "<p>The <em>Iga Ninja Cipher Font</em> was created by me of an image provided by the <strong>Iga Ninja Museum</strong> in Japan and is said to be a font for correspondence in cipher. It was a fun personal project to learn how to create a typeface.</p>",
     "linkText": "See on GitHub",
     "link": "https://github.com/kogakure/font-ingo",
+    "external": true,
     "image": "/assets/images/projects/ingo-iga-ninja-cipher.jpg",
     "class": "project-layout-50-start"
   }

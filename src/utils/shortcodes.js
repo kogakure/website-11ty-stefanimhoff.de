@@ -47,8 +47,17 @@ module.exports = {
 
     return html;
   },
-  moreLink: function (text, url) {
-    const html = `<a href="${url}">${text}<span class="more-icon">
+  moreLink: function (text, url, external = false) {
+    let externalLink;
+
+    if (external) {
+      externalLink =
+        'rel="nofollow noopener noreferrer external" target="_blank"';
+    } else {
+      externalLink = '';
+    }
+
+    const html = `<a href="${url}" ${externalLink}>${text}<span class="more-icon">
       <svg viewbox="0 0 24 24" width="1em" height="1em">
         <path fill="none" d="M0 0h24v24H0z" />
         <path d="M16.172 11l-5.364-5.364 1.414-1.414L20 12l-7.778 7.778-1.414-1.414L16.172 13H4v-2z" />

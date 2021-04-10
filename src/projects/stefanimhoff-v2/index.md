@@ -1,5 +1,5 @@
 ---
-title: Personal Website (V2)
+title: Personal Website v2
 description: My personal website and blog relaunched in April 2014 with a Responsive Design.
 published: true
 ---

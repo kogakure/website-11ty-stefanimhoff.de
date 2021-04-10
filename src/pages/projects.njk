@@ -42,7 +42,11 @@ permalink: /projects/
       <h2>{{ project.title }}</h2>
       {{ project.text | safe }}
       {% if project.link %}
+        {% if project.external %}
+        <p>{% moreLink project.linkText, project.link, true %}</p>
+        {% else %}
         <p>{% moreLink project.linkText, project.link %}</p>
+        {% endif %}
       {% endif %}
     </figcaption>
     </figure>
