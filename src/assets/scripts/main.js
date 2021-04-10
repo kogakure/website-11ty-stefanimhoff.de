@@ -1,6 +1,7 @@
 import '../styles/main.css';
 
 import { btnHandler } from './modules/btn-handler';
+import { scrollHandler } from './modules/scroll-handler';
 import { sourceCodeInfo } from './modules/source-code-info';
 
 if (
@@ -10,6 +11,9 @@ if (
 ) {
   /* Show link to source code in console */
   sourceCodeInfo();
+
+  /* Scrolling up or down? */
+  scrollHandler();
 
   /* Toggle the theme */
   btnHandler('#theme-toggle', function () {

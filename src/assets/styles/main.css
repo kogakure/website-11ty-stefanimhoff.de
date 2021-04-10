@@ -3,22 +3,16 @@
 @import 'base/variables';
 @import 'base/fonts';
 @import 'base/typography';
-@import 'base/layout';
-@import 'base/header';
-@import 'base/navigation';
-@import 'base/theme-toggle';
-@import 'base/footer';
-@import 'base/legal';
-@import 'base/up-link';
 @import 'base/images-figures';
 
-/* Components */
-@import 'components/amazon-book';
-@import 'components/color-swatch';
-@import 'components/divider';
-@import 'components/download-link';
-@import 'components/more-link';
-@import 'components/verse';
+/* Layout */
+@import 'layout/base';
+@import 'layout/footer';
+@import 'layout/header';
+@import 'layout/legal';
+@import 'layout/navigation';
+@import 'layout/theme-toggle';
+@import 'layout/up-link';
 
 /* Screens */
 @import 'screens/about';
@@ -27,3 +21,12 @@
 @import 'screens/error-404';
 @import 'screens/homepage';
 @import 'screens/projects';
+
+/* Components */
+@import 'components/amazon-book';
+@import 'components/color-swatch';
+@import 'components/divider';
+@import 'components/download-link';
+@import 'components/more-link';
+@import 'components/pagination';
+@import 'components/verse';

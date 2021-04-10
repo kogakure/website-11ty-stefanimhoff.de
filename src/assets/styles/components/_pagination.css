@@ -1,0 +1,46 @@
+.pagination {
+  border-radius: 50%;
+  position: fixed;
+  top: calc(50% - 20px);
+}
+
+.pagination-start {
+  inset-inline-start: 1rem;
+}
+
+.pagination-end {
+  inset-inline-end: 1rem;
+}
+
+.pagination-container {
+  align-items: center;
+  background-color: var(--color-fg-feather);
+  border-radius: 50%;
+  border-width: 0;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  outline: none;
+  transition-duration: 500ms;
+  transition-property: opacity;
+  transition-timing-function: ease-in-out;
+  width: 40px;
+
+  a:hover &,
+  a:focus & {
+    background-color: var(--color-fg-soft);
+  }
+
+  .scroll-up & {
+    opacity: 1;
+  }
+
+  .scroll-down & {
+    opacity: 0;
+  }
+}
+
+.pagination-icon {
+  fill: var(--colorForeground);
+}
