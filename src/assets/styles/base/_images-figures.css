@@ -1,0 +1,73 @@
+/* ===================================
+ * Images & Figures
+ * ==================================*/
+
+img {
+  background-color: var(--color-border);
+  border-color: var(--color-border);
+  border-style: solid;
+  border-width: 1px;
+  display: block;
+  font-size: 0;
+  height: auto;
+  width: 100%;
+}
+
+img[src$='.svg'] {
+  background: transparent;
+  border: 0;
+}
+
+.image-shadow {
+  position: relative;
+  transition-duration: 500ms;
+  transition-property: transform;
+  transition-timing-function: ease-in-out;
+
+  &::after {
+    box-shadow: $shadow-subtle-shade;
+    content: '';
+    height: 100%;
+    inset-block-start: 0;
+    inset-inline-start: 0;
+    opacity: 0;
+    position: absolute;
+    transition-duration: 500ms;
+    transition-property: opacity;
+    transition-timing-function: ease-in-out;
+    width: 100%;
+    z-index: -1;
+  }
+
+  &:hover,
+  &:focus {
+    transform: scale(1.03);
+
+    &::after {
+      opacity: 1;
+    }
+  }
+}
+
+figure {
+  border-radius: $radius-4;
+  margin-block-end: $space-55;
+  margin-block-start: 0;
+  margin-inline-end: 0;
+  margin-inline-start: 0;
+
+  &.light {
+    background: rgba(255, 255, 255, 0.8);
+    padding: $space-10;
+  }
+
+  &.dark {
+    background: rgba(0, 0, 0, 0.8);
+    padding: $space-10;
+  }
+}
+
+figcaption {
+  font-size: clamp(0.8rem, 0.8vw, 0.75rem);
+  text-align: start;
+}

@@ -1,7 +1,7 @@
 @define-placeholder color-swatch-base {
   height: 100vw;
   max-height: 200px;
-  max-width: 200px;
+  max-width: 300px;
   width: 100%;
 }
 
@@ -13,6 +13,13 @@
   inset-block-start: 0;
   inset-inline-start: 0;
   position: absolute;
+}
+
+.color-stack {
+  display: grid;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 }
 
 .color-swatch {

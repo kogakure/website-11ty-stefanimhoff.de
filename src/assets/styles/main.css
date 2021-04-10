@@ -10,6 +10,7 @@
 @import 'base/footer';
 @import 'base/legal';
 @import 'base/up-link';
+@import 'base/images-figures';
 
 /* Components */
 @import 'components/amazon-book';

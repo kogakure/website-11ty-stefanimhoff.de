@@ -45,7 +45,7 @@ module.exports = function (config) {
       layouts: 'layouts',
       output: 'dist',
     },
-    templateFormats: ['njk', 'md', '11ty.js'],
+    templateFormats: ['njk', 'md', '11ty.js', 'jpg', 'png', 'svg'],
     htmlTemplateEngine: 'njk',
     dataTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',

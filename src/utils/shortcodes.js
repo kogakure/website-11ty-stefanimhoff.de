@@ -2,8 +2,7 @@ module.exports = {
   amazonBook: function (asin, alt = '') {
     const amazonImageUrl = `https://images-na.ssl-images-amazon.com/images/P/${asin}.01.LZZZZZZZ.jpg`;
     const affiliateUrl = `http://www.amazon.de/gp/product/${asin}?ie=UTF8&tag=stefanimhoffde-21&linkCode=as2&camp=1638&creative=6742&creativeASIN=${asin}`;
-    const html = `
-    <a class="amazon-book" href="${affiliateUrl}" rel="nofollow noopener noreferrer external" target="_blank">
+    const html = `<a class="amazon-book" href="${affiliateUrl}" rel="nofollow noopener noreferrer external" target="_blank">
       <img
         alt="${alt}"
         class="amazon-book-cover"
@@ -33,15 +32,11 @@ module.exports = {
       titleHtml = '';
     }
 
-    const html = `
-    <div class="color-swatch ${hasBackside}" ${clickHandler}>
+    const html = `<div class="color-swatch ${hasBackside}" ${clickHandler}>
       <div class="color-swatch-flipper">
         <div class="color-swatch-front">
         <div class="color-swatch-color" style="background-color: ${color};"></div>
-        <div class="color-swatch-info">
-          ${titleHtml}
-          <p class="color-swatch-value">${color}</p>
-        </div>
+        <div class="color-swatch-info">${titleHtml}<p class="color-swatch-value">${color}</p></div>
       </div>
       <div class="color-swatch-back">
         <h2 class="color-swatch-back-title">Description</h2>
@@ -53,8 +48,7 @@ module.exports = {
     return html;
   },
   moreLink: function (text, url) {
-    const html = `
-    <a href="${url}">${text}<span class="more-icon">
+    const html = `<a href="${url}">${text}<span class="more-icon">
       <svg viewbox="0 0 24 24" width="1em" height="1em">
         <path fill="none" d="M0 0h24v24H0z" />
         <path d="M16.172 11l-5.364-5.364 1.414-1.414L20 12l-7.778 7.778-1.414-1.414L16.172 13H4v-2z" />
@@ -64,8 +58,7 @@ module.exports = {
     return html;
   },
   downloadLink: function (text, url) {
-    const html = `
-    <a href="${url}">${text}<span class="download-icon">
+    const html = `<a href="${url}">${text}<span class="download-icon">
       <svg viewbox="0 0 24 24" width="1em" height="1em">
         <path fill="none" d="M0 0h24v24H0z" />
         <path d="M3 19h18v2H3v-2zm10-5.828L19.071 7.1l1.414 1.414L12 17 3.515 8.515 4.929 7.1 11 13.17V2h2v11.172z" />
@@ -76,8 +69,7 @@ module.exports = {
   },
   protectedEmail: function (text, downloadLink = false) {
     const downloadText = 'Download public key (ProtonMail/GPG)';
-    const link = `
-    <a id="email" class="objuscated" href="mailto:hey (at) imhoff (dot) name">${text}</a>`;
+    const link = `<a id="email" class="objuscated" href="mailto:hey (at) imhoff (dot) name">${text}</a>`;
     const download = `
     <span id="lock-box" class="about-lock-box hidden">
       <a

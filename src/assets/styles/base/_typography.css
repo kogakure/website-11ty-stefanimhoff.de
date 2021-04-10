@@ -175,57 +175,6 @@ a {
 }
 
 /* ===================================
- * Images & Figures
- * ==================================*/
-
-img {
-  background-color: var(--color-border);
-  border-color: var(--color-border);
-  border-style: solid;
-  border-width: 1px;
-  display: block;
-  font-size: 0;
-  height: auto;
-  max-width: 100%;
-}
-
-.image-shadow {
-  position: relative;
-  transition-duration: 500ms;
-  transition-property: transform;
-  transition-timing-function: ease-in-out;
-
-  &::after {
-    box-shadow: $shadow-subtle-shade;
-    content: '';
-    height: 100%;
-    inset-block-start: 0;
-    inset-inline-start: 0;
-    opacity: 0;
-    position: absolute;
-    transition-duration: 500ms;
-    transition-property: opacity;
-    transition-timing-function: ease-in-out;
-    width: 100%;
-    z-index: -1;
-  }
-
-  &:hover,
-  &:focus {
-    transform: scale(1.03);
-
-    &::after {
-      opacity: 1;
-    }
-  }
-}
-
-figcaption {
-  font-size: clamp(0.8rem, 0.8vw, 0.75rem);
-  text-align: start;
-}
-
-/* ===================================
  * Helper
  * ==================================*/
 
