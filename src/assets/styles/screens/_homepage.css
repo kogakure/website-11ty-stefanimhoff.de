@@ -1,6 +1,10 @@
 .homepage-title {
   grid-column: 2 / -2;
   grid-row: 1;
+
+  & h1 {
+    letter-spacing: -0.04em;
+  }
 }
 
 @media (--desktop) {
