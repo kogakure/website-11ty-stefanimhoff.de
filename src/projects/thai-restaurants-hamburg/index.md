@@ -11,11 +11,11 @@ I learned a lot about Graphic Design while working on it. I created the complete
 ## Color Palette
 
 <div class="color-stack">
-  {% colorSwatch "#241701" %}
-  {% colorSwatch "#4B2E01" %}
-  {% colorSwatch "#6B3920" %}
-  {% colorSwatch "#C2BC8D" %}
-  {% colorSwatch "#D8BB34" %}
+  {% color "#241701" %}
+  {% color "#4B2E01" %}
+  {% color "#6B3920" %}
+  {% color "#C2BC8D" %}
+  {% color "#D8BB34" %}
 </div>
 
 ---

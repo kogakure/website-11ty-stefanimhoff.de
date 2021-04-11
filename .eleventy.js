@@ -14,11 +14,12 @@ module.exports = function (config) {
   config.addLayoutAlias('base', 'base.njk');
 
   // Shortcodes
-  config.addShortcode('protectedEmail', shortcodes.protectedEmail);
-  config.addShortcode('moreLink', shortcodes.moreLink);
-  config.addShortcode('downloadLink', shortcodes.downloadLink);
-  config.addShortcode('colorSwatch', shortcodes.colorSwatch);
-  config.addShortcode('amazonBook', shortcodes.amazonBook);
+  config.addShortcode('affiliate', shortcodes.affiliate);
+  config.addShortcode('book', shortcodes.book);
+  config.addShortcode('color', shortcodes.color);
+  config.addShortcode('download', shortcodes.download);
+  config.addShortcode('email', shortcodes.email);
+  config.addShortcode('more', shortcodes.more);
 
   // Filters
   Object.keys(filters).forEach((filterName) => {

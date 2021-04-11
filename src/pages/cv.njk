@@ -19,9 +19,9 @@ robots: "noindex,follow"
     <h3 class="cv-item-title">{{ cv.personal.name }}</h3>
     <p>{{ cv.personal.tagline }}</p>
     <a href="https://www.stefanimhoff.de">Website</a> /
-    {% protectedEmail "Email" %} /
-    {% downloadLink "CV", "/downloads/cv-stefan-imhoff.zip" %} /
-    {% downloadLink "VCard", "/downloads/business-card-stefan-imhoff.zip" %}
+    {% email "Email" %} /
+    {% download "CV", "/downloads/cv-stefan-imhoff.zip" %} /
+    {% download "VCard", "/downloads/business-card-stefan-imhoff.zip" %}
   </article>
 
   <hr class="cv-divider" />

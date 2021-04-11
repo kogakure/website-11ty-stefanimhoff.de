@@ -12,7 +12,7 @@ robots: "noindex,follow"
 Stefan Imhoff<br />
 Walter-Heitmann-Str. 2<br />
 22159 Hamburg<br />
-{% protectedEmail "Contact", true %}
+{% email "Contact", true %}
 
 ### Acknowledgments
 

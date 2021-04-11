@@ -81,7 +81,7 @@ permalink: /about/
 <section id="contact" class="about-contact" {{ site.animation }}>
   <h2 class="subheadline">Contact</h2>
   <p class="no-margin">You’ve got mail!</p>
-  <p>{% protectedEmail "Say hello.", true %}</p>
+  <p>{% email "Say hello.", true %}</p>
   <p class="no-margin">
     You can send me a text message on
     <a
@@ -92,11 +92,11 @@ permalink: /about/
     <a
       href="https://matrix.to/#/@kogakure:matrix.org"
       rel="nofollow noopener noreferrer"
-      target="_blank">Matrix</a> or anonymous on
+      target="_blank">Matrix</a> or anonymous with this <a href="/downloads/session-id.txt" target="_blank">ID</a> on
     <a
       href="https://getsession.org/"
       rel="nofollow noopener noreferrer"
-      target="_blank">Session</a>&nbsp;(<a href="/downloads/session-id.txt" target="_blank">ID</a>).
+      target="_blank">Session</a>&nbsp;.
   </p>
 </section>
 

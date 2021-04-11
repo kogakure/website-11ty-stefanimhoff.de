@@ -1,5 +1,12 @@
 module.exports = {
-  amazonBook: function (asin, alt = '') {
+  affiliate: function (text, asin) {
+    const affiliateLink = `http://www.amazon.de/gp/product/${asin}?ie=UTF8&tag=stefanimhoffde-21&linkCode=as2&camp=1638&creative=6742&creativeASIN=${asin}`;
+    const html = `<a rel="nofollow noopener noreferrer" target="_blank"
+href="${affiliateLink}">${text}</a>`;
+
+    return html;
+  },
+  book: function (asin, alt = '') {
     const amazonImageUrl = `https://images-na.ssl-images-amazon.com/images/P/${asin}.01.LZZZZZZZ.jpg`;
     const affiliateUrl = `http://www.amazon.de/gp/product/${asin}?ie=UTF8&tag=stefanimhoffde-21&linkCode=as2&camp=1638&creative=6742&creativeASIN=${asin}`;
     const html = `<a class="amazon-book" href="${affiliateUrl}" rel="nofollow noopener noreferrer external" target="_blank">
@@ -12,17 +19,23 @@ module.exports = {
 
     return html;
   },
-  colorSwatch: function (color, title = false, description = false) {
+  color: function (color, title = false, description = false) {
     const activeClass = 'color-swatch--is-active';
-    let hasBackside;
     let clickHandler;
+    let descriptionHeadline;
+    let descriptionText;
+    let hasBackside;
     let titleHtml;
 
     if (description) {
-      hasBackside = 'has-backside';
       clickHandler = `onClick="this.classList.toggle('${activeClass}')"`;
+      descriptionHeadline = 'Description';
+      descriptionText = description;
+      hasBackside = 'has-backside';
     } else {
       clickHandler = '';
+      descriptionHeadline = '';
+      descriptionText = '';
       hasBackside = '';
     }
 
@@ -39,15 +52,15 @@ module.exports = {
         <div class="color-swatch-info">${titleHtml}<p class="color-swatch-value">${color}</p></div>
       </div>
       <div class="color-swatch-back">
-        <h2 class="color-swatch-back-title">Description</h2>
-        ${description}
+        <h2 class="color-swatch-back-title">${descriptionHeadline}</h2>
+        <p>${descriptionText}</p>
       </div>
     </div>
   </div>`;
 
     return html;
   },
-  moreLink: function (text, url, external = false) {
+  more: function (text, url, external = false) {
     let externalLink;
 
     if (external) {
@@ -66,7 +79,7 @@ module.exports = {
 
     return html;
   },
-  downloadLink: function (text, url) {
+  download: function (text, url) {
     const html = `<a href="${url}">${text}<span class="download-icon">
       <svg viewbox="0 0 24 24" width="1em" height="1em">
         <path fill="none" d="M0 0h24v24H0z" />
@@ -76,10 +89,10 @@ module.exports = {
 
     return html;
   },
-  protectedEmail: function (text, downloadLink = false) {
+  email: function (text, key = false) {
     const downloadText = 'Download public key (ProtonMail/GPG)';
     const link = `<a id="email" class="objuscated" href="mailto:hey (at) imhoff (dot) name">${text}</a>`;
-    const download = `
+    const keyDownload = `
     <span id="lock-box" class="about-lock-box hidden">
       <a
         title="${downloadText}"
@@ -93,6 +106,6 @@ module.exports = {
       </a>
     </span>`;
 
-    return `${link} ${downloadLink ? download : ''}`;
+    return `${link} ${key ? keyDownload : ''}`;
   },
 };

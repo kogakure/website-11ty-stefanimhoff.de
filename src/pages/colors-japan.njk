@@ -25,18 +25,18 @@ permalink: /traditional-colors-of-japan/
       download the file or browse all colors on this page.
     </p>
     <p>
-      {% downloadLink "Download the Color Palette", "/downloads/traditional-colors-of-japan-rgb.zip" %}
+      {% download "Download the Color Palette", "/downloads/traditional-colors-of-japan-rgb.zip" %}
     </p>
   </article>
 
   <article class="color-japan-books" {{ site.animation }}>
-    {% amazonBook "475624100X", "The Traditional Colors of Japan" %}
-    {% amazonBook "475624114X", "Traditional Japanese Color Palette" %}
+    {% book "475624100X", "The Traditional Colors of Japan" %}
+    {% book "475624114X", "Traditional Japanese Color Palette" %}
   </article>
 
   <article class="color-japan-grid">
     {% for item in colorsJapan %}
-      {% colorSwatch item.color, item.name, item.description %}
+      {% color item.color, item.name, item.description %}
     {% endfor %}
   </article>
 </section>
