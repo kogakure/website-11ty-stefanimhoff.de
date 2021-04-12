@@ -3,6 +3,7 @@
  * ==================================*/
 
 .page-content {
+  display: flex;
   flex-grow: 1;
 }
 

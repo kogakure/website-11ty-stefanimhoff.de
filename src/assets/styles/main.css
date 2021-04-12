@@ -1,24 +1,7 @@
-@import '../../../node_modules/sal.js/dist/sal.css';
-
-.no-js {
-  [data-sal|='fade'] {
-    opacity: 1;
-  }
-
-  [data-sal|='slide'],
-  [data-sal|='zoom'] {
-    opacity: 1;
-    transform: none;
-  }
-
-  [data-sal|='flip'] {
-    transform: none;
-  }
-}
-
 /* Base */
 @import 'base/normalize';
 @import 'base/variables';
+@import 'base/scroll-reveal';
 @import 'base/fonts';
 @import 'base/typography';
 @import 'base/images-figures';
@@ -39,6 +22,7 @@
 @import 'screens/error-404';
 @import 'screens/homepage';
 @import 'screens/projects';
+@import 'screens/sketchnotes';
 
 /* Components */
 @import 'components/amazon-book';

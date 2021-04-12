@@ -1,0 +1,124 @@
+.sketchnotes-title {
+  grid-column: 2 / -2;
+  grid-row: 1;
+  margin-block-end: 0;
+  z-index: 1;
+}
+
+@media (--tablet) {
+  .sketchnotes-title {
+    grid-column: 3 / -3;
+  }
+}
+
+.sketchnotes-grid {
+  display: grid;
+  grid-auto-flow: row dense;
+  grid-auto-rows: 15px;
+  grid-column: 2 / -2;
+  grid-gap: 15px;
+  grid-row: 2;
+  grid-template-columns: repeat(auto-fit, minmax(15px, 1fr));
+  grid-template-rows: 15px;
+}
+
+@media (--tablet) {
+  .sketchnotes-grid {
+    grid-auto-rows: 30px;
+    grid-gap: 30px;
+    grid-template-columns: repeat(auto-fit, minmax(30px, 1fr));
+    grid-template-rows: 30px;
+  }
+}
+
+@media (--desktop) {
+  .sketchnotes-grid {
+    grid-auto-rows: 45px;
+    grid-gap: 45px;
+    grid-template-columns: repeat(auto-fit, minmax(45px, 1fr));
+    grid-template-rows: 45px;
+  }
+}
+
+.sketchnotes-item {
+  display: block;
+  grid-column: span 3;
+  grid-row: span 3;
+}
+
+.sketchnotes-item-medium {
+  grid-column: span 6;
+  grid-row: span 6;
+}
+
+.sketchnotes-item-large {
+  grid-column: span 9;
+  grid-row: span 9;
+}
+
+.sketchnotes-image {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.layout-sketchnotes-detail {
+  align-items: center;
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+}
+
+.sketchnotes-detail {
+  border-radius: 0;
+  display: flex;
+  flex-direction: column;
+  margin-block-end: 0;
+  margin-inline-end: auto;
+  margin-inline-start: auto;
+  max-height: calc(100vh - (clamp(4.5rem, $space-55 * 2, 13.5rem) * 2));
+  width: 85vw;
+}
+
+.sketchnotes-detail.portrait {
+  height: calc(4 / 3 * 85vw);
+  max-width: calc(
+    3 / 4 * calc(100vh - (clamp(4.5rem, $space-55 * 2, 13.5rem) * 2))
+  );
+}
+
+.sketchnotes-detail.portrait.sketchnote--has-caption {
+  max-width: calc(
+    3 / 4 * calc(100vh - 5vh - (clamp(4.5rem, $space-55 * 2, 13.5rem) * 2))
+  );
+}
+
+.sketchnotes-detail.landscape {
+  height: calc(3 / 4 * 85vw);
+  max-width: calc(
+    4 / 3 * calc(100vh - (clamp(4.5rem, $space-55 * 2, 13.5rem) * 2))
+  );
+}
+
+.sketchnotes-detail.landscape.sketchnote--has-caption {
+  max-width: calc(
+    4 / 3 * calc(100vh - 5vh - (clamp(4.5rem, $space-55 * 2, 13.5rem) * 2))
+  );
+}
+
+.sketchnotes-detail.square {
+  height: 85vw;
+  max-width: calc(calc(100vh - (clamp(4.5rem, $space-55 * 2, 13.5rem) * 2)));
+}
+
+.sketchnotes-detail.square.sketchnote--has-caption {
+  max-width: calc(
+    calc(100vh - 5vh - (clamp(4.5rem, $space-55 * 2, 13.5rem) * 2))
+  );
+}
+
+.sketchnotes-detail-caption {
+  flex-shrink: 1;
+  margin-block-end: $space-55;
+  margin-block-start: $space-1;
+}
