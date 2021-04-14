@@ -7,6 +7,7 @@
 @import 'base/images-figures';
 
 /* Layout */
+@import 'layout/back-link';
 @import 'layout/base';
 @import 'layout/footer';
 @import 'layout/header';
@@ -20,6 +21,7 @@
 @import 'screens/colors-japan';
 @import 'screens/cv';
 @import 'screens/error-404';
+@import 'screens/haiku';
 @import 'screens/homepage';
 @import 'screens/projects';
 @import 'screens/sketchnotes';

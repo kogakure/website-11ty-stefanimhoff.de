@@ -2,5 +2,6 @@
   "layout": "projects",
   "permalink": "projects/{{ page.fileSlug }}/",
   "tags": "projects",
-  "templateEngineOverride": "njk,md"
+  "templateEngineOverride": "njk,md",
+  "backLink": "/projects/"
 }

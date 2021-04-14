@@ -1,0 +1,43 @@
+---
+layout: haiku-detail
+pagination:
+  data: haikus
+  size: 1
+  alias: haiku 
+permalink: "/haiku/{{ haiku.id }}/"
+backLink: /haiku/
+---
+
+<div class="haiku-detail-column">
+  <pre class="haiku-detail-verse"><div {{ site.animation }}>{{ haiku.de }}</div></pre>
+</div>
+
+<div class="haiku-detail-column haiku-detail-column--dark">
+  <pre class="haiku-detail-verse"><div {{ site.animationDelay }}>{{ haiku.en }}</div></pre>
+</div>
+
+{% set nextPost = pagination.page.next %}
+{% set previousPost = pagination.page.previous %}
+
+{% if previousPost %}
+  <a 
+    href="/haiku/{{ previousPost.id }}/" 
+    class="pagination pagination-start" 
+    aria-label="Haiku {{ previousPost.id }}" 
+    title="Haiku {{ previousPost.id }}"
+  >
+    {% include "pagination-left-arrow.njk" %}
+  </a>
+{% endif %}
+
+{% if nextPost %}
+  <a 
+    href="/haiku/{{ nextPost.id }}/" 
+    class="pagination pagination-end" 
+    aria-label="Haiku {{ nextPost.id }}" 
+    title="Haiku {{ nextPost.id }}"
+  >
+    {% include "pagination-right-arrow.njk" %}
+  </a>
+{% endif %}
+

@@ -20,7 +20,7 @@ body {
   display: flex;
   flex-direction: column;
   font-family: $font-family-base;
-  font-weight: 400;
+  font-weight: $font-weight-normal;
   height: 100vh;
   line-height: 1.6;
 }
@@ -38,7 +38,7 @@ h6,
 .title,
 .headline,
 .subheadline {
-  font-weight: 900;
+  font-weight: $font-weight-black;
   letter-spacing: -0.02em;
   line-height: $line-height-1;
   margin-block-start: 0;
@@ -84,13 +84,13 @@ h6:first-of-type {
 .dark .title,
 .dark .headline,
 .dark .subheadline {
-  font-weight: 800;
+  font-weight: $font-weight-extra-bold;
 }
 
 p,
 .paragraph {
   font-size: $font-size-3;
-  font-weight: 400;
+  font-weight: $font-weight-normal;
   letter-spacing: normal;
   line-height: $line-height-2;
   margin-block-end: $space-10;
@@ -103,7 +103,7 @@ p:last-of-type {
 
 .dark p,
 .dark .paragraph {
-  font-weight: 300;
+  font-weight: $font-weight-light;
 }
 
 ul {
@@ -163,7 +163,7 @@ q[lang|='en'] {
 
 a {
   color: var(--color-fg);
-  font-weight: 600;
+  font-weight: $font-weight-semi-bold;
   text-decoration: underline;
   text-decoration-color: var(--color-fg-soft);
   text-decoration-thickness: 0.2em;

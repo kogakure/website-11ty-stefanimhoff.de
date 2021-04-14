@@ -27,7 +27,7 @@
 .error-404-huge {
   color: var(--color-fg-feather);
   font-size: $font-size-9;
-  font-weight: 900;
+  font-weight: $font-weight-black;
   grid-column: -9 / -3;
   grid-row: 2 / 4;
   line-height: 0.6;

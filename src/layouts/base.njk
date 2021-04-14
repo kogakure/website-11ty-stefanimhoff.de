@@ -24,11 +24,7 @@
     {% include "robots.njk" %}
   </head>
   <body {% if bodyClass %}class="{{ bodyClass }}"{% endif %}>
-    {% include "page-header.njk" %}
-    <main class="page-content">
-      {{ content | safe }}
-    </main>
-    {% include "page-footer.njk" %}
+    {{ content | safe }}
     {% include "scripts.njk" %}
   </body>
 </html>

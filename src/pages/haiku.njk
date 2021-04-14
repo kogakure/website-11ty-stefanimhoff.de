@@ -1,0 +1,40 @@
+---
+title: Haiku
+layout: fullsize
+permalink: /haiku/
+---
+
+<h1 class="haiku-title no-margin">{{ title }}</h1>
+
+<div class="haiku-introduction" {{ site.animationDelay }}>
+  <p>
+    Haiku (jap. 俳句) is a short form of Japanese poetry
+    in three phrases, typically characterized by three qualities:
+  </p>
+  <ol>
+    <li>
+      The essence of haiku is <dfn title="cutting">kiru</dfn> (cutting). This
+      is often represented by the juxtaposition of two images or ideas and a
+      <dfn title="cutting word">kireji</dfn> (cutting word) between them.
+    </li>
+    <li>
+      Traditional haiku often consist of 17 syllables, in three phrases of 5,
+      7, and 5.
+    </li>
+    <li>
+      A <dfn title="seasonal reference">kigo</dfn> (seasonal reference) with
+      topics as season, heaven, earth, humanity, observances, animals, or
+      plants.
+    </li>
+  </ol>
+</div>
+
+<div class="haiku-haiku" {{ site.animationDelay }}>
+  <ol class="haiku-list">
+  {% for haiku in haikus %}
+    <li class="haiku-list-item">
+      <a class="haiku-list-link" arial-label="Haiku {{ haiku.id }}" href="/haiku/{{ haiku.id }}/">{{ haiku.id }}</a>
+    </li>
+  {% endfor %}
+  </ol>
+</div>

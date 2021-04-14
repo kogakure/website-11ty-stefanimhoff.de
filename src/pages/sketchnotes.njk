@@ -8,7 +8,7 @@ permalink: /sketchnotes/
 
 <article class="sketchnotes-grid">
 {% for sketchnote in sketchnotes %}
-  <a class="sketchnotes-item image-shadow {{ sketchnote.class }}" href="{{ sketchnote.title | slug }}">
+  <a class="sketchnotes-item image-shadow {{ sketchnote.class }}" href="{{ sketchnote.title | slug }}" {{ site.animation }}>
     <img class="sketchnotes-image" src="{{ sketchnote.image }}"/>
   </a>
 {% endfor %}

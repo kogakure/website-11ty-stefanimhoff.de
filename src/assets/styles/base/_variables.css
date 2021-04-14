@@ -28,8 +28,14 @@ $font-size-8: clamp(4.5rem, 12.2vw, 13.87rem);
 $font-size-9: clamp(5.5rem, 28.7vw, 22.43rem);
 
 /* Font Weights */
+$font-weight-thin: 100;
+$font-weight-extra-light: 200;
+$font-weight-light: 300;
 $font-weight-normal: 400;
-$font-weight-bold: 600;
+$font-weight-medium: 500;
+$font-weight-semi-bold: 600;
+$font-weight-bold: 700;
+$font-weight-extra-bold: 800;
 $font-weight-black: 900;
 
 /* Line Heights */
@@ -87,6 +93,7 @@ $transition-duration-5: 500ms;
 .light {
   --color-bg-full: #ffffff;
   --color-bg: hsl(40, 7%, 90%);
+  --color-bg-dark: hsl(40, 7%, 80%);
   --color-border: rgb(185, 184, 182);
   --color-fg-feather-inverse: rgba(255, 255, 255, 0.05);
   --color-fg-feather: rgba(0, 0, 0, 0.05);
@@ -104,6 +111,7 @@ $transition-duration-5: 500ms;
 .dark {
   --color-bg-full: #000000;
   --color-bg: hsl(40, 7%, 10%);
+  --color-bg-dark: hsl(40, 7%, 5%);
   --color-border: rgb(73, 72, 70);
   --color-fg-feather-inverse: rgba(0, 0, 0, 0.05);
   --color-fg-feather: rgba(255, 255, 255, 0.05);
