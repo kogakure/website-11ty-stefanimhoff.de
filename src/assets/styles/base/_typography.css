@@ -112,6 +112,10 @@ ul {
   margin-block-end: $space-12;
   padding-inline-start: 1.2em;
 
+  li {
+    margin-block-end: $space-4;
+  }
+
   li & {
     margin-block-end: 0;
     padding-inline-start: 2rem;
@@ -124,13 +128,34 @@ ul {
   }
 }
 
+ol {
+  font-size: $font-size-3;
+  margin-block-end: $space-12;
+  padding-inline-start: 1.2em;
+
+  li {
+    margin-block-end: $space-4;
+  }
+
+  li & {
+    margin-block-end: 0;
+    padding-inline-start: 2rem;
+  }
+}
+
+@media (--tablet) {
+  ol {
+    padding-inline-start: 0;
+  }
+}
+
 del {
-  text-decoration-thickness: 0.1em;
+  text-decoration-thickness: 0.15em;
 }
 
 ins {
-  text-decoration-style: wavy;
-  text-decoration-thickness: 0.05em;
+  text-decoration-style: solid;
+  text-decoration-thickness: 0.15em;
 }
 
 abbr {
@@ -150,11 +175,52 @@ pre {
   cursor: help;
 }
 
+/* ===================================
+ * Quotes
+ * ==================================*/
+
 [lang|='en'] blockquote,
 blockquote[lang|='en'],
 [lang|='en'] q,
 q[lang|='en'] {
   quotes: '“' '”' '‘' '’';
+}
+
+.pullquote {
+  padding-block-end: $space-9;
+  padding-block-start: $space-9;
+  text-align: center;
+
+  & p {
+    font-size: $font-size-4;
+    font-weight: $font-weight-extra-bold;
+    line-height: $line-height-1;
+    margin: 0;
+  }
+
+  & p:first-child::before {
+    content: open-quote;
+    font-style: normal;
+  }
+
+  & p:nth-of-type(1):first-letter {
+    margin-left: -0.4em;
+  }
+
+  & p:nth-last-of-type(1)::after {
+    content: close-quote;
+    font-style: normal;
+  }
+
+  footer {
+    font-size: $font-size-2;
+    font-weight: normal;
+    margin-top: $space-6;
+  }
+
+  b {
+    font-style: normal;
+  }
 }
 
 /* ===================================

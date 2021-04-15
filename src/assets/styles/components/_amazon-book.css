@@ -5,7 +5,8 @@
   flex-grow: 1;
   flex-shrink: 1;
   height: auto;
-  max-width: 100%;
+  justify-self: center;
+  max-width: 250px;
   overflow: hidden;
   position: relative;
   transition-duration: 500ms;
@@ -57,4 +58,13 @@
   &:focus::after {
     opacity: 1;
   }
+}
+
+.book-shelf {
+  display: grid;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  margin-block-end: $space-10;
+  margin-block-start: 0;
 }

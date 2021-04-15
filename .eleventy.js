@@ -24,6 +24,7 @@ module.exports = function (config) {
   config.addShortcode('download', shortcodes.download);
   config.addShortcode('email', shortcodes.email);
   config.addShortcode('more', shortcodes.more);
+  config.addPairedShortcode('bookshelf', shortcodes.bookshelf);
 
   // Filters
   Object.keys(filters).forEach((filterName) => {

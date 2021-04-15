@@ -23,6 +23,7 @@
 @import 'screens/error-404';
 @import 'screens/haiku';
 @import 'screens/homepage';
+@import 'screens/journal';
 @import 'screens/projects';
 @import 'screens/sketchnotes';
 

@@ -19,6 +19,9 @@ href="${affiliateLink}">${text}</a>`;
 
     return html;
   },
+  bookshelf: function (content) {
+    return `<div class="book-shelf">${content}</div>`;
+  },
   color: function (color, title = false, description = false) {
     const activeClass = 'color-swatch--is-active';
     let clickHandler;
