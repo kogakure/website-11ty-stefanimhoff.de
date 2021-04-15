@@ -1,7 +1,11 @@
+const readingTime = require('eleventy-plugin-reading-time');
 const filters = require('./src/utils/filters.js');
 const shortcodes = require('./src/utils/shortcodes.js');
 
 module.exports = function (config) {
+  // Plugins
+  config.addPlugin(readingTime);
+
   // Compress and combine JS files
   config.addFilter('jsmin', require('./src/utils/minify-js.js'));
 
