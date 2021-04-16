@@ -1,9 +1,12 @@
+const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const readingTime = require('eleventy-plugin-reading-time');
+
 const filters = require('./src/utils/filters.js');
 const shortcodes = require('./src/utils/shortcodes.js');
 
 module.exports = function (config) {
   // Plugins
+  config.addPlugin(syntaxHighlight);
   config.addPlugin(readingTime);
 
   // Compress and combine JS files
@@ -25,6 +28,7 @@ module.exports = function (config) {
   config.addShortcode('email', shortcodes.email);
   config.addShortcode('more', shortcodes.more);
   config.addPairedShortcode('bookshelf', shortcodes.bookshelf);
+  config.addPairedShortcode('banner', shortcodes.banner);
 
   // Filters
   Object.keys(filters).forEach((filterName) => {

@@ -8,6 +8,7 @@
 }
 
 .journal-title {
+  font-size: $font-size-6;
   grid-column: 2 / -2;
   grid-row: 1;
   margin-block-end: 0;
@@ -54,15 +55,18 @@
     grid-column: 7 / -7;
   }
 
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  .subheadline {
+  h2 {
     font-size: $font-size-4;
     margin-block-end: $space-8;
     margin-block-start: $space-14;
+  }
+
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: $font-size-3;
+    margin-block-start: $space-10 !important;
   }
 
   h2:first-of-type,

@@ -109,7 +109,7 @@ ul {
   padding-inline-start: 1.2em;
 
   li {
-    margin-block-end: $space-4;
+    margin-block-end: $space-2;
   }
 
   li & {
@@ -130,7 +130,7 @@ ol {
   padding-inline-start: 1.2em;
 
   li {
-    margin-block-end: $space-4;
+    margin-block-end: $space-2;
   }
 
   li & {
@@ -155,20 +155,49 @@ ins {
   text-decoration-thickness: 0.15em;
 }
 
+mark {
+  background-color: rgba(230, 240, 40, 0.7);
+  border-color: rgba(0, 0, 0, 0.1);
+  border-radius: 0.25em;
+  box-shadow: $shadow-dark-inset;
+  color: rgba(0, 0, 0, 0.75);
+  padding-block-end: 0.4em;
+  padding-block-start: 0.4em;
+  padding-inline-end: 0.3em;
+  padding-inline-start: 0.3em;
+}
+
 /** Code, Sample, Abbreviation, Keyboard Shortcuts etc. */
 pre {
   white-space: pre;
 }
 
-p code {
+p code,
+samp {
   background-color: var(--color-bg-code);
-  border-radius: $radius-4;
+  border-radius: 0.3em;
   color: var(--color-fg-code);
   padding-block-end: $space-1;
   padding-block-start: $space-1;
   padding-inline-end: $space-3;
   padding-inline-start: $space-3;
   white-space: normal;
+}
+
+kbd {
+  background-color: #f7f7f7;
+  border-color: #cccccc;
+  border-style: solid;
+  border-width: $border-width-1;
+  box-shadow: $shadow-beveled-keyboard;
+  color: #333333;
+  display: inline-block;
+  font-size: $font-size-2;
+  font-weight: 700;
+  line-height: 1.4;
+  padding: 0.3em 0.6em 0.1em;
+  text-shadow: $shadow-white-outline;
+  white-space: nowrap;
 }
 
 abbr {
@@ -192,6 +221,59 @@ q[lang|='en'] {
   quotes: '“' '”' '‘' '’';
 }
 
+blockquote {
+  margin-block-end: $space-12;
+  margin-block-start: $space-12;
+  margin-inline-end: $space-8;
+  margin-inline-start: $space-8;
+  position: relative;
+
+  @media (--tablet) {
+    margin-inline-end: $space-10;
+    margin-inline-start: $space-10;
+  }
+
+  &::before {
+    color: var(--color-accent);
+    content: '“';
+    font-family: Trebuchet MS, Georgia, serif;
+    font-size: $font-size-6;
+    height: 0.6em;
+    left: -0.55em;
+    position: absolute;
+    top: -0.55em;
+  }
+
+  p {
+    font-size: $font-size-3;
+    font-style: italic;
+    font-weight: $font-weight-extra-light;
+
+    &:nth-last-child(2) {
+      margin-block-end: $space-2;
+    }
+
+    & strong {
+      font-size: $font-size-3;
+      font-style: normal;
+      font-weight: $font-weight-bold;
+
+      &::before {
+        content: '—';
+        font-weight: $font-weight-light;
+        left: -0.8em;
+        position: absolute;
+      }
+    }
+
+    & em {
+      font-size: $font-size-3;
+      font-weight: $font-weight-normal;
+      font-weight: $font-weight-extra-light;
+    }
+  }
+}
+
 q {
   font-style: italic;
 
@@ -210,6 +292,10 @@ q {
   padding-block-end: $space-9;
   padding-block-start: $space-9;
   text-align: center;
+
+  &::before {
+    display: none;
+  }
 
   & p {
     font-size: $font-size-4;

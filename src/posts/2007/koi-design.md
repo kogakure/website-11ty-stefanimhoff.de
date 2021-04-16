@@ -39,7 +39,7 @@ In addition to gods, mythical creatures and demons, the most important source of
 
 ## Water Margin
 
-![Captain Lu-Ta, the flowery monk](/assets/images/posts/koi-design/suikoden-luta.jpg "Motif from Suikoden by Kuniyoshi: Captain Lu-Ta, the flowery monk, smashes a tree with a blow to impress a gang of good-for-nothings.")
+![Captain Lu-Ta, the flowery monk](/assets/images/posts/suikoden-luta.jpg "Motif from Suikoden by Kuniyoshi: Captain Lu-Ta, the flowery monk, smashes a tree with a blow to impress a gang of good-for-nothings.")
 
 In short, it is about a band of robbers of 108 heroic men and women, each of whom is forced into lawless life by adverse circumstances, and entrenching themselves on a fortified island in Liang-Shan marsh, where they go on a rampant raid for years. They fight against corrupt officials of the emperor and numerous villains. The story is true in parts and should have taken place in the Song Dynasty.
 
@@ -51,7 +51,7 @@ The motif I chose for my design shows a koi (carp) trying to swim up the heavy r
 
 Legend has it that a koi, who manages to swim up the magical waterfalls, transforms into a dragon. After another 500 years, he turns into a horned dragon and after 1000 years into a winged dragon. Thus, the next design should probably show a dragon.
 
-![Design: Digital Irezumi](/assets/images/posts/koi-design/design-koi.jpg "Koi floating up the Longmen Waterfalls. It contains typical elements such as leaves, flowers and wave crests.")
+![Design: Digital Irezumi](/assets/images/posts/design-koi.jpg "Koi floating up the Longmen Waterfalls. It contains typical elements such as leaves, flowers and wave crests.")
 
 The hardest part of my design was how much tattooing to see on the page. While the real Japanese tattoo lives on the surface, leaving nothing to feet, hands and a small front area, such a large area would have made the page too restless and too distracted from the content. To make matters worse, there is actually no real end to such work. But on the internet you’re space is limited by the edges of the browser.
 

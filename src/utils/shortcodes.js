@@ -22,6 +22,17 @@ href="${affiliateLink}">${text}</a>`;
   bookshelf: function (content) {
     return `<div class="book-shelf">${content}</div>`;
   },
+  banner: function (content, summary, open = false) {
+    let isOpen;
+
+    if (open) {
+      isOpen = 'open';
+    } else {
+      isOpen = '';
+    }
+
+    return `<aside><details ${isOpen} class="banner"><summary>${summary}</summary>${content}</details></aside>`;
+  },
   color: function (color, title = false, description = false) {
     const activeClass = 'color-swatch--is-active';
     let clickHandler;

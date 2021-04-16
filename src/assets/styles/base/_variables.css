@@ -53,7 +53,7 @@ $radius-50: 50%;
 $shadow-subtle-shade: 0 0 50px rgba(0, 0, 0, 0.2);
 $shadow-beveled-keyboard: 0 1px 0 rgba(0, 0, 0, 0.2), inset 0 0 0 2px #ffffff;
 $shadow-white-outline: 0 1px 0 #ffffff;
-$shadow-dark-inset: inset 0 0 10px rgba(0, 0, 0, 0.2);
+$shadow-dark-inset: inset 0 0 5px rgba(0, 0, 0, 0.15);
 
 /** Space */
 $space-1: 0.335rem;

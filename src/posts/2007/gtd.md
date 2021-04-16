@@ -23,7 +23,7 @@ In any case, I think that one _gets_ the everyday madness governed by Allen’s 
 
 ## The GTD Basics
 
-![My desk before](/assets/images/posts/gtd/gtd-before.jpg "This is what the inbox looked like before I sorted all loose ends")
+![My desk before](/assets/images/posts/gtd-before.jpg "This is what the inbox looked like before I sorted all loose ends")
 
 GTD uses so-called _contexts_, which are certain situations/places to which a task is assigned (telephone, home, care or similar). Besides, there can be an allocation to a _project_.
 
@@ -41,7 +41,7 @@ Tasks can also be delegated or assigned to certain times. If you have to wait fo
 
 ## GTD in Everyday Life
 
-![My desk afterwards](/assets/images/posts/gtd/gtd-after.jpg "This is what the inbox looked like after sorting all loose ends")
+![My desk afterwards](/assets/images/posts/gtd-after.jpg "This is what the inbox looked like after sorting all loose ends")
 
 At first glance, GTD may look complicated or awkward, but it helps immensely to keep the head off pondering.
 

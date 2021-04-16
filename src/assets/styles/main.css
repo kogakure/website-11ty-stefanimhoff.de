@@ -5,6 +5,7 @@
 @import 'base/fonts';
 @import 'base/typography';
 @import 'base/images-figures';
+@import 'base/syntax-highlighting';
 
 /* Layout */
 @import 'layout/back-link';
@@ -28,6 +29,7 @@
 @import 'screens/sketchnotes';
 
 /* Components */
+@import 'components/banner';
 @import 'components/book';
 @import 'components/color-swatch';
 @import 'components/divider';
