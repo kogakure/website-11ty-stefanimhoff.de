@@ -9,10 +9,10 @@
 /* Layout */
 @import 'layout/back-link';
 @import 'layout/base';
-@import 'layout/footer';
-@import 'layout/header';
 @import 'layout/legal';
 @import 'layout/navigation';
+@import 'layout/page-footer';
+@import 'layout/page-header';
 @import 'layout/theme-toggle';
 @import 'layout/up-link';
 
@@ -28,7 +28,7 @@
 @import 'screens/sketchnotes';
 
 /* Components */
-@import 'components/amazon-book';
+@import 'components/book';
 @import 'components/color-swatch';
 @import 'components/divider';
 @import 'components/download-link';

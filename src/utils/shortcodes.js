@@ -9,10 +9,10 @@ href="${affiliateLink}">${text}</a>`;
   book: function (asin, alt = '') {
     const amazonImageUrl = `https://images-na.ssl-images-amazon.com/images/P/${asin}.01.LZZZZZZZ.jpg`;
     const affiliateUrl = `http://www.amazon.de/gp/product/${asin}?ie=UTF8&tag=stefanimhoffde-21&linkCode=as2&camp=1638&creative=6742&creativeASIN=${asin}`;
-    const html = `<a class="amazon-book" href="${affiliateUrl}" rel="nofollow noopener noreferrer external" target="_blank">
+    const html = `<a class="book" href="${affiliateUrl}" rel="nofollow noopener noreferrer external" target="_blank">
       <img
         alt="${alt}"
-        class="amazon-book-cover"
+        class="book-cover"
         src="${amazonImageUrl}"
       />
     </a>`;

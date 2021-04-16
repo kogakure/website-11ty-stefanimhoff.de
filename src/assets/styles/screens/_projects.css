@@ -1,7 +1,4 @@
-/* ===================================
- * Projects
- * ==================================*/
-
+/** Projects */
 .projects-title {
   grid-column: 2 / -2;
   grid-row: 1;
@@ -51,10 +48,7 @@
   margin: 0;
 }
 
-/* ===================================
- * Projects Layout 50/50
- * ==================================*/
-
+/** Projects Layout 50/50 */
 @define-placeholder project-layout-50 {
   column-gap: $space-55;
   display: grid;
@@ -155,10 +149,7 @@
   }
 }
 
-/* ===================================
- * Projects Layout 70/30
- * ==================================*/
-
+/** Projects Layout 70/30 */
 @define-placeholder project-layout-70 {
   column-gap: $space-55;
   display: grid;
@@ -255,10 +246,7 @@
   }
 }
 
-/* ===================================
- * Projects Layout 100
- * ==================================*/
-
+/** Projects Layout 100 */
 @define-placeholder project-layout-100 {
   column-gap: $space-55;
   display: grid;
@@ -371,10 +359,7 @@
   border: 0;
 }
 
-/* ===================================
- * Projects Detail
- * ==================================*/
-
+/** Projects Detail Page */
 .projects-detail {
   display: grid;
   grid-template-columns: $grid-wide;

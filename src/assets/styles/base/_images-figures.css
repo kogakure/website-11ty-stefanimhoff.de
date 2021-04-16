@@ -1,7 +1,4 @@
-/* ===================================
- * Images & Figures
- * ==================================*/
-
+/** Image */
 img {
   background-color: var(--color-border);
   border-color: var(--color-border);
@@ -49,6 +46,7 @@ img[src$='.svg'] {
   }
 }
 
+/** Figure & Caption */
 figure {
   border-radius: $radius-4;
   margin-block-end: $space-55;

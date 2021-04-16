@@ -1,7 +1,4 @@
-/* ===================================
- * Base
- * ==================================*/
-
+/** Base */
 html {
   box-sizing: border-box;
   font-size: 100%;
@@ -25,10 +22,7 @@ body {
   line-height: 1.6;
 }
 
-/* ===================================
- * Text Styles
- * ==================================*/
-
+/** Headlines */
 h1,
 h2,
 h3,
@@ -87,6 +81,7 @@ h6:first-of-type {
   font-weight: $font-weight-extra-bold;
 }
 
+/** Paragraph */
 p,
 .paragraph {
   font-size: $font-size-3;
@@ -106,6 +101,7 @@ p:last-of-type {
   font-weight: $font-weight-light;
 }
 
+/** Lists */
 ul {
   font-size: $font-size-3;
   list-style-type: circle;
@@ -149,6 +145,7 @@ ol {
   }
 }
 
+/** Critic Markup */
 del {
   text-decoration-thickness: 0.15em;
 }
@@ -158,32 +155,55 @@ ins {
   text-decoration-thickness: 0.15em;
 }
 
-abbr {
-  font-variant: small-caps;
-}
-
+/** Code, Sample, Abbreviation, Keyboard Shortcuts etc. */
 pre {
   white-space: pre;
 }
 
+p code {
+  background-color: var(--color-bg-code);
+  border-radius: $radius-4;
+  color: var(--color-fg-code);
+  padding-block-end: $space-1;
+  padding-block-start: $space-1;
+  padding-inline-end: $space-3;
+  padding-inline-start: $space-3;
+  white-space: normal;
+}
+
+abbr {
+  font-variant: small-caps;
+}
+
 :is(code, kbd, samp) {
   font-family: $font-family-mono;
-  font-size: clamp(0.8rem, 1.1vw, 1.25rem);
+  font-size: clamp(0.8rem, 0.8vw, 1rem);
 }
 
 :is(abbr, dfn) {
   cursor: help;
 }
 
-/* ===================================
- * Quotes
- * ==================================*/
-
+/** Quotes */
 [lang|='en'] blockquote,
 blockquote[lang|='en'],
 [lang|='en'] q,
 q[lang|='en'] {
   quotes: '“' '”' '‘' '’';
+}
+
+q {
+  font-style: italic;
+
+  &::before {
+    font-style: normal;
+    margin-right: -0.05em;
+  }
+
+  &::after {
+    font-style: normal;
+    margin-left: 0.1em;
+  }
 }
 
 .pullquote {
@@ -223,10 +243,7 @@ q[lang|='en'] {
   }
 }
 
-/* ===================================
- * Links
- * ==================================*/
-
+/** Links */
 a {
   color: var(--color-fg);
   font-weight: $font-weight-semi-bold;
@@ -241,10 +258,7 @@ a {
   }
 }
 
-/* ===================================
- * Helper
- * ==================================*/
-
+/** Helper */
 .no-margin {
   margin: 0 !important;
 }

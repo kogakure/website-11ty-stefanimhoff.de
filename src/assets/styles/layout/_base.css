@@ -1,7 +1,4 @@
-/* ===================================
- * Base
- * ==================================*/
-
+/** Base */
 .page-content {
   display: flex;
   flex-grow: 1;
@@ -11,10 +8,7 @@
   row-gap: clamp(1.5rem, $space-55, 6rem);
 }
 
-/* ===================================
- * Fullsize
- * ==================================*/
-
+/** Fullsize */
 .layout-fullsize {
   display: grid;
   grid-column: 1 / -1;
@@ -22,10 +16,7 @@
   width: 100%;
 }
 
-/* ===================================
- * Wide
- * ==================================*/
-
+/** Wide */
 .layout-wide {
   display: grid;
   grid-template-columns: $grid-fullsize;
@@ -41,10 +32,7 @@
   }
 }
 
-/* ===================================
- * Narrow
- * ==================================*/
-
+/** Narrow */
 .layout-narrow {
   display: grid;
   grid-template-columns: $grid-fullsize;

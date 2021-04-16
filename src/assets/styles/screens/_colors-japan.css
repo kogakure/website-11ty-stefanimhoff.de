@@ -1,3 +1,4 @@
+/** The Colors of Japan */
 .colors-japan-title {
   grid-column: 1 / -1;
   grid-row: 1;
@@ -29,7 +30,7 @@
   grid-template-columns: repeat(2, 1fr);
   margin-block-end: 0;
 
-  & .amazon-book {
+  & .book {
     /* Hack for grid bug in Safari: 
      * https://github.com/rachelandrew/gridbugs#5-items-with-an-intrinsic-aspect-ratio-should-align-start
      */

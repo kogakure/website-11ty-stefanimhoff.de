@@ -1,4 +1,5 @@
-.amazon-book {
+/** Book Cover */
+.book {
   box-shadow: 0 0.1em 0.5em rgba(0, 0, 0, 0.5);
   box-sizing: border-box;
   display: inline-flex;
@@ -60,6 +61,10 @@
   }
 }
 
+/** Book Shelf
+ *  
+ *  Used to hold an unlimited amount of books
+ */
 .book-shelf {
   display: grid;
   grid-column-gap: 20px;

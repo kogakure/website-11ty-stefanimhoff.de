@@ -1,3 +1,4 @@
+/** Sketchnotes */
 .sketchnotes-title {
   grid-column: 2 / -2;
   grid-row: 1;
@@ -62,6 +63,7 @@
   width: 100%;
 }
 
+/** Sketchnotes Detail Page */
 .layout-sketchnotes-detail {
   align-items: center;
   display: flex;

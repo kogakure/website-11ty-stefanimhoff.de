@@ -1,5 +1,6 @@
 @import '../../../../node_modules/sal.js/dist/sal.css';
 
+/** Reset styles for Sal.js, if no JavaScript is available */
 .no-js {
   [data-sal|='fade'] {
     opacity: 1;

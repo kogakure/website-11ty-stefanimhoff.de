@@ -1,22 +1,22 @@
-/* Breakpoints */
+/** Breakpoints */
 @custom-media --phone (width >= 320px);
 @custom-media --tablet (width >= 768px);
 @custom-media --desktop (width >= 1200px);
 
-/* Grids */
+/** Grids */
 $grid-fullsize: repeat(18, 1fr);
 $grid-wide: repeat(14, 1fr);
 
-/* Border Widths */
+/** Border Widths */
 $border-width-1: 1px;
 $border-width-10: 0.1em;
 $border-width-15: 0.15em;
 
-/* Font Families */
+/** Font Families */
 $font-family-base: SecuelaVariable, Arial, sans-serif;
 $font-family-mono: Fira Code, Operator, Hasklig, Monoid, monospace;
 
-/* Font Sizes */
+/** Font Sizes */
 $font-size-1: 0.65em;
 $font-size-2: clamp(0.65rem, 0.8vw, 0.75rem);
 $font-size-3: clamp(1rem, 1.1vw, 1.25rem);
@@ -27,7 +27,7 @@ $font-size-7: clamp(3.3rem, 7.3vw, 8.5rem);
 $font-size-8: clamp(4.5rem, 12.2vw, 13.87rem);
 $font-size-9: clamp(5.5rem, 28.7vw, 22.43rem);
 
-/* Font Weights */
+/** Font Weights */
 $font-weight-thin: 100;
 $font-weight-extra-light: 200;
 $font-weight-light: 300;
@@ -38,24 +38,24 @@ $font-weight-bold: 700;
 $font-weight-extra-bold: 800;
 $font-weight-black: 900;
 
-/* Line Heights */
+/** Line Heights */
 $line-height-1: 1;
 $line-height-2: 1.6;
 
-/* Radii */
+/** Radii */
 $radius-1: 2px;
 $radius-2: 5px;
 $radius-4: 8px;
 $radius-25: 25px;
 $radius-50: 50%;
 
-/* Shadows */
+/** Shadows */
 $shadow-subtle-shade: 0 0 50px rgba(0, 0, 0, 0.2);
 $shadow-beveled-keyboard: 0 1px 0 rgba(0, 0, 0, 0.2), inset 0 0 0 2px #ffffff;
 $shadow-white-outline: 0 1px 0 #ffffff;
 $shadow-dark-inset: inset 0 0 10px rgba(0, 0, 0, 0.2);
 
-/* Space */
+/** Space */
 $space-1: 0.335rem;
 $space-2: clamp(0.335rem, 0.72vw, 0.402rem);
 $space-3: clamp(0.402rem, 0.86vw, 0.482rem);
@@ -78,7 +78,7 @@ $space-19: clamp(7.43rem, 15.9vw, 8.916rem);
 $space-20: clamp(8.916rem, 19.08vw, 10.699rem);
 $space-55: 5.55vw;
 
-/* Transitions */
+/** Transitions */
 $transition-duration-1: 100ms;
 $transition-duration-2: 200ms;
 $transition-duration-5: 500ms;

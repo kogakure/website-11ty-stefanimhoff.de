@@ -1,3 +1,4 @@
+/** Page Header */
 .page-header {
   display: grid;
   grid-template-columns: $grid-fullsize;

@@ -1,3 +1,4 @@
+/** Haiku */
 .haiku-title {
   grid-column: 2 / -2;
   grid-row: 1;
@@ -64,6 +65,7 @@
   width: 3rem;
 }
 
+/** Haiku Detail Page */
 .haiku-detail-main {
   flex-grow: 1;
   width: 100%;

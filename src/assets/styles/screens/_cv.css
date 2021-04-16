@@ -1,3 +1,4 @@
+/** Curriculum Vitae */
 .cv {
   display: grid;
   grid-template-columns: $grid-wide;
