@@ -34,6 +34,7 @@
 @import 'components/color-swatch';
 @import 'components/divider';
 @import 'components/download-link';
+@import 'components/flags';
 @import 'components/more-link';
 @import 'components/pagination';
 @import 'components/verse';

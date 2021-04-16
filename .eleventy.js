@@ -27,6 +27,9 @@ module.exports = function (config) {
   config.addShortcode('download', shortcodes.download);
   config.addShortcode('email', shortcodes.email);
   config.addShortcode('more', shortcodes.more);
+  config.addShortcode('flag', shortcodes.flag);
+  config.addShortcode('netflix', shortcodes.netflix);
+  config.addShortcode('primevideo', shortcodes.primevideo);
   config.addPairedShortcode('bookshelf', shortcodes.bookshelf);
   config.addPairedShortcode('banner', shortcodes.banner);
 

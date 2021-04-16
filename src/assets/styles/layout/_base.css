@@ -16,6 +16,10 @@
   width: 100%;
 }
 
+.layout-fullsize-section {
+  width: 100%;
+}
+
 /** Wide */
 .layout-wide {
   display: grid;

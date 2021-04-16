@@ -44,7 +44,7 @@ As everything in this world is connected, Minimalism has its roots in a lot of d
 
 As Minimalism is also defined as _Simple Living_, Simplicity will inevitably be part of a Minimalist's life. The reason is deep thinking often results in love for simple forms. Objects, which are resistant against temporary fashion, which endure times and follow the concept of _form follows function_.
 
-As Kenya Hara writes in <AffiliateLink asin="0714866962">Wa: The Essence of Japanese Design</AffiliateLink>, the origin of Simplicity can be found in the European _modernism_ as a result of the society getting free of sole rulers (who were defined by objects of decoration and excess of material objects). Rationality was the basis of this concept, resulting in _Bauhaus_ in 1909 or the founding of _Domus_ in 1928.
+As Kenya Hara writes in {% affiliate "Wa: The Essence of Japanese Design", "0714866962" %}, the origin of Simplicity can be found in the European _modernism_ as a result of the society getting free of sole rulers (who were defined by objects of decoration and excess of material objects). Rationality was the basis of this concept, resulting in _Bauhaus_ in 1909 or the founding of _Domus_ in 1928.
 
 {% bookshelf %}
 {% book "0714866962" %}
@@ -77,7 +77,7 @@ The next thing which influenced me was surely the book and movie [Fight Club](ht
   </footer>
 </blockquote>
 
-The next step was probably reading David Allen's book <AffiliateLink asin="0143126563">Gettings Things Done (GTD)</AffiliateLink>, which is a productivity system, but at it’s beginning is some inventory of your stuff.
+The next step was probably reading David Allen's book {% affiliate "Gettings Things Done (GTD)", "0143126563" %}, which is a productivity system, but at it’s beginning is some inventory of your stuff.
 
 {% bookshelf %}
 {% book "0143126563" %}

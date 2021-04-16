@@ -1,0 +1,7 @@
+{
+  "layout": "journal-detail",
+  "permalink": "/links/{{ page.fileSlug }}/",
+  "tags": ["journal", "links"],
+  "templateEngineOverride": "njk,md",
+  "backLink": "/journal/"
+}

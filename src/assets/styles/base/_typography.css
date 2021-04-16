@@ -173,6 +173,7 @@ pre {
 }
 
 p code,
+li code,
 samp {
   background-color: var(--color-bg-code);
   border-radius: 0.3em;

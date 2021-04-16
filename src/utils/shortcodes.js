@@ -33,6 +33,27 @@ href="${affiliateLink}">${text}</a>`;
 
     return `<aside><details ${isOpen} class="banner"><summary>${summary}</summary>${content}</details></aside>`;
   },
+  flag: function (label, href) {
+    let html;
+
+    if (href) {
+      html = `<a rel="nofollow noopener noreferrer external" target="_blank" href="${href}" class="flag" title="${label}"><span class="flag-hidden" aria-hidden="true">[</span>${label}<span class="flag-hidden" aria-hidden="true">]</span></a>`;
+    } else {
+      html = `<span class="flag" title="${label}"><span class="flag-hidden" aria-hidden="true">[</span>${label}<span class="flag-hidden" aria-hidden="true">]</span></span>`;
+    }
+
+    return html;
+  },
+  netflix: function (id) {
+    const html = `<a rel="nofollow noopener noreferrer external" target="_blank" href="https://www.netflix.com/title/${id}" class="flag flag-netflix" title="Netflix"><span class="flag-hidden" aria-hidden="true">[</span>N<span class="flag-hidden" aria-hidden="true">]</span></a>`;
+
+    return html;
+  },
+  primevideo: function (id) {
+    const html = `<a rel="nofollow noopener noreferrer external" target="_blank" href="https://www.amazon.de/gp/video/detail/${id}" class="flag flag-prime-video" title="Prime Video"><span class="flag-hidden" aria-hidden="true">[</span>P<span class="flag-hidden" aria-hidden="true">]</span></a>`;
+
+    return html;
+  },
   color: function (color, title = false, description = false) {
     const activeClass = 'color-swatch--is-active';
     let clickHandler;

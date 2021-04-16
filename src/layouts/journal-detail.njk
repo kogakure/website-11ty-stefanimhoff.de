@@ -2,8 +2,8 @@
 layout: fullsize
 ---
 
-{% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
-{% set nextPost = collections.posts | getNextCollectionItem(page) %}
+{% set previousPost = collections.journal | getPreviousCollectionItem(page) %}
+{% set nextPost = collections.journal | getNextCollectionItem(page) %}
 
 <article class="journal-container">
   <h1 class="journal-title">{{ title }}</h1>

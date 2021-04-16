@@ -1,0 +1,8 @@
+{
+  "layout": "journal-detail",
+  "permalink": "/quotes/{{ page.fileSlug }}/",
+  "tags": ["journal", "quote"],
+  "templateEngineOverride": "njk,md",
+  "robots": "noindex,follow",
+  "backLink": "/journal/"
+}
