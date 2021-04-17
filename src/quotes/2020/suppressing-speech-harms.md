@@ -2,7 +2,7 @@
 title: Suppressing Speech Harms
 date: 2020-11-30T18:00:00+02:00
 author: Stefan Imhoff
-categories:
+tags:
   - quotes
 ---
 

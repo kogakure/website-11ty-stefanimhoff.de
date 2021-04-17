@@ -3,7 +3,7 @@ title: "New Website 2020: Development"
 date: 2020-07-28T08:00:00+02:00
 author: Stefan Imhoff
 description: This is the last of three parts in a series of articles about the process of creating my new website. This one shows the development process for my website.
-categories:
+tags:
   - code
 ---
 

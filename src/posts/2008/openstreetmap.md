@@ -3,7 +3,7 @@ title: OpenStreetMap
 author: Stefan Imhoff
 date: 2008-09-06T18:59:00+02:00
 description: Introducing OpenStreetMap, a free open source alternative to Google Maps. Especially if you want to use vector-based map data in your own project, OpenStreetMap is a fantastic option.
-categories:
+tags:
   - tip
 ---
 

@@ -3,7 +3,7 @@ title: Django Article
 author: Stefan Imhoff
 date: 2010-09-21T09:25:00+02:00
 description: I was allowed to write a multi-page article about Django in Webstandards-Magazin. I wrote about what I appreciate about Django and why I use it.
-categories:
+tags:
   - publication
 ---
 

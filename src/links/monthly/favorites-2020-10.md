@@ -3,7 +3,7 @@ title: October 2020 Favorites
 date: 2020-10-31T18:00:00+02:00
 author: Stefan Imhoff
 description: A list of all the things I enjoyed in October 2020.
-categories:
+tags:
   - monthly
   - links
 ---

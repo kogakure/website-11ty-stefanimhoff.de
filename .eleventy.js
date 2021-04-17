@@ -60,6 +60,9 @@ module.exports = function (config) {
     'src/assets/styles/print.css': 'assets/styles/print.css',
   });
 
+  // Deep-Merge
+  config.setDataDeepMerge(true);
+
   // Custom Collections
   config.addCollection('journalByYear', (collection) => {
     return _.chain(

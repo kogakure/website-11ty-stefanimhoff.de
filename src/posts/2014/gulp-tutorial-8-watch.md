@@ -3,7 +3,7 @@ title: "Introduction to Gulp.js 08: Watch for Changes"
 author: Stefan Imhoff
 date: 2014-10-25T10:00:00+02:00
 description: "The ultimative tutorial and guide for Gulp.js: How to set up a watch task, which triggers other tasks on file changes."
-categories:
+tags:
   - code
 series:
   - gulp

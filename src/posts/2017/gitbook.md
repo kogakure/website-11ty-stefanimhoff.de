@@ -3,7 +3,7 @@ title: I Wrote a Book in GitBook
 author: Stefan Imhoff
 date: 2017-06-27T16:16:34+02:00
 description: I just finished writing my first book in GitBook. I worked on it the last six month and it’s available to read online, as PDF, ePub and Mobi.
-categories:
+tags:
   - book
 ---
 

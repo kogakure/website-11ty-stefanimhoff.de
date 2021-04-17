@@ -3,7 +3,7 @@ title: Tools I Use For Note-Taking
 date: 2020-09-03T12:00:00+02:00
 author: Stefan Imhoff
 description: I started my Zettelkasten in DEVONthink. But since then, I integrated more tools into my workflow. This article describes which tools I use for my notes and why.
-categories:
+tags:
   - productivity
   - software
 ---

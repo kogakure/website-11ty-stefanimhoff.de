@@ -3,7 +3,7 @@ title: April 2020 Favorites
 date: 2020-04-30T21:00:00+02:00
 author: Stefan Imhoff
 description: A list of all the things I enjoyed in April 2020.
-categories:
+tags:
   - monthly
   - links
 ---

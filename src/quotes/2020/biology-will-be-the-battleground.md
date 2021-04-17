@@ -2,7 +2,7 @@
 title: Biology Will Be the Battleground
 date: 2020-07-31T18:00:00+02:00
 author: Stefan Imhoff
-categories:
+tags:
   - quotes
 ---
 

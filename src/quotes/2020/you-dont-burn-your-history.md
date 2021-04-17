@@ -2,7 +2,7 @@
 title: You Don’t Burn Your History
 date: 2020-08-31T18:00:00+02:00
 author: Stefan Imhoff
-categories:
+tags:
   - quotes
 ---
 

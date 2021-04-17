@@ -2,7 +2,7 @@
 title: Intrinsic Motivation
 date: 2020-05-31T18:00:00+02:00
 author: Stefan Imhoff
-categories:
+tags:
   - quotes
 ---
 

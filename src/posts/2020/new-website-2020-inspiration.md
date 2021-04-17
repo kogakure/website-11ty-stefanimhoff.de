@@ -3,7 +3,7 @@ title: "New Website 2020: Inspiration"
 date: 2020-07-14T08:00:00+02:00
 author: Stefan Imhoff
 description: This is the first of three parts in a series of articles about the process of creating my new website. This one has a look into the inspiration for my website.
-categories:
+tags:
   - design
 ---
 

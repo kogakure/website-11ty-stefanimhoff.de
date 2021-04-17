@@ -3,7 +3,7 @@ title: Human
 author: Stefan Imhoff
 date: 2015-09-29T19:07:20+02:00
 description: Human, the new movie of Yann Arthus-Bertrand is a moving film made out of real-life stories from more than 2000 women and men in 60 countries mixed with stunning aerial photography and ground photography.
-categories:
+tags:
   - film
 ---
 

@@ -3,7 +3,7 @@ title: "Introduction to Gulp.js 02: Server with BrowserSync"
 author: Stefan Imhoff
 date: 2014-10-19T10:17:00+02:00
 description: "The ultimative tutorial and guide for Gulp.js: How to set up a development server with BrowserSync."
-categories:
+tags:
   - code
 series:
   - gulp

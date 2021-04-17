@@ -3,7 +3,7 @@ title: "GTD: Getting Things Done"
 author: Stefan Imhoff
 date: 2007-11-24T01:15:00+02:00
 description: "I’ve been working with GTD (Getting Things Done) for 1.5 years: An Introduction to Organization and Self-Management with GTD."
-categories:
+tags:
   - productivity
   - self-improvement
 ---

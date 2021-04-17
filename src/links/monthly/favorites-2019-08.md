@@ -3,7 +3,7 @@ title: August 2019 Favorites
 date: 2019-08-31T18:00:00+02:00
 author: Stefan Imhoff
 description: A list of all the things I enjoyed in August 2019.
-categories:
+tags:
   - monthly
   - links
 ---

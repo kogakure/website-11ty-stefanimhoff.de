@@ -3,7 +3,7 @@ title: How to Store Information
 date: 2018-10-03T18:00:00+02:00
 author: Stefan Imhoff
 description: How I save and process information, so I can find it again quickly and store it so I can’t loose it again.
-categories:
+tags:
   - self-improvement
 ---
 

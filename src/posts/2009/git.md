@@ -3,7 +3,7 @@ title: Git
 author: Stefan Imhoff
 date: 2009-02-10T20:00:00+02:00
 description: An extensive collection of links to tutorials, tutorials, screencasts and documentations on Git.
-categories:
+tags:
   - code
 ---
 

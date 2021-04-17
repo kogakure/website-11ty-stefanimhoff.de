@@ -3,7 +3,7 @@ title: 101 Things You Can Do While Being on Lockdown
 date: 2020-03-28T17:00:00+02:00
 author: Stefan Imhoff
 description: The novel Coronavirus SARS-CoV-2 which can lead to the sickness COVID-19 brought many countries on partial or total lockdown. Many people are not used to staying inside for a long time. As an introvert I like it inside. To help and make it easier to stay inside I created a list of 101 things you can do until this crisis is over.
-categories:
+tags:
   - tip
   - self-improvement
 ---

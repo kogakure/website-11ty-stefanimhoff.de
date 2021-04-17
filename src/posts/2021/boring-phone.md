@@ -3,7 +3,7 @@ title: How I Made My Phone Boring Again
 date: 2021-03-10T18:00:00+02:00
 author: Stefan Imhoff
 description: Tricks I introduced in 2020 to make my devices less addictive.
-categories:
+tags:
   - personal
   - productivity
   - self-improvement

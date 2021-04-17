@@ -3,7 +3,7 @@ title: Morning Routine
 date: 2018-09-08T18:00:00+02:00
 author: Stefan Imhoff
 description: On the advantages of building yourself a morning routine and the details of my morning routine.
-categories:
+tags:
   - self-improvement
 ---
 

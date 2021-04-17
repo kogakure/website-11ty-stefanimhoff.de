@@ -2,7 +2,7 @@
 title: Believing Things, Repeatedly Asserted
 date: 2021-01-31T18:00:00+00:00
 author: Stefan Imhoff
-categories:
+tags:
   - quotes
 ---
 

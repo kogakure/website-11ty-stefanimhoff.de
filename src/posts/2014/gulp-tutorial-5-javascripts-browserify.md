@@ -3,7 +3,7 @@ title: "Introduction to Gulp.js 05: Bundling JavaScript with Browserify"
 author: Stefan Imhoff
 date: 2014-10-22T08:00:00+02:00
 description: "The ultimative tutorial and guide for Gulp.js: How to bundle JavaScript files with Browserify and use CommonJS modules to structure and organize your code."
-categories:
+tags:
   - code
 series:
   - gulp

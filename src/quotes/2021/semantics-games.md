@@ -2,7 +2,7 @@
 title: Semantics Games
 date: 2021-02-28T18:00:00+00:00
 author: Stefan Imhoff
-categories:
+tags:
   - quotes
 ---
 

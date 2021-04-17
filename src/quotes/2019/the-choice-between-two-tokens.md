@@ -2,7 +2,7 @@
 title: The Choice Between Two Tokens
 date: 2019-12-31T18:00:00+02:00
 author: Stefan Imhoff
-categories:
+tags:
   - monthly
 ---
 

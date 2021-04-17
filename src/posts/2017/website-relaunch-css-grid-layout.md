@@ -3,7 +3,7 @@ title: Website Relaunch with CSS Grid Layout
 date: 2017-08-14T12:00:00+02:00
 author: Stefan Imhoff
 description: I redesigned my martial arts website with CSS Grid Layout and added a Service Worker.
-categories:
+tags:
   - code
   - design
 ---

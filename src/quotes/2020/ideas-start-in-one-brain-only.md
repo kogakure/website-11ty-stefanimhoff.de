@@ -2,7 +2,7 @@
 title: Ideas Start in One Brain Only
 date: 2020-04-30T21:00:00+02:00
 author: Stefan Imhoff
-categories:
+tags:
   - quotes
 ---
 

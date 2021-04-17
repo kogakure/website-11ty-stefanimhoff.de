@@ -3,7 +3,7 @@ title: "Introduction to Gulp.js 01: Intro and Setup"
 author: Stefan Imhoff
 date: 2014-10-18T08:35:47+02:00
 description: "The ultimative tutorial and guide for Gulp.js: The first part of my series on Gulp.js. What is Gulp.js? Why to use it? And how to install Gulp and Jekyll."
-categories:
+tags:
   - code
 series:
   - gulp

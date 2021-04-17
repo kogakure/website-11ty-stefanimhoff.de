@@ -3,7 +3,7 @@ title: Vim
 author: Stefan Imhoff
 date: 2010-10-29T19:00:00+02:00
 description: How I became a convinced Vim disciple, why Vim is such an ingenious editor, and how to best practice if you want to learn Vim.
-categories:
+tags:
   - code
 ---
 

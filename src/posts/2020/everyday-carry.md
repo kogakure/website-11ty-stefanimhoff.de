@@ -7,7 +7,7 @@ attribution:
   - author: Stefan Imhoff
     title: My Everyday Carries
     url: https://www.stefanimhoff.de
-categories:
+tags:
   - self-improvement
 ---
 

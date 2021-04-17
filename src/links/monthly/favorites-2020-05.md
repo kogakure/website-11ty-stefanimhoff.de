@@ -3,7 +3,7 @@ title: May 2020 Favorites
 date: 2020-05-31T18:00:00+02:00
 author: Stefan Imhoff
 description: A list of all the things I enjoyed in May 2020.
-categories:
+tags:
   - monthly
   - links
 ---

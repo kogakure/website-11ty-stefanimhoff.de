@@ -3,7 +3,7 @@ title: Underwear
 author: Stefan Imhoff
 date: 2016-02-12T07:00:11+02:00
 description: "Netflix released a new Japanese TV Show: Underwear (Atelier). I highly recommend this brilliant work about a young girl starting in an exclusive custom tailoring lingerie store in Toyko."
-categories:
+tags:
   - film
 ---
 

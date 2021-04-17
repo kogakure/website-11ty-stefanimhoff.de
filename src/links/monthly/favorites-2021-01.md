@@ -3,7 +3,7 @@ title: January 2021 Favorites
 date: 2021-01-31T18:00:00+02:00
 author: Stefan Imhoff
 description: A list of all the things I enjoyed in January 2021.
-categories:
+tags:
   - monthly
   - links
 ---

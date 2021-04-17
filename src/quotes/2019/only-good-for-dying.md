@@ -2,7 +2,7 @@
 title: Only Good For Dying
 date: 2019-11-30T18:00:00+02:00
 author: Stefan Imhoff
-categories:
+tags:
   - quotes
 ---
 

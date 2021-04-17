@@ -3,7 +3,7 @@ title: "Introduction to Gulp.js 09: Syntax-Check of SCSS and JavaScript"
 author: Stefan Imhoff
 date: 2014-10-26T08:10:00+02:00
 description: "The ultimative tutorial and guide for Gulp.js: How to check the syntax of SCSS and JavaScript files."
-categories:
+tags:
   - code
 series:
   - gulp

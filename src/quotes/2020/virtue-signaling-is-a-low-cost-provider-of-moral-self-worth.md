@@ -2,7 +2,7 @@
 title: Virtue Signaling is a Low-Cost Provider of Moral Self-Worth
 date: 2020-07-31T18:00:00+02:00
 author: Stefan Imhoff
-categories:
+tags:
   - quotes
 ---
 

@@ -3,7 +3,7 @@ title: Zettelkasten Note-Taking Method With DEVONthink
 date: 2020-05-18T10:00:00+02:00
 author: Stefan Imhoff
 description: "The way we write notes determines how we think and learn. I was introduced recently to a quite old method of writing notes: The Zettelkasten method. This article describes how I implemented the method into my workflow with DEVONthink."
-categories:
+tags:
   - productivity
 ---
 

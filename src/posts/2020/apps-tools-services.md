@@ -3,7 +3,7 @@ title: Apps, Tools & Services
 date: 2020-04-18T10:00:00+02:00
 author: Stefan Imhoff
 description: All the apps, tools and services I use on my iPhone, iPad, Apple Watch, Apple TV, and Mac.
-categories:
+tags:
   - productivity
   - software
 ---

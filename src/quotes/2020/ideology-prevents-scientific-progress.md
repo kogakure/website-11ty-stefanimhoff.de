@@ -2,7 +2,7 @@
 title: Ideology Prevents Scientific Progress
 date: 2020-10-31T18:00:00+02:00
 author: Stefan Imhoff
-categories:
+tags:
   - quotes
 ---
 
