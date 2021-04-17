@@ -14,9 +14,11 @@ Learning **Japanese** and **Spanish** every day on [Duolingo](https://www.duolin
 
 I’m reading currently these **books**:
 
-- {% affiliate "The Dark Forest", "1800249160" %}
-- {% affiliate "The Denial of Death", "1788164261" %}
-- {% affiliate "The Hero with a Thousand Faces", "1577315936" %}
+{% bookshelf %}
+{% book "1800249160" %}
+{% book "1788164261" %}
+{% book "1577315936" %}
+{% endbookshelf %}
 
 I’m working with the [Zettelkasten](https://zettelkasten.de/) note-taking method using [Obsidian](https://obsidian.md/) to write and link ideas, [DEVONthink](https://www.devontechnologies.com/apps/devonthink) to store reference material, and [iA Writer](https://ia.net/writer) to create texts out of the ideas. These are some statistics:
 

@@ -12,13 +12,13 @@ The website had an interactive carousel on the homepage, collapsible sections in
 
 ## Color Palette
 
-<div class="color-stack">
-  {% color "#002856" %}
-  {% color "#E5E9EE" %}
-  {% color "#AEC605" %}
-  {% color "#DEE99B" %}
-  {% color "#FFFFFF" %}
-</div>
+{% colorstack %}
+{% color "#002856" %}
+{% color "#E5E9EE" %}
+{% color "#AEC605" %}
+{% color "#DEE99B" %}
+{% color "#FFFFFF" %}
+{% endcolorstack %}
 
 ---
 

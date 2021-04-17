@@ -95,6 +95,9 @@ href="${affiliateLink}">${text}</a>`;
 
     return html;
   },
+  colorstack: function (content) {
+    return `<div class="color-stack">${content}</div>`;
+  },
   more: function (text, url, external = false) {
     let externalLink;
 

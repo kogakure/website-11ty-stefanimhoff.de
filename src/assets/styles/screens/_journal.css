@@ -55,25 +55,25 @@
     grid-column: 7 / -7;
   }
 
-  h2 {
+  > h2 {
     font-size: $font-size-4;
     margin-block-end: $space-8;
     margin-block-start: $space-14;
   }
 
-  h3,
-  h4,
-  h5,
-  h6 {
+  > h3,
+  > h4,
+  > h5,
+  > h6 {
     font-size: $font-size-3;
     margin-block-start: $space-10 !important;
   }
 
-  h2:first-of-type,
-  h3:first-of-type,
-  h4:first-of-type,
-  h5:first-of-type,
-  h6:first-of-type {
+  > h2:first-of-type,
+  > h3:first-of-type,
+  > h4:first-of-type,
+  > h5:first-of-type,
+  > h6:first-of-type {
     margin-block-start: 0;
   }
 }

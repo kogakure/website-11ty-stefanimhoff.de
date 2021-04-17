@@ -104,4 +104,6 @@
   grid-column-gap: 20px;
   grid-row-gap: 20px;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  margin-block-end: $space-10;
+  margin-block-start: 0;
 }

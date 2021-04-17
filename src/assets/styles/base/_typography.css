@@ -29,7 +29,7 @@ h3,
 h4,
 h5,
 h6,
-.title,
+.page-title,
 .headline,
 .subheadline {
   font-weight: $font-weight-black;
@@ -39,7 +39,7 @@ h6,
 }
 
 h1,
-.title {
+.page-title {
   font-size: $font-size-7;
   margin-block-end: $space-13;
 }
@@ -245,32 +245,43 @@ blockquote {
     top: -0.55em;
   }
 
-  p {
+  p,
+  ul,
+  ol {
     font-size: $font-size-3;
     font-style: italic;
     font-weight: $font-weight-extra-light;
+    margin-block-end: $space-10;
+    margin-block-start: 0;
 
     &:nth-last-child(2) {
       margin-block-end: $space-2;
     }
 
     & strong {
-      font-size: $font-size-3;
-      font-style: normal;
+      font-style: italic;
       font-weight: $font-weight-bold;
-
-      &::before {
-        content: '—';
-        font-weight: $font-weight-light;
-        left: -0.8em;
-        position: absolute;
-      }
     }
 
-    & em {
-      font-size: $font-size-3;
-      font-weight: $font-weight-normal;
-      font-weight: $font-weight-extra-light;
+    &:last-child {
+      & strong {
+        font-size: $font-size-3;
+        font-style: normal;
+        font-weight: $font-weight-bold;
+
+        &::before {
+          content: '—';
+          font-weight: $font-weight-light;
+          left: -0.8em;
+          position: absolute;
+        }
+
+        & em {
+          font-size: $font-size-3;
+          font-weight: $font-weight-normal;
+          font-weight: $font-weight-extra-light;
+        }
+      }
     }
   }
 }
@@ -342,6 +353,10 @@ a {
   &:hover,
   &:focus {
     text-decoration-color: var(--color-accent);
+  }
+
+  sup.footnote-ref & {
+    text-decoration: none;
   }
 }
 

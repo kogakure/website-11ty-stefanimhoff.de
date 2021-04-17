@@ -12,12 +12,12 @@ The fantastic Bonsai image was shot by _Norio Nakayama_ and provided with a CC l
 
 ## Color Palette
 
-<div class="color-stack">
-  {% color "#333333" %}
-  {% color "#89B46B" %}
-  {% color "#B42B2C" %}
-  {% color "#FFFFFF" %}
-</div>
+{% colorstack %}
+{% color "#333333" %}
+{% color "#89B46B" %}
+{% color "#B42B2C" %}
+{% color "#FFFFFF" %}
+{% endcolorstack %}
 
 ---
 

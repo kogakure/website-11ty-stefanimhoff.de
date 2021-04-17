@@ -9,6 +9,15 @@ module.exports = function (config) {
   config.addPlugin(syntaxHighlight);
   config.addPlugin(readingTime);
 
+  // Markdown It
+  let markdownIt = require('markdown-it');
+  let markdownItFootnotes = require('markdown-it-footnote');
+  let options = {
+    html: true,
+  };
+  let markdownLib = markdownIt(options).use(markdownItFootnotes);
+  config.setLibrary('md', markdownLib);
+
   // Compress and combine JS files
   config.addFilter('jsmin', require('./src/utils/minify-js.js'));
 
@@ -31,6 +40,7 @@ module.exports = function (config) {
   config.addShortcode('netflix', shortcodes.netflix);
   config.addShortcode('primevideo', shortcodes.primevideo);
   config.addPairedShortcode('bookshelf', shortcodes.bookshelf);
+  config.addPairedShortcode('colorstack', shortcodes.colorstack);
   config.addPairedShortcode('banner', shortcodes.banner);
 
   // Filters

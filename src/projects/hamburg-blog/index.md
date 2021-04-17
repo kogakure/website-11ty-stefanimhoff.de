@@ -12,14 +12,14 @@ The website is mostly a **photography** blog, but I also write **short essays** 
 
 ## Color Palette
 
-<div class="color-stack">
-  {% color "#000000" %}
-  {% color "#1E2433" %}
-  {% color "#253358" %}
-  {% color "#42413F" %}
-  {% color "#C19755" %}
-  {% color "#FFFFFF" %}
-</div>
+{% colorstack %}
+{% color "#000000" %}
+{% color "#1E2433" %}
+{% color "#253358" %}
+{% color "#42413F" %}
+{% color "#C19755" %}
+{% color "#FFFFFF" %}
+{% endcolorstack %}
 
 ---
 

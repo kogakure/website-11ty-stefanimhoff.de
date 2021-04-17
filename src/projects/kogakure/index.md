@@ -12,14 +12,14 @@ I added **Service Worker** and full offline support for the website. The source 
 
 ## Color Palette
 
-<div class="color-stack">
-  {% color "#1A171B" %}
-  {% color "#B0BC04" %}
-  {% color "#7CA04D" %}
-  {% color "#BCCE9F" %}
-  {% color "#DDDDDD" %}
-  {% color "#FFFFFF" %}
-</div>
+{% colorstack %}
+{% color "#1A171B" %}
+{% color "#B0BC04" %}
+{% color "#7CA04D" %}
+{% color "#BCCE9F" %}
+{% color "#DDDDDD" %}
+{% color "#FFFFFF" %}
+{% endcolorstack %}
 
 ---
 
