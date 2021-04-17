@@ -1,5 +1,4 @@
 ---
-published: true
 title: "Introduction to Gulp.js 12: Optimize CSS, JavaScript, Images and HTML"
 author: Stefan Imhoff
 date: 2014-10-29T08:00:00+02:00

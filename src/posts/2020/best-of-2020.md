@@ -1,5 +1,4 @@
 ---
-published: true
 title: Best of 2020
 date: 2020-12-22T18:00:00+02:00
 author: Stefan Imhoff

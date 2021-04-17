@@ -1,7 +1,6 @@
 ---
 title: Personal Website v2
 description: My personal website and blog relaunched in April 2014 with a Responsive Design.
-published: true
 ---
 
 My **website** and **blog** relaunched in _April 2014_ with a **Responsive Design**.

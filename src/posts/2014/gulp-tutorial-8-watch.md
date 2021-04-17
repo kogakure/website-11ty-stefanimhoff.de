@@ -1,5 +1,4 @@
 ---
-published: true
 title: "Introduction to Gulp.js 08: Watch for Changes"
 author: Stefan Imhoff
 date: 2014-10-25T10:00:00+02:00

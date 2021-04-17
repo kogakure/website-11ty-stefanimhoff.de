@@ -1,5 +1,4 @@
 ---
-published: true
 title: Git
 author: Stefan Imhoff
 date: 2009-02-10T20:00:00+02:00

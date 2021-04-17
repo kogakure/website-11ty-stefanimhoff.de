@@ -1,5 +1,4 @@
 ---
-published: true
 title: Domain Hosting
 author: Stefan Imhoff
 date: 2007-05-30T23:55:00+02:00

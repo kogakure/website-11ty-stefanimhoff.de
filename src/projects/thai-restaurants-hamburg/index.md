@@ -1,7 +1,6 @@
 ---
 title: Thai Restaurants Hamburg
 description: I created this small website for three Thai restaurants in Hamburg in 2010.
-published: true
 ---
 
 I created this small website for three Thai restaurants in Hamburg in 2010. Of the more than **100** websites I created in my career, this one I still remember. It stayed online for nearly **10 years**.

@@ -1,5 +1,4 @@
 ---
-published: true
 title: Motivational Video
 author: Stefan Imhoff
 date: 2015-08-14T18:15:00+00:00

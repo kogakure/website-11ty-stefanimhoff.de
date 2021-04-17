@@ -1,5 +1,4 @@
 ---
-published: true
 title: "Introduction to Gulp.js 04: Creating CSS with Sass and Compass"
 author: Stefan Imhoff
 date: 2014-10-21T10:30:00+02:00

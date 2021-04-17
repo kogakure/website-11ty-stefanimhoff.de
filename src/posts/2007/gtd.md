@@ -1,5 +1,4 @@
 ---
-published: true
 title: "GTD: Getting Things Done"
 author: Stefan Imhoff
 date: 2007-11-24T01:15:00+02:00

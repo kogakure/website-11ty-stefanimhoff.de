@@ -1,5 +1,4 @@
 ---
-published: true
 title: Minimalism
 author: Stefan Imhoff
 date: 2017-06-07T18:30:00+02:00

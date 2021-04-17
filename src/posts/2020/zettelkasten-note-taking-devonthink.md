@@ -1,5 +1,4 @@
 ---
-published: true
 title: Zettelkasten Note-Taking Method With DEVONthink
 date: 2020-05-18T10:00:00+02:00
 author: Stefan Imhoff

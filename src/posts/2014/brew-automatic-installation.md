@@ -1,5 +1,4 @@
 ---
-published: true
 title: Automated Installation for MacOS
 author: Stefan Imhoff
 date: 2014-04-04T21:09:00+02:00

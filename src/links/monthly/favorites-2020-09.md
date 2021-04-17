@@ -1,5 +1,4 @@
 ---
-published: true
 title: September 2020 Favorites
 date: 2020-09-30T18:00:00+02:00
 author: Stefan Imhoff

@@ -1,5 +1,4 @@
 ---
-published: true
 title: "Introduction to Gulp.js 10: Generating CSS Image Sprites"
 author: Stefan Imhoff
 date: 2014-10-27T07:40:00+02:00

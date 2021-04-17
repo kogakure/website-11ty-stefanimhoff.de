@@ -1,5 +1,4 @@
 ---
-published: true
 title: How to Store Information
 date: 2018-10-03T18:00:00+02:00
 author: Stefan Imhoff

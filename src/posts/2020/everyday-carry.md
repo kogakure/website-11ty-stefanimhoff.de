@@ -1,5 +1,4 @@
 ---
-published: true
 title: Everyday Carry
 date: 2020-03-14T15:30:00+02:00
 author: Stefan Imhoff

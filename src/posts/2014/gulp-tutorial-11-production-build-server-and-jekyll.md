@@ -1,5 +1,4 @@
 ---
-published: true
 title: "Introduction to Gulp.js 11: Production Build, Server and Jekyll"
 author: Stefan Imhoff
 date: 2014-10-28T07:30:00+02:00

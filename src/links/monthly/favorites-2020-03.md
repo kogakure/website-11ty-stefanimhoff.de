@@ -1,5 +1,4 @@
 ---
-published: true
 title: March 2020 Favorites
 date: 2020-03-31T19:00:00+02:00
 author: Stefan Imhoff

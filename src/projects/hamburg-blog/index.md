@@ -1,7 +1,6 @@
 ---
 title: Exploring Hamburg
 description: I explore Hamburg, mostly walking, sometimes biking to find out more about the individual districts and to shoot photos.
-published: true
 ---
 
 I created a [website](https://hamburg.stefanimhoff.de/) for one of my hobbies: I explore Hamburg, mostly walking, sometimes biking to find out more about the individual districts and to shoot photos. There are 109 districts in Hamburg and I plan to walk them all, street by street.

@@ -1,5 +1,4 @@
 ---
-published: true
 title: "New Website 2020: Design"
 date: 2020-07-21T08:00:00+02:00
 author: Stefan Imhoff

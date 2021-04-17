@@ -1,5 +1,4 @@
 ---
-published: true
 title: Responsive Relaunch of My Martial Arts Website
 author: Stefan Imhoff
 date: 2015-04-07T22:00:00+01:00

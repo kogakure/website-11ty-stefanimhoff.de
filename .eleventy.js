@@ -1,3 +1,4 @@
+const _ = require('lodash');
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const readingTime = require('eleventy-plugin-reading-time');
 
@@ -57,6 +58,17 @@ module.exports = function (config) {
   config.addPassthroughCopy({ 'src/assets/images': 'assets/images' });
   config.addPassthroughCopy({
     'src/assets/styles/print.css': 'assets/styles/print.css',
+  });
+
+  // Custom Collections
+  config.addCollection('journalByYear', (collection) => {
+    return _.chain(
+      collection.getFilteredByTag('journal').filter((item) => !item.data.draft)
+    )
+      .groupBy((post) => post.date.getFullYear())
+      .toPairs()
+      .reverse()
+      .value();
   });
 
   // Set input and output folders

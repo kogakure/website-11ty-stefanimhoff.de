@@ -1,5 +1,4 @@
 ---
-published: true
 title: Human
 author: Stefan Imhoff
 date: 2015-09-29T19:07:20+02:00

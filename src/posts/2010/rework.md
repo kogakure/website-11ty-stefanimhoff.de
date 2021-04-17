@@ -1,5 +1,4 @@
 ---
-published: true
 title: Rework
 author: Stefan Imhoff
 date: 2010-04-27T16:30:00+02:00

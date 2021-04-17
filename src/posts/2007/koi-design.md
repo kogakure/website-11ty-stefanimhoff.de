@@ -1,5 +1,4 @@
 ---
-published: true
 title: Koi Design
 author: Stefan Imhoff
 date: 2007-06-02T02:00:00+02:00

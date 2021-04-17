@@ -1,7 +1,6 @@
 ---
 title: Koi Illustration
 description: I created this illustration for a previous version of my website in 2007 with a pencil on paper and then brought it into Adobe Photoshop, where all coloring was done.
-published: true
 ---
 
 I created this illustration for a previous version of my website in 2007. The inspiration for my illustration was the art of the Japanese tattoo, _irezumi_ (刺青). Most motives have a deep meaning, based on religion, history, or myths from China and Japan.

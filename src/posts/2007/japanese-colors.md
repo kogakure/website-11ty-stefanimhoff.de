@@ -1,5 +1,4 @@
 ---
-published: true
 title: Colors of Japan
 author: Stefan Imhoff
 date: 2007-12-08T21:05:00+02:00

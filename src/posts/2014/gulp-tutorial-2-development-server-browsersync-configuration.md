@@ -1,5 +1,4 @@
 ---
-published: true
 title: "Introduction to Gulp.js 02: Server with BrowserSync"
 author: Stefan Imhoff
 date: 2014-10-19T10:17:00+02:00

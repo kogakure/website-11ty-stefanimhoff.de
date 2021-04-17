@@ -1,5 +1,4 @@
 ---
-published: true
 title: Migrating to Hugo
 author: Stefan Imhoff
 date: 2016-08-27T13:05:57+02:00

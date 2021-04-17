@@ -1,5 +1,4 @@
 ---
-published: true
 title: "Introduction to Gulp.js 03: Build, Clean and Jekyll"
 author: Stefan Imhoff
 date: 2014-10-20T10:00:00+02:00

@@ -1,5 +1,4 @@
 ---
-published: true
 title: Calisthenics
 author: Stefan Imhoff
 date: 2015-05-19T21:45:00+00:00

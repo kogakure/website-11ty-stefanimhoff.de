@@ -1,5 +1,4 @@
 ---
-published: true
 title: "Introduction to Gulp.js 01: Intro and Setup"
 author: Stefan Imhoff
 date: 2014-10-18T08:35:47+02:00

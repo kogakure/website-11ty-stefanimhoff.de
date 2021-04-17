@@ -1,5 +1,4 @@
 ---
-published: true
 title: Gitweb Theme
 author: Stefan Imhoff
 date: 2009-02-19T20:00:00+02:00

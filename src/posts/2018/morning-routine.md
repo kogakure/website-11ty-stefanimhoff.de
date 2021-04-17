@@ -1,5 +1,4 @@
 ---
-published: true
 title: Morning Routine
 date: 2018-09-08T18:00:00+02:00
 author: Stefan Imhoff

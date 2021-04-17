@@ -1,5 +1,4 @@
 ---
-published: true
 title: 101 Things You Can Do While Being on Lockdown
 date: 2020-03-28T17:00:00+02:00
 author: Stefan Imhoff

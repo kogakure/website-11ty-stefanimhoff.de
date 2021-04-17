@@ -1,5 +1,4 @@
 ---
-published: true
 title: I Wrote a Book in GitBook
 author: Stefan Imhoff
 date: 2017-06-27T16:16:34+02:00

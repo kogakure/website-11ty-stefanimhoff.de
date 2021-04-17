@@ -1,5 +1,4 @@
 ---
-published: true
 title: "Introduction to Gulp.js 09: Syntax-Check of SCSS and JavaScript"
 author: Stefan Imhoff
 date: 2014-10-26T08:10:00+02:00

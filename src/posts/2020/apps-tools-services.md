@@ -1,5 +1,4 @@
 ---
-published: true
 title: Apps, Tools & Services
 date: 2020-04-18T10:00:00+02:00
 author: Stefan Imhoff

@@ -1,5 +1,4 @@
 ---
-published: true
 title: Django Article
 author: Stefan Imhoff
 date: 2010-09-21T09:25:00+02:00

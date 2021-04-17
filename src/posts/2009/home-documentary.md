@@ -1,5 +1,4 @@
 ---
-published: true
 title: HOME
 author: Stefan Imhoff
 date: 2009-06-15T17:23:00+02:00

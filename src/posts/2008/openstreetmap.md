@@ -1,5 +1,4 @@
 ---
-published: true
 title: OpenStreetMap
 author: Stefan Imhoff
 date: 2008-09-06T18:59:00+02:00

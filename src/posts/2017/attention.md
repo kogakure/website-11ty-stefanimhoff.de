@@ -1,5 +1,4 @@
 ---
-published: true
 title: Self-Defence in the Age of Attention
 author: Stefan Imhoff
 date: 2017-11-03T08:00:00+01:00

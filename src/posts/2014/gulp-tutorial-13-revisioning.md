@@ -1,5 +1,4 @@
 ---
-published: true
 title: "Introduction to Gulp.js 13: Revisioning"
 author: Stefan Imhoff
 date: 2014-10-30T07:45:00+02:00

@@ -5,3 +5,13 @@ permalink: /journal/
 ---
 
 Journal
+
+
+{% for year, yearPosts in collections.journalByYear %}
+ <h2>{{ year }}</h2> 
+ <ul>
+   {% for item in yearPosts | reverse %}
+      <li><a href="{{ item.url }}">{{ item.data.title }}</a></li> 
+   {% endfor %}
+ </ul>
+{% endfor %}

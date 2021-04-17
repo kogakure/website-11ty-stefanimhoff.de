@@ -1,7 +1,6 @@
 ---
 title: XING Onboarding Illustration
 description: I was asked to create three new illustrations that could be used for an Onboarding screen on XING.
-published: true
 ---
 
 I was asked to create three new illustrations that could be used for an Onboarding screen on [XING](https://www.xing.com/). The screen was intended to let users choose their current working status.

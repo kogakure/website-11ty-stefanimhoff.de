@@ -1,5 +1,4 @@
 ---
-published: true
 title: March 2021 Favorites
 date: 2021-03-31T18:00:00+02:00
 author: Stefan Imhoff

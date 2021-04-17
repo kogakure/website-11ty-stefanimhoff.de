@@ -1,5 +1,4 @@
 ---
-published: true
 title: Typography of My Website
 author: Stefan Imhoff
 date: 2014-06-19T10:30:00+02:00

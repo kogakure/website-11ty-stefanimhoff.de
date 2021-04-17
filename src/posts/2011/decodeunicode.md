@@ -1,5 +1,4 @@
 ---
-published: true
 title: Decodeunicode
 author: Stefan Imhoff
 date: 2011-06-02T18:38:00+02:00

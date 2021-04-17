@@ -1,5 +1,4 @@
 ---
-published: true
 title: "Introduction to Gulp.js 05: Bundling JavaScript with Browserify"
 author: Stefan Imhoff
 date: 2014-10-22T08:00:00+02:00

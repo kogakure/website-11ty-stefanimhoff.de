@@ -1,5 +1,4 @@
 ---
-published: true
 title: Tools I Use For Note-Taking
 date: 2020-09-03T12:00:00+02:00
 author: Stefan Imhoff

@@ -1,5 +1,4 @@
 ---
-published: true
 title: Vim
 author: Stefan Imhoff
 date: 2010-10-29T19:00:00+02:00

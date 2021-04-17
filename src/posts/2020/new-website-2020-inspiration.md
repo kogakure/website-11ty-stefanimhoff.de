@@ -1,5 +1,4 @@
 ---
-published: true
 title: "New Website 2020: Inspiration"
 date: 2020-07-14T08:00:00+02:00
 author: Stefan Imhoff

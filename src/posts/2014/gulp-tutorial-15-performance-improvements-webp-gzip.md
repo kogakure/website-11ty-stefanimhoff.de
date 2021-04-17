@@ -1,5 +1,4 @@
 ---
-published: true
 title: "Introduction to Gulp.js 15: Performance Improvements with WebP and Gzip"
 author: Stefan Imhoff
 date: 2014-12-21T11:15:00+01:00

@@ -1,5 +1,4 @@
 ---
-published: true
 title: "Introduction to Gulp.js 07: Base64 Encoded Images"
 author: Stefan Imhoff
 date: 2014-10-24T07:30:00+02:00
