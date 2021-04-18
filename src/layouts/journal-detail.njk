@@ -5,18 +5,18 @@ layout: fullsize
 {% set previousPost = collections.journal | getPreviousCollectionItem(page) %}
 {% set nextPost = collections.journal | getNextCollectionItem(page) %}
 
-<article class="journal-container">
-  <h1 class="journal-title">{{ title }}</h1>
-  <aside class="journal-meta">
-    <div class="journal-meta-author">
+<article class="journal-post-container">
+  <h1 class="journal-post-title">{{ title }}</h1>
+  <aside class="journal-post-meta">
+    <div class="journal-post-meta-author">
       <em>By</em> <a href="/about/">{{ author }}</a>
     </div>
-    <div class="journal-meta-date">
+    <div class="journal-post-meta-date">
     <time datetime="{{ date | dateToISO }}">
       {{ date | dateToFormat() }}
     </time>
     </div>
-    <div class="journal-meta-reading-time">{{ content | readingTime }} read</div>
+    <div class="journal-post-meta-reading-time">{{ content | readingTime }} read</div>
   </aside>
   <div class="journal-post">
     {{ content | safe }}

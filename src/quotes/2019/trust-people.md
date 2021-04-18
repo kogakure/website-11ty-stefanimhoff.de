@@ -3,7 +3,7 @@ title: Trust People
 date: 2019-09-30T18:00:00+02:00
 author: Stefan Imhoff
 tags:
-  - quote
+  - quotes
 ---
 
 _Ernest Hemingway_ writing in a letter to _Dorothy Connable_, as he was warning her about _Charles Fenton_, who spread misinformation about Hemingway’s life:

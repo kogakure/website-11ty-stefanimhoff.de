@@ -4,18 +4,49 @@ layout: fullsize
 permalink: /journal/
 ---
 
-Journal
+{% include "icon-sprites.njk" %}
 
+<h1 class="journal-title">{{ title }}</h1>
 
-{% for year, yearPosts in collections.journalByYear %}
- <h2>{{ year }}</h2> 
- <ul>
-   {% for item in yearPosts | reverse %}
-      <li>
-        <a href="{{ item.url }}">
-          {{ item.data.title }}
-        </a>
-      </li> 
-   {% endfor %}
- </ul>
-{% endfor %}
+<div class="journal-introduction" {{ site.animationDelay }}>
+  <p>
+    Writing is a passion for me. I’ve written a huge collection of articles about <a href="https://www.kogakure.de/" rel="nofollow noopener noreferrer" target="_blank">Ninja&nbsp;&amp;&nbsp;Ninjutsu</a> that I later converted into a <a href="https://book.kogakure.de/" rel="nofollow noopener noreferrer" target="_blank">book</a>. The online publishing platform <cite>Medium</cite> selected <a href="/attention/">one of my articles</a> as a recommendation of the day.
+  </p>
+  <p>
+    I am writing about code, design, productivity, self-improvement, films, and books in this Journal. I also publish quotes and link bundles with recommendations.
+  </p>
+</div>
+
+<article class="journal-posts">
+  {% for year, yearPosts in collections.journalByYear %}
+    <section class="journal-posts-section">
+      <h3 class="journal-posts-year">{{ year }}</h3>
+      <ul class="journal-posts-list">
+        {% for item in yearPosts | reverse %}
+          <li class="journal-posts-list-item" {{ site.animation }}>
+            <a class="journal-posts-link" href="{{ item.url }}">
+              <span class="journal-posts-title">{{ item.data.title }}</span>
+              <span class="journal-posts-type">
+                {% set isQuote = r/quotes/g %}
+                {% set isLink = r/links/g %}
+                {% if isQuote.test(item.data.tags) %}
+                  <svg viewBox="0 0 24 24" width="18" height="18" class="journal-posts-icon" aria-label="Quote">
+                    <use xlink:href="#icon-quotes"></use>
+                  </svg>
+                {% endif %}
+                {% if isLink.test(item.data.tags) %}
+                  <svg viewBox="0 0 24 24" width="18" height="18" class="journal-posts-icon" aria-label="Link">
+                    <use xlink:href="#icon-links"></use>
+                  </svg>
+                {% endif %}
+              </span>
+              <time class="journal-posts-date" datetime="{{ item.date | dateToISO }}">
+                {{ item.date | dateToFormat("MMMM Do") }}
+              </time>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endfor %}
+</article>

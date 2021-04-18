@@ -4,7 +4,7 @@ title: Wokeness is just Facism
 date: 2021-04-06T18:00:00+02:00
 author: Stefan Imhoff
 tags:
-  - quote
+  - quotes
 ---
 
 _James Lindsay_ talks on his podcast [New Discourses](https://newdiscourses.com/) in [There Is No Good Part of Hitler’s Mein Kampf](https://podcasts.apple.com/podcast/new-discourses/id1499880546?i=1000514538341) about the [Grievance studies affair](https://en.wikipedia.org/wiki/Grievance_studies_affair) where he, _Helen Pluckrose_, and _Peter Boghossian_ released a bunch of fake papers to academic journals in cultural, queer, race, gender, fat, and sexuality studies to show the ideological corruption in academia. Several of these papers were accepted, including the most quoted paper where they rewrote a chapter of Adolf Hitler’s _Mein Kampf_ in feminist language which was accepted with praise.
