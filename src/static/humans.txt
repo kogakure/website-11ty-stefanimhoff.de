@@ -1,0 +1,15 @@
+/* The Humans Responsible & Colophon */
+/* humanstxt.org */
+
+/* TEAM */
+Designer:    Stefan Imhoff
+Developer:   Stefan Imhoff
+Site:        hey [at] imhoff.name
+Twitter:     @kogakure
+Location:    Hamburg, Germany
+
+/* SITE */
+Language:    English
+Components:  Eleventy, Rollup, PostCSS, JavaScript
+Software:    Visual Studio Code, Affinity Designer, Git
+

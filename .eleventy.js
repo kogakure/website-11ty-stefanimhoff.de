@@ -53,6 +53,7 @@ module.exports = function (config) {
   config.addWatchTarget('src/assets');
 
   // Copy static files to dist
+  config.addPassthroughCopy({ 'src/static/**/*': '.' });
   config.addPassthroughCopy({ 'src/downloads': 'downloads' });
   config.addPassthroughCopy({ 'src/assets/fonts': 'assets/fonts' });
   config.addPassthroughCopy({ 'src/assets/images': 'assets/images' });
