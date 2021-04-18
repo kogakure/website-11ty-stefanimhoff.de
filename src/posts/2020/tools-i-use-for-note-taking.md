@@ -6,6 +6,7 @@ description: I started my Zettelkasten in DEVONthink. But since then, I integrat
 tags:
   - productivity
   - software
+  - featured
 ---
 
 I started 6 months ago to use the [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) note-taking method. In this short time, my collection of notes grew from zero to more than 350 notes. And already now I can see the first benefits of cross-linking notes.

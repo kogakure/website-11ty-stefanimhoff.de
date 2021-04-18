@@ -55,15 +55,13 @@ permalink: /
 
 <article class="homepage-journal">
   <div {{ site.animation }}>
-    <h2>Latest Articles</h2>
+    <h2>Journal</h2>
     <div class="homepage-journal-introduction">
       <div class="homepage-journal-text">
         <p>
-          I am writing about code, design, productivity, self-improvement,
-          films, and books in this Journal and publish a monthly article with
-          recommendations.
+          I am writing about code, design, productivity, self-improvement, films, and books in this Journal. I also publish quotes and link bundles with recommendations.
         </p>
-        <p>{% more "See all articles", "/journal/" %}</p>
+        <p>{% more "See all Journal Entries", "/journal/" %}</p>
       </div>
       <div class="homepage-journal-subscribe">
         <h3>Subscribe</h3>
@@ -76,3 +74,53 @@ permalink: /
     </div>
   </div>
 </article>
+
+<div class="homepage-journal-latest">
+  <article>
+    <h3>Featured Posts</h3>
+    <ul>
+      {% set featuredPosts = collections.featured | reverse %} 
+      {% for feature in featuredPosts.slice(0, 5) %}
+        <li>
+          <a href="{{ feature.data.url }}">{{ feature.data.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </article>
+
+  <article>
+    <h3>Latest Posts</h3>
+    <ul>
+      {% set latestPosts = collections.posts | reverse %} 
+      {% for post in latestPosts.slice(0, 5) %}
+        <li>
+          <a href="{{ post.data.url }}">{{ post.data.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </article>
+
+  <article>
+    <h3>Latest Links</h3>
+    <ul>
+      {% set latestLinks = collections.links | reverse %} 
+      {% for link in latestLinks.slice(0, 5) %}
+        <li>
+          <a href="{{ link.data.url }}">{{ link.data.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </article>
+
+  <article>
+    <h3>Latest Quotes</h3>
+    <ul>
+      {% set latestQuotes = collections.quotes | reverse %} 
+      {% for quote in latestQuotes.slice(0, 5) %}
+        <li>
+          <a href="{{ quote.data.url }}">{{ quote.data.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </article>
+</div>

@@ -122,3 +122,12 @@
     grid-column: 8 / -1;
   }
 }
+
+.homepage-journal-latest {
+  display: grid;
+  grid-column: 3 / -3;
+  grid-column-gap: 50px;
+  grid-row-gap: 50px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  margin-block-start: 0;
+}

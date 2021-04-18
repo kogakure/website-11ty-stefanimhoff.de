@@ -6,6 +6,7 @@ description: Learning Body Weight Training is possible for everybody. It’s fre
 tags:
   - health
   - self-improvement
+  - featured
 ---
 
 ## Getting Started with Body Weight Training

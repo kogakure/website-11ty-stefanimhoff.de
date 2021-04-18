@@ -5,6 +5,7 @@ date: 2017-11-03T08:00:00+01:00
 description: A guide on how to get your attention back in the age of constant distraction.
 tags:
   - self-improvement
+  - featured
 ---
 
 ## How to Win Back Our Time and Minds

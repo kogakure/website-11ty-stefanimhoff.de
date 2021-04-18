@@ -6,6 +6,7 @@ description: As Minimalism is currently very popular, but as Minimalism is hard 
 tags:
   - minimalism
   - self-improvement
+  - featured
 ---
 
 ## The Pursuit of Minimalism
