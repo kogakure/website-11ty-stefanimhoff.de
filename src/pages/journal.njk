@@ -23,7 +23,7 @@ permalink: /journal/
       <h3 class="journal-posts-year">{{ year }}</h3>
       <ul class="journal-posts-list">
         {% for item in yearPosts | reverse %}
-          <li class="journal-posts-list-item" {{ site.animation }}>
+          <li class="journal-posts-list-item">
             <a class="journal-posts-link" href="{{ item.url }}">
               <span class="journal-posts-title">{{ item.data.title }}</span>
               <span class="journal-posts-type">

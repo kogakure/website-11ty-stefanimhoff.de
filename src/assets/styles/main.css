@@ -1,11 +1,13 @@
 /* Base */
 @import 'base/normalize';
 @import 'base/variables';
-@import 'base/scroll-reveal';
-@import 'base/fonts';
 @import 'base/typography';
-@import 'base/images-figures';
+@import 'base/figures';
+@import 'base/fonts';
+@import 'base/images';
+@import 'base/scroll-reveal';
 @import 'base/syntax-highlighting';
+@import 'base/videos';
 
 /* Layout */
 @import 'layout/back-link';

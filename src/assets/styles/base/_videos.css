@@ -1,0 +1,14 @@
+/** Video */
+.video-wrapper {
+  margin-block-end: $space-10;
+  padding-block-end: 56.25%;
+  position: relative;
+}
+
+.video-wrapper iframe {
+  height: 100%;
+  inset-block-start: 0;
+  inset-inline-start: 0;
+  position: absolute;
+  width: 100%;
+}
