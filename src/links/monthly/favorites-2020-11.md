@@ -180,7 +180,7 @@ tags:
 
 ## Stuff & Things
 
-- [Netflix Dark. Face your questions.](https://dark.netflix.io/) – The official website of the fantastic TV Show _Dark_. It allows navigating all three seasons and see all the connections <Spoiler>through time and space</Spoiler> and the different family trees. It’s possible to deactivate specific seasons to not see any spoiler.
+- [Netflix Dark. Face your questions.](https://dark.netflix.io/) – The official website of the fantastic TV Show _Dark_. It allows navigating all three seasons and see all the connections !!through time and space!! and the different family trees. It’s possible to deactivate specific seasons to not see any spoiler.
 - [Google Books Ngram Viewer](https://books.google.com/ngrams) – This tool by Google allows searching for words in books from 1800 to today and see how their usage changes over time.
 - [Starship: Cross-Shell Prompt](https://starship.rs/) – The minimal, blazing-fast, and infinitely customizable prompt for any shell.
 - [Rumble](https://rumble.com/) – A nice video platform.

@@ -14,6 +14,7 @@ module.exports = function (config) {
   let markdownIt = require('markdown-it');
   let markdownItFootnotes = require('markdown-it-footnote');
   let markdownItGitHubHeadings = require('markdown-it-github-headings');
+  let markdownItSpoiler = require('markdown-it-spoiler');
   let markdownItSub = require('markdown-it-sub');
   let markdownItSup = require('markdown-it-sup');
   let options = {
@@ -22,6 +23,7 @@ module.exports = function (config) {
   let markdownLib = markdownIt(options)
     .use(markdownItFootnotes)
     .use(markdownItGitHubHeadings)
+    .use(markdownItSpoiler)
     .use(markdownItSub)
     .use(markdownItSup);
   config.setLibrary('md', markdownLib);

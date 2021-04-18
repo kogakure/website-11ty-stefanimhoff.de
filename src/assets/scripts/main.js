@@ -35,6 +35,10 @@ if (
     });
   });
 
+  btnHandler('.spoiler', function (event) {
+    event.target.classList.toggle('spoiler-visible');
+  });
+
   /* Deobfuscate the email */
   btnHandler(
     '#email',

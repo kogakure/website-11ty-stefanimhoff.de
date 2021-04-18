@@ -395,3 +395,22 @@ a {
 .hidden {
   display: none !important;
 }
+
+.spoiler {
+  background: var(--color-fg-full);
+  color: var(--color-fg-full);
+  cursor: help;
+  padding-block-end: $space-1;
+  padding-block-start: $space-1;
+  padding-inline-end: $space-1;
+  padding-inline-start: $space-1;
+
+  &.spoiler-visible {
+    color: var(--color-fg-full-inverse);
+    cursor: pointer;
+  }
+}
+
+.no-js .spoiler {
+  color: var(--color-fg-full-inverse);
+}
