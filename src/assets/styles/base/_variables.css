@@ -121,7 +121,7 @@ $transition-duration-5: 500ms;
   --color-fg-soft: rgba(255, 255, 255, 0.2);
   --color-fg-strong-inverse: rgba(0, 0, 0, 0.8);
   --color-fg-strong: rgba(255, 255, 255, 0.8);
-  --color-fg: hsl(40, 7%, 90%);
+  --color-fg: hsla(40, 7%, 90%, 0.87);
   --opacity-dark: 0;
   --opacity-light: 1;
 }
