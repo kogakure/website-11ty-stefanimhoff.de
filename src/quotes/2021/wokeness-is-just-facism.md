@@ -1,5 +1,4 @@
 ---
-published: true
 title: Wokeness is just Facism
 date: 2021-04-06T18:00:00+02:00
 author: Stefan Imhoff

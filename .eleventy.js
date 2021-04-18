@@ -1,9 +1,9 @@
-const _ = require('lodash');
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const readingTime = require('eleventy-plugin-reading-time');
 
 const filters = require('./src/utils/filters.js');
 const shortcodes = require('./src/utils/shortcodes.js');
+const collections = require('./src/utils/collections.js');
 
 module.exports = function (config) {
   // Plugins
@@ -64,14 +64,8 @@ module.exports = function (config) {
   config.setDataDeepMerge(true);
 
   // Custom Collections
-  config.addCollection('journalByYear', (collection) => {
-    return _.chain(
-      collection.getFilteredByTag('journal').filter((item) => !item.data.draft)
-    )
-      .groupBy((post) => post.date.getFullYear())
-      .toPairs()
-      .reverse()
-      .value();
+  Object.keys(collections).forEach((collectionName) => {
+    config.addCollection(collectionName, collections[collectionName]);
   });
 
   // Set input and output folders
