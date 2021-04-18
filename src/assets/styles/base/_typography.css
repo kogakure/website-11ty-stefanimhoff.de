@@ -41,6 +41,7 @@ h6,
   letter-spacing: -0.02em;
   line-height: $line-height-1;
   margin-block-start: 0;
+  position: relative;
 }
 
 h1,
@@ -84,6 +85,26 @@ h6:first-of-type {
 .dark .headline,
 .dark .subheadline {
   font-weight: $font-weight-extra-bold;
+}
+
+/** GitHub Style Anchor */
+.anchor {
+  float: left;
+  line-height: 1;
+  margin-inline-start: -20px;
+  padding-inline-end: 5px;
+  position: relative;
+  top: -0.01em;
+  visibility: hidden;
+
+  h2:hover &,
+  h2:focus &,
+  h3:hover &,
+  h3:focus &,
+  h4:hover &,
+  h4:focus & {
+    visibility: visible;
+  }
 }
 
 /** Paragraph */

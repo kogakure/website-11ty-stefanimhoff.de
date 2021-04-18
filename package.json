@@ -43,6 +43,7 @@
     "html-minifier": "^4.0.0",
     "lodash": "^4.17.21",
     "markdown-it-footnote": "^3.0.2",
+    "markdown-it-github-headings": "^2.0.0",
     "moment": "^2.29.1",
     "npm-run-all": "^4.1.5",
     "postcss": "^8.2.8",
