@@ -1,15 +1,22 @@
+const outdent = require('outdent')({ newline: ' ' });
+
 module.exports = {
   affiliate: function (text, asin) {
     const affiliateLink = `http://www.amazon.de/gp/product/${asin}?ie=UTF8&tag=stefanimhoffde-21&linkCode=as2&camp=1638&creative=6742&creativeASIN=${asin}`;
-    const html = `<a rel="nofollow noopener noreferrer" target="_blank"
-href="${affiliateLink}">${text}</a>`;
+
+    const html = outdent`
+    <a rel="nofollow noopener noreferrer" target="_blank" href="${affiliateLink}">
+      ${text}
+    </a>`;
 
     return html;
   },
   book: function (asin, alt = '') {
     const amazonImageUrl = `https://images-na.ssl-images-amazon.com/images/P/${asin}.01.LZZZZZZZ.jpg`;
     const affiliateUrl = `http://www.amazon.de/gp/product/${asin}?ie=UTF8&tag=stefanimhoffde-21&linkCode=as2&camp=1638&creative=6742&creativeASIN=${asin}`;
-    const html = `<a class="book" href="${affiliateUrl}" rel="nofollow noopener noreferrer external" target="_blank">
+
+    const html = outdent`
+    <a class="book" href="${affiliateUrl}" rel="nofollow noopener noreferrer external" target="_blank">
       <img
         alt="${alt}"
         class="book-cover"
@@ -20,7 +27,10 @@ href="${affiliateLink}">${text}</a>`;
     return html;
   },
   bookshelf: function (content) {
-    return `<div class="book-shelf">${content}</div>`;
+    return outdent`
+    <div class="book-shelf">
+      ${content}
+    </div>`;
   },
   banner: function (content, summary, open = false) {
     let isOpen;
@@ -31,26 +41,58 @@ href="${affiliateLink}">${text}</a>`;
       isOpen = '';
     }
 
-    return `<aside><details ${isOpen} class="banner"><summary>${summary}</summary>${content}</details></aside>`;
+    return outdent`
+    <aside>
+      <details ${isOpen} class="banner">
+        <summary>${summary}</summary>
+        ${content}
+      </details>
+    </aside>`;
   },
   flag: function (label, href) {
     let html;
 
     if (href) {
-      html = `<a rel="nofollow noopener noreferrer external" target="_blank" href="${href}" class="flag" title="${label}"><span class="flag-hidden" aria-hidden="true">[</span>${label}<span class="flag-hidden" aria-hidden="true">]</span></a>`;
+      html = outdent`
+        <a
+          rel="nofollow noopener noreferrer external" 
+          target="_blank" 
+          href="${href}" 
+          class="flag" 
+          title="${label}"
+        >
+          <span class="flag-hidden" aria-hidden="true">[</span>${label}<span class="flag-hidden" aria-hidden="true">]</span></a>`;
     } else {
-      html = `<span class="flag" title="${label}"><span class="flag-hidden" aria-hidden="true">[</span>${label}<span class="flag-hidden" aria-hidden="true">]</span></span>`;
+      html = outdent`
+      <span class="flag" title="${label}">
+        <span class="flag-hidden" aria-hidden="true">[</span>${label}<span class="flag-hidden" aria-hidden="true">]</span></span>`;
     }
 
     return html;
   },
   netflix: function (id) {
-    const html = `<a rel="nofollow noopener noreferrer external" target="_blank" href="https://www.netflix.com/title/${id}" class="flag flag-netflix" title="Netflix"><span class="flag-hidden" aria-hidden="true">[</span>N<span class="flag-hidden" aria-hidden="true">]</span></a>`;
+    const html = outdent`
+      <a 
+        rel="nofollow noopener noreferrer external" 
+        target="_blank" 
+        href="https://www.netflix.com/title/${id}" 
+        class="flag flag-netflix" 
+        title="Netflix"
+      >
+        <span class="flag-hidden" aria-hidden="true">[</span>N<span class="flag-hidden" aria-hidden="true">]</span></a>`;
 
     return html;
   },
   primevideo: function (id) {
-    const html = `<a rel="nofollow noopener noreferrer external" target="_blank" href="https://www.amazon.de/gp/video/detail/${id}" class="flag flag-prime-video" title="Prime Video"><span class="flag-hidden" aria-hidden="true">[</span>P<span class="flag-hidden" aria-hidden="true">]</span></a>`;
+    const html = outdent`
+    <a 
+      rel="nofollow noopener noreferrer external" 
+      target="_blank" 
+      href="https://www.amazon.de/gp/video/detail/${id}" 
+      class="flag flag-prime-video" 
+      title="Prime Video"
+    >
+      <span class="flag-hidden" aria-hidden="true">[</span>P<span class="flag-hidden" aria-hidden="true">]</span></a>`;
 
     return html;
   },
@@ -80,23 +122,30 @@ href="${affiliateLink}">${text}</a>`;
       titleHtml = '';
     }
 
-    const html = `<div class="color-swatch ${hasBackside}" ${clickHandler}>
+    const html = outdent`
+    <div class="color-swatch ${hasBackside}" ${clickHandler}>
       <div class="color-swatch-flipper">
         <div class="color-swatch-front">
-        <div class="color-swatch-color" style="background-color: ${color};"></div>
-        <div class="color-swatch-info">${titleHtml}<p class="color-swatch-value">${color}</p></div>
+          <div class="color-swatch-color" style="background-color: ${color};"></div>
+          <div class="color-swatch-info">
+            ${titleHtml}
+            <p class="color-swatch-value">${color}</p>
+          </div>
+        </div>
+        <div class="color-swatch-back">
+          <h2 class="color-swatch-back-title">${descriptionHeadline}</h2>
+          <p>${descriptionText}</p>
+        </div>
       </div>
-      <div class="color-swatch-back">
-        <h2 class="color-swatch-back-title">${descriptionHeadline}</h2>
-        <p>${descriptionText}</p>
-      </div>
-    </div>
-  </div>`;
+    </div>`;
 
     return html;
   },
   colorstack: function (content) {
-    return `<div class="color-stack">${content}</div>`;
+    return outdent`
+    <div class="color-stack">
+      ${content}
+    </div>`;
   },
   more: function (text, url, external = false) {
     let externalLink;
@@ -108,29 +157,35 @@ href="${affiliateLink}">${text}</a>`;
       externalLink = '';
     }
 
-    const html = `<a href="${url}" ${externalLink}>${text}<span class="more-icon">
-      <svg viewBox="0 0 24 24" width="1em" height="1em">
-        <path fill="none" d="M0 0h24v24H0z" />
-        <path d="M16.172 11l-5.364-5.364 1.414-1.414L20 12l-7.778 7.778-1.414-1.414L16.172 13H4v-2z" />
-      </svg>
-    </span></a>`;
+    const html = outdent`
+    <a href="${url}" ${externalLink}>${text}<span class="more-icon">
+        <svg viewBox="0 0 24 24" width="1em" height="1em">
+          <path fill="none" d="M0 0h24v24H0z" />
+          <path d="M16.172 11l-5.364-5.364 1.414-1.414L20 12l-7.778 7.778-1.414-1.414L16.172 13H4v-2z" />
+        </svg>
+      </span>
+    </a>`;
 
     return html;
   },
   download: function (text, url) {
-    const html = `<a href="${url}">${text}<span class="download-icon">
-      <svg viewBox="0 0 24 24" width="1em" height="1em">
-        <path fill="none" d="M0 0h24v24H0z" />
-        <path d="M3 19h18v2H3v-2zm10-5.828L19.071 7.1l1.414 1.414L12 17 3.515 8.515 4.929 7.1 11 13.17V2h2v11.172z" />
-      </svg>
-    </span></a>`;
+    const html = outdent`
+    <a href="${url}">${text}<span class="download-icon">
+        <svg viewBox="0 0 24 24" width="1em" height="1em">
+          <path fill="none" d="M0 0h24v24H0z" />
+          <path d="M3 19h18v2H3v-2zm10-5.828L19.071 7.1l1.414 1.414L12 17 3.515 8.515 4.929 7.1 11 13.17V2h2v11.172z" />
+        </svg>
+      </span></a>`;
 
     return html;
   },
   email: function (text, key = false) {
     const downloadText = 'Download public key (ProtonMail/GPG)';
-    const link = `<a id="email" class="objuscated" href="mailto:hey (at) imhoff (dot) name">${text}</a>`;
-    const keyDownload = `
+    const link = outdent`
+    <a id="email" class="objuscated" href="mailto:hey (at) imhoff (dot) name">
+      ${text}
+    </a>`;
+    const keyDownload = outdent`
     <span id="lock-box" class="about-lock-box hidden">
       <a
         title="${downloadText}"
@@ -141,8 +196,7 @@ href="${affiliateLink}">${text}</a>`;
           <path fill="none" d="M0 0h24v24H0z" />
           <path d="M19 10h1a1 1 0 011 1v10a1 1 0 01-1 1H4a1 1 0 01-1-1V11a1 1 0 011-1h1V9a7 7 0 1114 0v1zM5 12v8h14v-8H5zm6 2h2v4h-2v-4zm6-4V9A5 5 0 007 9v1h10z" />
         </svg>
-      </a>
-    </span>`;
+      </a></span>`;
 
     return `${link} ${key ? keyDownload : ''}`;
   },
