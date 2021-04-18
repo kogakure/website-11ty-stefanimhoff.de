@@ -14,12 +14,16 @@ module.exports = function (config) {
   let markdownIt = require('markdown-it');
   let markdownItFootnotes = require('markdown-it-footnote');
   let markdownItGitHubHeadings = require('markdown-it-github-headings');
+  let markdownItSub = require('markdown-it-sub');
+  let markdownItSup = require('markdown-it-sup');
   let options = {
     html: true,
   };
   let markdownLib = markdownIt(options)
     .use(markdownItFootnotes)
-    .use(markdownItGitHubHeadings);
+    .use(markdownItGitHubHeadings)
+    .use(markdownItSub)
+    .use(markdownItSup);
   config.setLibrary('md', markdownLib);
 
   // Compress and combine JS files
