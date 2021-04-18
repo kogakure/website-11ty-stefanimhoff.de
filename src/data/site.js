@@ -8,6 +8,7 @@ module.exports = {
   homepageTitle: 'Front-End Web Developer from Hamburg, Germany',
   owner: 'Stefan Imhoff',
   tagline: 'Front-End Web Developer • Designer • Minimalist • Japanophile',
+  external: 'rel="nofollow noopener noreferrer" target="_blank"',
   animationDelay: `data-sal=${animation} data-sal-duration=${duration} data-sal-delay=${delay} data-sal-easing=${easing}`,
   animation: `data-sal=${animation} data-sal-duration=${duration} data-sal-easing=${easing}`,
 };

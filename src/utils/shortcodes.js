@@ -5,9 +5,7 @@ module.exports = {
     const affiliateLink = `http://www.amazon.de/gp/product/${asin}?ie=UTF8&tag=stefanimhoffde-21&linkCode=as2&camp=1638&creative=6742&creativeASIN=${asin}`;
 
     const html = outdent`
-    <a rel="nofollow noopener noreferrer" target="_blank" href="${affiliateLink}">
-      ${text}
-    </a>`;
+    <a rel="nofollow noopener noreferrer" target="_blank" href="${affiliateLink}">${text}</a>`;
 
     return html;
   },

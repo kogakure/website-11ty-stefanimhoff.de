@@ -29,8 +29,7 @@ permalink: /about/
       I love
       <a
         href="https://hamburg.stefanimhoff.de/"
-        rel="nofollow noopener noreferrer"
-        target="_blank">walking and cycling</a>, and do 
+        {{ site.external }}>walking and cycling</a>, and do 
         <a href="/calisthenics/">Calisthenics</a> to stay fit. My ideal weather 
         is thunderstorms and rain, but I like also warm sunny weather. 
         My favorite places are the sea and forests.
@@ -41,8 +40,7 @@ permalink: /about/
       fan of movies and TV shows. I like to cook,
       <a
         href="https://en.wikipedia.org/wiki/Hochzeitssuppe"
-        rel="nofollow noopener noreferrer"
-        target="_blank">Niedersächsische Hochzeitssuppe</a> is my favorite dish.
+        {{ site.external }}>Niedersächsische Hochzeitssuppe</a> is my favorite dish.
     </p>
     <p>
       I see myself as a <a href="/minimalism/">Minimalist</a>, a Stoic, an
@@ -50,8 +48,7 @@ permalink: /about/
       <a href="/journal/">articles</a> I’ve written a
       <a
         href="https://book.kogakure.de/"
-        re="nofollow noopener noreferrer"
-        target="_blank">book</a> and run a
+        {{ site.external }}>book</a> and run a
       <a href="https://www.kogakure.de/" target="_blank">website</a>
       about Ninja and Ninjutsu.
     </p>
@@ -62,19 +59,14 @@ permalink: /about/
 <section class="about-website" {{ site.animation }}>
   <h2 class="subheadline">About This Website</h2>
   <p>
-    I build this website with
-    <a href="https://www.11ty.dev/">Eleventy</a>, a fast, fun, and simple static
-    site generator.
+    I build this website with <a href="https://www.11ty.dev/" {{ site.external }}>Eleventy</a>, a fast, fun, and simple static site generator.
   </p>
   <p>
-    The source code of this website is available on
-    <a href="https://github.com/kogakure/website-11ty-stefanimhoff.de">GitHub</a>. 
-    Feel free to learn from the source code and reuse code for your projects.
-    Don’t just steal it. Learn from it. Remix. Reuse. Build your own stuff.
+    The source code of this website is available on <a href="https://github.com/kogakure/website-11ty-stefanimhoff.de" {{ site.external }}>GitHub</a>. Feel free to learn from the source code and reuse code for your projects.  Don’t just steal it. Learn from it. Remix. Reuse. Build your own stuff.
   </p>
   <p class="no-margin">
     The website is hosted on
-    <a href="https://www.netlify.com/">Netlify</a>.
+    <a href="https://www.netlify.com/" {{ site.external }}>Netlify</a>.
   </p>
 </section>
 
@@ -86,17 +78,14 @@ permalink: /about/
     You can send me a text message on
     <a
       href="https://t.me/kogakure"
-      rel="nofollow noopener noreferrer"
-      target="_blank"
+      {{ site.external }}
       >Telegram</a>,
     <a
       href="https://matrix.to/#/@kogakure:matrix.org"
-      rel="nofollow noopener noreferrer"
-      target="_blank">Matrix</a> or anonymous with this <a href="/downloads/session-id.txt" target="_blank">ID</a> on
+      {{ site.external }}>Matrix</a> or anonymous with this <a href="/downloads/session-id.txt" target="_blank">ID</a> on
     <a
       href="https://getsession.org/"
-      rel="nofollow noopener noreferrer"
-      target="_blank">Session</a>&nbsp;.
+      {{ site.external }}>Session</a>&nbsp;.
   </p>
 </section>
 
@@ -107,8 +96,7 @@ permalink: /about/
     <li>
       <a
         href="{{ item.url }}"
-        rel="nofollow noopener noreferrer"
-        target="_blank">{{ item.text }}</a>
+        {{ site.external }}>{{ item.text }}</a>
     </li>
     {% endfor %}
   </ul>

@@ -17,12 +17,17 @@ module.exports = function (config) {
   let markdownItSpoiler = require('markdown-it-spoiler');
   let markdownItSub = require('markdown-it-sub');
   let markdownItSup = require('markdown-it-sup');
+  let markdownItExternalAnchor = require('markdown-it-external-anchor');
   let options = {
     html: true,
   };
   let markdownLib = markdownIt(options)
     .use(markdownItFootnotes)
     .use(markdownItGitHubHeadings)
+    .use(markdownItExternalAnchor, {
+      domain: 'www.stefanimhoff.de',
+      class: 'external',
+    })
     .use(markdownItSpoiler)
     .use(markdownItSub)
     .use(markdownItSup);
