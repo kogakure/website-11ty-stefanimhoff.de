@@ -1,6 +1,7 @@
 const readingTime = require('eleventy-plugin-reading-time');
 const rssFeed = require('@11ty/eleventy-plugin-rss');
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
+const nbspFilter = require('eleventy-nbsp-filter');
 
 const filters = require('./src/utils/filters.js');
 const shortcodes = require('./src/utils/shortcodes.js');
@@ -65,6 +66,7 @@ module.exports = function (config) {
   Object.keys(filters).forEach((filterName) => {
     config.addFilter(filterName, filters[filterName]);
   });
+  config.addFilter('nbsp', nbspFilter(2, 15));
 
   // Watch for changes and reload
   config.addWatchTarget('src/assets');

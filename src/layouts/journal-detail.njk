@@ -6,7 +6,7 @@ layout: fullsize
 {% set nextPost = collections.journal | getNextCollectionItem(page) %}
 
 <article class="journal-post-container">
-  <h1 class="journal-post-title">{{ title }}</h1>
+  <h1 class="journal-post-title">{{ title | nbsp | safe }}</h1>
   <aside class="journal-post-meta">
     <div class="journal-post-meta-author">
       <em>By</em> <a href="/about/">{{ author }}</a>
