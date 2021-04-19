@@ -6,9 +6,9 @@
 
     <title>
     {% if page.url === "/" %}
-      {{ site.owner }} · {{ site.homepageTitle }}
+      {{ site.author }} · {{ site.description }}
     {% else %}
-      {{ title }} · {{ site.owner }}
+      {{ title }} · {{ site.author }}
     {% endif %}
     </title>
 
@@ -19,6 +19,11 @@
 
     <link rel="stylesheet" href="{{ '/assets/styles/main.css' | url }}" />
     <link rel="stylesheet" href="{{ '/assets/styles/print.css' | url }}" media="print" />
+    
+    <link rel="alternate" type="application/rss+xml" title="Posts, Links, and Quotes" href="{{ site.url }}/index.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Posts" href="{{ site.url }}/feed-posts.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Links" href="{{ site.url }}/feed-links.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Quotes" href="{{ site.url }}/feed-quotes.xml" />
 
     {% include "preload.njk" %}
     {% include "robots.njk" %}

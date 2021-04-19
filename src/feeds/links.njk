@@ -1,0 +1,31 @@
+---
+permalink: feed-links.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+  <title>{{ site.title }}</title>
+  <subtitle>{{ site.description }}</subtitle>
+  <link href="{{ site.url }}/feed-links.xml" rel="self" type="application/atom+xml" />
+  <link href="{{ site.url }}" rel="alternate" type="text/html"/>
+  {% if collections.links %}
+  <updated>{{ collections.links | rssLastUpdatedDate }}</updated>
+  {% endif %}
+  <id>{{ site.url }}/</id>
+  <author>
+    <name>{{ site.author }}</name>
+  </author>
+  {% include "feed-webfeeds.njk" %}
+  {%- for link in collections.links | reverse -%}
+  {% set absolutePostUrl %}{{ link.url | url | absoluteUrl(site.url) }}{% endset %}
+    <entry>
+      <title>{{ link.data.title }}</title>
+      <link href="{{ absolutePostUrl }}"/>
+      <updated>{{ link.date | rssDate }}</updated>
+      <id>{{ absolutePostUrl }}</id>
+      <content type="html"><![CDATA[
+        {{ link.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | safe }}
+      ]]></content>
+    </entry>
+  {%- endfor -%}
+</feed>

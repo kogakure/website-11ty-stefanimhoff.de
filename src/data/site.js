@@ -5,8 +5,10 @@ const easing = 'ease-out-sine';
 
 module.exports = {
   buildTime: new Date(),
-  homepageTitle: 'Front-End Web Developer from Hamburg, Germany',
-  owner: 'Stefan Imhoff',
+  title: 'Stefan Imhoff',
+  description: 'Front-End Web Developer from Hamburg, Germany',
+  url: 'https://www.stefanimhoff.de',
+  author: 'Stefan Imhoff',
   tagline: 'Front-End Web Developer • Designer • Minimalist • Japanophile',
   external: 'rel="nofollow noopener noreferrer" target="_blank"',
   animationDelay: `data-sal=${animation} data-sal-duration=${duration} data-sal-delay=${delay} data-sal-easing=${easing}`,

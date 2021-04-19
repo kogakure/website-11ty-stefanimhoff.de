@@ -1,5 +1,6 @@
-const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const readingTime = require('eleventy-plugin-reading-time');
+const rssFeed = require('@11ty/eleventy-plugin-rss');
+const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 
 const filters = require('./src/utils/filters.js');
 const shortcodes = require('./src/utils/shortcodes.js');
@@ -8,6 +9,7 @@ const collections = require('./src/utils/collections.js');
 module.exports = function (config) {
   // Plugins
   config.addPlugin(syntaxHighlight);
+  config.addPlugin(rssFeed);
   config.addPlugin(readingTime);
 
   // Markdown It
