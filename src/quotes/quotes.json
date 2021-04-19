@@ -6,5 +6,6 @@
   "robots": "noindex,follow",
   "excludeFromSitemap": true,
   "description": "An inspiring quote",
+  "og": "quotes.png",
   "tags": ["journal", "quotes"]
 }

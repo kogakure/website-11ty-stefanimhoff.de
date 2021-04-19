@@ -1,0 +1,44 @@
+{%- set ogTitle -%}
+  {%- if page.url === "/" -%}
+    {{ site.author }} · {{ site.description }}
+  {%- else -%}
+    {{ title }} · {{ site.author }}
+  {%- endif -%}
+{%- endset -%}
+
+{%- set ogDescription -%}
+  {%- if page.url === "/" -%}
+    {{ site.tagline }}
+  {%- else -%}
+    {{ description or title }}
+  {%- endif -%}
+{%- endset -%}
+
+{%- set ogImage -%}
+  {%- if og -%}
+    {{ site.url }}/assets/images/branding/og/{{ og }}
+  {%- else -%}
+    {{ site.url }}/assets/images/branding/og/banner.png
+  {%- endif -%}
+{%- endset -%}
+
+<!-- Meta -->
+<meta name="author" content="{{ site.author }}" />
+<meta name="description" content="{{ ogDescription }}" />
+
+<!-- Open graph -->
+<meta property="og:title" content="{{ ogTitle }}" />
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+<meta property="og:description" content="{{ ogDescription }}" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="{{ ogImage }}"/>
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="675" />
+
+<!-- Twitter -->
+<meta name="twitter:title" content="{{ ogTitle }}" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="{{ site.twitter }}" />
+<meta name="twitter:description" content="{{ ogDescription }}" />
+<meta name="twitter:image" content="{{ ogImage }}" />
+<meta name="twitter:creator" content="{{ site.twitter }}" />
