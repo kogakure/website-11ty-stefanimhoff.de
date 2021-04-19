@@ -69,6 +69,7 @@ module.exports = function (config) {
 
   // Copy static files to dist
   config.addPassthroughCopy({ 'src/static/**/*': '.' });
+  config.addPassthroughCopy({ 'src/static/.well-known/*': '.well-known' });
   config.addPassthroughCopy({ 'src/downloads': 'downloads' });
   config.addPassthroughCopy({ 'src/assets/fonts': 'assets/fonts' });
   config.addPassthroughCopy({ 'src/assets/images': 'assets/images' });
