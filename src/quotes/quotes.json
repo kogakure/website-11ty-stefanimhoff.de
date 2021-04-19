@@ -4,6 +4,7 @@
   "permalink": "/quotes/{{ page.fileSlug }}/",
   "backLink": "/journal/",
   "robots": "noindex,follow",
+  "excludeFromSitemap": true,
   "description": "An inspiring quote",
   "tags": ["journal", "quotes"]
 }

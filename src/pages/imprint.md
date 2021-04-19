@@ -3,6 +3,7 @@ title: Imprint
 layout: narrow
 permalink: "/imprint/"
 robots: "noindex,follow"
+excludeFromSitemap: true
 ---
 
 # {{ title }}
