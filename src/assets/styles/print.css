@@ -1,0 +1,68 @@
+@page {
+  margin: 1cm 0cm;
+}
+
+/* Show all content immediatly */
+[data-sal|='fade'] {
+  opacity: 1;
+}
+
+[data-sal|='slide'],
+[data-sal|='zoom'] {
+  opacity: 1;
+  transform: none;
+}
+
+[data-sal|='flip'] {
+  transform: none;
+}
+
+/* Hide content from printing */
+.page-header,
+.page-footer,
+.theme-toggle,
+.journal-posts-type,
+.pagination,
+.haiku-list,
+.back-link {
+  display: none;
+}
+
+.about-social-media {
+  column-count: 1;
+}
+
+.journal-posts-link {
+  display: block;
+}
+
+/* Images */
+img {
+  border: 0;
+  max-width: 1200px;
+}
+
+/* Links */
+a {
+  color: #000000;
+  word-wrap: break-word;
+}
+
+a::after {
+  content: ' (https://www.stefanimhoff.de' attr(href) ')';
+  font-size: 80%;
+}
+
+a[href^='mailto:']::after {
+  content: ' (' attr(href) ')';
+}
+
+a[href^='http://']::after,
+a[href^='https://']::after
+{
+  content: ' (' attr(href) ')';
+}
+
+a[href^='#']::after {
+  display: none;
+}
