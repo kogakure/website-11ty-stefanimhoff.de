@@ -12,17 +12,18 @@
     {%- endif -%}
     </title>
     
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-
     <script type="module">
       document.documentElement.classList.remove('no-js');
       document.documentElement.classList.add('js');
     </script>
 
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+
     <link rel="stylesheet" href="{{ '/assets/styles/main.css' | url }}" />
     <link rel="stylesheet" href="{{ '/assets/styles/print.css' | url }}" media="print" />
     
     {% include "meta-tags.njk" %}
+    {% include "favicons.njk" %}
     {% include "feeds.njk" %}
     {% include "preload.njk" %}
     {% include "robots.njk" %}

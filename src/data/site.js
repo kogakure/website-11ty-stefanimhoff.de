@@ -10,6 +10,7 @@ module.exports = {
   url: 'https://www.stefanimhoff.de',
   author: 'Stefan Imhoff',
   tagline: 'Front-End Web Developer • Designer • Minimalist • Japanophile',
+  faviconPath: '/assets/images/branding/favicons/',
   twitter: '@kogakure',
   external: 'rel="nofollow noopener noreferrer" target="_blank"',
   animationDelay: `data-sal=${animation} data-sal-duration=${duration} data-sal-delay=${delay} data-sal-easing=${easing}`,
