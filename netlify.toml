@@ -394,6 +394,127 @@ to = "/journal"
 status = 301
 force = true
 
+[[redirects]]
+from = "/favorites-2019-08"
+to = "/links/favorites-2019-08"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2019-09"
+to = "/links/favorites-2019-09"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2019-10"
+to = "/links/favorites-2019-10"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2019-11"
+to = "/links/favorites-2019-11"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2019-12"
+to = "/links/favorites-2019-12"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2020-01"
+to = "/links/favorites-2020-01"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2020-02"
+to = "/links/favorites-2020-02"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2020-03"
+to = "/links/favorites-2020-03"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2020-04"
+to = "/links/favorites-2020-04"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2020-05"
+to = "/links/favorites-2020-05"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2020-06"
+to = "/links/favorites-2020-06"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2020-07"
+to = "/links/favorites-2020-07"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2020-08"
+to = "/links/favorites-2020-08"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2020-09"
+to = "/links/favorites-2020-09"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2020-10"
+to = "/links/favorites-2020-10"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2020-11"
+to = "/links/favorites-2020-11"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2020-12"
+to = "/links/favorites-2020-12"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2021-01"
+to = "/links/favorites-2021-01"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2021-02"
+to = "/links/favorites-2021-02"
+status = 301
+force = true
+
+[[redirects]]
+from = "/favorites-2021-03"
+to = "/links/favorites-2021-03"
+status = 301
+force = true
+
+
 # Gone
 [[redirects]]
 from = "/notiz/django-folder-fuer-mac-os-x"
