@@ -1,5 +1,3 @@
-import '../styles/main.css';
-
 import sal from 'sal.js';
 import { btnHandler } from './modules/btn-handler';
 import { scrollHandler } from './modules/scroll-handler';
