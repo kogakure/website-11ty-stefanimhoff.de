@@ -1,10 +1,12 @@
 ---
-layout: sketchnotes-detail
+layout: default
+css: sketchnotes.css
 pagination:
   data: sketchnotes
   size: 1
   alias: sketchnote
 permalink: "/sketchnotes/{{ sketchnote.title | slug }}/"
+backLink: /sketchnotes/
 eleventyComputed:
   title: "{{ sketchnote.title }}"
 ---
@@ -13,16 +15,18 @@ eleventyComputed:
 {% set nextPost = pagination.page.next %}
 {% set previousPost = pagination.page.previous %}
 
-<figure class="sketchnotes-detail {{ sketchnote.format }} {% if sketchnote.description %}sketchnote--has-caption{% endif %}">
-  <div class="image-shadow">
-    <img class="sketchnotes-detail-image" src="{{ sketchnote.image }}" alt="{{ sketchnote.title }}">
-  </div>
-  {% if sketchnote.description %}
-    <figcaption class="sketchnotes-detail-caption">
-      {{ sketchnote.description | safe }}
-    </figcaption>
-  {% endif %}
-</figure>
+<div class="layout-sketchnotes-detail">
+  <figure class="sketchnotes-detail {{ sketchnote.format }} {% if sketchnote.description %}sketchnote--has-caption{% endif %}">
+    <div class="image-shadow">
+      <img class="sketchnotes-detail-image" src="{{ sketchnote.image }}" alt="{{ sketchnote.title }}">
+    </div>
+    {% if sketchnote.description %}
+      <figcaption class="sketchnotes-detail-caption">
+        {{ sketchnote.description | safe }}
+      </figcaption>
+    {% endif %}
+  </figure>
+</div>
 
 {% if previousPost %}
   <a 
@@ -45,4 +49,3 @@ eleventyComputed:
     {% include "pagination-right-arrow.njk" %}
   </a>
 {% endif %}
-

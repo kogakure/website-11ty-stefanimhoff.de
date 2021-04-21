@@ -1,5 +1,6 @@
 ---
-layout: haiku-detail
+layout: base
+css: haiku.css
 pagination:
   data: haikus
   size: 1
@@ -8,13 +9,20 @@ permalink: "/haiku/{{ haiku.id }}/"
 backLink: /haiku/
 ---
 
-<div class="haiku-detail-column">
-  <pre class="haiku-detail-verse"><div {{ site.animation }}>{{ haiku.de }}</div></pre>
-</div>
+<main class="haiku-detail-main">
+  <div class="haiku-detail-grid">
+    {% include "minimal-page-header.njk" %}
+    <div class="haiku-detail-content-grid">
+      <div class="haiku-detail-column">
+        <pre class="haiku-detail-verse"><div {{ site.animation }}>{{ haiku.de }}</div></pre>
+      </div>
 
-<div class="haiku-detail-column haiku-detail-column--dark">
-  <pre class="haiku-detail-verse"><div {{ site.animationDelay }}>{{ haiku.en }}</div></pre>
-</div>
+      <div class="haiku-detail-column haiku-detail-column--dark">
+        <pre class="haiku-detail-verse"><div {{ site.animationDelay }}>{{ haiku.en }}</div></pre>
+      </div>
+    </div>
+  </div>
+</main>
 
 {% set nextPost = pagination.page.next %}
 {% set previousPost = pagination.page.previous %}

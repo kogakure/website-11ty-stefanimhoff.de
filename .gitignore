@@ -3,3 +3,4 @@ node_modules
 
 # 11ty
 dist
+src/includes/critical

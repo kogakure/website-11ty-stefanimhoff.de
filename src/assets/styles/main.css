@@ -1,42 +1,18 @@
 /* Base */
-@import 'base/normalize';
 @import 'base/variables';
-@import 'base/typography';
-@import 'base/figures';
-@import 'base/fonts';
-@import 'base/images';
-@import 'base/scroll-reveal';
+@import 'base/breakpoints';
 @import 'base/syntax-highlighting';
 @import 'base/videos';
 
 /* Layout */
-@import 'layout/back-link';
-@import 'layout/base';
-@import 'layout/legal';
-@import 'layout/navigation';
 @import 'layout/page-footer';
-@import 'layout/page-header';
-@import 'layout/theme-toggle';
+@import 'layout/legal';
 @import 'layout/up-link';
-
-/* Screens */
-@import 'screens/about';
-@import 'screens/colors-japan';
-@import 'screens/cv';
-@import 'screens/error-404';
-@import 'screens/haiku';
-@import 'screens/homepage';
-@import 'screens/journal';
-@import 'screens/projects';
-@import 'screens/sketchnotes';
 
 /* Components */
 @import 'components/banner';
 @import 'components/book';
 @import 'components/color-swatch';
-@import 'components/divider';
 @import 'components/download-link';
 @import 'components/flags';
-@import 'components/more-link';
-@import 'components/pagination';
 @import 'components/verse';

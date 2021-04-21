@@ -1,3 +1,6 @@
+@import '../base/variables';
+@import '../base/breakpoints';
+
 /** Curriculum Vitae */
 .cv {
   display: grid;

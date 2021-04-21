@@ -1,3 +1,6 @@
+@import '../base/variables';
+@import '../base/breakpoints';
+
 /** Error 404 Page */
 .error-404-title {
   grid-column: 3 / -3;
