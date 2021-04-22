@@ -3,9 +3,10 @@
   "version": "0.0.1",
   "description": "Personal website build with 11ty",
   "scripts": {
-    "build": "npm-run-all build:rollup build:html",
+    "build": "npm-run-all build:rollup build:html build:serviceworker",
     "build:html": "eleventy",
     "build:rollup": "rollup --config rollup.config.js",
+    "build:serviceworker": "workbox generateSW workbox.config.js",
     "clean": "npx del dist",
     "debug": "DEBUG=* npx eleventy",
     "lint": "npm-run-all --parallel lint:*",
@@ -82,6 +83,7 @@
     "stylelint-high-performance-animation": "^1.5.2",
     "stylelint-order": "^4.1.0",
     "stylelint-prettier": "^1.2.0",
-    "uglify-js": "^3.13.3"
+    "uglify-js": "^3.13.3",
+    "workbox-cli": "^6.1.5"
   }
 }

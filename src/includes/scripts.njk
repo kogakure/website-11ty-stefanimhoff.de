@@ -1,5 +1,8 @@
 {% set js %} 
   {% include "../assets/scripts/embedded/theme-switcher.js" %}
+  {% if site.isProduction %}
+    {% include "../assets/scripts/embedded/register-serviceworker.js" %}
+  {% endif %}
 {% endset %}
 <script>{{ js | jsmin | safe }}</script>
-<script src="/assets/scripts/main.js" async></script>
+<script src="/assets/scripts/main.js" defer></script>

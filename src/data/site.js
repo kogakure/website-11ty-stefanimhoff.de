@@ -4,6 +4,7 @@ const duration = 800;
 const easing = 'ease-out-sine';
 
 module.exports = {
+  isProduction: process.env.ELEVENTY_ENV === 'production',
   buildTime: new Date(),
   title: 'Stefan Imhoff',
   description: 'Front-End Web Developer from Hamburg, Germany',
