@@ -1,7 +1,9 @@
-const readingTime = require('eleventy-plugin-reading-time');
-const rssFeed = require('@11ty/eleventy-plugin-rss');
-const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
-const nbspFilter = require('eleventy-nbsp-filter');
+const pluginLazyImages = require('eleventy-plugin-lazyimages');
+const pluginReadingTime = require('eleventy-plugin-reading-time');
+const pluginRssFeed = require('@11ty/eleventy-plugin-rss');
+const pluginSyntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
+
+const filterNbsp = require('eleventy-nbsp-filter');
 
 const filters = require('./src/utils/filters.js');
 const shortcodes = require('./src/utils/shortcodes.js');
@@ -9,9 +11,13 @@ const collections = require('./src/utils/collections.js');
 
 module.exports = function (config) {
   // Plugins
-  config.addPlugin(syntaxHighlight);
-  config.addPlugin(rssFeed);
-  config.addPlugin(readingTime);
+  config.addPlugin(pluginReadingTime);
+  config.addPlugin(pluginRssFeed);
+  config.addPlugin(pluginSyntaxHighlight);
+
+  if (process.env.ELEVENTY_ENV == 'production') {
+    config.addPlugin(pluginLazyImages);
+  }
 
   // Markdown It
   let markdownIt = require('markdown-it');
@@ -40,7 +46,7 @@ module.exports = function (config) {
   config.addFilter('jsmin', require('./src/utils/minify-js.js'));
 
   // Minify the HTML in production
-  if (process.env.NODE_ENV == 'production') {
+  if (process.env.ELEVENTY_ENV == 'production') {
     config.addTransform('htmlmin', require('./src/utils/minify-html.js'));
   }
 
@@ -66,7 +72,7 @@ module.exports = function (config) {
   Object.keys(filters).forEach((filterName) => {
     config.addFilter(filterName, filters[filterName]);
   });
-  config.addFilter('nbsp', nbspFilter(2, 15));
+  config.addFilter('nbsp', filterNbsp(2, 15));
 
   // Watch for changes and reload
   config.addWatchTarget('src/assets');

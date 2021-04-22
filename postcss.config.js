@@ -10,6 +10,6 @@ module.exports = {
     require('postcss-100vh-fix'),
     require('postcss-sort-media-queries')(),
     require('autoprefixer'),
-    ...(process.env.NODE_ENV === 'production' ? [require('cssnano')] : []),
+    ...(process.env.ELEVENTY_ENV === 'production' ? [require('cssnano')] : []),
   ],
 };

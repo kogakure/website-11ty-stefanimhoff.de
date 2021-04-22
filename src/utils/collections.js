@@ -6,7 +6,8 @@ module.exports = {
       collection
         .getFilteredByTag('journal')
         .filter(
-          (item) => !(item.data.draft && process.env.NODE_ENV == 'production')
+          (item) =>
+            !(item.data.draft && process.env.ELEVENTY_ENV == 'production')
         )
     )
       .groupBy((post) => post.date.getFullYear())
