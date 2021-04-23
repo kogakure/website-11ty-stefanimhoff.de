@@ -11,7 +11,16 @@ permalink: /
 </div>
 
 <div class="image-shadow homepage-photo-container">
-  <img class="homepage-photo" src="/assets/images/bonsai.jpg" alt="Bonsai" />
+  <img 
+    class="homepage-photo" 
+    sizes="(max-width: 1200px) 100vw, 1200px" 
+    srcset="/assets/images/bonsai-300.jpg 300w,
+            /assets/images/bonsai-600.jpg 600w,
+            /assets/images/bonsai-1200.jpg 1200w,
+            /assets/images/bonsai.jpg 1800w"
+    src="/assets/images/bonsai.jpg" 
+    alt="Bonsai"
+  />
 </div>
 
 <article class="homepage-about-me" {{ site.animationDelay }}>
