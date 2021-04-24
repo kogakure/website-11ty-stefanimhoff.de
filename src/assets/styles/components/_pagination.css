@@ -6,11 +6,11 @@
 }
 
 .pagination-start {
-  inset-inline-start: 1rem;
+  left: 1rem;
 }
 
 .pagination-end {
-  inset-inline-end: 1rem;
+  right: 1rem;
 }
 
 .pagination-container {
@@ -20,6 +20,7 @@
   border-width: 0;
   cursor: pointer;
   display: flex;
+  font-size: 16px;
   height: 40px;
   justify-content: center;
   outline: none;

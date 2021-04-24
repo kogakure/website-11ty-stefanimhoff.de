@@ -29,10 +29,10 @@ img[src$='.svg'] {
     box-shadow: $shadow-subtle-shade;
     content: '';
     height: 100%;
-    inset-block-start: 0;
-    inset-inline-start: 0;
+    left: 0;
     opacity: 0;
     position: absolute;
+    top: 0;
     transition-duration: 500ms;
     transition-property: opacity;
     transition-timing-function: ease-in-out;
