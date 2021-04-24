@@ -26,6 +26,15 @@
   width: 40px;
 }
 
+.back-link-spacer {
+  align-self: center;
+  grid-column: 1;
+  height: 40px;
+  justify-self: center;
+  margin-inline-end: 15px;
+  width: 40px;
+}
+
 .back-link-icon {
   fill: var(--color-fg);
   font-size: 20px;
