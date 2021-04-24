@@ -85,7 +85,7 @@ permalink: /
   </div>
 </article>
 
-<div class="homepage-journal-latest">
+<div class="homepage-journal-latest" {{ site.animation }}>
   <article>
     <h3>Featured</h3>
     <ul>
@@ -98,7 +98,7 @@ permalink: /
     </ul>
   </article>
 
-  <article>
+  <article {{ site.animation }}>
     <h3>Latest Posts</h3>
     <ul>
       {% set latestPosts = collections.posts | reverse %} 
@@ -110,7 +110,7 @@ permalink: /
     </ul>
   </article>
 
-  <article>
+  <article {{ site.animationDelay }}>
     <h3>Latest Links</h3>
     <ul>
       {% set latestLinks = collections.links | reverse %} 
@@ -122,7 +122,7 @@ permalink: /
     </ul>
   </article>
 
-  <article>
+  <article {{ site.animationDelay }}>
     <h3>Latest Quotes</h3>
     <ul>
       {% set latestQuotes = collections.quotes | reverse %} 

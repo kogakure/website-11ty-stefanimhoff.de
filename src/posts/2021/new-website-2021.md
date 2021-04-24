@@ -122,10 +122,10 @@ With YAML frontmatter layouts can be chosen for each file or collection of files
 
 I used only four Eleventy plugins:
 
-- [eleventy-plugin-lazyimages](https://github.com/liamfiddler/eleventy-plugin-lazyimages) – Adds width and height attribute to all images, lazy loading and blur up technique.
-- [eleventy-plugin-reading-time](https://github.com/johanbrook/eleventy-plugin-reading-time) – Calculates the reading time.
 - [@11ty/eleventy-plugin-rss](https://www.11ty.dev/docs/plugins/rss/) – Helps creating RSS/Atom feeds.
 - [@11ty/eleventy-plugin-syntaxhighlight](https://www.11ty.dev/docs/plugins/syntaxhighlight/) – Adds code highlighting via [Prism](https://prismjs.com/) on build time.
+- [eleventy-plugin-lazyimages](https://github.com/liamfiddler/eleventy-plugin-lazyimages) – Adds width and height attribute to all images, lazy loading and blur up technique.
+- [eleventy-plugin-reading-time](https://github.com/johanbrook/eleventy-plugin-reading-time) – Calculates the reading time.
 
 Eleventy uses [Markdown It](https://markdown-it.github.io/) as the default Markdown parser. I added plugins to support footnotes, GitHub headings, spoiler, subscript, superscript, and external anchors.
 
@@ -153,4 +153,4 @@ I learned a lot by looking at other developers Eleventy code, honorable mention 
 - [Stephanie Eckles](https://thinkdobecreate.com/), who created [11ty Rocks!](https://11ty.rocks/), wrote multiple articles about Eleventy, and created a free [Egghead course](https://egghead.io/courses/build-an-eleventy-11ty-site-from-scratch-bfd3).
 - [Max Böck](https://mxb.dev/), who writes a lot about Eleventy in his blog.
 
-My [source code](https://github.com/kogakure/website-11ty-stefanimhoff.de) is as always open to everyone, including all commits I did since I started the project in mid-March 2021.
+My [source code on GitHub](https://github.com/kogakure/website-11ty-stefanimhoff.de) is as always public for everyone, including all commits I did since I started the project in mid-March 2021.
