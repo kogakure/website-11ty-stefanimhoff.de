@@ -38,12 +38,16 @@
 }
 
 .about-photo {
+  border-bottom-left-radius: 0;
   border-inline-start-width: 0;
+  border-top-left-radius: 0;
 }
 
 @media (--tablet) {
   .about-photo {
+    border-bottom-left-radius: $radius-1;
     border-inline-start-width: 1px;
+    border-top-left-radius: $radius-1;
   }
 }
 
