@@ -12,9 +12,9 @@ _Mark Twain_ wrote about the responsibility of each person to stand up for what 
 >
 > Let men label you as they may, if you alone of all the nation decide one way, and that way be the right way by your convictions of the right, you have done your duty by yourself and by your country, hold up your head for you have nothing to be ashamed of.
 >
-> It doesn’t matter what the press says. It doesn’t matter what the politicians or the mobs say. It doesn’t matter if the whole country decides that something wrong is something right. Republics are founded on one principle above all else: The requirement that we stand up for what we believe in, no matter the odds or consequences.
+> **It doesn’t matter what the press says. It doesn’t matter what the politicians or the mobs say. It doesn’t matter if the whole country decides that something wrong is something right.** Republics are founded on one principle above all else: The requirement that we stand up for what we believe in, no matter the odds or consequences.
 >
-> When the mob and the press and the whole world tell you to move. Your job is to plant yourself like a tree beside the river of truth and tell the whole world:
+> **When the mob and the press and the whole world tell you to move. Your job is to plant yourself like a tree beside the river of truth and tell the whole world:**
 >
 > **<q>No, you move.</q>**
 >

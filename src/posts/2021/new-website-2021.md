@@ -37,7 +37,7 @@ The last [Sketchnote](/sketchnotes/) section didn’t get a lot of love. The rel
 
 The [journal](/journal/) got the biggest change. I started splitting my posts into three categories: Posts, links, and quotes. Posts are my articles and essays, links are my retired monthly link post and the new irregular link post format. I added a quote format because _some_ quotes are too good not to be shared. I took the time to extract all interesting quotes from my monthly posts and create separate quote posts out of them.
 
-The overview page of the journal is now chronological, groups by year. Small icons added to link or quote posts differentiate those from regular posts.
+The overview page of the journal is now chronological, grouped by year. Small icons added to link or quote posts differentiate those from regular posts.
 
 ### Homepage
 
@@ -92,7 +92,7 @@ success onPostBuild - 35.452s
 info Done building in 163.798668245 sec
 ```
 
-My new technology stack is so fast, the JavaScript compiles in **422ms**, the [PostCSS](https://postcss.org/) is converted to CSS in **900ms**, Eleventy generated over 230 files and copies over 300 files to the `dist` folder in **3.62s**. This includes a plugin doing work on my images (adding sizes, lazy loading, and blur up). Adding time between the processes and the generation of a service worker with [Workbox](https://developers.google.com/web/tools/workbox/), my whole production build is done in **14,5s**.
+My new technology stack is so fast, the JavaScript compiles in **422ms**, the [PostCSS](https://postcss.org/) is converted to CSS in **900ms**, Eleventy generates over 230 files and copies over 300 files to the `dist` folder in **3.62s**. This includes a plugin doing work on my images (adding sizes, lazy loading, and blur up). Adding time between the processes and the generation of a service worker with [Workbox](https://developers.google.com/web/tools/workbox/), my whole production build is done in **14,5s**.
 
 That’s the time Gatsby needed for processing the GraphQL queries. 😳
 
@@ -104,13 +104,13 @@ Over the last months, my frustration rose with each article I wanted to write, b
 
 Let’s be honest: My old stack was too complicated for a website. A blog shouldn’t be a SPA (Single Page App), a good old MPA (Multi-Page App), or a website (as we used to call it) is the right choice.
 
-I used [TypeScript](https://www.typescriptlang.org/), [Styled-Components](https://styled-components.com/), [MDX](https://mdxjs.com/), [GraphQL](https://graphql.org/), wrote hundreds of [Jest](https://jestjs.io/) unit tests, and used 120 npm packages. Updating and keeping a stack like this alive is work, not fun. The Saturday morning is gone, after updating 120 packages with dozens of major updates.
+I previously used [TypeScript](https://www.typescriptlang.org/), [Styled-Components](https://styled-components.com/), [MDX](https://mdxjs.com/), [GraphQL](https://graphql.org/), wrote hundreds of [Jest](https://jestjs.io/) unit tests, and used 120 npm packages. Updating and keeping a stack like this alive is work, not fun. The Saturday morning is gone, after updating 120 packages with dozens of major updates.
 
 ## The New Tech Stack
 
 ### Eleventy
 
-[Eleventy](https://www.11ty.dev/) is flexible. Multiple template languages are officially supported, more can be added with plugins. I picked [Nunjucks](https://mozilla.github.io/nunjucks/) as my template engine because it’s inspired by the Django template engine which I liked a lot.
+[Eleventy](https://www.11ty.dev/) is flexible. Multiple template languages are officially supported, more can be added with plugins. I picked [Nunjucks](https://mozilla.github.io/nunjucks/) as my template engine because it’s inspired by the [Django](https://www.djangoproject.com/) template engine which I liked a lot.
 
 Eleventy takes a lot of the ideas of [Jekyll](https://jekyllrb.com/) and adds more features on top. It’s easy to create collections out of data or files. Every JSON file in the `data` folder is automatically available to each template. Adding tags to content creates [collections](https://www.11ty.dev/docs/collections/). This can be done quickly per folder in a JSON file. It‘s possible to create custom collections and sort, modify, or group collections with JavaScript.
 
@@ -120,18 +120,18 @@ With YAML frontmatter layouts can be chosen for each file or collection of files
 
 [Shortcodes](https://www.11ty.dev/docs/shortcodes/) allow creating custom helpers to be used and generate output. I used them to replace a lot of my components.
 
-I used four Eleventy plugins:
+I used only four Eleventy plugins:
 
 - [eleventy-plugin-lazyimages](https://github.com/liamfiddler/eleventy-plugin-lazyimages) – Adds width and height attribute to all images, lazy loading and blur up technique.
 - [eleventy-plugin-reading-time](https://github.com/johanbrook/eleventy-plugin-reading-time) – Calculates the reading time.
 - [@11ty/eleventy-plugin-rss](https://www.11ty.dev/docs/plugins/rss/) – Helps creating RSS/Atom feeds.
 - [@11ty/eleventy-plugin-syntaxhighlight](https://www.11ty.dev/docs/plugins/syntaxhighlight/) – Adds code highlighting via [Prism](https://prismjs.com/) on build time.
 
-Eleventy uses [Markdown It](https://markdown-it.github.io/) as the default Markdown parser. I added plugins to support footnotes, GitHub headings, spoiler, sub, sup, and external anchors.
+Eleventy uses [Markdown It](https://markdown-it.github.io/) as the default Markdown parser. I added plugins to support footnotes, GitHub headings, spoiler, subscript, superscript, and external anchors.
 
 ### PostCSS
 
-I used [PostCSS](https://postcss.org/) to generate the CSS of my website, with very few plugins. I added a few features to use SASS-style variables. I might move to CSS custom properties in the future, for now, I use these only for color variables.
+I used [PostCSS](https://postcss.org/) to generate the CSS of my website, with very few plugins. I added a few features to use SASS-style variables. I might move to CSS custom properties in the future. For now, I use them only for color variables.
 
 Another thing added is the nesting of CSS, because it makes the writing easier and it’s more clear what belongs together.
 
@@ -139,7 +139,7 @@ Sorting media queries is a helpful plugin when using nested media queries. The p
 
 ### Rollup
 
-I started without any JavaScript bundler, but it’s convenient to be able to use modules or ES6 syntax. I decided to go with [Rollup](https://rollupjs.org/) because it _seemed_ to be the simplest tool. It was still a mess to get it doing exactly what I wanted. That was the only part in the development which was frustrating. I hate all JavaScript bundlers available. They are all too complicated or don’t do as I want.
+I started development without any JavaScript bundler, but it’s convenient to be able to use modules or ES6 syntax. I decided to go with [Rollup](https://rollupjs.org/) because it _seemed_ to be the simplest tool. It was still a mess to get it doing exactly what I wanted. That was the only part in the development which was frustrating. I hate all JavaScript bundlers available. 🤬 They are all too complicated or don’t do as I want.
 
 In the end, I replaced my custom PostCSS NPM task to run with Rollup.
 
