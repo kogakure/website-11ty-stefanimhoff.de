@@ -360,6 +360,7 @@
 /* stylelint-disable-next-line */
 .project-figure.no-border img {
   border: 0;
+  box-shadow: none;
 }
 
 /** Projects Detail Page */

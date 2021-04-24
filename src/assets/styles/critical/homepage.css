@@ -27,6 +27,11 @@
 .homepage-photo-container {
   grid-column: 1 / -5;
   grid-row: 2;
+
+  & img {
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+  }
 }
 
 @media (--tablet) {

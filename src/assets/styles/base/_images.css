@@ -1,9 +1,11 @@
 /** Image */
 img {
-  background-color: var(--color-border);
-  border-color: var(--color-border);
+  background-color: var(--color-fg-feather);
+  border-color: var(--color-fg-feather);
+  border-radius: $radius-1;
   border-style: solid;
   border-width: 1px;
+  box-shadow: 0 2px 3px var(--color-fg-feather);
   display: block;
   font-size: 0;
   height: auto;
