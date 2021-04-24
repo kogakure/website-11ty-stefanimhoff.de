@@ -1,6 +1,6 @@
 {
   "name": "website-11ty-stefanimhoff.de",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Personal website build with 11ty",
   "scripts": {
     "build": "npm-run-all build:rollup build:html build:serviceworker",
