@@ -18,6 +18,7 @@
 }
 
 .homepage-tagline {
+  font-weight: 300;
   margin-block-start: -0.85em;
   margin-inline-start: 0.2em;
 }
