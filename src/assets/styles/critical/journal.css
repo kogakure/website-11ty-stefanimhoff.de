@@ -200,4 +200,8 @@
   > h6:first-of-type {
     margin-block-start: 0;
   }
+
+  & > *:first-child {
+    margin-block-start: 0;
+  }
 }

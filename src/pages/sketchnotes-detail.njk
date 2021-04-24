@@ -30,9 +30,10 @@ eleventyComputed:
 
 {% if previousPost %}
   <a 
-    href="/sketchnotes/{{ previousPost.title | slug }}/" 
-    class="pagination pagination-start" 
     aria-label="{{ previousPost.title }}" 
+    class="pagination pagination-start" 
+    href="/sketchnotes/{{ previousPost.title | slug }}/" 
+    rel="prev"
     title="{{ previousPost.title }}"
   >
     {% include "pagination-left-arrow.njk" %}
@@ -41,9 +42,10 @@ eleventyComputed:
 
 {% if nextPost %}
   <a 
-    href="/sketchnotes/{{ nextPost.title | slug }}/" 
-    class="pagination pagination-end" 
     aria-label="{{ nextPost.title }}" 
+    class="pagination pagination-end" 
+    href="/sketchnotes/{{ nextPost.title | slug }}/" 
+    rel="next"
     title="{{ nextPost.title }}"
   >
     {% include "pagination-right-arrow.njk" %}

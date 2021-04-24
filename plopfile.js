@@ -3,7 +3,7 @@ const fs = require('fs');
 const moment = require('moment');
 
 const currentDir = process.cwd();
-const templatePath = 'scripts/templates';
+const templatePath = 'plop';
 const date = moment().format();
 const year = moment().format('YYYY');
 const linkCount = fs.readdirSync('./src/links').length - 2;

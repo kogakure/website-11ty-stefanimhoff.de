@@ -10,6 +10,9 @@ const shortcodes = require('./src/utils/shortcodes.js');
 const collections = require('./src/utils/collections.js');
 
 module.exports = function (config) {
+  // Ignore to reload changes in Critical CSS files
+  config.setUseGitIgnore(false);
+
   // Plugins
   config.addPlugin(pluginReadingTime);
   config.addPlugin(pluginRssFeed);
@@ -50,9 +53,6 @@ module.exports = function (config) {
     config.addTransform('htmlmin', require('./src/utils/minify-html.js'));
   }
 
-  // Layouts
-  config.addLayoutAlias('base', 'base.njk');
-
   // Shortcodes
   config.addShortcode('affiliate', shortcodes.affiliate);
   config.addShortcode('book', shortcodes.book);
@@ -76,6 +76,7 @@ module.exports = function (config) {
 
   // Watch for changes and reload
   config.addWatchTarget('src/assets');
+  config.addWatchTarget('src/includes/critical');
 
   // Copy static files to dist
   config.addPassthroughCopy({ 'src/static/**/*.{xml,html,ico}': '.' });
@@ -83,9 +84,6 @@ module.exports = function (config) {
   config.addPassthroughCopy({ 'src/downloads': 'downloads' });
   config.addPassthroughCopy({ 'src/assets/fonts': 'assets/fonts' });
   config.addPassthroughCopy({ 'src/assets/images': 'assets/images' });
-  config.addPassthroughCopy({
-    'src/assets/styles/print.css': 'assets/styles/print.css',
-  });
 
   // Deep-Merge
   config.setDataDeepMerge(true);

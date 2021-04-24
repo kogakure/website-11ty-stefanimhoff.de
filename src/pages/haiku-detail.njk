@@ -29,9 +29,10 @@ backLink: /haiku/
 
 {% if previousPost %}
   <a 
-    href="/haiku/{{ previousPost.id }}/" 
-    class="pagination pagination-start" 
     aria-label="Haiku {{ previousPost.id }}" 
+    class="pagination pagination-start" 
+    href="/haiku/{{ previousPost.id }}/" 
+    rel="prev"
     title="Haiku {{ previousPost.id }}"
   >
     {% include "pagination-left-arrow.njk" %}
@@ -40,9 +41,10 @@ backLink: /haiku/
 
 {% if nextPost %}
   <a 
-    href="/haiku/{{ nextPost.id }}/" 
-    class="pagination pagination-end" 
     aria-label="Haiku {{ nextPost.id }}" 
+    class="pagination pagination-end" 
+    href="/haiku/{{ nextPost.id }}/" 
+    rel="next"
     title="Haiku {{ nextPost.id }}"
   >
     {% include "pagination-right-arrow.njk" %}
