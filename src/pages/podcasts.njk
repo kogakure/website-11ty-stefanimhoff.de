@@ -1,0 +1,26 @@
+---
+layout: wide
+css: podcasts.css
+title: Podcasts
+description: 
+permalink: /podcasts/
+---
+
+<h1>Podcasts</h1>
+
+<section class="podcasts">
+  {% for podcast in podcasts %}
+    <article>
+      <a class="podcasts-link" href="{{ podcast.url }}" {{ site.external }}>
+        <div class="image-shadow">
+          <img class="podcasts-cover" src="{{ podcast.cover }}" alt="{{ podcast.title }}">
+        </div>
+        <h2 class="podcasts-title">
+          {{ podcast.title }}
+          {% if podcast.language === "de" %}🇩🇪{% endif %}
+        </h2>
+      </a>
+    </article>
+  {% endfor %}
+</section>
+

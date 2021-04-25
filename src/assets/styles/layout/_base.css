@@ -24,6 +24,7 @@
 .layout-wide {
   display: grid;
   grid-template-columns: $grid-fullsize;
+  width: 100%;
 
   & .wrapper {
     grid-column: 2 / -2;
