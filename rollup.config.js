@@ -14,6 +14,7 @@ const cssFiles = [
   'journal',
   'projects',
   'sketchnotes',
+  'podcasts'
 ];
 
 const criticalCSS = cssFiles.map((file) => ({
