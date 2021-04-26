@@ -260,7 +260,7 @@ You can contact me on [@kogakure:matrix.org](https://matrix.to/#/@kogakure:matri
 
 ### Session 📱 🖥
 
-[Session](https://getsession.org/) is a new messenger with an interesting security model. It collects no meta data. Not even your phone number or email. You are completely anonymous. The first time you use it you get a session key. You can save a backup for this session to restore it on another device. To contact another person all you need is have the public session key. The chat is routed through a onion routing network which makes it nearly impossible to leave any footprint. It’s open source and censorship resitant. [Get my public key](/downloads/session-id.txt).
+[Session](https://getsession.org/) is a new messenger with an interesting security model. It collects no meta data. Not even your phone number or email. You are completely anonymous. The first time you use it you get a session key. You can save a backup for this session to restore it on another device. To contact another person all you need is have the public session key. The chat is routed through a onion routing network which makes it nearly impossible to leave any footprint. It’s open source and censorship resitant.
 
 ### Jitsi Meet 📱 🌐
 
