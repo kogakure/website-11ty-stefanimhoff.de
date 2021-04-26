@@ -5,3 +5,6 @@ node_modules
 dist
 src/includes/critical
 .lazyimages.json
+
+# Local Netlify folder
+.netlify
