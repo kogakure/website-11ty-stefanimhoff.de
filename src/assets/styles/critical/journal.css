@@ -102,11 +102,11 @@
 }
 
 .journal-posts-icon {
-  color: var(--color-border);
+  fill: var(--color-border);
 
   .journal-posts-link:hover &,
   .journal-posts-link:focus & {
-    color: var(--color-accent);
+    fill: var(--color-accent);
   }
 }
 

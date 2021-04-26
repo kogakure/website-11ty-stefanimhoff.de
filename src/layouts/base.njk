@@ -27,6 +27,7 @@
     {% include "feeds.njk" %}
   </head>
   <body {% if bodyClass %}class="{{ bodyClass }}"{% endif %}>
+    {% include "icon-sprites.njk" %}
     {{ content | safe }}
     {% include "scripts.njk" %}
   </body>

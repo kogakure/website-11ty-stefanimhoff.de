@@ -5,12 +5,8 @@
     "browser": true
   },
   "extends": ["eslint:recommended", "plugin:prettier/recommended"],
-  "ecmaFeatures": {
-    "experimentalObjectRestSpread": true
-  },
   "plugins": ["prettier"],
   "parserOptions": {
-    "ecmaVersion": 2017,
     "sourceType": "module"
   },
   "rules": {

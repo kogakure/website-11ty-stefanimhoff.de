@@ -10,9 +10,6 @@ const shortcodes = require('./src/utils/shortcodes.js');
 const collections = require('./src/utils/collections.js');
 
 module.exports = function (config) {
-  // Ignore to reload changes in Critical CSS files
-  config.setUseGitIgnore(false);
-
   // Plugins
   config.addPlugin(pluginReadingTime);
   config.addPlugin(pluginRssFeed);
@@ -33,6 +30,7 @@ module.exports = function (config) {
   let options = {
     html: true,
   };
+
   let markdownLib = markdownIt(options)
     .use(markdownItFootnotes)
     .use(markdownItGitHubHeadings)
@@ -43,6 +41,7 @@ module.exports = function (config) {
     .use(markdownItSpoiler)
     .use(markdownItSub)
     .use(markdownItSup);
+
   config.setLibrary('md', markdownLib);
 
   // Compress and combine JS files
@@ -76,7 +75,6 @@ module.exports = function (config) {
 
   // Watch for changes and reload
   config.addWatchTarget('src/assets');
-  config.addWatchTarget('src/includes/critical');
 
   // Copy static files to dist
   config.addPassthroughCopy({ 'src/static/**/*.{xml,html,ico}': '.' });

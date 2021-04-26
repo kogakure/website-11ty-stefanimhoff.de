@@ -4,7 +4,7 @@
 
 # stefanimhoff.de
 
-This the source of my [personal website][si] build with [Eleventy], [PostCSS], and [Rollup].
+This the source of my [personal website][si] build with [Eleventy], [PostCSS], and [Gulp].
 
 ## Installation
 
@@ -33,6 +33,6 @@ In _easier_ words: **This is not a free theme**. Learn from it. Remix. Reuse. Bu
 [creative commons license]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [eleventy]: https://www.11ty.dev/
 [postcss]: https://postcss.org/
-[rollup]: https://rollupjs.org/
+[gulp]: https://gulpjs.com/
 [journal]: https://www.stefanimhoff.de/journal/
 [si]: https://www.stefanimhoff.de/

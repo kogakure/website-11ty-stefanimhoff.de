@@ -6,8 +6,6 @@ description: I am writing about code, design, productivity, self-improvement, fi
 permalink: /journal/
 ---
 
-{% include "icon-sprites.njk" %}
-
 <h1 class="journal-title">{{ title }}</h1>
 
 <div class="journal-introduction" {{ site.animationDelay }}>
@@ -33,12 +31,12 @@ permalink: /journal/
                 {% set isLink = r/links/g %}
                 {% if isQuote.test(item.data.tags) %}
                   <svg viewBox="0 0 24 24" width="18" height="18" class="journal-posts-icon" aria-label="Quote">
-                    <use xlink:href="#icon-quotes"></use>
+                    <use xlink:href="#double-quotes"></use>
                   </svg>
                 {% endif %}
                 {% if isLink.test(item.data.tags) %}
                   <svg viewBox="0 0 24 24" width="18" height="18" class="journal-posts-icon" aria-label="Link">
-                    <use xlink:href="#icon-links"></use>
+                    <use xlink:href="#links"></use>
                   </svg>
                 {% endif %}
               </span>
