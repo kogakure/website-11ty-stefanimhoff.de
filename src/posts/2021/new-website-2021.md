@@ -139,9 +139,11 @@ Sorting media queries is a helpful plugin when using nested media queries. The p
 
 ### Gulp
 
-I started development without any JavaScript bundler, but it’s convenient to be able to use modules or ES6 syntax. ~~I decided to go with [Rollup](https://rollupjs.org/) because it _seemed_ to be the simplest tool. It was still a mess to get it doing exactly what I wanted. That was the only part in the development which was frustrating. I hate all JavaScript bundlers available. 🤬 They are all too complicated or don’t do as I want.~~ <ins>I replaced Rollup with to [Gulp](https://gulpjs.com/), because it’s much better in doing exactly what I want.</ins>
+I started development without any JavaScript bundler, but it’s convenient to be able to use modules or ES6 syntax. ~~I decided to go with [Rollup](https://rollupjs.org/) because it _seemed_ to be the simplest tool. It was still a mess to get it doing exactly what I wanted. That was the only part in the development which was frustrating. I hate all JavaScript bundlers available. 🤬 They are all too complicated or don’t do as I want.~~
 
-In the end, I replaced my custom PostCSS NPM task to run with Rollup.
+~~In the end, I replaced my custom PostCSS NPM task to run with Rollup.~~
+
+<ins>I replaced Rollup with to [Gulp](https://gulpjs.com/), because it’s much better in doing exactly what I want.</ins>
 
 ## Source Code
 
