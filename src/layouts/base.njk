@@ -19,6 +19,7 @@
       document.documentElement.classList.add('js');
     </script>
 
+    {% include "scripts.njk" %}
     {% include "styles.njk" %}
     {% include "favicons.njk" %}
     {% include "meta-tags.njk" %}
@@ -29,6 +30,6 @@
   <body {% if bodyClass %}class="{{ bodyClass }}"{% endif %}>
     {% include "icon-sprites.njk" %}
     {{ content | safe }}
-    {% include "scripts.njk" %}
+    <script src="/assets/scripts/main.js" async></script>
   </body>
 </html>
