@@ -130,13 +130,13 @@ p:last-of-type {
 /** Lists */
 ul {
   font-size: $font-size-3;
-  list-style-type: circle;
+  list-style-type: square;
   margin-block-end: $space-12;
   margin-block-start: 0;
   padding-inline-start: 1.2em;
 
   li {
-    margin-block-end: $space-2;
+    margin-block-end: $space-5;
   }
 
   li & {

@@ -1,5 +1,5 @@
 ---
-title: If You Can Write Nothing Can Stop You
+title: If You Can Write, Nothing Can Stop You
 date: 2021-05-04T18:18:51+02:00
 author: Stefan Imhoff
 tags:
