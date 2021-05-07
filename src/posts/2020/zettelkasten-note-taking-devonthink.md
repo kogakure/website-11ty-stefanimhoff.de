@@ -100,7 +100,7 @@ My notes are as simple as they can be. Simple is a good thing. The filename star
 The note itself is also quite easy in structure:
 
 ```md
-# 202005171446 The Process of Habit Building
+# The Process of Habit Building
 
 [Short introduction of the idea][#someauthor2020abc]
 
