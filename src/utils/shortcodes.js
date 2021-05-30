@@ -195,6 +195,10 @@ module.exports = {
 
     return `${link} ${key ? keyDownload : ''}`;
   },
+  verse: function (content) {
+    return outdent`
+    <blockquote class="verse"><pre>${content}</pre></blockquote>`;
+  },
   youtube: function (id) {
     return outdent`
     <div class="video-wrapper">

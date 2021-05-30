@@ -66,6 +66,7 @@ module.exports = function (config) {
   config.addPairedShortcode('bookshelf', shortcodes.bookshelf);
   config.addPairedShortcode('colorstack', shortcodes.colorstack);
   config.addPairedShortcode('banner', shortcodes.banner);
+  config.addPairedShortcode('verse', shortcodes.verse);
 
   // Filters
   Object.keys(filters).forEach((filterName) => {
