@@ -9,7 +9,7 @@ date: Last Modified
 
 Living in **Hamburg**, Germany and working as a **Senior Software Engineer** on the **Design System** of [XING](https://www.xing.com/). Working from home.
 
-**Waking up** each morning at **7:00** and **going to bed** at **22:30**. **Meditating** 15-20 minutes every morning.
+**Waking up** each morning at **7:00** and **going to bed** at **22:00**. **Meditating** 15-20 minutes every morning.
 Learning **Japanese** and **Spanish** every day on [Duolingo](https://www.duolingo.com/profile/kogakure). Doing [Calisthenics](/calisthenics) 3 times a week. I started running again 2-3 times a week.
 
 I’m reading currently these **books**:
@@ -22,8 +22,8 @@ I’m reading currently these **books**:
 
 I’m working with the [Zettelkasten](https://zettelkasten.de/) note-taking method using [Obsidian](https://obsidian.md/) to write and link ideas, [DEVONthink](https://www.devontechnologies.com/apps/devonthink) to store reference material, and [iA Writer](https://ia.net/writer) to create texts out of the ideas. These are some statistics:
 
-- **1221** notes
-- **216** bibliography entries
+- **1256** notes
+- **258** bibliography entries
 - **4500+** reference items
 
 ---
