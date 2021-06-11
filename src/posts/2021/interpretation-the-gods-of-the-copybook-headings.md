@@ -13,7 +13,7 @@ tags:
 
 A few months ago I stumbled over the poem “The Gods of the Copybook Headings” by _Rudyard Kipling_. I had never heard of the poem before, but the [visual interpretation of the poem](https://www.youtube.com/watch?v=37ARLInjLVE) by filmmaker and author [Lauren Southern](https://laurensouthern.net/) put me under a spell. I watched it over and over again and even started learning the poem.
 
-As a _mostly_ reasonable person with political center-left libertarian views, I’m utterly frustrated with the ongoing global movement against reason that accelerated over the last 5 years.
+As a _mostly_ reasonable person with political center-left libertarian views, I’m utterly frustrated with the ongoing global movement against reason that accelerated over the last 5 years. The poem echoes this feeling.
 
 ## Historical Background
 
@@ -231,7 +231,7 @@ The conservative commentator _Michael Knowles_ was recently asked by _Chris Will
 
 Reaching for Utopia (greek “not a place”) results always in a Dystopia (greek “bad place”). Utopian ideologies are **psychopathic** and arise from the inability to live in the reality.[^lindsay2020aa]
 
-There will be no war, that ends all wars, no “Great Reset”, no restart without killing millions of people. <q>All zero-point ideologies were devastating and always resulted in totalitarian systems or totalitarian thinking.</q>, stated Prof. _Nobert Bolz_ in a recent podcast.[^muller-ullrich2021bu] He fears that the Western world is again in a situation where serious intellectuals are thinking about whether we could go back to zero, construct a new form of society and economy, a new human nature. The pandemic or climate crisis offers easy reasons to justify authoritarian or totalitarian ideas for “the greater good”. The German _Supreme Court_ already hinted that massive personal restrictions might be justified to reach the climate goals.[^escritt2021ap] So be prepared to have fewer flights in the future, to lose your car, or for the comeback of nuclear power.
+There will be no war, that ends all wars, no “Great Reset”, no restart without killing millions of people. <q>All zero-point ideologies were devastating and always resulted in totalitarian systems or totalitarian thinking,</q> stated Prof. _Nobert Bolz_ in a recent podcast.[^muller-ullrich2021bu] He fears that the Western world is again in a situation where serious intellectuals are thinking about whether we could go back to zero, construct a new form of society and economy, a new human nature. The pandemic or climate crisis offers easy reasons to justify authoritarian or totalitarian ideas for “the greater good”. The German _Supreme Court_ already hinted that massive personal restrictions might be justified to reach the climate goals.[^escritt2021ap] So be prepared to have fewer flights in the future, to lose your car, or for the comeback of nuclear power.
 
 All these endeavors ignore human nature, reason, personal liberty, and self-determination. To achieve a reset one would have to suppress or kill millions of people. I don’t think any sane person would like to live in a totalitarian, digitalized surveillance state like China is currently building.
 

@@ -54,6 +54,12 @@
     "language": "en"
   },
   {
+    "title": "Order of Man",
+    "url": "https://podcasts.apple.com/podcast/order-of-man/id979752171",
+    "cover": "/assets/images/podcasts/order-of-man.jpg",
+    "language": "en"
+  },
+  {
     "title": "Modern Wisdom",
     "url": "https://podcasts.apple.com/podcast/modern-wisdom/id1347973549",
     "cover": "/assets/images/podcasts/modern-wisdom.jpg",
@@ -69,6 +75,18 @@
     "title": "The Minimalists Podcast",
     "url": "https://podcasts.apple.com/podcast/the-minimalists-podcast/id1069757084",
     "cover": "/assets/images/podcasts/the-minimalists-podcast.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Darknet Diaries",
+    "url": "https://podcasts.apple.com/podcast/darknet-diaries/id1296350485",
+    "cover": "/assets/images/podcasts/darknet-diaries.jpg",
+    "language": "en"
+  },
+  {
+    "title": "The Daily Stoic",
+    "url": "https://podcasts.apple.com/podcast/the-daily-stoic/id1430315931",
+    "cover": "/assets/images/podcasts/the-daily-stoic.jpg",
     "language": "en"
   },
   {
