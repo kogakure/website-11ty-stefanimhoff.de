@@ -50,7 +50,7 @@ The poem is a conservative poem. Its basic message is that everything progressiv
 
 The poet travels metaphorically through different times and as different people and bows to the _Gods of the Marketplace_.
 
-The _Gods of the Marketplace_, are those <q>temporary fads like Dutch tulip bulbs, dot-com stocks, mortgage-backed securities, and […] carbon credits</q>[^levinson2011kv], writes _William A. Levinson_. These gods are promises and ideas, social progress, and delusory ideologies that despise the truth. The 20th century had no shortage of these ideas, even though Kipling didn’t know about the harm that Socialism, Fascism, or Nazi ideology would unleash on the world.
+The _Gods of the Marketplace_, are those <q>temporary fads like Dutch tulip bulbs, dot-com stocks, mortgage-backed securities, and […] carbon credits,</q>[^levinson2011kv] writes _William A. Levinson_. These gods are promises and ideas, social progress, and delusory ideologies that despise the truth. The 20th century had no shortage of these ideas, even though Kipling didn’t know about the harm that Socialism, Fascism, or Nazi ideology would unleash on the world.
 
 And the new century has, unfortunately, no shortage of bad ideas: The resurrection of Postmodernism and [Neo-Marxism](https://newdiscourses.com/tftw-neo-marxism/), [Identity Politics](https://newdiscourses.com/tftw-identity-politics/), [Critical Theory](https://newdiscourses.com/tftw-critical-theory/), victimhood culture, the war on drugs, boys, the nuclear family, merit, and market-based capitalism, or growth without limits, to name a few.
 
