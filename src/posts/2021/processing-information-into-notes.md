@@ -10,7 +10,7 @@ tags:
 
 Everybody is consuming content, through books, articles, videos, podcasts, or other media. We consume content for entertainment, to be informed, or to learn and grow. But few people take the time to extract the valuable parts from the content they are consuming.
 
-As I wrote in my previous essay [Zettelkasten Note-Taking Method With DEVONthink](/zettelkasten-note-taking-devonthink/) we are prone to the _Collectors Fallacy_, the belief that consuming information enables us automatically to remember and apply this knowledge later. This is sadly not true. The only way to remember things is by writing them down, create connections between them, and regularly revisit them.
+As I wrote in my previous essay [Zettelkasten Note-Taking Method With DEVONthink](/zettelkasten-note-taking-devonthink/) we are prone to the _Collectors Fallacy_, the belief that consuming information enables us automatically to remember and apply this knowledge later. This is sadly not true. The only way to remember things is by writing them down, creating connections between them, and regularly revisit them.
 
 I started using the Zettelkasten note-taking method a year ago and this article is an overview of the different types of content and how and with what tools I process them.
 
