@@ -233,7 +233,7 @@ Reaching for Utopia (greek “not a place”) results always in a Dystopia (gree
 
 There will be no war, that ends all wars, no “Great Reset”, no restart without killing millions of people. <q>All zero-point ideologies were devastating and always resulted in totalitarian systems or totalitarian thinking,</q> stated Prof. _Nobert Bolz_ in a recent podcast.[^muller-ullrich2021bu] He fears that the Western world is again in a situation where serious intellectuals are thinking about whether we could go back to zero, construct a new form of society and economy, a new human nature. The pandemic or climate crisis offers easy reasons to justify authoritarian or totalitarian ideas for “the greater good”. The German _Supreme Court_ already hinted that massive personal restrictions might be justified to reach the climate goals.[^escritt2021ap] So be prepared to have fewer flights in the future, to lose your car, or for the comeback of nuclear power.
 
-All these endeavors ignore human nature, reason, personal liberty, and self-determination. To achieve a reset one would have to suppress or kill millions of people. I don’t think any sane person would like to live in a totalitarian, digitalized surveillance state like China is currently building.
+All these endeavors ignore human nature, reason, personal liberty, and self-determination. To achieve a reset one would have to suppress, incarcerate, reeducate, or even kill millions of people. I don’t think any sane person would like to live in a totalitarian, digitalized surveillance state like China is currently building.
 
 We have to call out and shame people that push for these ideas before it is too late.
 
