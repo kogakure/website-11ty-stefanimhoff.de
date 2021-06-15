@@ -52,7 +52,7 @@ The poet travels metaphorically through different times and as different people 
 
 The _Gods of the Marketplace_, are those <q>temporary fads like Dutch tulip bulbs, dot-com stocks, mortgage-backed securities, and […] carbon credits,</q>[^levinson2011kv] writes _William A. Levinson_. These gods are promises and ideas, social progress, and delusory ideologies that despise the truth. The 20th century had no shortage of these ideas, even though Kipling didn’t know about the harm that Socialism, Fascism, or Nazi ideology would unleash on the world.
 
-And the new century has, unfortunately, no shortage of bad ideas: The resurrection of Postmodernism and [Neo-Marxism](https://newdiscourses.com/tftw-neo-marxism/), [Identity Politics](https://newdiscourses.com/tftw-identity-politics/), [Critical Theory](https://newdiscourses.com/tftw-critical-theory/), victimhood culture, the war on drugs, boys, the nuclear family, merit, and market-based capitalism, or growth without limits, to name a few.
+And the new century has, unfortunately, no shortage of bad ideas: The resurrection of Postmodernism and [Neo-Marxism](https://newdiscourses.com/tftw-neo-marxism/), [Identity Politics](https://newdiscourses.com/tftw-identity-politics/), [Critical Theory](https://newdiscourses.com/tftw-critical-theory/), victimhood culture, the war on drugs, boys, masculinity, the nuclear family, merit, and market-based capitalism, or growth without limits, to name a few.
 
 But all these bad ideas will fail and crumble and the _Gods of the Copybook Headings_ will prevail, because they are <q>the nonpartisan, scientific, and implacable laws of economics and human behavior.</q>[^levinson2011kv]
 
@@ -121,7 +121,7 @@ Gender dysphoria in Swedish teen girls is up 1,500 percent since 2008.[^dms2020c
 
 Radical activists try to compel speech and intimidate others to recognize the 70+ made-up gender pronouns while it is perfectly possible to respect any transgender with the existing two pronouns.
 
-The denial of objective truth shows itself in the invention of words like “birthing person” (mother), or in statements like ”men can menstruate and give birth” or “a trans-woman is a woman” which are objectively false.
+The denial of objective truth shows itself in the invention of words like “birthing person” (mother), “chest feeding” (breast feeding), or in statements like ”men can menstruate and give birth” or “a trans-woman is a woman” which are objectively false.
 
 Attacks on scientists of biology or evolution biology increased in the last years. Multiple scientists retracted their papers out of fear of being canceled. _Naval Ravikant_ said in a recent interview: <q>Biology will suffer the most. Synthetic biology, for example, a lot of this will end up in China, because you won’t be able to map facts and reality and actions together.</q>[^rogan2019ul]
 
@@ -138,9 +138,11 @@ The _Cambrian_ is a reference to the welsh _Lloyd George_, prime minister during
 
 This stanza is a warning to believe anybody that promises lasting peace. A country needs to ensure it’s always able to defend its values and borders (if needed with violence) against aggressors or it will cease to exist.
 
+If you don’t, you will get conditions like France, where 226 people where killed by islamic terrorists between 2011 and 2021.[^ap2020wm] The parallel societies grew so dangerous in the past years, that the police doesn’t go anymore into some cities districts. 20 retired generals and 1,000 soldiers warned in April 2021 in an open letter,[^bbcnews2021eu] followed by another warning, signed by 130,000 people, that a civil war might soon break out.[^bbcnews2021uf]
+
 It is important to be able to defend oneself, because <q>a harmless man is not a good man. A good man is a very, very dangerous man, who has that under voluntary control,</q> as _Jordan B. Peterson_ stated.
 
-One can become worried about the security of Western values and way of life when reading that the US military ends gender-neutral fitness levels for soldiers to be more inclusive[^ffn2021ru] or starts implementing woke ideology[^nightingale2021ne] while Chinese soldiers train in all harsh weather and the government works on genetically enhancing their soldiers.[^dilanian2020je] A recent joke goes like this: <q>When the Chinese soldiers invade, the US soldiers will ask them what their pronouns are</q>.
+One can become worried about the security of Western values and way of life when reading that the US military ends gender-neutral fitness tests for soldiers to be more inclusive[^ffn2021ru] or starts implementing woke ideology[^nightingale2021ne] while Chinese soldiers train in all harsh weather and the government works on genetically enhancing their soldiers.[^dilanian2020je] A recent joke goes like this: <q>When the Chinese soldiers invade, the US soldiers will ask them what their pronouns are</q>.
 
 ### Stanza 6
 
@@ -210,7 +212,7 @@ This stanza is a depressing realization that humanity will not learn from its mi
 
 Bad ideas like socialism, communism, or fascism are kept alive or are revived. It’s 2021 and we have again concentration camps in China and the world pretends nothing happened because we don’t want to risk our business opportunities with China.
 
-Racist, sexists, anti-scientific, anti-reason, postmodernist ideas like Critical Theory are pushed into the education system and companies and destroy these institutions[^nayna2019qz] unless brave people stand up against these toxic ideas[^pachal2020gj] [^monroe2021im].
+Racist, sexists, anti-scientific, anti-reason, postmodernist ideas like Critical Theory are pushed into the education system and companies and destroy these institutions[^nayna2019qz] unless brave people stand up against these toxic ideas.[^pachal2020gj] [^monroe2021im]
 
 People get segregated by race, have to disavow their “whiteness” or acknowledge their “privilege”. People of color that don’t subscribe to these ideas are labeled “race traitors”, “Uncle Tom”, “or not being authentically …”.
 
@@ -231,7 +233,9 @@ The conservative commentator _Michael Knowles_ was recently asked by _Chris Will
 
 Reaching for Utopia (greek “not a place”) results always in a Dystopia (greek “bad place”). Utopian ideologies are **psychopathic** and arise from the inability to live in the reality.[^lindsay2020aa]
 
-There will be no war, that ends all wars, no “Great Reset”, no restart without killing millions of people. <q>All zero-point ideologies were devastating and always resulted in totalitarian systems or totalitarian thinking,</q> stated Prof. _Nobert Bolz_ in a recent podcast.[^muller-ullrich2021bu] He fears that the Western world is again in a situation where serious intellectuals are thinking about whether we could go back to zero, construct a new form of society and economy, a new human nature. The pandemic or climate crisis offers easy reasons to justify authoritarian or totalitarian ideas for “the greater good”. The German _Supreme Court_ already hinted that massive personal restrictions might be justified to reach the climate goals.[^escritt2021ap] So be prepared to have fewer flights in the future, to lose your car, or for the comeback of nuclear power.
+There will be no war, that ends all wars, no “Great Reset”, no restart without getting rid of millions of people that don’t subscribe to the idea. <q>All zero-point ideologies were devastating and always resulted in totalitarian systems or totalitarian thinking,</q> stated Prof. _Nobert Bolz_ in a recent podcast.[^muller-ullrich2021bu] He fears that the Western world is again in a situation where serious intellectuals are thinking about whether we could go back to zero, construct a new form of society and economy, a new human nature.
+
+The pandemic or climate crisis offer convenient reasons to justify authoritarian or totalitarian ideas for “the greater good”. The German _Supreme Court_ already hinted that massive personal restrictions might be justified to reach the climate goals.[^escritt2021ap] So be prepared to have fewer flights in the future, to lose your car, be restricted in your movement and freedoms, and for the comeback of nuclear power.
 
 All these endeavors ignore human nature, reason, personal liberty, and self-determination. To achieve a reset one would have to suppress, incarcerate, reeducate, or even kill millions of people. I don’t think any sane person would like to live in a totalitarian, digitalized surveillance state like China is currently building.
 
@@ -263,6 +267,9 @@ Reality will always win, eventually. A lie doesn’t become true, because everyb
 [^faria2021qg]: Zachary Faria (2021): [Portland cut police funding and got a 2,000% surge in murders](https://www.washingtonexaminer.com/opinion/portland-cut-police-funding-and-got-a-2-000-surge-in-murders)
 [^sowell2013aa]: Thomas Sowell (2013): _Intellectuals and Race_, Basic Books, Pos. 1037
 [^gillespie2020dv]: Nick Gillespie (2020): [81 Percent of Black Americans Want the Same Level, or More, of Police Presence: Gallup](https://reason.com/2020/08/06/81-percent-of-black-americans-want-the-same-level-or-more-of-police-presence-gallup/)
+[^ap2020wm]: The Associated press (2020): [A timeline of extremist attacks in France in recent years](https://abcnews.go.com/International/wireStory/timeline-extremist-attacks-france-recent-years-73904981)
+[^bbcnews2021eu]: BBC News (2021): [Anger as ex-generals warn of 'deadly civil war' in France](https://www.bbc.com/news/world-europe-56899765).
+[^bbcnews2021uf]: BBC News (2021): [French soldiers warn of civil war in new letter](https://www.bbc.com/news/world-europe-57055154).
 [^ffn2021ru]: Natural News (2021): [US Army ends gender neutral fitness test because female soldiers keep failing… men and women are different after all](https://freedomfirstnetwork.com/2021/04/us-army-ends-gender-neutral-fitness-test-because-female-soldiers-keep-failing-men-and-women-are-different-after-all)
 [^nightingale2021ne]: Hannah Nightingale (2021): [US Army shuts down YouTube comment section of ’woke‘ recruitment ad for the ’safety and well-being‘ of soldiers](https://thepostmillennial.com/us-army-shuts-down-youtube-comment-section-mocking-woke-recruitment-ad)
 [^dilanian2020je]: Ken Dilanian (2020): [China has done human testing to create biologically enhanced super soldiers, says top U.S. official](https://www.nbcnews.com/politics/national-security/china-has-done-human-testing-create-biologically-enhanced-super-soldiers-n1249914)
