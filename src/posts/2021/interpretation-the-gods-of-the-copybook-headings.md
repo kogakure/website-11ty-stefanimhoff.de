@@ -142,7 +142,7 @@ If you don’t, you will get conditions like France, where 226 people where kill
 
 It is important to be able to defend oneself, because <q>a harmless man is not a good man. A good man is a very, very dangerous man, who has that under voluntary control,</q> as _Jordan B. Peterson_ stated.
 
-One can become worried about the security of Western values and way of life when reading that the US military ends gender-neutral fitness tests for soldiers to be more inclusive[^ffn2021ru] or starts implementing woke ideology[^nightingale2021ne] while Chinese soldiers train in all harsh weather and the government works on genetically enhancing their soldiers.[^dilanian2020je] A recent joke goes like this: <q>When the Chinese soldiers invade, the US soldiers will ask them what their pronouns are</q>.
+One can become worried about the security of Western values and way of life when reading that the US military ends gender-neutral fitness tests for soldiers to be more inclusive[^ffn2021ru] or starts implementing woke ideology[^nightingale2021ne] while Chinese soldiers train in harsh weather and the government works on genetically enhancing their soldiers.[^dilanian2020je] A recent joke goes like this: <q>When the Chinese soldiers invade, the US soldiers will ask them what their pronouns are</q>.
 
 ### Stanza 6
 
@@ -178,7 +178,7 @@ As _Elon Musk_ put it in quite harsh words on _Joe Rogans_ Podcast: <q>Now let m
 
 Socialism is again high in favor in Western countries, particularly by the educated, bored, upper-middle-class that live everyday a comfortable life through the means of capitalist production while at the same time rail against it.
 
-They paint capitalism as the devils even though capitalism cut extreme poverty (less than $1.90 per day) in half between 1990 and 2010.[^murphy2018ez] [^mitchell2018qu] [^rosling2015lc]
+They paint capitalism as the devil even though it cut extreme poverty (less than $1.90 per day) in half between 1990 and 2010.[^murphy2018ez] [^mitchell2018qu] [^rosling2015lc]
 
 It seems we never learn from our past. More and more people want to destroy the current way of life. Everywhere people talk about a restart of “how we live” or a “Great Reset”. These ideas always end in bloodshed and millions of dead people, because you can’t create a society on the drawing board. <q>Communism doesn’t know how</q>[^lindsay2021ut] which is why it fails each time. 100 million dead people should have been enough to learn that it won’t work, but it seems like it doesn’t.
 
@@ -214,7 +214,7 @@ Bad ideas like socialism, communism, or fascism are kept alive or are revived. I
 
 Racist, sexists, anti-scientific, anti-reason, postmodernist ideas like Critical Theory are pushed into the education system and companies and destroy these institutions[^nayna2019qz] unless brave people stand up against these toxic ideas.[^pachal2020gj] [^monroe2021im]
 
-People get segregated by race, have to disavow their “whiteness” or acknowledge their “privilege”. People of color that don’t subscribe to these ideas are labeled “race traitors”, “Uncle Tom”, “or not being authentically …”.
+People get segregated by race, have to disavow their “whiteness” or acknowledge their “privilege”. People of color that don’t subscribe to these ideas are labeled “race traitor”, “Uncle Tom”, “or not being authentically (race/sex/sexual orientation)”.
 
 Identity politics divide people into smaller and smaller sub-categories that fight each other. Discourse is shut down with compelled speech codes, trigger warnings, or safe spaces. People are bullied into compliance, are harassed, doxed, or fired from their jobs for disagreeing.
 
@@ -235,13 +235,13 @@ Reaching for Utopia (greek “not a place”) results always in a Dystopia (gree
 
 There will be no war, that ends all wars, no “Great Reset”, no restart without getting rid of millions of people that don’t subscribe to the idea. <q>All zero-point ideologies were devastating and always resulted in totalitarian systems or totalitarian thinking,</q> stated Prof. _Nobert Bolz_ in a recent podcast.[^muller-ullrich2021bu] He fears that the Western world is again in a situation where serious intellectuals are thinking about whether we could go back to zero, construct a new form of society and economy, a new human nature.
 
-The pandemic or climate crisis offer convenient reasons to justify authoritarian or totalitarian ideas for “the greater good”. The German _Supreme Court_ already hinted that massive personal restrictions might be justified to reach the climate goals.[^escritt2021ap] So be prepared to have fewer flights in the future, to lose your car, be restricted in your movement and freedoms, and for the comeback of nuclear power.
+The pandemic or climate crisis offer convenient reasons to justify authoritarian or totalitarian ideas for “the greater good”. The German _Supreme Court_ already hinted that massive personal restrictions might be justified to reach the climate goals.[^escritt2021ap] So be prepared to have fewer (or no) flights in the future, to lose your car, and be restricted in your movement and freedoms.
 
-All these endeavors ignore human nature, reason, personal liberty, and self-determination. To achieve a reset one would have to suppress, incarcerate, reeducate, or even kill millions of people. I don’t think any sane person would like to live in a totalitarian, digitalized surveillance state like China is currently building.
+All these endeavors ignore human nature, reason, personal liberty, and self-determination. To achieve a reset one would have to suppress, intimidate, incarcerate, reeducate, or even kill millions of people. I don’t think any sane person would like to live in a totalitarian, digitalized surveillance state like China is currently building.
 
 We have to call out and shame people that push for these ideas before it is too late.
 
-Reality will always win, eventually. A lie doesn’t become true, because everybody wants it to be true. _The Gods of the Copybook Headings_ can’t be ignored, without paying a high price.
+Reality will **always** win, _eventually_. The question is to what price. A lie doesn’t become true, because everybody wants it to be true. _The Gods of the Copybook Headings_ can’t be ignored, without paying a high price.
 
 [^levinson2011kv]: William A. Levinson (2011): [The Revenge of the Gods of the Copybook Headings](https://www.americanthinker.com/articles/2011/08/the_revenge_of_the_gods_of_the_copybook_headings.html)
 [^peterson2017yx]: Jordan B. Peterson (2017): [2017 Maps of Meaning: The Architecture of Belief (University of Toronto)](https://www.youtube.com/playlist?list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h)
