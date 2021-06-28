@@ -63,6 +63,7 @@ module.exports = function (config) {
   config.addShortcode('netflix', shortcodes.netflix);
   config.addShortcode('primevideo', shortcodes.primevideo);
   config.addShortcode('youtube', shortcodes.youtube);
+  config.addShortcode('odysee', shortcodes.odysee);
   config.addPairedShortcode('bookshelf', shortcodes.bookshelf);
   config.addPairedShortcode('colorstack', shortcodes.colorstack);
   config.addPairedShortcode('banner', shortcodes.banner);

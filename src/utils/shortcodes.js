@@ -206,6 +206,15 @@ module.exports = {
         frameborder="0" allowfullscreen       
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
       </iframe>
-    </div> `;
+    </div>`;
+  },
+  odysee: function (id) {
+    return outdent`
+    <div class="video-wrapper">
+      <iframe id="lbry-iframe" src="https://odysee.com/$/embed/${id}" 
+        frameborder="0" allowfullscreen
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
+      </iframe>
+    </div>`;
   },
 };
