@@ -6,7 +6,7 @@ const currentDir = process.cwd();
 const templatePath = 'plop';
 const date = moment().format();
 const year = moment().format('YYYY');
-const linkCount = fs.readdirSync('./src/links').length - 2;
+const linkCount = fs.readdirSync('./src/links').length - 1;
 
 module.exports = function (plop) {
   const tags = [
