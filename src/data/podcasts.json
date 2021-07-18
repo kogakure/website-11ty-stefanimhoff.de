@@ -1,8 +1,50 @@
 [
   {
+    "title": "The Jordan B. Peterson Podcast",
+    "url": "https://podcasts.apple.com/podcast/the-jordan-b-peterson-podcast/id1184022695",
+    "cover": "/assets/images/podcasts/the-jordan-b-peterson-podcast.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Bret Weinstein | DarkHorse Podcast",
+    "url": "https://podcasts.apple.com/podcast/bret-weinstein-darkhorse-podcast/id1471581521",
+    "cover": "/assets/images/podcasts/bret-weinstein-darkhorse-podcast.jpg",
+    "language": "en"
+  },
+  {
+    "title": "The Portal",
+    "url": "https://podcasts.apple.com/podcast/the-portal/id1469999563",
+    "cover": "/assets/images/podcasts/the-portal.jpg",
+    "language": "en"
+  },
+  {
+    "title": "The Joe Rogan Experience",
+    "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "cover": "/assets/images/podcasts/the-joe-rogan-experience.jpg",
+    "language": "en"
+  },
+  {
+    "title": "“YOUR WELCOME” with Michael Malice",
+    "url": "https://podcasts.apple.com/podcast/your-welcome-with-michael-malice/id1389660155",
+    "cover": "/assets/images/podcasts/your-welcome-with-michael-malice.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Lex Fridman Podcast",
+    "url": "https://podcasts.apple.com/podcast/lex-fridman-podcast/id1434243584",
+    "cover": "/assets/images/podcasts/lex-fridman-podcast.jpg",
+    "language": "en"
+  },
+  {
     "title": "New Discourses",
     "url": "https://podcasts.apple.com/podcast/new-discourses/id1499880546",
     "cover": "/assets/images/podcasts/new-discourses.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Sovereign Nations",
+    "url": "https://podcasts.apple.com/podcast/sovereign-nations/id1383339158",
+    "cover": "/assets/images/podcasts/sovereign-nations.jpg",
     "language": "en"
   },
   {
@@ -18,33 +60,16 @@
     "language": "en"
   },
   {
-    "title": "DUST",
-    "url": "https://podcasts.apple.com/podcast/dust/id1482669176",
-    "cover": "/assets/images/podcasts/dust.jpg",
+    "title": "Common Sense with Dan Carlin",
+    "url": "https://podcasts.apple.com/podcast/common-sense-with-dan-carlin/id155974141",
+    "website": "",
+    "cover": "/assets/images/podcasts/common-sense-with-dan-carlin.jpg",
     "language": "en"
   },
   {
-    "title": "The Joe Rogan Experience",
-    "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
-    "cover": "/assets/images/podcasts/the-joe-rogan-experience.jpg",
-    "language": "en"
-  },
-  {
-    "title": "The Jordan B. Peterson Podcast",
-    "url": "https://podcasts.apple.com/podcast/the-jordan-b-peterson-podcast/id1184022695",
-    "cover": "/assets/images/podcasts/the-jordan-b-peterson-podcast.jpg",
-    "language": "en"
-  },
-  {
-    "title": "“YOUR WELCOME” with Michael Malice",
-    "url": "https://podcasts.apple.com/podcast/your-welcome-with-michael-malice/id1389660155",
-    "cover": "/assets/images/podcasts/your-welcome-with-michael-malice.jpg",
-    "language": "en"
-  },
-  {
-    "title": "Lex Fridman Podcast",
-    "url": "https://podcasts.apple.com/podcast/lex-fridman-podcast/id1434243584",
-    "cover": "/assets/images/podcasts/lex-fridman-podcast.jpg",
+    "title": "Jocko Podcast",
+    "url": "https://podcasts.apple.com/podcast/jocko-podcast/id1070322219",
+    "cover": "/assets/images/podcasts/jocko-podcast.jpg",
     "language": "en"
   },
   {
@@ -78,51 +103,21 @@
     "language": "en"
   },
   {
-    "title": "Darknet Diaries",
-    "url": "https://podcasts.apple.com/podcast/darknet-diaries/id1296350485",
-    "cover": "/assets/images/podcasts/darknet-diaries.jpg",
-    "language": "en"
-  },
-  {
     "title": "The Daily Stoic",
     "url": "https://podcasts.apple.com/podcast/the-daily-stoic/id1430315931",
     "cover": "/assets/images/podcasts/the-daily-stoic.jpg",
     "language": "en"
   },
   {
-    "title": "Jocko Podcast",
-    "url": "https://podcasts.apple.com/podcast/jocko-podcast/id1070322219",
-    "cover": "/assets/images/podcasts/jocko-podcast.jpg",
+    "title": "DUST",
+    "url": "https://podcasts.apple.com/podcast/dust/id1482669176",
+    "cover": "/assets/images/podcasts/dust.jpg",
     "language": "en"
   },
   {
-    "title": "Bret Weinstein | DarkHorse Podcast",
-    "url": "https://podcasts.apple.com/podcast/bret-weinstein-darkhorse-podcast/id1471581521",
-    "cover": "/assets/images/podcasts/bret-weinstein-darkhorse-podcast.jpg",
-    "language": "en"
-  },
-  {
-    "title": "The Portal",
-    "url": "https://podcasts.apple.com/podcast/the-portal/id1469999563",
-    "cover": "/assets/images/podcasts/the-portal.jpg",
-    "language": "en"
-  },
-  {
-    "title": "The Michael Shermer Show",
-    "url": "https://podcasts.apple.com/podcast/the-michael-shermer-show/id1352860989",
-    "cover": "/assets/images/podcasts/the-michael-shermer-show.jpg",
-    "language": "en"
-  },
-  {
-    "title": "The Saad Truth with Dr. Saad",
-    "url": "https://podcasts.apple.com/podcast/the-saad-truth-with-dr-saad/id1516343565",
-    "cover": "/assets/images/podcasts/the-saad-truth-with-dr-saad.jpg",
-    "language": "en"
-  },
-  {
-    "title": "Quillette Podcast",
-    "url": "https://podcasts.apple.com/podcast/quillette-podcast/id1441708286",
-    "cover": "/assets/images/podcasts/quillette-podcast.jpg",
+    "title": "Darknet Diaries",
+    "url": "https://podcasts.apple.com/podcast/darknet-diaries/id1296350485",
+    "cover": "/assets/images/podcasts/darknet-diaries.jpg",
     "language": "en"
   },
   {
@@ -138,9 +133,27 @@
     "language": "en"
   },
   {
+    "title": "The Michael Shermer Show",
+    "url": "https://podcasts.apple.com/podcast/the-michael-shermer-show/id1352860989",
+    "cover": "/assets/images/podcasts/the-michael-shermer-show.jpg",
+    "language": "en"
+  },
+  {
+    "title": "The Saad Truth with Dr. Saad",
+    "url": "https://podcasts.apple.com/podcast/the-saad-truth-with-dr-saad/id1516343565",
+    "cover": "/assets/images/podcasts/the-saad-truth-with-dr-saad.jpg",
+    "language": "en"
+  },
+  {
     "title": "The Megyn Kelly Show",
     "url": "https://podcasts.apple.com/podcast/the-megyn-kelly-show/id1532976305",
     "cover": "/assets/images/podcasts/the-megyn-kelly-show.jpg",
+    "language": "en"
+  },
+  {
+    "title": "The Ayaan Hirsi Ali Podcast",
+    "url": "https://podcasts.apple.com/podcast/the-ayaan-hirsi-ali-podcast/id1552059697",
+    "cover": "/assets/images/podcasts/the-ayaan-hirsi-ali-podcast.jpg",
     "language": "en"
   },
   {
@@ -150,11 +163,10 @@
     "language": "de"
   },
   {
-    "title": "Common Sense with Dan Carlin",
-    "url": "https://podcasts.apple.com/podcast/common-sense-with-dan-carlin/id155974141",
-    "website": "",
-    "cover": "/assets/images/podcasts/common-sense-with-dan-carlin.jpg",
-    "language": "en"
+    "title": "Gunnar Kaiser auf KaiserTV",
+    "url": "https://podcasts.apple.com/podcast/indubio/id1504760857",
+    "cover": "/assets/images/podcasts/kaisertv.jpg",
+    "language": "de"
   },
   {
     "title": "The Tim Dillon Show",
@@ -181,15 +193,15 @@
     "language": "en"
   },
   {
-    "title": "On Being with Krista Tippett",
-    "url": "https://podcasts.apple.com/podcast/on-being-with-krista-tippett/id150892556",
-    "cover": "/assets/images/podcasts/on-being-with-krista-tippett.jpg",
+    "title": "Quillette Podcast",
+    "url": "https://podcasts.apple.com/podcast/quillette-podcast/id1441708286",
+    "cover": "/assets/images/podcasts/quillette-podcast.jpg",
     "language": "en"
   },
   {
-    "title": "The Ayaan Hirsi Ali Podcast",
-    "url": "https://podcasts.apple.com/podcast/the-ayaan-hirsi-ali-podcast/id1552059697",
-    "cover": "/assets/images/podcasts/the-ayaan-hirsi-ali-podcast.jpg",
+    "title": "On Being with Krista Tippett",
+    "url": "https://podcasts.apple.com/podcast/on-being-with-krista-tippett/id150892556",
+    "cover": "/assets/images/podcasts/on-being-with-krista-tippett.jpg",
     "language": "en"
   },
   {
