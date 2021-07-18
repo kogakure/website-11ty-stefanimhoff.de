@@ -15,8 +15,8 @@ Learning **Japanese** and **Spanish** every day on [Duolingo](https://www.duolin
 I’m reading currently these **books**:
 
 {% bookshelf %}
-{% book "3958903436" %}
-{% book "1507209029" %}
+{% book "1440579776" %}
+{% book "B094XR9LGV" %}
 {% book "B016AWGJBK" %}
 {% book "1788164261" %}
 {% book "1577315936" %}
@@ -25,9 +25,9 @@ I’m reading currently these **books**:
 
 I’m working with the [Zettelkasten](https://zettelkasten.de/) note-taking method using [Obsidian](https://obsidian.md/) to write and link ideas, [DEVONthink](https://www.devontechnologies.com/apps/devonthink) to store reference material, and [iA Writer](https://ia.net/writer) to create texts out of the ideas. These are some statistics:
 
-- **1274** notes
-- **270** bibliography entries
-- **4787** reference items
+- **1319** notes
+- **276** bibliography entries
+- **4819** reference items
 
 ---
 
