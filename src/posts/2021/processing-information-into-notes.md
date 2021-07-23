@@ -5,6 +5,7 @@ author: Stefan Imhoff
 description: My process of extracting information out of books, articles, podcasts, videos and creating atomic notes.
 tags:
   - productivity
+  - note-taking
   - tip
 ---
 

@@ -6,6 +6,7 @@ description: I started my Zettelkasten in DEVONthink. But since then, I integrat
 tags:
   - productivity
   - software
+  - note-taking
   - featured
 ---
 
