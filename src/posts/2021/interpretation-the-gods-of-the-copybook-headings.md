@@ -134,7 +134,7 @@ The denial of objective truth will not only endanger women and children but driv
 
 The _Cambrian_ is a reference to the welsh _Lloyd George_, prime minister during World War I. He negotiated the peace treaty in Versailles in 1919. The disarmament of the Germans was negotiated but at the same time the disarmament of the winners. The peace didn’t hold for long and Germany rearmed in secrecy.
 
-This stanza is a warning to believe anybody that promises lasting peace. A country needs to ensure it’s always able to defend its values and borders (if needed with violence) against aggressors or it will cease to exist.
+This stanza is a warning to believe nobody that promises lasting peace. A country needs to ensure it’s always able to defend its values and borders (if needed with violence) against aggressors or it will cease to exist.
 
 If you don’t, you will get conditions like France, where 226 people where killed by islamic terrorists between 2011 and 2021.[^ap2020wm] The parallel societies grew so dangerous in the past years, that the police doesn’t go anymore into some cities districts. 20 retired generals and 1,000 soldiers warned in April 2021 in an open letter,[^bbcnews2021eu] followed by another warning, signed by 130,000 people, that a civil war might soon break out.[^bbcnews2021uf]
 
