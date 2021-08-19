@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Authority Cannot Replace Critical Thinking
 date: 2021-08-08T08:12:05+02:00
 author: Stefan Imhoff
