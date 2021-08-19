@@ -9,7 +9,7 @@ tags:
 
 {% youtube "37ARLInjLVE" %}
 
-A few months ago I stumbled over the poem “The Gods of the Copybook Headings” by _Rudyard Kipling_. I had never heard of the poem before, but the [visual interpretation of the poem](https://www.youtube.com/watch?v=37ARLInjLVE) by filmmaker and author [Lauren Southern](https://laurensouthern.net/) put me under a spell. I watched it over and over again and even started learning the poem.
+A few months ago I stumbled over the poem “The Gods of the Copybook Headings” by _Rudyard Kipling_. I had never heard of the poem before, but the [visual interpretation of the poem](https://www.youtube.com/watch?v=37ARLInjLVE) by filmmaker and author [Lauren Southern](https://laurensouthern.net/) put me under a spell. I watched it over and over again and can recite the poem from my memory.
 
 As a _mostly_ reasonable person with political center-left libertarian views, I’m utterly frustrated with the ongoing global movement against reason that accelerated over the last 5 years. The poem echoes this feeling.
 
