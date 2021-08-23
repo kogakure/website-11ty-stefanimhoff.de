@@ -45,7 +45,7 @@
   {
     "title": "Bamboo Illustration",
     "categories": ["Illustration"],
-    "text": "<p>I created the bamboo illustration in <strong>2006</strong> for my <a href='https://www.kogakure.de/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> used Adobe Illustrator and the gradient grid tool.</p><p><strong>2015</strong> I decided to use my bamboo as <abbr title='Scalable Vector Graphics'>SVG</abbr> on my Unfortunately, the gradient tool is not supported in <abbr>SVG</abbr> and I needed recreate my bamboo with linear, radial, and other supported gradients in <a href='https://affinity.serif.com/designer/' rel='nofollow noopener noreferrer external' target='_blank'>Affinity Designer</a>.</p>",
+    "text": "<p>I created the bamboo illustration in <strong>2006</strong> for my <a href='https://www.kogakure.de/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> used Adobe Illustrator and the gradient grid tool.</p><p><strong>2015</strong> I decided to use my bamboo as <abbr title='Scalable Vector Graphics'>SVG</abbr> on my website. Unfortunately, the gradient tool is not supported in <abbr>SVG</abbr> and I needed recreate my bamboo with linear, radial, and other supported gradients in <a href='https://affinity.serif.com/designer/' rel='nofollow noopener noreferrer external' target='_blank'>Affinity Designer</a>.</p>",
     "image": "/assets/images/projects/bamboo-illustration.svg",
     "class": "project-layout-100-end svg-bamboo no-border"
   },
