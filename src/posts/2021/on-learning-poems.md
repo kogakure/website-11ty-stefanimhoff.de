@@ -24,7 +24,7 @@ The next poem on my list is [If—](https://www.poetryfoundation.org/poems/46473
 
 {% banner "An interesting fact about the Victorian Age", true %}
 
-I recently heard _Heather Heying_ talk about a scientific paper on health in the Victorian age on [DarkHorse podcast 88: How Bread got Broken](https://youtu.be/KSWu6DUFFt4?t=3108). We always think of the Victorian Age as we know it from books like _Frankenstein_, _Strange Case of Dr. Jekyll and Mr. Hyde_, or _Sherlock Holmes_ – dark, nasty, dirty, short-lived. But the paper found that these people were healthier than we are today.
+I recently heard _Heather Heying_ talk about a scientific paper on health in the Victorian Age on [DarkHorse podcast 88: How Bread got Broken](https://youtu.be/KSWu6DUFFt4?t=3108). We always think of the Victorian Age as we know it from books like _Frankenstein_, _Strange Case of Dr. Jekyll and Mr. Hyde_, or _Sherlock Holmes_ – dark, nasty, dirty, short-lived. But the paper found that these people were healthier than we are today.
 
 {% endbanner %}
 
