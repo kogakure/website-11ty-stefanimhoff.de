@@ -233,11 +233,13 @@ Reaching for Utopia (greek “not a place”) results always in a Dystopia (gree
 
 There will be no war, that ends all wars, no “Great Reset”, no restart without getting rid of millions of people that don’t subscribe to the idea. <q>All zero-point ideologies were devastating and always resulted in totalitarian systems or totalitarian thinking,</q> stated Prof. _Nobert Bolz_ in a recent podcast.[^muller-ullrich2021bu] He fears that the Western world is again in a situation where serious intellectuals are thinking about whether we could go back to zero, construct a new form of society and economy, a new human nature.
 
-The pandemic or climate crisis offer convenient reasons to justify authoritarian or totalitarian ideas for “the greater good”. The German _Supreme Court_ already hinted that massive personal restrictions might be justified to reach the climate goals.[^escritt2021ap] So be prepared to have fewer (or no) flights in the future, to lose your car, and be restricted in your movement and freedoms.
+The pandemic or climate crisis offer convenient reasons to justify authoritarian or totalitarian ideas for “the greater good”. The German _Supreme Court_ already hinted that massive personal restrictions might be justified to reach the climate goals.[^escritt2021ap]
 
-All these endeavors ignore human nature, reason, personal liberty, and self-determination. To achieve a reset one would have to suppress, intimidate, incarcerate, reeducate, or even kill millions of people. I don’t think any sane person would like to live in a totalitarian, digitalized surveillance state like China is currently building.
+A recent survey asked how many Germans would be willing to pay every month to stop climate change. If I remember correctly the number was below € 20 per month. Even at the risk of disillusioning a large numbers of my readers, every German (including children and senior citizens) would have to pay between **€ 300** and **€ 600** net every month **for the next 30 years** in order to reach the climate goals of the Paris Agreement.[^unger2021pf] And this would reduce Germany’s global CO₂ emissions from **2%** to **1%**, which is as much savings as China generates _additionally_ each year.[^unger2021pf] It will not only destroy the country’s competitiveness, make the engergy supply unreliable, but also have no measureable effect. Neither has stop eating meat. But if the self-righteous voters demand measures from the politicians, that will be exactly what we are given.
 
-We have to call out and shame people that push for these ideas before it is too late.
+So be prepared to have fewer (or no) flights in the future, to lose your car, and be restricted in your movement and freedoms. If you think the COVID-19 restrictions were bad, you have no clue what is coming.
+
+All these endeavors ignore human nature, reason, personal liberty, and self-determination. To achieve a reset one would have to suppress, intimidate, incarcerate, reeducate, or even kill millions of people. I don’t think any sane person would like to live in a totalitarian, digitalized surveillance state like China is currently building. We have to call out and shame people that push for these ideas before it is too late.
 
 Reality will **always** win, _eventually_. The question is to what price. A lie doesn’t become true, because everybody wants it to be true. _The Gods of the Copybook Headings_ can’t be ignored, without paying a high price.
 
@@ -290,3 +292,4 @@ Reality will **always** win, _eventually_. The question is to what price. A lie 
 [^williamson2021uf]: Chris Williamson & Michael Knowles (2021): [Michael Knowles – The Problem With Political Correctness | Modern Wisdom Podcast 331](https://www.youtube.com/watch?v=tDbOMKNg9uw)
 [^muller-ullrich2021bu]: Burkhard Müller-Ullrich, Nobert Bolz, and Cora Stephan (2021): [Indubio Folge 131: Das alte und das neue Normal](https://www.achgut.com/artikel/indubio_folge_131_das_alte_und_das_neue_normal)
 [^escritt2021ap]: Thomas Escritt (2021): [Germany must tighten climate law to protect young people’s future, court rules](https://www.reuters.com/business/environment/germany-must-further-tighten-climate-change-law-top-court-rules-2021-04-29/)
+[^unger2021pf]: Raymond Unger (2021): _Vom Verlust der Freiheit: Klimakrise, Migrationskrise, Coronakrise_, Europa Verlag.
