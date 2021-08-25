@@ -19,7 +19,7 @@ My new website looks familiar but different. I changed the complete code and pic
 
 ### Typography
 
-I exchanged the font because [Mert](https://mertbulan.com/) wouldn’t stop complaining about how unreadable it was. The new font is [Secuela](https://fontesk.com/secuela-typeface/), a variable font with weights from thin to black. The new font allows having a slimmer weight for the dark mode. This ensures the contrast doesn’t bleed and blends the eyes.
+The new font is [Secuela](https://fontesk.com/secuela-typeface/), a variable font with weights from thin to black. The new font allows having a slimmer weight for the dark mode. This ensures the contrast doesn’t bleed and blends the eyes.
 
 ### Projects
 
