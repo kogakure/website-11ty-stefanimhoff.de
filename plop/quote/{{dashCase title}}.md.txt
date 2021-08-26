@@ -1,5 +1,4 @@
 ---
-draft: true
 title: {{titleCase title}}
 date: {{date}}
 author: Stefan Imhoff

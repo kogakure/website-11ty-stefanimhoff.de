@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Link Bundle #{{linkCount}}"
 date: {{date}}
 author: Stefan Imhoff
