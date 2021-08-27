@@ -79,7 +79,7 @@ excludeFromSitemap: true
           <ul class="cv-item-list">
             {% for tag in item.tags %}
               <li class="cv-item-list-item">
-                {{ tag }}{% if loop.last %}.{% else %}, {% endif %} 
+                {{ tag }}{% if loop.last %}.{% else %},&thinsp;{% endif %} 
               </li>
             {% endfor %}
           </ul>
