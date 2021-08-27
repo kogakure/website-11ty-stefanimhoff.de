@@ -13,7 +13,7 @@ I have been using the Git version control system for almost one and a half years
 
 At home, there are almost only Git repositories on my hard drive, and I can not imagine working without Git anymore. Git has improved a lot over the last year and a lot of additional software, documentation, and films have been released for Git.
 
-I replace the now obsolete article of 2007 with a large list of helpful links to Git:
+I replace the now obsolete post of 2007 with a large list of helpful links to Git:
 
 ## Official Website
 

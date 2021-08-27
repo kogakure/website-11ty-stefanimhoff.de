@@ -2,7 +2,7 @@
 title: Minimalism
 author: Stefan Imhoff
 date: 2017-06-07T18:30:00+02:00
-description: As Minimalism is currently very popular, but as Minimalism is hard to understand, also a lot of misconceptions can be found. This article carries my thoughts on Minimalism and my history with it.
+description: As Minimalism is currently very popular, but as Minimalism is hard to understand, also a lot of misconceptions can be found. This essay carries my thoughts on Minimalism and my history with it.
 tags:
   - minimalism
   - self-improvement

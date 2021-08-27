@@ -13,7 +13,7 @@ Everybody is consuming content, through books, articles, videos, podcasts, or ot
 
 As I wrote in my previous essay [Zettelkasten Note-Taking Method With DEVONthink](/zettelkasten-note-taking-devonthink/) we are prone to the _Collectors Fallacy_, the belief that consuming information enables us automatically to remember and apply this knowledge later. This is sadly not true. The only way to remember things is by writing them down, creating connections between them, and regularly revisit them.
 
-I started using the Zettelkasten note-taking method a year ago and this article is an overview of the different types of content and how and with what tools I process them.
+I started using the Zettelkasten note-taking method a year ago and this essay is an overview of the different types of content and how and with what tools I process them.
 
 ## Tools
 
@@ -23,7 +23,7 @@ Before I go into details of the different media types and how I process them, I 
 
 [DEVONthink](https://www.devontechnologies.com/apps/devonthink) is my main tool to store content: Text, images, documents, and much more. All content is stored safely and securely on my local hard drive (good for backups) but is at the same time shared (encrypted) through a Cloud provider with my different mobile devices and computers.
 
-It would take an extra article to mention all the features of DEVONthink. With [DEVONthink 3.7](https://www.devontechnologies.com/blog/20210422-devonthink-37) the tool got fantastic support for Markdown, including the different syntax of tools like Roam, Obsidian, and iA Writer.
+It would take an extra essay to mention all the features of DEVONthink. With [DEVONthink 3.7](https://www.devontechnologies.com/blog/20210422-devonthink-37) the tool got fantastic support for Markdown, including the different syntax of tools like Roam, Obsidian, and iA Writer.
 
 ### MindNode
 
@@ -143,6 +143,6 @@ I use the Zettelkasten method for more than a year and Obsidian since May 2020. 
 
 The Graph view in particular allows me to see if a specific topic isn’t yet good enough researched because there are not a lot of notes connected to it.
 
-The final step is to produce content out of the notes. I have MindNode open on one monitor and my Obsidian vault on the second monitor and follow the links and connections of a topic to write an Outline for the article. Because the notes are small it is possible to quickly create the outline and create a structure to tell a story.
+The final step is to produce content out of the notes. I have MindNode open on one monitor and my Obsidian vault on the second monitor and follow the links and connections of a topic to write an Outline for the essay. Because the notes are small it is possible to quickly create the outline and create a structure to tell a story.
 
 The final step is then to write the text in iA Writer. My vault has now more than 1,000 notes but compared to Niklas Luhmann’s 70,000 notes when he died this is nothing. I’m curious how the note collection improves over time as long as I add, edit and link notes.

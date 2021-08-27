@@ -147,7 +147,7 @@ Gentian Basic is a very appealing typeface with serifs and an italic typeface, w
 
 On November 17, 2006, Oliver Reichenstein wrote on the Blog of Information Architects about the [100% Easy-2-Read Standard](https://ia.net/topics/100e2r), this concept was completely new to me. At that time, the font on websites was consistently set too small. The browser standard has always been `16px`. But most pages use values between 10 and 12 pixels.
 
-After this blog article, designers started to increase the base font size. I even use `18px` for my floating text font.
+After this blog post, designers started to increase the base font size. I even use `18px` for my floating text font.
 
 ## Font Weight
 

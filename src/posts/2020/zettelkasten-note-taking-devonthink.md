@@ -2,7 +2,7 @@
 title: Zettelkasten Note-Taking Method With DEVONthink
 date: 2020-05-18T10:00:00+02:00
 author: Stefan Imhoff
-description: "The way we write notes determines how we think and learn. I was introduced recently to a quite old method of writing notes: The Zettelkasten method. This article describes how I implemented the method into my workflow with DEVONthink."
+description: "The way we write notes determines how we think and learn. I was introduced recently to a quite old method of writing notes: The Zettelkasten method. This essay describes how I implemented the method into my workflow with DEVONthink."
 tags:
   - productivity
   - note-taking
@@ -23,7 +23,7 @@ But a few weeks ago I found some time reading into the links my colleague had se
 
 ## The Zettelkasten Method
 
-This article is not meant to be a deep introduction to the Zettelkasten method, but rather showing how I implemented it into my daily workflow. To read more about the method I recommend the fantastic illustrated article [Zettelkasten — How One German Scholar Was So Freakishly Productive][dclear] by _David B. Clear_ and [Living with a Zettelkasten][meriksson] by _Magnus Eriksson_. Another good hub for information is the website [Zettelkasten](https://zettelkasten.de/) by _Christian Tietze_.
+This essay is not meant to be a deep introduction to the Zettelkasten method, but rather showing how I implemented it into my daily workflow. To read more about the method I recommend the fantastic illustrated essay [Zettelkasten — How One German Scholar Was So Freakishly Productive][dclear] by _David B. Clear_ and [Living with a Zettelkasten][meriksson] by _Magnus Eriksson_. Another good hub for information is the website [Zettelkasten](https://zettelkasten.de/) by _Christian Tietze_.
 
 But I’ll shortly introduce the concept for better understanding: **Zettelkasten** is a German word meaning **note** (Zettel) **box** (Kasten).
 

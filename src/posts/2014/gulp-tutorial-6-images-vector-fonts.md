@@ -10,7 +10,7 @@ series:
   - gulp
 ---
 
-This is the 6th part of my series _Introduction to Gulp.js_. The last article was very long and complicated. This time it’s an easier one: I will show how I move my images and generate vector fonts.
+This is the 6th part of my series _Introduction to Gulp.js_. The last post was very long and complicated. This time it’s an easier one: I will show how I move my images and generate vector fonts.
 
 ## Images
 

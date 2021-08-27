@@ -13,7 +13,7 @@ I just finished writing my first book. I worked on it for the last six months. A
 
 It was always available for _free_ for everyone on [my website](https://www.kogakure.de/). I started writing it 1999 with my first website, containing a collection of notes and thoughts about **Ninja** and their art, **Ninjutsu**.
 
-I never indented writing a book but was asked regularly by visitors to my website, why I didn’t write a book. It was out of the question to write a commercial book because some of the articles on my website are translations of Peter Carlsson, who gave me permission to use the translated version on my website (unfortunately the original is gone).
+I never indented writing a book but was asked regularly by visitors to my website, why I didn’t write a book. It was out of the question to write a commercial book because some of the essays on my website are translations of Peter Carlsson, who gave me permission to use the translated version on my website (unfortunately the original is gone).
 
 And furthermore writing a real print book is pain, takes a lot of your life, and isn’t profitable (unless you are some mainstream author). I know of a colleague, who gets a share of **0,95 €** per book sold for **49,95 €** by a well-known publishing company. He worked nearly always on it for a year and sold 3000 copies. That’s something you do to become famous, not to earn money.
 

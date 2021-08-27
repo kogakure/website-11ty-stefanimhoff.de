@@ -2,7 +2,7 @@
 title: Responsive Relaunch of My Martial Arts Website
 author: Stefan Imhoff
 date: 2015-04-07T22:00:00+01:00
-description: "I relaunched my martial arts website kogakure.de with a responsive design. This article gives an overview on the process of creating my website: Design, Typography, Vector Graphics, Jekyll, Grids, Responsive Design and BEM."
+description: "I relaunched my martial arts website kogakure.de with a responsive design. This post gives an overview on the process of creating my website: Design, Typography, Vector Graphics, Jekyll, Grids, Responsive Design and BEM."
 tags:
   - design
   - code
@@ -104,4 +104,4 @@ I finished my Responsive Design just in time, with Google starting to use _mobil
 
 Responsive Web Design is now state-of-the-art and the best way to provide a website to an unknown number of screens, devices, and resolutions. Nobody knows the future, but we will see new devices, ranging from smartwatches up to 4K displays. And native apps simply can’t be the answer for a majority of websites on the web.
 
-Creating the website was a lot of work, but also a lot of fun. And I hope it will be more fun for my visitors with mobile devices (currently **40% on phones** and **9% on tablets**) to read my articles and enjoy the site.
+Creating the website was a lot of work, but also a lot of fun. And I hope it will be more fun for my visitors with mobile devices (currently **40% on phones** and **9% on tablets**) to read my essays and enjoy the site.

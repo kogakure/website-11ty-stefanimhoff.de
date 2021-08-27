@@ -27,7 +27,7 @@ Walter-Heitmann-Str. 2<br />
 
 All content is copyrighted by _Stefan Imhoff_ unless otherwise stated. Feel free to learn from the [Source Code] and reuse code for your projects.
 
-The articles in my [Journal](/journal/) of this website are licensed under a [Creative Commons license].
+The essays in my [Journal](/journal/) of this website are licensed under a [Creative Commons license].
 
 The use of my design—the unique combination of layout, photos, or illustrations—my private photos, personal data, and logo are only allowed with written permission.
 

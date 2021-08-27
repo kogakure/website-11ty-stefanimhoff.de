@@ -35,7 +35,7 @@ After reading a lot of articles, and watches a lot of talks about morning routin
 - **Prepare for the day**, by checking the **calendar** and select **To-Do** items for the day
 - Get Ready
 
-I do this routine every day, the only difference is, that I do not use an alarm clock at the weekend, but instead wake up when I wake up, which is usually around 7:00 AM. I’m doing it now for a month and I’m really happy with it. I’ll keep updating this article, should my routine change.
+I do this routine every day, the only difference is, that I do not use an alarm clock at the weekend, but instead wake up when I wake up, which is usually around 7:00 AM. I’m doing it now for a month and I’m really happy with it. I’ll keep updating this post, should my routine change.
 
 ---
 

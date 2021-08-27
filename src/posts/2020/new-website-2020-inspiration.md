@@ -2,7 +2,7 @@
 title: "New Website 2020: Inspiration"
 date: 2020-07-14T08:00:00+02:00
 author: Stefan Imhoff
-description: This is the first of three parts in a series of articles about the process of creating my new website. This one has a look into the inspiration for my website.
+description: This is the first of three parts in a series of essays about the process of creating my new website. This one has a look into the inspiration for my website.
 tags:
   - design
 ---
@@ -121,7 +121,7 @@ The last concept I cannot guarantee but I hope the depth of the website and itâ€
 
 ---
 
-This is the first of _three_ parts in a series of articles about the process of creating my new website.
+This is the first of _three_ parts in a series of essays about the process of creating my new website.
 
 1. **Inspiration**
 2. [Design](/new-website-2020-design/)

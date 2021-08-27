@@ -2,7 +2,7 @@
 title: Everyday Carry
 date: 2020-03-14T15:30:00+02:00
 author: Stefan Imhoff
-description: In this article I show my Everyday Carries and explain why I carry them.
+description: In this essay I show my Everyday Carries and explain why I carry them.
 attribution:
   - author: Stefan Imhoff
     title: My Everyday Carries
@@ -13,7 +13,7 @@ tags:
 
 ## Some Stuff I Carry Around Every Day
 
-A few days ago _Ryan Holiday_ posted the article [Here’s Some Stuff Worth Carrying With You Everywhere](https://ryanholiday.net/heres-some-stuff-worth-carrying-with-you-everywhere/) with an accompanying [video](https://youtu.be/oaXMijw241c) on his blog.
+A few days ago _Ryan Holiday_ posted the essay [Here’s Some Stuff Worth Carrying With You Everywhere](https://ryanholiday.net/heres-some-stuff-worth-carrying-with-you-everywhere/) with an accompanying [video](https://youtu.be/oaXMijw241c) on his blog.
 
 Ever since I read the article [Meet the men obsessed with carrying all the right stuff](https://www.vox.com/the-goods/2019/7/24/20696487/everyday-carry-reddit-knife-wallet-gun) on Vox, I had the plan to write a similar article, but never had the time to do it.
 

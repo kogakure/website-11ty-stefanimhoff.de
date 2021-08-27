@@ -35,7 +35,7 @@ The last [Sketchnote](/sketchnotes/) section didn’t get a lot of love. The rel
 
 ### Journal
 
-The [journal](/journal/) got the biggest change. I started splitting my posts into three categories: Posts, links, and quotes. Posts are my articles and essays, links are my retired monthly link post and the new irregular link post format. I added a quote format because _some_ quotes are too good not to be shared. I took the time to extract all interesting quotes from my monthly posts and create separate quote posts out of them.
+The [journal](/journal/) got the biggest change. I started splitting my posts into three categories: Posts, links, and quotes. Posts are my essays and posts, links are my retired monthly link post and the new irregular link post format. I added a quote format because _some_ quotes are too good not to be shared. I took the time to extract all interesting quotes from my monthly posts and create separate quote posts out of them.
 
 The overview page of the journal is now chronological, grouped by year. Small icons added to link or quote posts differentiate those from regular posts.
 
@@ -57,7 +57,7 @@ The short answer is: **Gatsby was too slow**.
 
 While I was still developing my last website, I felt it getting slower with advancing development time. Each GraphQL query, each Markdown file, each image, each technology added increased the build times.
 
-To give you hard numbers: Building my previous Gatsby site with 77 articles took up to 3 minutes on a MacBook Pro 16" 2020 with 16 GB RAM:
+To give you hard numbers: Building my previous Gatsby site with 77 posts took up to 3 minutes on a MacBook Pro 16" 2020 with 16 GB RAM:
 
 ```bash
 success open and validate gatsby-configs - 0.307s
@@ -98,7 +98,7 @@ That’s the time Gatsby needed for processing the GraphQL queries. 😳
 
 My old stack was so slow I had to switch from building via GitHub on [Netlify](https://www.netlify.com/) to building locally and uploading via the Netlify CLI because my 300 free build minutes per month were used up early each month. And a build took nearly 8 minutes on Netlify.
 
-Over the last months, my frustration rose with each article I wanted to write, because seeing a mistake in the published text and fixing it could take up to 30 minutes of my time.
+Over the last months, my frustration rose with each essay I wanted to write, because seeing a mistake in the published text and fixing it could take up to 30 minutes of my time.
 
 ## High Maintenance
 

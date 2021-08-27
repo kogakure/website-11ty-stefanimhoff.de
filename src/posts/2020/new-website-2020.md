@@ -24,7 +24,7 @@ The inspiration and design phase took a long time. I had to read a lot of books,
 
 ## Journal
 
-For my [Journal](/journal/), previously called articles, a blog I write since 2006, I also re-checked the text of every article I wrote before and improved the quality of the images.
+For my [Journal](/journal/), previously called articles, a blog I write since 2006, I also re-checked the text of every essays I wrote before and improved the quality of the images.
 
 ## New Pages
 
@@ -54,7 +54,7 @@ The whole project stretched for three years, because I didn’t work continuousl
 
 ## Making-Of Series
 
-But finally, the website is completed and I deserve a long summer break without screen time. But I plan to release a series of Making-Of articles I already wrote over the next weeks. It will include a look into my thoughts and inspiration process, the design and development of the website.
+But finally, the website is completed and I deserve a long summer break without screen time. But I plan to release a series of Making-Of posts I already wrote over the next weeks. It will include a look into my thoughts and inspiration process, the design and development of the website.
 
 ## Stay Updated
 
@@ -68,4 +68,4 @@ You can always send me a message or feedback, all possibilities to contact or co
 
 ## Source Code & Styleguide
 
-If you’re interested in the code you don’t have to wait until I release the article, the [source code](https://github.com/kogakure/website-gatsby-stefanimhoff.de) is publicly available on GitHub. All my components can be viewed on my [Styleguide](https://styleguide.stefanimhoff.de/) created with [Storybook](https://storybook.js.org/).
+If you’re interested in the code you don’t have to wait until I release the essay, the [source code](https://github.com/kogakure/website-gatsby-stefanimhoff.de) is publicly available on GitHub. All my components can be viewed on my [Styleguide](https://styleguide.stefanimhoff.de/) created with [Storybook](https://storybook.js.org/).

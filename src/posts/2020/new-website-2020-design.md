@@ -2,7 +2,7 @@
 title: "New Website 2020: Design"
 date: 2020-07-21T08:00:00+02:00
 author: Stefan Imhoff
-description: This is the second of three parts in a series of articles about the process of creating my new website. This one shows the design process for my website.
+description: This is the second of three parts in a series of essays about the process of creating my new website. This one shows the design process for my website.
 tags:
   - design
 ---
@@ -58,7 +58,7 @@ Next, I picked a Typographic Scale. A scale is a way to pick font sizes based on
 
 ![Typographic Scale](/assets/images/posts/typographic-scale.png)
 
-I picked 20 Pixel as the base font size. I’m in my forties and websites pick fonts way too small. The company iA Inc. wrote in 2006 the article [The 100% Easy-2-Read Standard](https://ia.net/topics/100e2r), but still, fonts below the recommended 16 Pixels of browsers are a standard.
+I picked 20 Pixel as the base font size. I’m in my forties and websites pick fonts way too small. The company iA Inc. wrote in 2006 the essay [The 100% Easy-2-Read Standard](https://ia.net/topics/100e2r), but still, fonts below the recommended 16 Pixels of browsers are a standard.
 
 ### Ligatures and Other Gems
 
@@ -224,7 +224,7 @@ In the fall 2019, I finished my design and left it for a few weeks untouched to 
 
 ---
 
-This is the second of _three_ parts in a series of articles about the process of creating my new website.
+This is the second of _three_ parts in a series of essays about the process of creating my new website.
 
 1. [Inspiration](/new-website-2020-inspiration/)
 2. **Design**

@@ -2,7 +2,7 @@
 title: "New Website 2020: Development"
 date: 2020-07-28T08:00:00+02:00
 author: Stefan Imhoff
-description: This is the last of three parts in a series of articles about the process of creating my new website. This one shows the development process for my website.
+description: This is the last of three parts in a series of essays about the process of creating my new website. This one shows the development process for my website.
 tags:
   - code
 ---
@@ -11,7 +11,7 @@ tags:
 
 I started coding with [React](https://reactjs.org/) in mid of 2018 and began to play with the thought of using React as a technology for the website. I had followed the development of the static website generator [Gatsby](https://www.gatsbyjs.org/) since version 1.0 in July 2017. In September 2018 Gatsby reached version 2.0 and was finally a good option. I selected Gatsby because of its huge community, fantastic plugin system, its utilization of React, GraphQL, and a static page generator.
 
-This article has no code examples, as it’s more a description of technological decisions I took and problems I ran into and how I solved them. The whole [source code](https://github.com/kogakure/website-gatsby-stefanimhoff.de) is publicly available on GitHub.
+This essay has no code examples, as it’s more a description of technological decisions I took and problems I ran into and how I solved them. The whole [source code](https://github.com/kogakure/website-gatsby-stefanimhoff.de) is publicly available on GitHub.
 
 ## Setup
 
@@ -65,7 +65,7 @@ Next, I tried to get a basic blog running by adding sample MDX files and using [
 
 ## Code Highlighting
 
-As I write sometimes code articles, I needed code highlighting. A common way of doing this is using a JavaScript library like [PrismJS](https://prismjs.com/). I added the library and the [Gatsby plugin](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-remark-prismjs) but wasn’t happy with the solution. The library is big and slows down the loading. And all that to get code highlighted.
+As I write sometimes essays with code examples, I needed code highlighting. A common way of doing this is using a JavaScript library like [PrismJS](https://prismjs.com/). I added the library and the [Gatsby plugin](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-remark-prismjs) but wasn’t happy with the solution. The library is big and slows down the loading. And all that to get code highlighted.
 
 But then I found the community plugin [gatsby-remark-vscode](https://github.com/andrewbranch/gatsby-remark-vscode) and it’s magical. It allows you to use any [Visual Studio Code](https://code.visualstudio.com/) plugin to be used on your website: Themes or syntax highlighting are the most commonly used. You don’t need to rely on the library of JavaScript library to support your wished syntax. If Visual Studio Code supports it, it will be running on your website. I picked my favorite color theme and added it to my project. Additionally, the plugin has a huge amount of options, for example, changing themes matching the color scheme preferences or contrast preferences or highlighting specific lines or ranges. And the best thing is: Everything is pre-rendered, you don’t need to load one line of JavaScript for the code highlighting.
 
@@ -141,7 +141,7 @@ I created the colors a few years ago from a Japanese book about colors. Back the
 
 My Haiku (Japanese poetry) were always cramped on one boring page on my previous website and I wanted to present them properly. I created a proper introduction page with an explanation and information and listing all my Haiku. I generated for each Haiku an individual page, including an English translation of my in German written Haiku.
 
-In Mid of June I started creating the [Journal](/journal/) aka Blog. I created a two-column layout with all articles sorted alphabetically on the left side and all monthly recommendations sorted by date on the right side. As the date is for my articles of minor importance (except the recommendations), alphabetical sorting is the best option. I created the Journal detail page, displaying an individual article.
+In Mid of June I started creating the [Journal](/journal/) aka Blog. I created a two-column layout with all essays sorted alphabetically on the left side and all monthly recommendations sorted by date on the right side. As the date is for my essays of minor importance (except the recommendations), alphabetical sorting is the best option. I created the Journal detail page, displaying an individual essay.
 
 I created a sophisticated `Row` component a month earlier that can automatically align content by a fixed set of rules and needed to make it work on small screen sizes.
 
@@ -151,11 +151,11 @@ While showing all my projects, I decided to move my [Sketchnotes](/sketchnotes/)
 
 ## Migrating the Content
 
-I knew one last big task was left on my list, that was tedious work but needed to be completed: Moving all articles to my new website. This took me a whole week because I decided to correct the spelling of every article, needed to replace custom HTML with my components, and update the YAML Frontmatter metadata of each blog post. I decided to improve the quality of the images when possible.
+I knew one last big task was left on my list, that was tedious work but needed to be completed: Moving all essays to my new website. This took me a whole week because I decided to correct the spelling of every essay, needed to replace custom HTML with my components, and update the YAML Frontmatter metadata of each blog post. I decided to improve the quality of the images when possible.
 
-## Recent Articles on the Homepage
+## Recent Essays on the Homepage
 
-The homepage was missing a design for the recent articles. My early designs of that section didn’t please me anymore, they were too aligned, boring, and blunt. I decided to experiment with a Grid automatically reordering itself and content randomly offset. The idea worked but the randomness will only reposition the recent blog articles each time I deploy my website as the SSR will embed the styles and prevent a new random positioning on each reload.
+The homepage was missing a design for the recent essays. My early designs of that section didn’t please me anymore, they were too aligned, boring, and blunt. I decided to experiment with a Grid automatically reordering itself and content randomly offset. The idea worked but the randomness will only reposition the recent blog essays each time I deploy my website as the SSR will embed the styles and prevent a new random positioning on each reload.
 
 ## Animations & Transitions
 
@@ -187,7 +187,7 @@ If you’re interested in how I developed each step of the website, I created ne
 
 ---
 
-This is the last of _three_ parts in a series of articles about the process of creating my new website.
+This is the last of _three_ parts in a series of essays about the process of creating my new website.
 
 1. [Inspiration](/new-website-2020-inspiration/)
 2. [Design](/new-website-2020-design/)

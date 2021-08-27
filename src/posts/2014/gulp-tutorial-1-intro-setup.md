@@ -13,11 +13,11 @@ My website is running [Jekyll](https://jekyllrb.com/) now since the beginning of
 
 ## What to expect from this Tutorial
 
-This is the first part in a series of articles where I describe my whole development and build process step-by-step from start to finish. I am sick of all these _Hello World_ tutorials spreading around the Internet, describing just the basics and don’t show a whole process, go deeper or share things learned during the process.
+This is the first part in a series of posts where I describe my whole development and build process step-by-step from start to finish. I am sick of all these _Hello World_ tutorials spreading around the Internet, describing just the basics and don’t show a whole process, go deeper or share things learned during the process.
 
 I’ll describe everything **step-by-step** and provide **specific version numbers** for modules, to make sure you’ll have no problem in getting it running on your computer. Whenever you have problems feel free to compare your code to the finished [GitHub repository](https://github.com/kogakure/gulp-tutorial). Each tutorial builds on the stuff done before, so if you need some specific thing better look at the final codebase. You’ll learn how I created my complete development and build process, which I use on this website and my [Ninja & Ninjutsu website](https://www.kogakure.de). Both website’s sources can be found on my [GitHub account](https://github.com/kogakure).
 
-It’s the first series of articles I write in English, which is not my native language. So if you find some spelling mistakes or false grammar, just send me a message.
+It’s the first series of posts I write in English, which is not my native language. So if you find some spelling mistakes or false grammar, just send me a message.
 
 When I started with Gulp.js, I fortunately stumbled upon a GitHub project called <del>gulp-starter</del> <ins>[blendid](https://github.com/vigetlabs/blendid)</ins>, that helped me a lot to structure my code and understand Gulp.js. So my process is partly derived from this fantastic project.
 

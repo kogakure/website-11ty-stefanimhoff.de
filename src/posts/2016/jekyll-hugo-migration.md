@@ -11,7 +11,7 @@ tags:
 
 After running over 2 years with [Jekyll](https://jekyllrb.com/) I recently replaced it with [Hugo](https://gohugo.io/), a static site generator written in Go.
 
-I did this mainly because of two reasons: _Firstly_, Jekyll ist just **too slow** (because Ruby is slow). The site generation takes forever, with tags and category generation it gets even worse. I had to limit the amount of generated pages to 5 during development, to have a nearly instant update of the stuff I write. And my blog has just around 80 articles. I’ve read stories of large sites, where the generation takes hours. _Secondly_ I wanted to stop updating Node packages _and_ Gems (one ecosystem is enough).
+I did this mainly because of two reasons: _Firstly_, Jekyll ist just **too slow** (because Ruby is slow). The site generation takes forever, with tags and category generation it gets even worse. I had to limit the amount of generated pages to 5 during development, to have a nearly instant update of the stuff I write. And my blog has just around 80 essays. I’ve read stories of large sites, where the generation takes hours. _Secondly_ I wanted to stop updating Node packages _and_ Gems (one ecosystem is enough).
 
 ## Researching the options
 
@@ -27,7 +27,7 @@ Another tool, which looked quite nice was _Roots_. But after some research, I fo
 
 ### Gatsby
 
-I like the idea of [Gatsby](https://github.com/gatsbyjs/gatsby) because it uses React templates to build static sites. But currently, it’s unusable, because it bundles all articles into _one_ JavaScript file. Sure, this allows browsing the website offline and with instant page changes. But having a 500-800 KB JavaScript file is just not a thing I’ll ever allow. If Gatsby would allow deciding on smaller Webpack bundle packages (e. g. a bundle for a _tag_ or a _year_) it would be an option.
+I like the idea of [Gatsby](https://github.com/gatsbyjs/gatsby) because it uses React templates to build static sites. But currently, it’s unusable, because it bundles all posts into _one_ JavaScript file. Sure, this allows browsing the website offline and with instant page changes. But having a 500-800 KB JavaScript file is just not a thing I’ll ever allow. If Gatsby would allow deciding on smaller Webpack bundle packages (e. g. a bundle for a _tag_ or a _year_) it would be an option.
 
 ## Choosing Hugo
 
@@ -39,7 +39,7 @@ The first thing which is surprising: Hugo is a binary, which is cross-platform a
 $ brew install hugo
 ```
 
-The main reason for switching was for my speed. And fast it is. Generating my whole site, with **86** articles, **125** tags, **21** categories and **2** series takes **~700 ms**. This means everything included, even moving all the assets. If I wouldn’t use my _Related Articles_ section, I could cut the time in half. Since I use Gulp and minimize, optimize and do a lot to my files, my production Gulp task needs now **~30 seconds** (including syncing the files to the server), compared to **2-3 minutes** before.
+The main reason for switching was for my speed. And fast it is. Generating my whole site, with **86** essays, **125** tags, **21** categories and **2** series takes **~700 ms**. This means everything included, even moving all the assets. If I wouldn’t use my _Related Posts_ section, I could cut the time in half. Since I use Gulp and minimize, optimize and do a lot to my files, my production Gulp task needs now **~30 seconds** (including syncing the files to the server), compared to **2-3 minutes** before.
 
 How fast Hugo _really_ is can be best seen in this video: [Hugo benchmark - 5,000 posts in seconds](https://youtu.be/CdiDYZ51a2o).
 

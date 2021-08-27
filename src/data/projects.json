@@ -11,7 +11,7 @@
   {
     "title": "Journal & Blog",
     "categories": ["Writing"],
-    "text": "<p>I have been writing articles on this website since <strong>2007</strong>. The topics include programming, design, self-improvement, productivity, books, and films. The collection has been much bigger, but I deleted outdated and irrelevant articles. Since <strong>2019</strong> I also write a monthly article with recommendations of the past month.</p>",
+    "text": "<p>I have been writing essays on this website since <strong>2007</strong>. The topics include programming, design, self-improvement, productivity, books, and films. The collection has been much bigger, but I deleted outdated and irrelevant essays. Since <strong>2019</strong> I also write a monthly post with recommendations of the past month.</p>",
     "linkText": "Read Journal",
     "link": "/journal/",
     "class": "project-layout-50-only-start"
@@ -61,7 +61,7 @@
   {
     "title": "Book & Book Cover",
     "categories": ["Writing", "Graphic Design"],
-    "text": "<p>I wrote this book in <strong>2017</strong> out of the articles I’ve written on my <a href='https://www.kogakure.de/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> in the last 20 years. It’s a book in German about the Ninja and their secret art of Ninjutsu.</p><p>I also designed the book cover for my book. The book was written with <a href='https://www.gitbook.com/' rel='nofollow noopener noreferrer external' target='_blank'>GitBook</a> and can be read or downloaded for free as PDF, ePub, or Mobi eBook.</p>",
+    "text": "<p>I wrote this book in <strong>2017</strong> out of the essays I’ve written on my <a href='https://www.kogakure.de/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> in the last 20 years. It’s a book in German about the Ninja and their secret art of Ninjutsu.</p><p>I also designed the book cover for my book. The book was written with <a href='https://www.gitbook.com/' rel='nofollow noopener noreferrer external' target='_blank'>GitBook</a> and can be read or downloaded for free as PDF, ePub, or Mobi eBook.</p>",
     "linkText": "Read Book",
     "link": "https://book.kogakure.de/",
     "external": true,

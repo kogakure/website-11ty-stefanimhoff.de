@@ -2,7 +2,7 @@
 title: Tools I Use For Note-Taking
 date: 2020-09-03T12:00:00+02:00
 author: Stefan Imhoff
-description: I started my Zettelkasten in DEVONthink. But since then, I integrated more tools into my workflow. This article describes which tools I use for my notes and why.
+description: I started my Zettelkasten in DEVONthink. But since then, I integrated more tools into my workflow. This essay describes which tools I use for my notes and why.
 tags:
   - productivity
   - software
@@ -12,9 +12,9 @@ tags:
 
 I started 6 months ago to use the [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) note-taking method. In this short time, my collection of notes grew from zero to more than 350 notes. And already now I can see the first benefits of cross-linking notes.
 
-If you want to learn more about the Zettelkasten method I recommend the article [Zettelkasten — How One German Scholar Was So Freakishly Productive](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125).
+If you want to learn more about the Zettelkasten method I recommend the essay [Zettelkasten — How One German Scholar Was So Freakishly Productive](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125).
 
-As I wrote in my last article [Zettelkasten Note-Taking Method With DEVONthink](/zettelkasten-note-taking-devonthink/) I started my Zettelkasten in DEVONthink. But since then, I integrated more tools into my workflow. This article describes which tools I use for my notes and why.
+As I wrote in my last essay [Zettelkasten Note-Taking Method With DEVONthink](/zettelkasten-note-taking-devonthink/) I started my Zettelkasten in DEVONthink. But since then, I integrated more tools into my workflow. This essay describes which tools I use for my notes and why.
 
 ## DEVONthink or Obsidian? Both!
 
@@ -26,7 +26,7 @@ I use 7 different tools: 😅
 2. [DEVONthink to Go](https://apps.apple.com/app/devonthink-to-go/id395722470) – Adding notes on mobile devices like my phone or tablet.
 3. [Obsidian](https://obsidian.md/) – Creating, writing, linking, and analyzing notes.
 4. [Alfred](https://www.alfredapp.com/) – Creating snippets (ID, or templates).
-5. [iA Writer](https://ia.net/writer) – Writing articles or longer notes.
+5. [iA Writer](https://ia.net/writer) – Writing essays or longer notes.
 6. [GitHub](https://github.com/) – Version controlled history of all my note changes.
 7. [BibDesk](https://bibdesk.sourceforge.io/) – Manage my bibliography.
 
@@ -38,7 +38,7 @@ The following sections describe my workflow and how I integrate the various tool
 
 [DEVONthink] is a fantastic document management system. It allows any type of content to be stored, archived, sorted, and analyzed. Databases can be synced via Bonjour, WebDAV, USB connection, or cloud providers as Dropbox, or iCloud. The databases are automatically encrypted on external servers.
 
-The Tagging is incredibly fast and convenient, compared with other tools as Evernote. And I use a lot of tags (currently 23507 different tags). Tags replaced all folders for me, because folders and tags are interchangeable in DEVONthink. I won’t go into much more detail on how I work with DEVONthink, as this is covered in my previous article [Zettelkasten Note-Taking Method With DEVONthink](/zettelkasten-note-taking-devonthink/).
+The Tagging is incredibly fast and convenient, compared with other tools as Evernote. And I use a lot of tags (currently 23507 different tags). Tags replaced all folders for me, because folders and tags are interchangeable in DEVONthink. I won’t go into much more detail on how I work with DEVONthink, as this is covered in my previous essay [Zettelkasten Note-Taking Method With DEVONthink](/zettelkasten-note-taking-devonthink/).
 
 One thing I changed to my previous DEVONthink _only_ workflow is that I use an **indexed folder** instead of putting my notes directly in DEVONthink. This can be achieved by adding the notes folder on the hard disk with `File` → `Index Files and Folders…`. Any change in a file on the hard disk or in DEVONthink will immediately sync across all devices.
 
@@ -86,9 +86,9 @@ Putting my notes in a folder on the hard disk has the advantage to additionally 
 
 ### BibDesk
 
-I use [BibDesk] to manage my citations as described in the article [Manage Citations for a Zettelkasten](https://zettelkasten.de/posts/bibliography-zettelkasten/). For every book, webpage, or video I want to reference, I create a new entry. It’s a quick process but immensely helpful later to find the original source again.
+I use [BibDesk] to manage my citations as described in the essay [Manage Citations for a Zettelkasten](https://zettelkasten.de/posts/bibliography-zettelkasten/). For every book, webpage, or video I want to reference, I create a new entry. It’s a quick process but immensely helpful later to find the original source again.
 
-I updated the citation template mentioned in the article to my wishes (mostly to support URLs).
+I updated the citation template mentioned in the essay to my wishes (mostly to support URLs).
 
 ## Note Creating Workflow
 
@@ -127,7 +127,7 @@ The 12 Zettelkasten principles mentioned in [#Clear2019aa].
 ## Links
 
 - How to add a custom template to BibDesk: [[202008231056 Add BibDesk Markdown template]]
-- Blog article on my website on how to use DEVONthink for Zettelkasten method: [[202005171813 Zettelkasten Note-Taking Method With DEVONthink]]
+- Blog posts on my website on how to use DEVONthink for Zettelkasten method: [[202005171813 Zettelkasten Note-Taking Method With DEVONthink]]
 
 Tags: #Zettelkasten
 

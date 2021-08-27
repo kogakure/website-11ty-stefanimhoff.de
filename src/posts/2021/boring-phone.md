@@ -10,7 +10,7 @@ tags:
   - tip
 ---
 
-Since I wrote my well-received article [Self-Defence in the Age of Attention](/attention/) in 2017 I tried a lot of tricks to reduce the addiction to digital devices in my life.
+Since I wrote my well-received essay [Self-Defence in the Age of Attention](/attention/) in 2017 I tried a lot of tricks to reduce the addiction to digital devices in my life.
 
 I tried separating myself from the devices _physically_ by putting them into a drawer when I don’t need them which works surprisingly well.
 
