@@ -77,8 +77,8 @@ permalink: /
         <h3>Subscribe</h3>
         <p>
           Stay up to date. Subscribe to my <dfn title="Rich Site Summary">RSS</dfn> feeds:
-          <a href="/index.xml">All</a>, <a href="/feed-posts.xml">Posts</a>, 
-          <a href="/feed-links.xml">Links</a>, or <a href="/feed-quotes.xml">Quotes</a>.
+          <a href="/index.xml">All</a>, <a href="/feed-posts.xml">Essays</a>, 
+          <a href="/feed-quotes.xml">Quotes</a>, or <a href="/feed-links.xml">Links</a>.
         </p>
       </div>
     </div>
@@ -111,24 +111,24 @@ permalink: /
   </article>
 
   <article {{ site.animationDelay }}>
-    <h3>Latest Links</h3>
-    <ul>
-      {% set latestLinks = collections.links | reverse %} 
-      {% for link in latestLinks.slice(0, 5) %}
-        <li>
-          <a href="{{ link.url }}">{{ link.data.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-  </article>
-
-  <article {{ site.animationDelay }}>
     <h3>Latest Quotes</h3>
     <ul>
       {% set latestQuotes = collections.quotes | reverse %} 
       {% for quote in latestQuotes.slice(0, 5) %}
         <li>
           <a href="{{ quote.url }}">{{ quote.data.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </article>
+
+  <article {{ site.animationDelay }}>
+    <h3>Latest Links</h3>
+    <ul>
+      {% set latestLinks = collections.links | reverse %} 
+      {% for link in latestLinks.slice(0, 5) %}
+        <li>
+          <a href="{{ link.url }}">{{ link.data.title }}</a>
         </li>
       {% endfor %}
     </ul>
