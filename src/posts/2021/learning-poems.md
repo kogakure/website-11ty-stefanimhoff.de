@@ -1,5 +1,5 @@
 ---
-title: On Learning Poems
+title: Learning Poems
 date: 2021-08-23T11:28:20+02:00
 author: Stefan Imhoff
 description: Why I started learning poems.

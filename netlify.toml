@@ -533,6 +533,12 @@ to = "/links/favorites-2021-03"
 status = 301
 force = true
 
+[[redirects]]
+from = "/on-learning-poems"
+to = "/learning-poems"
+status = 301
+force = true
+
 
 # Gone
 [[redirects]]
