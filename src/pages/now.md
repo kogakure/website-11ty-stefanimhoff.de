@@ -14,7 +14,6 @@ I wake up each morning without an alarm clock between **6:30** and **7:00**, and
 I’m reading currently these **books**:
 
 {% bookshelf %}
-{% book "1614277877" %}
 {% book "B094XR9LGV" %}
 {% book "B016AWGJBK" %}
 {% book "1788164261" %}
@@ -25,9 +24,9 @@ I’m reading currently these **books**:
 
 I’m working with the [Zettelkasten](https://zettelkasten.de/) note-taking method using [Obsidian](https://obsidian.md/) to write and link ideas, [DEVONthink](https://www.devontechnologies.com/apps/devonthink) to store reference material, and [iA Writer](https://ia.net/writer) to create texts out of the ideas. These are some statistics:
 
-- **1581** notes
-- **304** bibliography entries
-- **5022** reference items
+- **1609** notes
+- **305** bibliography entries
+- **5041** reference items
 
 ---
 
