@@ -15,7 +15,7 @@ The weeks went by and I saw him again and again. Our encounters started with a n
 
 Weeks passed and we greeted each other and sometimes we talked for a few minutes.
 
-One day the bench was empty which wasn’t unusual because we didn’t see each other each day. When I followed the path through the forest I saw him sitting on a fallen tree in the middle of the forest. I asked why he had changed his location and he told me the bench was occupied when he approached it.
+One day the bench was empty which wasn’t unusual because we didn’t see each other every day. When I followed the path through the forest I saw him sitting on a fallen tree in the middle of the forest. I asked why he had changed his location and he told me the bench was occupied when he approached it.
 
 We talked and he asked me about my life and job. I learned he was a painter and he was proud to be always able to live from creating art. He had worked for most of his life as a stage artist for the Opera. The backgrounds and artwork still used today were his work. I told him, that I worked in the building next to the Opera and I could hear the opera singers practicing during the days.
 
