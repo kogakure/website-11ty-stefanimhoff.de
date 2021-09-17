@@ -13,7 +13,6 @@ module.exports = {
   tagline: 'Front-End Web Developer • Designer • Minimalist • Japanophile',
   faviconPath: '/assets/images/branding/favicons/',
   twitter: '@kogakure',
-  external: 'rel="nofollow noopener noreferrer" target="_blank"',
   animationDelay: `data-sal=${animation} data-sal-duration=${duration} data-sal-delay=${delay} data-sal-easing=${easing}`,
   animation: `data-sal=${animation} data-sal-duration=${duration} data-sal-easing=${easing}`,
 };

@@ -11,7 +11,7 @@ permalink: /podcasts/
 <section class="podcasts">
   {% for podcast in podcasts %}
     <article>
-      <a class="podcasts-link" href="{{ podcast.url }}" {{ site.external }}>
+      <a class="podcasts-link" href="{{ podcast.url }}" rel="nofollow noopener noreferrer" target="_blank">
         <div class="image-shadow">
           <img class="podcasts-cover" src="{{ podcast.cover }}" alt="{{ podcast.title }}">
         </div>
