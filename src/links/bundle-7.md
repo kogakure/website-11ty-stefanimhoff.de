@@ -23,7 +23,7 @@ tags:
 - [The US Military’s Real(ish) Zombie Apocalypse Plan](https://youtu.be/kso15EvDXQM)
 - Sovereign Nations – Fantastic political commentary on politics, China, and George Soros: [Becoming China](https://youtu.be/niYpxOQupm0), [A Threat to China](https://youtu.be/vUT5B9YpDpA), [Soros vs China](https://youtu.be/nQkmf3vpGX4), [The Soros Network](https://youtu.be/9SVfddglkIg), [Fauci’s Fertile Fallacy](https://youtu.be/yDGo4_vIxBU), [The Subtle Slide](https://youtu.be/SswpmGFvmUA), [Critical Immigration Praxis](https://youtu.be/taMLj9vAJ0s)
 - [Learning To Enjoy Being Alone Is a Superpower – Robert Greene](https://youtu.be/d6N-YrqfZ-g)
-- [Eine Andere Freiheit – Der Film](https://youtu.be/YeT1eTJYTwk) 🇩🇪
+- [Eine Andere Freiheit – Der Film](https://youtu.be/YeT1eTJYTwk) 🇩🇪 (english subtitles)
 - Die Geschichte vom Erbsenzähler: [Teil 1](https://youtu.be/BZsJY5N1TYM), [Teil 2](https://youtu.be/WQQDE_thg7Y), [Teil 3](https://youtu.be/F737wWMWKuQ) 🇩🇪 – Short, animated clips explaining the analysis of the ”pandemic” data in Germany by Marcel Barz.
 - [Mob Morality and the Unvaxxed](https://charleseisenstein.substack.com/p/mob-morality-and-the-unvaxxed) / [Die Moral des Pöbels und die Ungeimpften](https://youtu.be/f9t7YwpVWEw) 🇩🇪
 - Russel Brand: [THIS Is Why You Can’t Trust Big Pharma](https://youtu.be/7fQ6JklHjBc)
