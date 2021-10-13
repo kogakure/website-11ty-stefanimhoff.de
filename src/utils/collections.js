@@ -15,6 +15,20 @@ module.exports = {
       .reverse()
       .value();
   },
+  postsByYear: function (collection) {
+    return _.chain(
+      collection
+        .getFilteredByTag('posts')
+        .filter(
+          (item) =>
+            !(item.data.draft && process.env.ELEVENTY_ENV == 'production')
+        )
+    )
+      .groupBy((post) => post.date.getFullYear())
+      .toPairs()
+      .reverse()
+      .value();
+  },
   linksByYear: function (collection) {
     return _.chain(
       collection
