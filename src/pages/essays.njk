@@ -24,6 +24,11 @@ backLink: /journal/
           <li class="journal-posts-list-item">
             <a class="journal-posts-link" href="{{ item.url }}">
               <span class="journal-posts-title">{{ item.data.title }}</span>
+              <span class="journal-posts-type">
+                <svg viewBox="0 0 24 24" width="18" height="18" class="journal-posts-icon" aria-label="Link">
+                  <use xlink:href="#pen-nib"></use>
+                </svg>
+              </span>
               <time class="journal-posts-date" datetime="{{ item.date | dateToISO }}">
                 {{ item.date | dateToFormat("MMMM Do") }}
               </time>
