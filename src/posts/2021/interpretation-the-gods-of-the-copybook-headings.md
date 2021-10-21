@@ -52,7 +52,7 @@ The _Gods of the Marketplace_, are those <q>temporary fads like Dutch tulip bulb
 
 And the new century has, unfortunately, no shortage of bad ideas: The resurrection of Postmodernism and [Neo-Marxism](https://newdiscourses.com/tftw-neo-marxism/), [Identity Politics](https://newdiscourses.com/tftw-identity-politics/), [Critical Theory](https://newdiscourses.com/tftw-critical-theory/), victimhood culture, the war on drugs, boys, masculinity, the nuclear family, merit, and market-based capitalism, or growth without limits, to name a few.
 
-But all these bad ideas will fail and crumble and the _Gods of the Copybook Headings_ will prevail, because they are <q>the nonpartisan, scientific, and implacable laws of economics and human behavior.</q>[^levinson2011kv]
+But all these bad ideas will fail and crumble and the _Gods of the Copybook Headings_ will prevail because they are <q>the nonpartisan, scientific, and implacable laws of economics and human behavior.</q>[^levinson2011kv]
 
 ### Stanza 2
 
@@ -91,13 +91,13 @@ Denial of objective truth is one of the signs of a society’s downfall.
 
 We live in a time filled with lies that deny objective truth and create pseudo-realities that can eventually lead to Totalitarianism.[^lindsay2020aa] If enough people believe a lie, societies become unable to solve their problems and fail.
 
-Large parts of the world honesty believe that Black people are hunted by racist police in the streets. Instead of researching the topic to get to the truth, the self-proclaimed social justice warriors replace their profile with black images to show solidarity. This doesn’t help to solve the structural problems of Black communities but gives a quick way of feeling self-righteous and morally superior.
+Large parts of the world honesty believe that Black people are hunted by racist police in the streets. Instead of researching the topic to get to the truth, the self-proclaimed social justice warriors replace their profiles with black images to show solidarity. This doesn’t help to solve the structural problems of Black communities but gives a quick way of feeling self-righteous and morally superior.
 
-But when investigated the stories begin to crumble quickly. The “Black Lives Matter” organization was founded on a lie repeating the mantra <q>Hands up, don’t shoot</q> of the _Michael Brown_ case[^elder2020aa]. More worrying is that the organization was founded by confessing Marxists. The founders have ties to the radical-left terrorist organization “The Weather Underground” which bombed buildings like _The Capitol_ and _Pentagon_ in the 60s and 70s.[^kohls2020aa]
+But when investigated the stories begin to crumble quickly. The “Black Lives Matter” organization was founded on a lie repeating the mantra <q>Hands up, don’t shoot</q> of the _Michael Brown_ case.[^elder2020aa] More worrying is that the organization was founded by confessing Marxists. The founders have ties to the radical-left terrorist organization “The Weather Underground” which bombed buildings like _The Capitol_ and _Pentagon_ in the 60s and 70s.[^kohls2020aa]
 
 Until recently they stated one of their goals was the “destruction of the nuclear family”. The organization is used every four years to help the Democrats win elections. It is used to transfer billions of donations through dubious channels to political agitators, most money will likely never reach Black communities. Even the mother of _Breonna Taylor_, a victim of a police shooting, called the organization a fraud.[^byrne2021pl] The co-founder however grew exceptionally rich for a Marxist since she started the organization.[^vincent2021en]
 
-While they claim Blacks are hunted in the streets by racist cops, the real number of shot unarmed Blacks for 2019 was between 13-27 (depending on the database), the numbers for Whites are slightly higher.[^mccaffree2021li] Taken the crime and murder rate to the proportion of the US population these numbers are easily explained.
+While they claim Blacks are hunted in the streets by racist cops, the real number of shot unarmed Blacks for 2019 was between 13-27 (depending on the database), the numbers for Whites are slightly higher.[^mccaffree2021li] Taking the crime and murder rate to the proportion of the US population these numbers are easily explained.
 
 Though each shooting is tragic, it’s far from being a major problem considering that the police conducts over 300 million checks each year.
 
@@ -119,7 +119,7 @@ Gender dysphoria in Swedish teen girls is up 1,500 percent since 2008.[^dms2020c
 
 Radical activists try to compel speech and intimidate others to recognize the 70+ made-up gender pronouns while it is perfectly possible to respect any transgender with the existing two pronouns.
 
-The denial of objective truth shows itself in the invention of words like “birthing person” (mother), “chest feeding” (breast feeding), or in statements like ”men can menstruate and give birth” or “a trans-woman is a woman” which are objectively false.
+The denial of objective truth shows itself in the invention of words like “birthing person” (mother), “chestfeeding” (breastfeeding), or in statements like ”men can menstruate and give birth” or “a trans-woman is a woman” which are objectively false.
 
 Attacks on scientists of biology or evolution biology increased in the last years. Multiple scientists retracted their papers out of fear of being canceled. _Naval Ravikant_ said in a recent interview: <q>Biology will suffer the most. Synthetic biology, for example, a lot of this will end up in China, because you won’t be able to map facts and reality and actions together.</q>[^rogan2019ul]
 
@@ -136,11 +136,11 @@ The _Cambrian_ is a reference to the welsh _Lloyd George_, prime minister during
 
 This stanza is a warning to believe nobody that promises lasting peace. A country needs to ensure it’s always able to defend its values and borders (if needed with violence) against aggressors or it will cease to exist.
 
-If you don’t, you will get conditions like France, where 226 people where killed by islamic terrorists between 2011 and 2021.[^ap2020wm] The parallel societies grew so dangerous in the past years, that the police doesn’t go anymore into some cities districts. 20 retired generals and 1,000 soldiers warned in April 2021 in an open letter,[^bbcnews2021eu] followed by another warning, signed by 130,000 people, that a civil war might soon break out.[^bbcnews2021uf]
+If you don’t, you will get conditions like France, were 226 people where killed by Islamic terrorists between 2011 and 2021.[^ap2020wm] The parallel societies grew so dangerous in the past years, that the police don't go anymore into some cities districts. 20 retired generals and 1,000 soldiers warned in April 2021 in an open letter,[^bbcnews2021eu] followed by another warning, signed by 130,000 people, that a civil war might soon break out.[^bbcnews2021uf]
 
-It is important to be able to defend oneself, because <q>a harmless man is not a good man. A good man is a very, very dangerous man, who has that under voluntary control,</q> as _Jordan B. Peterson_ stated.
+It is important to be able to defend oneself because <q>a harmless man is not a good man. A good man is a very, very dangerous man, who has that under voluntary control,</q> as _Jordan B. Peterson_ stated.
 
-One can become worried about the security of Western values and way of life when reading that the US military ends gender-neutral fitness tests for soldiers to be more inclusive[^ffn2021ru] or starts implementing woke ideology[^nightingale2021ne] while Chinese soldiers train in harsh weather and the government works on genetically enhancing their soldiers.[^dilanian2020je] A recent joke goes like this: <q>When the Chinese soldiers invade, the US soldiers will ask them what their pronouns are</q>.
+One can become worried about the security of Western values and way of life when reading that the US military ends gender-neutral fitness tests for soldiers to be more inclusive[^ffn2021ru] or starts implementing woke ideology[^nightingale2021ne] while Chinese soldiers train in harsh weather and the government works on genetically enhancing their soldiers.[^dilanian2020je] A recent joke goes like this: <q>When the Chinese soldiers invade, the US soldiers will ask them what their pronouns are.</q>
 
 ### Stanza 6
 
@@ -149,7 +149,7 @@ One can become worried about the security of Western values and way of life when
 > Till our women had no more children and the men lost reason and faith, \
 > And the Gods of the Copybook Headings said: “The Wages of Sin is Death.”
 
-The _Feminiam Sandstones_ is a reference to the emancipation of women. The stanza is also a reference to relaxed sexual morality.
+The _Feminian Sandstones_ is a reference to the emancipation of women. The stanza is also a reference to relaxed sexual morality.
 
 The results of the sexual revolution and women in the workforce are positive for the individual. But the plumbing birthrates in most Western countries are a serious threat to these countries. If the fertility rate falls below the replacement level, a population is unable to recover and will die out. Problems arise much earlier with an aging population because social security systems and retirement plans stop working.
 
@@ -189,7 +189,7 @@ It seems we never learn from our past. More and more people want to destroy the 
 
 When an idea or dogma is failing and it becomes obvious how bad it was the liars either double down and try to keep the lie alive for as long as possible or they disappear.
 
-We can see this now regarding the Corona crisis. The crisis will not be remembered for its virus, because the death rate is only around 0.13%[^margolis2020aa]. It will be remembered, because of how incompetent, corrupt, and authoritarian our political leaders, news media, the science community, and Big Tech reacted to the crisis.
+We can see this now regarding the Corona crisis. The crisis will not be remembered for its virus, because the death rate is only around 0.13%.[^margolis2020aa] It will be remembered, because of how incompetent, corrupt, and authoritarian our political leaders, news media, the science community, and Big Tech reacted to the crisis.
 
 I remember how everybody rallied around ventilators in spring 2020. Buying ventilators was the most important political topic for weeks. Sick people were put on ventilators early on. The image of ventilators was used as a tactic to intimidate people into social distancing and masking. A few doctors knew all along what is now known: Putting people on ventilators kills them in **50%** of the cases (regardless of their condition).[^thompson2020wr] There are much better methods without ventilators that result in a drastically reduced death rate for intensive care patients. But the specialists were silenced, censored, or removed from social media. Hundred thousand died needlessly by wrong medical care. Politicians moved sick elderly back into senior homes everywhere, where they infected each other and died.[^posteditorialboard2021kc] These were not COVID-19 deaths, but deaths caused by incompetent politicians.
 
@@ -225,19 +225,19 @@ And a lot of progressives don’t understand the ideas behind these movements th
 > As surely as Water will wet us, as surely as Fire will burn, \
 > The Gods of the Copybook Headings with terror and slaughter return!
 
-The last stanza is the 4th thing that is certain from the previous stanza. It is a closing loop to previous stanzas. The _brave new world_ is a reference to Shakespeare’s _The Tempest_, Act V. scene 1 line 183. The title for Huxley’s _Brave New World_ derived from Shakespeares’ play. The utopian novel has a lot of references to our times.
+The last stanza is the 4th thing that is certain from the previous stanza. It is a closing loop to previous stanzas. The _brave new world_ is a reference to Shakespeare’s _The Tempest_, Act V. scene 1 line 183. The title for Huxley’s _Brave New World_ is derived from Shakespeares’ play. The utopian novel has a lot of references to our times.
 
-The conservative commentator _Michael Knowles_ was recently asked by _Chris Williamson_ on his podcast, if we live currently more in _Brave New World_ or _1984_. He answered that we live 10% in _1984_ and 90% in _Brave New World_.[^williamson2021uf]
+The conservative commentator _Michael Knowles_ was recently asked by _Chris Williamson_ on his podcast if we live currently more in _Brave New World_ or _1984_. He answered that we live 10% in _1984_ and 90% in _Brave New World_.[^williamson2021uf]
 
 Reaching for Utopia (greek “not a place”) results always in a Dystopia (greek “bad place”). Utopian ideologies are **psychopathic** and arise from the inability to live in the reality.[^lindsay2020aa]
 
 There will be no war, that ends all wars, no “Great Reset”, no restart without getting rid of millions of people that don’t subscribe to the idea. <q>All zero-point ideologies were devastating and always resulted in totalitarian systems or totalitarian thinking,</q> stated Prof. _Nobert Bolz_ in a recent podcast.[^muller-ullrich2021bu] He fears that the Western world is again in a situation where serious intellectuals are thinking about whether we could go back to zero, construct a new form of society and economy, a new human nature.
 
-The pandemic or climate crisis offer convenient reasons to justify authoritarian or totalitarian ideas for “the greater good”. The German _Supreme Court_ already hinted that massive personal restrictions might be justified to reach the climate goals.[^escritt2021ap]
+The pandemic or climate crisis offers convenient reasons to justify authoritarian or totalitarian ideas for “the greater good”. The German _Supreme Court_ already hinted that massive personal restrictions might be justified to reach the climate goals.[^escritt2021ap]
 
-A recent survey asked how many Germans would be willing to pay every month to stop climate change. If I remember correctly the number was below € 20 per month. Even at the risk of disillusioning a large numbers of my readers, every German (including children and senior citizens) would have to pay between **€ 300** and **€ 600** net every month **for the next 30 years** in order to reach the climate goals of the Paris Agreement.[^unger2021pf] And this would reduce Germany’s global CO₂ emissions from **2%** to **1%**, which is as much savings as China generates _additionally_ each year.[^unger2021pf] It will not only destroy the country’s competitiveness, make the engergy supply unreliable, but also have no measureable effect. Neither has stop eating meat. But if the self-righteous voters demand measures from the politicians, that will be exactly what we are given.
+A recent survey asked how many Germans would be willing to pay every month to stop climate change. If I remember correctly the number was below € 20 per month. Even at the risk of disillusioning large numbers of my readers, every German (including children and senior citizens) would have to pay between **€ 300** and **€ 600** net every month **for the next 30 years** in order to reach the climate goals of the Paris Agreement.[^unger2021pf] And this would reduce Germany’s global CO₂ emissions from **2%** to **1%**, which is as many savings as China generates _additionally_ each year.[^unger2021pf] It will not only destroy the country’s competitiveness, make the energy supply unreliable, but also have no measurable effect. Neither has stopped eating meat. But if the self-righteous voters demand measures from the politicians, that will be exactly what we are given.
 
-So be prepared to have fewer (or no) flights in the future, to lose your car, and be restricted in your movement and freedoms. If you think the COVID-19 restrictions were bad, you have no clue what is coming.
+So be prepared to have fewer (or no) flights in the future, lose your car, and be restricted in your movement and freedoms. If you think the COVID-19 restrictions were bad, you have no clue what is coming.
 
 All these endeavors ignore human nature, reason, personal liberty, and self-determination. To achieve a reset one would have to suppress, intimidate, incarcerate, reeducate, or even kill millions of people. I don’t think any sane person would like to live in a totalitarian, digitalized surveillance state like China is currently building. We have to call out and shame people that push for these ideas before it is too late.
 
@@ -284,7 +284,7 @@ Reality will **always** win, _eventually_. The question is to what price. A lie 
 [^posteditorialboard2021kc]: Post Editorial Board (2021): [New report details even bigger lies by Cuomo to cover up nursing home scandal](https://nypost.com/2021/05/02/even-bigger-lies-by-cuomo-to-cover-up-nursing-home-scandal/)
 [^mcmaken2020qu]: Ryan McMaken (2020): [The Evidence Keeps Piling Up: Lockdowns Don’t Work](https://www.naturalblaze.com/2020/09/the-evidence-keeps-piling-up-lockdowns-dont-work.html)
 [^weinstein2021zr]: Bret Weinstein & Pierre Kory (2021): [COVID, Ivermectin, and the Crime of the Century: DarkHorse Podcast with Pierre Kory & Bret Weinstein](https://odysee.com/@BretWeinstein:f/COVID-Ivermectin-and-the-Crime-of-the-Century-DarkHorse-Podcast-with-Pierre-Kory-Bret-Weinstein:f?r=AG4TE1poAnUM1D7LnCupxjSNSjLfy141)
-[^hlusa2021ag]: Headline USA (2021): [WaPo Stealth-Edits Report That Said Wuhan Lab Leak Theory was ’Debunked‘](https://headlineusa.com/wapo-stealth-edits-report-that-said-wuhan-lab-leak-theory-was-debunked/)
+[^hlusa2021ag]: Headline USA (2021): [WaPo Stealth-Edits Report That Said Wuhan Lab Leak Theory was ‘Debunked’](https://headlineusa.com/wapo-stealth-edits-report-that-said-wuhan-lab-leak-theory-was-debunked/)
 [^watson2021pa]: Paul Joseph Watson (2021): [Vox Stealth Edits March 2020 Article “Debunking” Lab Origin of COVID](https://summit.news/2021/05/24/vox-stealth-edits-march-2020-article-debunking-lab-origin-of-covid/)
 [^nayna2019qz]: Mike Nayna (2019): [The Devils of Evergreen State College](https://www.youtube.com/playlist?list=PLLHyNSlsz44_GceBMuwAyflt3lDWMEjTG)
 [^pachal2020gj]: Pete Pachal (2020): [Coinbase Has Drawn a Line in the Sand for Its Activist Employees](https://www.coindesk.com/coinbase-has-drawn-a-line-in-the-sand-for-its-activist-employees)

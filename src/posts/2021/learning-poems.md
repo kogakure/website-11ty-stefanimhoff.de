@@ -8,9 +8,9 @@ tags:
   - self-improvement
 ---
 
-I’ve been enjoying learning poems for a few months now. It started when I heard a fantastic [visual recitation](https://youtu.be/37ARLInjLVE) by _Lauren Southern_ of _Rudyard Kiplings_ [The Gods of the Copybook Headings](http://www.kiplingsociety.co.uk/poems_copybook.htm).
+I’ve been enjoying learning poems for a few months now. It started when I heard a fantastic [visual recitation](https://youtu.be/37ARLInjLVE) by _Lauren Southern_ of _Rudyard Kipling’s_ [The Gods of the Copybook Headings](http://www.kiplingsociety.co.uk/poems_copybook.htm).
 
-The poem is an echo from 100 years ago. Full of wisdom and a mirror held up to our generation. It’s deep and not easy to understand which was the reason I dug into it. I wrote [a modern interpretation of the poem](/interpretation-the-gods-of-the-copybook-headings/) a few month ago.
+The poem is an echo from 100 years ago. Full of wisdom and a mirror held up to our generation. It’s deep and not easy to understand which was the reason I dug into it. I wrote [a modern interpretation of the poem](/interpretation-the-gods-of-the-copybook-headings/) a few months ago.
 
 And then I started learning the poem. First for fun, and I wasn’t sure I would be able to remember it, because it’s long (10 stanzas with four lines). I was surprised and impressed when I was able to remember it after two weeks in its entirety.
 
@@ -32,7 +32,7 @@ When I tried to remember what poems I had to learn in school, I couldn’t remem
 
 I think learning poetry faded already out in the generations before mine. My parents still learned poems in school, and so did my grandparents. Sadly, we stopped learning poems.
 
-But it is a fantastic way to train the brain and to remember the wisdom of our ancestors. If we stop, we lose our culture and the teachings of the past. This will result in making the same mistakes, or as a quote, probably misattributed to _Mark Twain_[^research2014ej] says <q>History doesn’t repeat itself but if often rhymes</q>.
+But it is a fantastic way to train the brain and to remember the wisdom of our ancestors. If we stop, we lose our culture and the teachings of the past. This will result in making the same mistakes, or as a quote, probably misattributed to _Mark Twain_[^research2014ej] says <q>History doesn’t repeat itself but it often rhymes</q>.
 
 [^jenson2016ib]: Jamie Jenson (2016): _If— by Rudyard Kipling_, <https://poemanalysis.com/rudyard-kipling/if/>.
 [^research2014ej]: Quote Research (2014): _History Does Not Repeat Itself, But It Rhymes_, <https://quoteinvestigator.com/2014/01/12/history-rhymes/>.

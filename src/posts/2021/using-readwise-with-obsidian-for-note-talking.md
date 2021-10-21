@@ -41,7 +41,7 @@ I started reviewing my highlights of the day. Sometimes I correct or improve the
 
 Readwise also sends out emails at a preferred time to review the highlights, but I prefer to use the app. Every morning 5-6 random highlights are presented in the app. With a simple touch, it’s possible to reject or keep a highlight for spaced repetition learning or mark it as a favorite.
 
-Since a few weeks ago it’s possible to create Themed Reviews. These allow creating custom reviews of a specific source and review them at a specific time. It’s possible for example to create a “Stoicism” Review and add everything tagged with `stoicism` and specific Stoic books as a source.
+Since a few weeks ago it’s possible to create Themed Reviews. These allow creating custom reviews of a specific source and reviewing them at a specific time. It’s possible for example to create a “Stoicism” Review and add everything tagged with `stoicism` and specific Stoic books as a source.
 
 ## Exporting Highlights
 

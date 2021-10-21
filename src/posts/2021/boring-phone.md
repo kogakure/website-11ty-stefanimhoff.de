@@ -14,11 +14,11 @@ Since I wrote my well-received essay [Self-Defence in the Age of Attention](/att
 
 I tried separating myself from the devices _physically_ by putting them into a drawer when I don’t need them which works surprisingly well.
 
-Having the devices around is _already_ enough to start a bad habit, because they work as a cue to a habit loop.
+Having the devices around is _already_ enough to start a bad habit because they work as a cue to a habit loop.
 
 My main issue with this trick is that the devices have a lot of helpful apps and use cases and if I decide to take them out of their dark drawer, I might start a negative habit loop.
 
-I’ve seen people moving the apps to another screen or a folder labeled “Addict” (Joe Rogan), or switch the display to grey instead of colors and tried out all these tricks.
+I’ve seen people moving the apps to another screen or a folder labeled “Addict” (Joe Rogan), or switching the display to grey instead of colors and trying out all these tricks.
 
 It helped a lot when Apple introduced the app drawer for iPhone. This allowed me to remove addicting apps from the home screen. But unfortunately, they introduced at the same time these _clever_ folders that automatically cluster apps by topic together and show the three most-used apps per topic bigger. This is not helpful to reduce addiction, because the most used apps are likely always directly clickable.
 
@@ -40,7 +40,7 @@ Twitter was and is my biggest time sink because I can get the most information q
 
 Unfortunately, it’s also a big stinking pile of garbage. With the ongoing culture war, everybody is just yelling at each other.
 
-I could decide to ignore it, but as _Pericles_ said, <q>just because you do not take an interest in politics doesn’t mean politics won’t take an interest in you</q>. I would like to keep an eye at least sometimes on what’s going on to be able to assess threats and defend against them. And as news are _obviously_ biased and unreliable for a while now I’d rather read and research the facts and make up my mind on my own than reading the interpretation of some 20-something social activist without a journalism degree at one of those _media outlets_.
+I could decide to ignore it, but as _Pericles_ said, <q>just because you do not take an interest in politics doesn’t mean politics won’t take an interest in you</q>. I would like to keep an eye at least sometimes on what’s going on to be able to assess threats and defend against them. And as news are _obviously_ biased and unreliable for a while now I’d rather read and research the facts and make up my mind on my own than read the interpretation of some 20-something social activist without a journalism degree at one of those _media outlets_.
 
 I came up with a clever idea: I divided my Twitter into **two** accounts. One channel is public and I follow friends, co-workers, industry news, and intellectuals. The other channel is private and I follow political influencers, on-the-street journalists, commentators, and cultural thinkers.
 

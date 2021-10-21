@@ -11,7 +11,7 @@ tags:
 
 Everybody is consuming content, through books, articles, videos, podcasts, or other media. We consume content for entertainment, to be informed, or to learn and grow. But few people take the time to extract the valuable parts from the content they are consuming.
 
-As I wrote in my previous essay [Zettelkasten Note-Taking Method With DEVONthink](/zettelkasten-note-taking-devonthink/) we are prone to the _Collectors Fallacy_, the belief that consuming information enables us automatically to remember and apply this knowledge later. This is sadly not true. The only way to remember things is by writing them down, creating connections between them, and regularly revisit them.
+As I wrote in my previous essay [Zettelkasten Note-Taking Method With DEVONthink](/zettelkasten-note-taking-devonthink/) we are prone to the _Collectors Fallacy_, the belief that consuming information enables us automatically to remember and apply this knowledge later. This is sadly not true. The only way to remember things is by writing them down, creating connections between them, and regularly revisiting them.
 
 I started using the Zettelkasten note-taking method a year ago and this essay is an overview of the different types of content and how and with what tools I process them.
 
@@ -27,7 +27,7 @@ It would take an extra essay to mention all the features of DEVONthink. With [DE
 
 ### MindNode
 
-[MindNode](https://mindnode.com/) is the app I use to prepare content for processing. I dump in the ideas and connect them to Mindmaps, add tags and links. When I have a rough idea about the structure, I move the ideas to notes in Obsidian. You can see one of my mind maps I created to study [Japanese Design and Aesthetics](https://my.mindnode.com/FGhdh66uMbi1aJ9RfriKUL3JoMCHd18aS8z9Uayw) online.
+[MindNode](https://mindnode.com/) is the app I use to prepare content for processing. I dump in the ideas and connect them to Mindmaps, adding tags and links. When I have a rough idea about the structure, I move the ideas to notes in Obsidian. You can see one of the mind maps I created to study [Japanese Design and Aesthetics](https://my.mindnode.com/FGhdh66uMbi1aJ9RfriKUL3JoMCHd18aS8z9Uayw) online.
 
 ### Obsidian
 
@@ -53,7 +53,7 @@ There are many different media types I regularly consume. Each type needs a diff
 
 ### Books
 
-Text comes in many forms, the most valuable is in my opinion the book. Books are content-rich, the authors condense a lot of information to make a topic accessible.
+Texts come in many forms, the most valuable is in my opinion the book. Books are content-rich, the authors condense a lot of information to make a topic accessible.
 
 I read my books mainly as eBooks these days because it’s convenient, the books are easy to carry around, you can read in low-light conditions, and highlighting is easy. I highlight interesting paragraphs and add letters as comments to categorize them: `Q` for quotes, `E` for examples, `R` for further research. I took this idea from [Tim Ferris](https://youtu.be/YQOrqAKKcUQ).
 
@@ -61,7 +61,7 @@ I extract the highlights from my eBook reader with a bookmarklet I wrote for mys
 
 Hardcopy books I read with my [Traveler’s Notebook Passport Size](https://www.travelers-company.com/products/trnote/starter-kit-passport) nearby to transfer the notes I highlighted on a page. I add the page number in case I need to revisit the section. Later, after I finished reading I transfer the notes to Obsidian.
 
-Additionally, I add each book I’ve read to a [BibDesk](https://bibdesk.sourceforge.io/) library that lives in my Obsidian vault. A (modified) plugin for Markdown, as described in [Manage Citations for a Zettelkasten](https://zettelkasten.de/posts/bibliography-zettelkasten/) helps me adding the citations to my notes. I do the same with articles, podcasts, videos, or other content I want to remember the citation.
+Additionally, I add each book I’ve read to a [BibDesk](https://bibdesk.sourceforge.io/) library that lives in my Obsidian vault. A (modified) plugin for Markdown, as described in [Manage Citations for a Zettelkasten](https://zettelkasten.de/posts/bibliography-zettelkasten/) helps me add the citations to my notes. I do the same with articles, podcasts, videos, or other content I want to remember the citation.
 
 ### Documents
 
@@ -93,7 +93,7 @@ If I come across an article with multiple photos I use the [Fatkun AI Downloader
 
 Podcasts are my main way of interacting with audio, but sometimes I create voice memos to remember something.
 
-I am using [Airr](https://www.airr.io/) as my podcast app. Airr allows me to add podcast episodes to a queue and set my preferred playback speed to 1.8x. The best feature of Airr is _AirrQuotes_. They allow to press a button and bookmark a specific time range of the podcast episode, add comments, and if available, read the transcript. This can be done in private or publicly. Public _AirrQuotes_ by other people can be seen for a given episode.
+I am using [Airr](https://www.airr.io/) as my podcast app. Airr allows me to add podcast episodes to a queue and set my preferred playback speed to 1.8x. The best feature of Airr is _AirrQuotes_. They allow you to press a button and bookmark a specific time range of the podcast episode, add comments, and if available, read the transcript. This can be done in private or publicly. Public _AirrQuotes_ by other people can be seen for a given episode.
 
 When I’m walking outside while hearing podcasts I bookmark all interesting parts. It automatically bookmarks 90 seconds before the bookmark. Later I edit the bookmark to include the exact start and end of an interesting section and add comments.
 
@@ -133,7 +133,7 @@ My favorite feature is the WikiLink syntax including a fast fuzzy search. One of
 
 Obsidian started to allow community plugins. Every time I look into the collection there are new fantastic plugins to improve my workflow.
 
-[Sliding Panes](https://github.com/deathau/sliding-panes-obsidian) is one of the plugins I love, because it enables me to keep 10-20 notes (depending on the monitor size) at the same time open and moves between the notes to compare or connect notes.
+[Sliding Panes](https://github.com/deathau/sliding-panes-obsidian) is one of the plugins I love because it enables me to keep 10-20 notes (depending on the monitor size) at the same time open and move between the notes to compare or connect notes.
 
 I found recently [Note Refactor](https://github.com/lynchjames/note-refactor-obsidian). The plugin allows me to write all my notes to a topic in one note and later extract parts into separate smaller (atomic) notes with the help of a shortcut. It takes over the work of creating the filename, using a preferred file template. It moves the section to the new file and links to it in the original note.
 
