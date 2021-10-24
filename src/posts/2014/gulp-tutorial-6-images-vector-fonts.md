@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Gulp.js 06: Images and Vector Fonts"
+title: "Introduction to Gulp.js 6 – Images and Vector Fonts"
 slug: gulp-tutorial-6-images-vector-fonts
 author: Stefan Imhoff
 date: 2014-10-23T08:00:00+02:00
