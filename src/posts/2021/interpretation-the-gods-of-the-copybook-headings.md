@@ -5,6 +5,7 @@ author: Stefan Imhoff
 description: A modern interpretation of Rudyard Kiplings great poem.
 tags:
   - poetry
+  - featured
 ---
 
 {% youtube "37ARLInjLVE" %}
