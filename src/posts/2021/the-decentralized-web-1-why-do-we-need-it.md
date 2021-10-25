@@ -9,7 +9,7 @@ tags:
   - philosophy
 ---
 
-It’s been at least 25 years since I first used a modem to dial through the landline into “the internet”. You’ll never forget the [robotic beeping](https://archive.org/details/44568-pocket-modem-conection-1-norm-d.-d.-teoli-jr.-a.-c.) when you grew up with dial-in modems.
+It’s been at least 25 years since I first used a modem to dial through the landline into “the internet”. You’ll never forget the [robotic beeping](https://archive.org/details/44568-pocket-modem-conection-1-norm-d.-d.-teoli-jr.-a.-c.) when you grew up with Dial-Up Modems.
 
 I was curious and hopeful for the future of the internet. I even took on a job that depends on it. And the rise of social media (Web 2.0) looked promising and full of opportunities. But over the following years, I had to watch how Big Tech and Big Sales took over large parts of the internet, build huge walls around their properties, stopped supporting open protocols where ever possible, developed proprietary technical solutions, and siloed people into their platforms.
 
@@ -17,7 +17,7 @@ The internet became less diverse and less fun, and the big companies started tra
 
 ## The Free & Open Internet is Dying
 
-But 5 years ago I started noticing worrying trends on the internet. A lot of companies started consolidating their powers. Google dropped the “Don’t be evil” credo after they started negotiating with weapons manufacturers. The companies started to use their reach and power to spread their political and social ideas. It started slowly, subtle, and nearly unnoticeable with biased ranking algorithms under the pretension to “show more relevant content to users”.
+But 5 years ago I started noticing worrying trends on the internet. A lot of companies started consolidating their powers. Google dropped the “Don’t be evil” credo after they started negotiating with weapons manufacturers. The companies started to use their reach and power to spread their political and social ideologies. It started slowly, subtle, and nearly unnoticeable with biased ranking algorithms under the pretension to “show more relevant content to users”.
 
 As a center-left Libertarian who follows conservative outlets, I noticed the political bias much earlier than people who only read left-wing news. I witnessed how the hypocritical inequality and standards applied to different political ideas increased a lot. Search results of Google and their competitors started to look like being from a different planet. I stopped using most Google products and switched to privacy products like [Brave Browser](https://brave.com/), [DuckDuckGo](https://duckduckgo.com/) or [Brave Search](https://search.brave.com/).
 
