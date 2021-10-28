@@ -18,7 +18,6 @@ Walter-Heitmann-Str. 2<br />
 ### Acknowledgments
 
 - This website is built with [Eleventy], a simpler static site generator
-- It is hosted for free on [Netfify].
 - The design was created with [Affinity Designer] and uses the typeface [Secuela] by [deFharo].
 - The Bonsai image on my homepage was taken by [Norio Nakayama].
 - The minimalistic icons are created by [Remix Icon] which is [Jimmy Cheung] and [Wendy Gao].
@@ -48,7 +47,6 @@ If you find a link on my website that links to a website that violates applicabl
 I take the protection of your personal data very seriously and strictly adhere to the rules of data protection laws. **I don’t collect _any_ data**.
 
 [eleventy]: https://www.11ty.dev/
-[netfify]: https://www.netlify.com/
 [affinity designer]: https://affinity.serif.com/designer/
 [secuela]: https://fontlibrary.org/en/font/secuela-variable
 [defharo]: https://github.com/defharo

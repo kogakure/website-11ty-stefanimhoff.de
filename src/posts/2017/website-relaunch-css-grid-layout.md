@@ -32,12 +32,6 @@ Special thanks to [Mozilla] for their fantastic [Firefox] browser. The Firefox _
 
 ![My grids inspected with the Mozilla Firefox CSS Grid Inspector](/assets/images/posts/css-grid-inspector.jpg)
 
-## Hosting on Netlify
-
-My new website is hosted on [Netlify]. A fantastic service, which comes with deployment via Git, build hooks, single page pre-rendering, asset optimization, forms, split testing, notifications, and free SSL with [Let’s Encrypt], and you can set a custom domain. And they have a global CDN, which means assets are delivered much fast, wherever you live.
-
-You can create unlimited sites, add unlimited collaborators, and even use it for commercial projects. **For free**. And of course, they have packages for users and companies, who need more control or reliability.
-
 ## Source Code
 
 The [source code] for my website is completely open, the content is as always provided with a [Creative Commons license]. The unique design is not free, but everybody is encouraged to learn from the code and reuse the code of the website.
@@ -54,7 +48,6 @@ The [source code] for my website is completely open, the content is as always pr
 [cssnext]: http://cssnext.io/
 [mozilla]: https://www.mozilla.org/
 [firefox]: https://www.mozilla.org/firefox/
-[netlify]: https://www.netlify.com/
 [let’s encrypt]: https://letsencrypt.org/
 [source code]: https://github.com/kogakure/website-hugo-kogakure.de
 [creative commons license]: https://creativecommons.org/licenses/by-nc/3.0/
