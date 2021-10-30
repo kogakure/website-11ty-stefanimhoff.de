@@ -75,8 +75,8 @@ The only hope for a free future is a decentralized internet where people can get
 This is the first part of a three-part series on the decentralized web. The next part will show some promising examples for the decentralized web.
 
 1. **Why Do We Need It?**
-2. The Wild West Web
-3. Develop and Publish a Website
+2. [The Wild West Web](/the-decentralized-web-2-the-wild-west-web/)
+3. Develop and Publish a Website (_available soon_)
 
 [^johnson2021qe]: Ben Johnson (2021): _Americans Have World’s Lowest Trust In Media: Survey_, <https://www.dailywire.com/news/americans-have-worlds-lowest-trust-in-media-survey>.
 [^lindsay2020da]: Dr. James Lindsay (2020): _Critical Theory_, <https://newdiscourses.com/tftw-critical-theory/>.
