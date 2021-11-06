@@ -122,7 +122,7 @@ This is the second part of a three-part series on the decentralized web. In the 
 
 1. [Why Do We Need It?](/the-decentralized-web-1-why-do-we-need-it/)
 2. **The Wild West Web**
-3. Develop and Publish a Website (_available soon_)
+3. [Develop and Publish a Website](/the-decentralized-web-3-develop-and-publish-a-website/)
 
 [^gladstein2021on]: Alex Gladstein (2021): _Bitcoin Is Protecting Human Rights Around the World_, <https://reason.com/video/2021/02/05/bitcoin-is-protecting-human-rights-around-the-world/>.
 [^fridman2021vm]: Lex Fridman and Alex Gladstein (2021): _#231 – Alex Gladstein: Bitcoin, Authoritarianism, and Human Rights_, <https://lexfridman.com/alex-gladstein/>.

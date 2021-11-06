@@ -76,7 +76,7 @@ This is the first part of a three-part series on the decentralized web. The next
 
 1. **Why Do We Need It?**
 2. [The Wild West Web](/the-decentralized-web-2-the-wild-west-web/)
-3. Develop and Publish a Website (_available soon_)
+3. [Develop and Publish a Website](/the-decentralized-web-3-develop-and-publish-a-website/)
 
 [^johnson2021qe]: Ben Johnson (2021): _Americans Have World’s Lowest Trust In Media: Survey_, <https://www.dailywire.com/news/americans-have-worlds-lowest-trust-in-media-survey>.
 [^lindsay2020da]: Dr. James Lindsay (2020): _Critical Theory_, <https://newdiscourses.com/tftw-critical-theory/>.
