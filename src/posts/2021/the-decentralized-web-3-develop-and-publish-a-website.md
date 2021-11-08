@@ -76,7 +76,7 @@ Create your first file and add it to the repository:
 
 ```bash
 $ echo "Hello World" > hello-world.txt
-$ ipfs add hello-world
+$ ipfs add hello-world.txt
 ```
 
 With the same `ipfs cat` command from above, but using the hash of the `hello-world.txt` file you can see its contents.
