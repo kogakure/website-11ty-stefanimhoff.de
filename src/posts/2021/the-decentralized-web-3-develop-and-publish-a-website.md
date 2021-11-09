@@ -226,9 +226,9 @@ If you share content on a decentralized, distributed network, it will only be av
 
 ## Hosting IPFS Content With a Domain
 
-There are a lot of different options to serve content with a human-readable name. You could [register an ENS name](https://medium.com/coinmonks/how-to-register-an-ens-name-for-your-wallet-address-190767641dae), and [connect it to your latest CID](https://bitsofco.de/setting-up-a-decentralised-website/), or buy a domain at [Unstoppable Domains](https://unstoppabledomains.com/) and connect it to your content (I bought a domain, but haven’t added it to the Blockchain yet) or you can use a service like [Fleek](https://fleek.co/) (what I did), to name a few options.
+There are a lot of different options to serve content with a human-readable name. You could [register an ENS name](https://medium.com/coinmonks/how-to-register-an-ens-name-for-your-wallet-address-190767641dae), and [connect it to your latest CID](https://bitsofco.de/setting-up-a-decentralised-website/), buy a domain at [Unstoppable Domains](https://unstoppabledomains.com/), or use a service like [Fleek](https://fleek.co/), to name a few options.
 
-I use Fleek because I just wanted to play around with IPFS and they offer free hosting. I connected the [GitHub repository of my website](https://github.com/kogakure/website-11ty-stefanimhoff.de/) with Fleek and automatically deploy my website on each push to IPFS. I deploy it currently to a subdomain by adding a CNAME record in my DNS settings, but bought already an unstoppable domain that I need to move as a <abbr title="Non-Fungible Token">NFT</abbr> to my Ethereum wallet.
+I use Fleek because I just wanted to play around with IPFS and they offer free hosting. I connected the [GitHub repository of my website](https://github.com/kogakure/website-11ty-stefanimhoff.de/) with Fleek and automatically deploy my website on each push to IPFS. I deploy it currently to a subdomain by adding a CNAME record in my DNS settings, but have bought already an Unstoppable Domain that I still need to move as a <abbr title="Non-Fungible Token">NFT</abbr> to my Ethereum wallet on the blockchain.
 
 ## Conclusion
 
