@@ -106,7 +106,12 @@
   },
   {
     "id": "22",
-    "de": "Kalt bläst der Herbstwind,\nich wandere verlassen im Wald —\nErinnerung an den Sommer.",
-    "en": "Autumn wind blows cold,\nI wander deserted in the forest—\nMemory of summer."
+    "de": "Kalt bläst der Herbstwind,\nich wandere verlassen im Wald –\nErinnerung an den Sommer.",
+    "en": "Autumn wind blows cold,\nI wander deserted in the forest –\nMemory of summer."
+  },
+  {
+    "id": "23",
+    "de": "Abzweigung am Weg,\nnicht genommener Weg im Nebel –\nIch schaue nicht zurück.",
+    "en": "Junction on the way,\nthe path not taken is in the fog –\nI don't look back."
   }
 ]
