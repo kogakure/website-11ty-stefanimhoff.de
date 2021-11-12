@@ -136,7 +136,7 @@ You can see your website now by opening the following URL in Brave:
 
 It should also work in other browsers because this URL is using a gateway, but it might be very slow or take a while till the file is available.
 
-In Brave, you’ll see a pretty button in your URL bar to open it directly in IPFS (without a gateway). This will also change the bar to show a pretty IPFS icon and the real IPFS address.
+In Brave, you’ll see a button in your URL bar to open it directly in IPFS (without a gateway). This will also change the bar to show a IPFS icon and the real IPFS address.
 
 ## Publishing to IPNS
 
