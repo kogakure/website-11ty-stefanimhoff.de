@@ -1,0 +1,43 @@
+/** Footnotes */
+.footnote-ref a {
+  color: var(--color-accent);
+  font-weight: $font-weight-light;
+}
+
+.footnote-bracket {
+  display: none;
+}
+
+.footnote-backref {
+  color: var(--color-accent);
+  font-weight: $font-weight-light;
+  text-decoration: none;
+}
+
+.footnotes {
+  padding-left: 2rem;
+  position: relative;
+}
+
+.footnotes :target {
+  background-color: var(--color-fg-feather);
+  padding: $space-5;
+}
+
+.footnotes-list {
+  counter-reset: item;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footnote-item::before {
+  content: counter(item);
+  counter-increment: item;
+  font-size: smaller;
+  font-weight: $font-weight-black;
+  left: 0;
+  padding-top: 0.15rem;
+  position: absolute;
+  vertical-align: super;
+}

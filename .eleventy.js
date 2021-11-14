@@ -42,6 +42,26 @@ module.exports = function (config) {
     .use(markdownItSub)
     .use(markdownItSup);
 
+  markdownLib.renderer.rules.footnote_caption = (tokens, idx) => {
+    let n = Number(tokens[idx].meta.id + 1).toString();
+
+    if (tokens[idx].meta.subId > 0) {
+      n += ':' + tokens[idx].meta.subId;
+    }
+
+    return (
+      '<span class="footnote-bracket">[</span>' +
+      n +
+      '<span class="footnote-bracket">]</span>'
+    );
+  };
+
+  markdownLib.renderer.rules.footnote_block_open = () =>
+    '<hr />\n' +
+    '<h2 class="mt-3">Footnotes</h2>\n' +
+    '<section class="footnotes">\n' +
+    '<ol class="footnotes-list">\n';
+
   config.setLibrary('md', markdownLib);
 
   // Compress and combine JS files

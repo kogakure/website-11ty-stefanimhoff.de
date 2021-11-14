@@ -6,6 +6,7 @@
 
 /* Layout */
 @import 'layout/page-footer';
+@import 'layout/footnotes';
 @import 'layout/legal';
 @import 'layout/up-link';
 
