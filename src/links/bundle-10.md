@@ -25,6 +25,6 @@ tags:
 - [Social Engineering in TV Commercials](https://youtu.be/PQWlgFYeXlk) is an interesting commentary by Paul Joseph Watson. One of the reasons I don’t watch any more TV, especially advertising.
 - [How America can save Taiwan](https://unherd.com/2021/11/should-we-force-china-into-war/) – Forcing China to escalate could be in our interests.
 - [Climate change is no catastrophe](https://unherd.com/2021/11/climate-change-will-not-be-catastrophic/) – Attempts to stop warming will backfire dangerously.
-- [New Rule: OK, Zoomer](https://youtu.be/RYSLyvbR_1w) is a funny, true commentary by Bill Maher on fake green self-righteous of young people.
+- [New Rule: OK, Zoomer](https://youtu.be/RYSLyvbR_1w) is a funny, true commentary by Bill Maher on fake green self-righteous young people.
 - [Big Mouth](https://www.themoviedb.org/tv/74204-big-mouth) {% netflix "80117038" %} Season 5 was released and is very political incorrect, embarrassing, and extremely funny.
 - [Homeland](https://www.themoviedb.org/tv/1407-homeland) {% primevideo "B00I6J6S76" %} ended with the 8th season. It was the perfect show to follow the never-ending wars of the USA in Iraq and Afghanistan from the view of a CIA agent.
