@@ -15,15 +15,16 @@ I’m reading currently these **books**:
 
 {% bookshelf %}
 {% book "B08VF32DXK" %}
+{% book "B001R6OTNK" %}
 {% book "B016AWGJBK" %}
 {% book "0812968255" %}
 {% endbookshelf %}
 
 I’m working with the [Zettelkasten](https://zettelkasten.de/) note-taking method using [Obsidian](https://obsidian.md/) to write and link ideas, [DEVONthink](https://www.devontechnologies.com/apps/devonthink) to store reference material, and [iA Writer](https://ia.net/writer) to create texts out of the ideas. These are some statistics:
 
-- **2125** notes
-- **319** bibliography entries
-- **5031** reference items
+- **2128** notes
+- **337** bibliography entries
+- **5036** reference items
 
 ---
 
