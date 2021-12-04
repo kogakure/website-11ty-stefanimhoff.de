@@ -1,0 +1,299 @@
+---
+title: Books
+layout: narrow
+permalink: "/giving-away-books/"
+robots: "noindex,follow"
+excludeFromSitemap: true
+---
+
+# {{ title }}
+
+I have a bunch of books that need to go. You can get as many as you like for free (Self pickup). If you want some books you can send me an email and I’ll reserve them till you pick them up: {% email "Email", true %}
+
+---
+
+### By Author
+
+- Achor, Shawn: The Happiness Advantage
+- Adams, Scott: Das Dilbert Prinzip
+- Backer, Anne: Arbeitszeugnisse
+- Barth, Mario: Deutsch–Frau, Frau-Deutsch
+- Bau-Stilkunde – Die Abendländische Architektur Und Ihre Ornamente
+- Baudrillard, Jean: Agonie Des Realen
+- Baudrillard, Jean: Das System Der Dinge
+- Baudrillard, Jean: Simulacra and Simulation
+- Behme, Robert: Bonsai
+- Benyus, Janine: Biomimicry – Innovation Inspired by Nature
+- Berkeley, George: Eine Abhandlung Über Die Prinzipien Der Menschlichen Erkenntnis
+- Bryson, Bill: Eine Kurze Geschichte Von Fast Allem
+- Budd, Andy: CSS Mastery – Advanced Web Standards Solutions
+- Cain, Susan: Still – Die Kraft Der Introvertierten
+- Cederholm, Dan: Bulletproof Web Design
+- Cederholm, Dan: Web Standards Solutions
+- Christakis, Nicholas: Connected!
+- Clarke, Andy: Harboiled Web Design
+- Clarke, Andy: Transcending CSS – the Fine Art of Web Design
+- Clason, George: Der Reichste Mann Von Babylon
+- Clavell, James: Gai-Jin
+- Conrad, Joseph: Herz Der Finsternis
+- Cooper, Alan: About Face – the Essentials of Interaction Design
+- Crockford, Douglas: Das Beste an JavaScript
+- Dante: Die Göttliche Komödie
+- Daute, Horst: Bonsai
+- De Molina, Tirso: Don Juan - Der Verführer Von Sevilla Und Der Steinerne Gast
+- Der Segelschiffe Grosse Zeit
+- Descartes, René: Discours De La Méthode
+- Descartes, René: Meditationes De Prima Philosophia – Meditationen Über Die Erste Philosophie
+- Die Grossen Der Geschichte
+- Die Konstruktionen in Holz
+- Dostojewski, Fjodor: Die Brüder Karamasow
+- Drewermann, Eugen: Heilende Religion
+- Drewermann, Eugen: Reden Gegen Den Krieg
+- Drewermann, Eugen: Wie Zu Leben Wäre
+- Dumas: Die Drei Musketiere
+- Einfach Die Welt Verändern
+- Ekman, Paul: Gefühle Lesen
+- Ekman, Paul: What the Face Reveals
+- Eschbach, Andreas: Das Buch Von Der Zukunft
+- Fast: Spartacus
+- Flaubert, Gustave: Madame Bovary
+- Follett, Ken: Die Nadel
+- Frank, Gunter: Der Staatsvirus
+- Fröhlich, Susanne: Deutsch–Mann, Mann-Deutsch
+- Gladwell, Malcolm: Blink! – Die Macht Des Moments
+- Godin, Seth: Linchpin
+- Godin, Seth: The Dip
+- Godin, Seth: Tribes
+- Goethe, Johann Wolfgang: Faust
+- Greenpeace – Die Farben Der Arktis
+- Grosser: Richtig Muskeltraining
+- Grünes Lexikon
+- Guanzhong, Luo: The Outlaws of the Marsh – Volume 1
+- Guanzhong, Luo: The Outlaws of the Marsh – Volume 2
+- Hanh, Thich Nhat: No Death, No Fear
+- Hanh, Thich Nhat: Peace Is Every Step
+- Hay, Stephen: Responsive Design Workflow
+- Hempen, Carl-Hermann: Taschenatlas Akupunktur
+- Hess, Roland: The Essential Blender Guide to 3D Creation With the Open Source Suite Blender
+- Hirschberger, Johannes: Geschichte Der Philosophie – Band 1: Altertum Und Mittelalter
+- Hirschberger, Johannes: Geschichte Der Philosophie – Band 2: Neuzeit Und Gegenwart
+- Hume, David: Ein Traktat Über Die Menschliche Natur
+- Hume, David: Eine Untersuchung Über Den Menschlichen Verstand
+- Kant, Immanuel: Grundlegung Zur Metaphysik Der Sitten
+- Kant, Immanuel: Kritik Der Reinen Vernunft
+- Kawasaki Guy: The Art of the Start
+- Kawollek, Wolfgang: Bonsai Für Das Zimmer
+- Kehlmann, Daniel: Die Vermessung Der Welt
+- Kentucky Schreit Ficken
+- Kieser, Werner: Krafttraining
+- Kishon, Ephraim: Wer's Glaubt, Wird Selig
+- Konnerth, Tania: Ich Freue Mich an Jedem Tag
+- Konopka, Peter: Sport-Ernährung
+- Kretschmar-Joehnk, Corinna: raum.werte. – Creating Hospitality Design
+- Kuhr, Rudolf: Wachstum an Menschlichkeit – Humanismus Als Grundlage
+- Küng, Hans: Ewiges Leben?
+- Laney, Marti: The Introvert Advantage
+- Langenscheidts Taschenwörterbuch Latein
+- Langenscheidts Universal-Wörterbuch Chinesisch
+- Lawson, Bruce: Introducing Html
+- Leben! – Das Hausbuch Von GU
+- Lessing: Nathan Der Weise
+- Locke, John: Über Die Regierung
+- Lüdemann, Gerd: Was Mit Jesus Wirklich Geschah – Die Auferstehung Historisch Betrachtet
+- Mania, Hubert: Gauß
+- Mann, Thomas: Buddenbrooks
+- Martin, George R. R.: A Clash of Kings
+- Martin, George R. R.: A Dance With Dragons
+- Martin, George R. R.: A Feast for Crows
+- Martin, George R. R.: A Game of Thrones
+- Martin, George R. R.: A Storm of Swords
+- Miegel, Meinhard: Die Deformierte Gesellschaft
+- Mitchell, Margaret: Vom Winde Verweht
+- Molière: L'Avare – Der Geizige
+- Molière: Le Malade Imaginaire – Der Eingebildete Kranke
+- Molière: Le Misanthrope – Der Menschenfeind
+- Molière: Tartuffe
+- nietzsche, Friedrich: Der Antichrist
+- Nappo, Salvatore: Pompeji – Die Versunkene Stadt
+- Navarro, Joe: Menschen Lesen
+- Nielsen, Jakob: Homepage Usability
+- Nietzsche, Friedrich: Also Sprach Zarathustra
+- Nietzsche, Friedrich: Jenseits Von Gut Und Böse
+- Onfray, Michel: Wir Brauchen Keinen Gott – Warum Man Jetzt Atheist Sein Muß
+- Peter, Laurence: Das Peter-Prinzip
+- Popper, Karl: Alles Leben Ist Problemlösen
+- Popper, Karl: Auf Der Suche Nach Einer Besseren Welt
+- Porter, Joshua: Designing for the Social Web
+- Puzo, Mario: Der Pate
+- Pálos, Stephan: Atem Und Meditation
+- Reden Des Buddha
+- Resig, John: Pro JavaScript Techniques
+- Rifkin, Jeremy: Das Ende Der Arbeit Und Ihre Zukunft
+- Ringelnatz, Joachim: Gedichte
+- Rushdie, Salman: Die Satanischen Verse
+- Röpsdorff, Sven: Scrum in Der Praxis
+- Schmidt-Salomon, Michael: Keine Macht Den Doofen
+- Schmidt-Salomon, Michael: Manifest Des Evolutionären Humanismus
+- Schopenhauer, Arthur: Die Welt Als Wille Und Vorstellung
+- Shea, Robert: Illuminatus! 1 – Das Auge Der Pyramide
+- Shea, Robert: Illuminatus! 2 – Der Goldene Apfel
+- Shea, Robert: Illuminatus! 3 – Leviathan
+- Sick, Bastian : Hier Ist Spaß Gratiniert
+- Sprenger, Reinhard: 30 Minuten Für Mehr Motivation
+- Sternad, Dagmar: Richtig Stretching
+- Sterne, Laurence: Tristram Shandy
+- Strunk, Heinz: Fleisch Ist Meingemüse
+- Surowiecki, James: Die Weisheit Der Vielen
+- Tolstoi: Krieg Und Frieden
+- Trojanow, Ilija: Angriff Auf Die Freiheit
+- Upanischaden
+- Von Grimmelshausen, Hans Jacob Christoph: Der Abenteuerliche Simplicissimus
+- Waniorek, Linda: Aromatherapie
+- Winter, Helen: Adam Smith Für Anfänger – Der Wohlstand Der Nationen
+- Zakas, Nicholas: Professional JavaScript for Web Developers
+- Zeldman, Jeffrey: Designing With Web Standards
+- Zwecker, Loel: Was Bisher Geschah – Eine Kleine Weltgeschichte
+- Übelacker, Erich: Unser Sternenhimmel Rund Ums Jahr
+
+### By Title
+
+- 30 Minuten Für Mehr Motivation: Sprenger, Reinhard
+- A Clash of Kings: Martin, George R. R.
+- A Dance With Dragons: Martin, George R. R.
+- A Feast for Crows: Martin, George R. R.
+- A Game of Thrones: Martin, George R. R.
+- A Storm of Swords: Martin, George R. R.
+- About Face – the Essentials of Interaction Design: Cooper, Alan
+- Adam Smith Für Anfänger – Der Wohlstand Der Nationen: Winter, Helen
+- Agonie Des Realen: Baudrillard, Jean
+- Alles Leben Ist Problemlösen: Popper, Karl
+- Also Sprach Zarathustra: Nietzsche, Friedrich
+- Altertum Und Mittelalter: Hirschberger, Johannes: Geschichte Der Philosophie – Band 1
+- Angriff Auf Die Freiheit: Trojanow, Ilija
+- Arbeitszeugnisse: Backer, Anne
+- Aromatherapie: Waniorek, Linda
+- Atem Und Meditation: Pálos, Stephan
+- Auf Der Suche Nach Einer Besseren Welt: Popper, Karl
+- Bau-Stilkunde – Die Abendländische Architektur Und Ihre Ornamente
+- Biomimicry – Innovation Inspired by Nature: Benyus, Janine
+- Blink! – Die Macht Des Moments: Gladwell, Malcolm
+- Bonsai Für Das Zimmer: Kawollek, Wolfgang
+- Bonsai: Behme, Robert
+- Bonsai: Daute, Horst
+- Buddenbrooks: Mann, Thomas
+- Bulletproof Web Design: Cederholm, Dan
+- CSS Mastery – Advanced Web Standards Solutions: Budd, Andy
+- Connected!: Christakis, Nicholas
+- Das Beste an JavaScript: Crockford, Douglas
+- Das Buch Von Der Zukunft: Eschbach, Andreas
+- Das Dilbert Prinzip: Adams, Scott
+- Das Ende Der Arbeit Und Ihre Zukunft: Rifkin, Jeremy
+- Das Peter-Prinzip: Peter, Laurence
+- Das System Der Dinge: Baudrillard, Jean
+- Der Abenteuerliche Simplicissimus: Von Grimmelshausen, Hans Jacob Christoph
+- Der Antichrist: nietzsche, Friedrich
+- Der Pate: Puzo, Mario
+- Der Reichste Mann Von Babylon: Clason, George
+- Der Segelschiffe Grosse Zeit
+- Der Staatsvirus: Frank, Gunter
+- Designing With Web Standards: Zeldman, Jeffrey
+- Designing for the Social Web: Porter, Joshua
+- Deutsch–Frau, Frau-Deutsch: Barth, Mario
+- Deutsch–Mann, Mann-Deutsch: Fröhlich, Susanne
+- Die Brüder Karamasow: Dostojewski, Fjodor
+- Die Deformierte Gesellschaft: Miegel, Meinhard
+- Die Drei Musketiere: Dumas
+- Die Grossen Der Geschichte
+- Die Göttliche Komödie: Dante
+- Die Konstruktionen in Holz
+- Die Nadel: Follett, Ken
+- Die Satanischen Verse: Rushdie, Salman
+- Die Vermessung Der Welt: Kehlmann, Daniel
+- Die Weisheit Der Vielen: Surowiecki, James
+- Die Welt Als Wille Und Vorstellung: Schopenhauer, Arthur
+- Discours De La Méthode: Descartes, René
+- Don Juan - Der Verführer Von Sevilla Und Der Steinerne Gast: De Molina, Tirso
+- Ein Traktat Über Die Menschliche Natur: Hume, David
+- Eine Abhandlung Über Die Prinzipien Der Menschlichen Erkenntnis: Berkeley, George
+- Eine Kurze Geschichte Von Fast Allem: Bryson, Bill
+- Eine Untersuchung Über Den Menschlichen Verstand: Hume, David
+- Einfach Die Welt Verändern
+- Ewiges Leben?: Küng, Hans
+- Faust: Goethe, Johann Wolfgang
+- Fleisch Ist Meingemüse: Strunk, Heinz
+- Gai-Jin: Clavell, James
+- Gauß: Mania, Hubert
+- Gedichte: Ringelnatz, Joachim
+- Gefühle Lesen: Ekman, Paul
+- Greenpeace – Die Farben Der Arktis
+- Grundlegung Zur Metaphysik Der Sitten: Kant, Immanuel
+- Grünes Lexikon
+- Harboiled Web Design: Clarke, Andy
+- Heilende Religion: Drewermann, Eugen
+- Herz Der Finsternis: Conrad, Joseph
+- Hier Ist Spaß Gratiniert: Sick, Bastian
+- Homepage Usability: Nielsen, Jakob
+- Ich Freue Mich an Jedem Tag: Konnerth, Tania
+- Illuminatus! 1 – Das Auge Der Pyramide : Shea, Robert
+- Illuminatus! 2 – Der Goldene Apfel: Shea, Robert
+- Illuminatus! 3 – Leviathan: Shea, Robert
+- Introducing Html: Lawson, Bruce
+- Jenseits Von Gut Und Böse: Nietzsche, Friedrich
+- Keine Macht Den Doofen: Schmidt-Salomon, Michael
+- Kentucky Schreit Ficken
+- Krafttraining: Kieser, Werner
+- Krieg Und Frieden: Tolstoi
+- Kritik Der Reinen Vernunft: Kant, Immanuel
+- L'Avare – Der Geizige: Molière
+- Langenscheidts Taschenwörterbuch Latein
+- Langenscheidts Universal-Wörterbuch Chinesisch
+- Le Malade Imaginaire – Der Eingebildete Kranke: Molière
+- Le Misanthrope – Der Menschenfeind: Molière
+- Leben! – Das Hausbuch Von GU
+- Linchpin: Godin, Seth
+- Madame Bovary: Flaubert, Gustave
+- Manifest Des Evolutionären Humanismus: Schmidt-Salomon, Michael
+- Meditationes De Prima Philosophia – Meditationen Über Die Erste Philosophie: Descartes, René
+- Menschen Lesen: Navarro, Joe
+- Nathan Der Weise: Lessing
+- Neuzeit Und Gegenwart: Hirschberger, Johannes: Geschichte Der Philosophie – Band 2
+- No Death, No Fear: Hanh, Thich Nhat
+- Peace Is Every Step: Hanh, Thich Nhat
+- Pompeji – Die Versunkene Stadt: Nappo, Salvatore
+- Pro JavaScript Techniques: Resig, John
+- Professional JavaScript for Web Developers: Zakas, Nicholas
+- Reden Des Buddha
+- Reden Gegen Den Krieg: Drewermann, Eugen
+- Responsive Design Workflow: Hay, Stephen
+- Richtig Muskeltraining: Grosser
+- Richtig Stretching: Sternad, Dagmar
+- Scrum in Der Praxis: Röpsdorff, Sven
+- Simulacra and Simulation: Baudrillard, Jean
+- Spartacus: Fast
+- Sport-Ernährung: Konopka, Peter
+- Still – Die Kraft Der Introvertierten: Cain, Susan
+- Tartuffe: Molière
+- Taschenatlas Akupunktur: Hempen, Carl-Hermann
+- The Art of the Start: Kawasaki Guy
+- The Dip: Godin, Seth
+- The Essential Blender Guide to 3D Creation With the Open Source Suite Blender: Hess, Roland
+- The Happiness Advantage: Achor, Shawn
+- The Introvert Advantage: Laney, Marti
+- The Outlaws of the Marsh – Volume 1: Guanzhong, Luo
+- The Outlaws of the Marsh – Volume 2: Guanzhong, Luo
+- Transcending CSS – the Fine Art of Web Design: Clarke, Andy
+- Tribes: Godin, Seth
+- Tristram Shandy: Sterne, Laurence
+- Unser Sternenhimmel Rund Ums Jahr: Übelacker, Erich
+- Upanischaden
+- Vom Winde Verweht: Mitchell, Margaret
+- Wachstum an Menschlichkeit – Humanismus Als Grundlage: Kuhr, Rudolf
+- Was Bisher Geschah – Eine Kleine Weltgeschichte: Zwecker, Loel
+- Was Mit Jesus Wirklich Geschah – Die Auferstehung Historisch Betrachtet: Lüdemann, Gerd
+- Web Standards Solutions: Cederholm, Dan
+- Wer's Glaubt, Wird Selig: Kishon, Ephraim
+- What the Face Reveals: Ekman, Paul
+- Wie Zu Leben Wäre: Drewermann, Eugen
+- Wir Brauchen Keinen Gott – Warum Man Jetzt Atheist Sein Muß: Onfray, Michel
+- raum.werte. – Creating Hospitality Design: Kretschmar-Joehnk, Corinna
+- Über Die Regierung: Locke, John
