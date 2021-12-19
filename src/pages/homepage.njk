@@ -88,7 +88,7 @@ permalink: /
   <article>
     <h3>Featured</h3>
     <ul>
-      {% set featuredPosts = collections.featured | reverse %} 
+      {% set featuredPosts = collections.liveFeatured %} 
       {% for feature in featuredPosts.slice(0, 5) %}
         <li>
           <a href="{{ feature.url }}">{{ feature.data.title }}</a>
@@ -112,7 +112,7 @@ permalink: /
   <article {{ site.animationDelay }}>
     <h3>Latest Quotes</h3>
     <ul>
-      {% set latestQuotes = collections.quotes | reverse %} 
+      {% set latestQuotes = collections.liveQuotes %} 
       {% for quote in latestQuotes.slice(0, 5) %}
         <li>
           <a href="{{ quote.url }}">{{ quote.data.title }}</a>
@@ -124,7 +124,7 @@ permalink: /
   <article {{ site.animationDelay }}>
     <h3>Latest Links</h3>
     <ul>
-      {% set latestLinks = collections.links | reverse %} 
+      {% set latestLinks = collections.liveLinks %} 
       {% for link in latestLinks.slice(0, 5) %}
         <li>
           <a href="{{ link.url }}">{{ link.data.title }}</a>

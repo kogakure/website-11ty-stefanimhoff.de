@@ -18,14 +18,16 @@ eleventyExcludeFromCollections: true
   {% include "feed-webfeeds.njk" %}
   {%- for item in collections.journal | reverse -%}
   {% set absolutePostUrl %}{{ item.url | url | absoluteUrl(site.url) }}{% endset %}
-    <entry>
-      <title>{{ item.data.title }}</title>
-      <link href="{{ absolutePostUrl }}"/>
-      <updated>{{ item.date | rssDate }}</updated>
-      <id>{{ absolutePostUrl }}</id>
-      <content type="html"><![CDATA[
-        {{ item.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | safe }}
-      ]]></content>
-    </entry>
+    {%- if not item.data.draft -%}
+      <entry>
+        <title>{{ item.data.title }}</title>
+        <link href="{{ absolutePostUrl }}"/>
+        <updated>{{ item.date | rssDate }}</updated>
+        <id>{{ absolutePostUrl }}</id>
+        <content type="html"><![CDATA[
+          {{ item.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | safe }}
+        ]]></content>
+      </entry>
+    {%- endif -%}
   {%- endfor -%}
 </feed>

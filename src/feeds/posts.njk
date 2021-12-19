@@ -18,6 +18,7 @@ eleventyExcludeFromCollections: true
   {% include "feed-webfeeds.njk" %}
   {%- for post in collections.posts | reverse -%}
   {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(site.url) }}{% endset %}
+    {%- if not post.data.draft -%}
     <entry>
       <title>{{ post.data.title }}</title>
       <link href="{{ absolutePostUrl }}"/>
@@ -27,5 +28,6 @@ eleventyExcludeFromCollections: true
         {{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | safe }}
       ]]></content>
     </entry>
+    {%- endif -%}
   {%- endfor -%}
 </feed>

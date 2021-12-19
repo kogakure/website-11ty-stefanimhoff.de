@@ -1,9 +1,18 @@
 const _ = require('lodash');
-const livePosts = (p) => !p.data.draft;
+const notDraft = (p) => !p.data.draft;
 
 module.exports = {
+  liveFeatured: function (collection) {
+    return collection.getFilteredByTag('featured').filter(notDraft).reverse();
+  },
   livePosts: function (collection) {
-    return collection.getFilteredByTag('journal').filter(livePosts).reverse();
+    return collection.getFilteredByTag('posts').filter(notDraft).reverse();
+  },
+  liveLinks: function (collection) {
+    return collection.getFilteredByTag('links').filter(notDraft).reverse();
+  },
+  liveQuotes: function (collection) {
+    return collection.getFilteredByTag('quotes').filter(notDraft).reverse();
   },
   journalByYear: function (collection) {
     return _.chain(
