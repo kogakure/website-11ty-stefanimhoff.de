@@ -100,7 +100,7 @@ permalink: /
   <article {{ site.animation }}>
     <h3>Latest Essays</h3>
     <ul>
-      {% set latestPosts = collections.posts | reverse %} 
+      {% set latestPosts = collections.livePosts %}
       {% for post in latestPosts.slice(0, 5) %}
         <li>
           <a href="{{ post.url }}">{{ post.data.title }}</a>
