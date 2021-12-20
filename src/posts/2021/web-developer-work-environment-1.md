@@ -112,17 +112,17 @@ This is where useful tools like [z](https://github.com/rupa/z) and [fzf](https:/
 
 ### FZF
 
-![FZF](/assets/images/posts/work-environment-fzf.jpg)
-
 [FZF](https://github.com/junegunn/fzf) is my favorite tool on the terminal. It is a general-purpose command-line fuzzy finder that is blazingly fast and can be combined with every tool thinkable.
+
+![FZF](/assets/images/posts/work-environment-fzf.jpg)
 
 You can take nearly any output and pass it to FZF to get a list that can be filtered down with a fuzzy search in seconds. It can handle tenths of thousands or even hundreds of thousands of items with a fantastic performance.
 
 ### Bat
 
-![Bat](/assets/images/posts/work-environment-bat.jpg)
-
 Terminals have tools like `cat`, `head`, or `tail` to quickly view content without opening them in a more powerful editor. Cat is the most used tool of this kind, but it doesn’t have a lot of features except showing the content.
+
+![Bat](/assets/images/posts/work-environment-bat.jpg)
 
 [Bat](https://github.com/sharkdp/bat) is a content viewer like cat, but with powerful features like syntax highlighting, line numbers, git integration, and paging. I replaced it nearly everywhere where I used `cat` before. It can be combined with FZF to view the code.
 
@@ -150,7 +150,7 @@ Mac OS doesn’t come with a built-in package manager like Linux distributions. 
 
 ### Homebrew Cask
 
-A lot of people don’t know, but Homebrew is capable to install Mac OS Applications. By providing an optional `--cask` command it’s possible to install software you need. The command `brew install --cask brave-browser` would install the [Brave Browser](https://brave.com/). You can find a list of all the software I install this way in the [cask.sh](https://github.com/kogakure/dotfiles/blob/master/setup/cask.sh) file in my setup folder.
+A lot of people don’t know, but Homebrew is capable to install Mac OS Applications. By providing an optional `--cask` command it’s possible to install software you need. The command `brew install --cask brave-browser` will install the [Brave Browser](https://brave.com/). You can find a list of all the software I install this way in the [cask.sh](https://github.com/kogakure/dotfiles/blob/master/setup/cask.sh) file in my setup folder.
 
 ## Version Control with Git
 
@@ -202,7 +202,7 @@ I use [Hammerspoon](https://www.hammerspoon.org/) for nearly 10 years. It is a b
 This is the first part of a two-part series on Setting Up a Web Developer Work Environment.
 
 1. **Terminal, Zsh, and TMUX**
-2. Neovim
+2. Neovim (soon)
 
 [^heying2021ug]: Heather Heying and Bret Weinstein (2021): _A Hunter-Gatherer's Guide to the 21st Century: Evolution and the Challenges of Modern Life_, Swift Press.
 [^tipp10]: TIPP10 – Learn touch typing for free, <https://www.tipp10.com/>
