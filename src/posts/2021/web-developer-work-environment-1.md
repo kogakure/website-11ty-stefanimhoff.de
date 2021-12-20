@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Setting Up a Web Developer Work Environment – Terminal, Zsh, and TMUX
 date: 2021-12-20T10:00:00+01:00
 author: Stefan Imhoff
