@@ -140,7 +140,7 @@ Finding and replacing multiple files is not that intuitive in Vim. Luckily I fou
 
 I work with GitHub Enterprise at work and need to share code positions with other developers all the time. The plugin [vim-gh-line](https://github.com/ruanyl/vim-gh-line) is made for this. In Vim I position my cursor on a code line and press a shortcut to open the same position in GitHub.
 
-It should be possible to use LSP to run Prettier on Neovim, but I couldn’t yet figure out how. That’s why I installed [vim-prettier](https://github.com/prettier/vim-prettier) for know to do the job for me.
+It should be possible to use LSP to run Prettier on Neovim, but I couldn’t yet figure out how. That’s why I installed [neoformat](https://github.com/sbdchd/neoformat) for know to do the job for me.
 
 [Copilot.vim](https://github.com/github/copilot.vim) get’s an honorable mention, because I can’t use it yet. [GitHub Pilot](https://copilot.github.com/) is a new feature by GitHub and it's currently invite-only and needs an API key at the moment. I’m on the waiting list. It is a new AI feature that learns automatically and will suggest the right code at the right moment. Looks promising!
 
