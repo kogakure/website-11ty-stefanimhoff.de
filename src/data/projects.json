@@ -1,5 +1,4 @@
-[
-  {
+[{
     "title": "The Traditional Colors of Japan",
     "categories": ["Design", "Web Development"],
     "text": "<p>In 2007 I stumbled upon a Japanese book about the traditional colors of Japan by <strong>Nobyoshi Hamada</strong>. He listed all 250 colors with their color value in the appendix. I took some time to create an ASE file to be used with all common design software.</p><p>With this version of the website I finally dedicate an extra section to the colors, listing them all with their name and color values.</p>",
@@ -32,6 +31,15 @@
     "linkText": "Read Haiku",
     "link": "/haiku/",
     "class": "project-layout-50-only-end"
+  },
+  {
+    "title": "XING Design System",
+    "categories": ["Web Design", "Web Development", "Writing"],
+    "text": "<p>As a Senior Web Developer on the Design System Team I created, maintained, and documented the components of the XING Design System. I supported teams implementing our components across the platform.</p>",
+    "linkText": "See XING Design System Components",
+    "link": "/projects/xing-design-system/",
+    "image": "/assets/images/projects/xing-design-system.jpg",
+    "class": "project-layout-70-end"
   },
   {
     "title": "XING Onboarding Illustration",

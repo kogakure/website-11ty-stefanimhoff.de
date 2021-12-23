@@ -16,6 +16,11 @@ img {
   opacity: 0.87;
 }
 
+.dark .show-light,
+.light .show-dark {
+  display: none;
+}
+
 img[src$='.svg'] {
   background: transparent;
   border: 0;
