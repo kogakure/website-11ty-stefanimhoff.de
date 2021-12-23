@@ -33,24 +33,26 @@ excludeFromSitemap: true
 
     {% for item in cv.experience.items %}
       <div>
-        <h3 class="cv-item-title">{{ item.title }}</h3>
-        <div class="cv-item-duration">{{ item.duration | safe }}</div>
-        <div class="cv-item-headline-row">
-          <strong>{{ item.company }}</strong> / {{ item.location }}
-        </div>
-        {% if item.url %}
-          <div>
-            <a href={{ item.url }}>{{ item.url | replace(r/https?:\/\//, "")}}</a>
+        <div class="cv-item-info">
+          <h3 class="cv-item-title">{{ item.title }}</h3>
+          <div class="cv-item-duration">{{ item.duration | safe }}</div>
+          <div class="cv-item-headline-row">
+            <strong>{{ item.company }}</strong> / {{ item.location }}
           </div>
-        {% endif %}
-        <ul>
-          {% for task in item.tasks %}
-            <li>{{ task }}</li>
-          {% endfor %}
-        </ul>
+          {% if item.url %}
+            <div>
+              <a href={{ item.url }} target="_blank" rel="nofollow noopener noreferrer external">{{ item.url | replace(r/https?:\/\//, "")}}</a>
+            </div>
+          {% endif %}
+          </div>
+          <ul>
+            {% for task in item.tasks %}
+              <li>{{ task }}</li>
+            {% endfor %}
+          </ul>
       </div>
     {% endfor %}
-    
+
     <h2>{{ cv.education.headline }}</h2>
 
     {% for item in cv.education.items %}
@@ -62,7 +64,7 @@ excludeFromSitemap: true
         </div>
         {% if item.url %}
           <div>
-            <a href={{ item.url }}>{{ item.url | replace(r/https?:\/\//, "")}}</a>
+            <a href={{ item.url }} target="_blank" rel="nofollow noopener noreferrer external">{{ item.url | replace(r/https?:\/\//, "")}}</a>
           </div>
         {% endif %}
       </div>
