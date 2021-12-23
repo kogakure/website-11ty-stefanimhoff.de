@@ -202,7 +202,7 @@ I use [Hammerspoon](https://www.hammerspoon.org/) for nearly 10 years. It is a b
 This is the first part of a two-part series on Setting Up a Web Developer Work Environment.
 
 1. **Terminal, Zsh, and TMUX**
-2. Neovim (soon)
+2. [Neovim](/web-developer-work-environment-2/)
 
 [^heying2021ug]: Heather Heying and Bret Weinstein (2021): _A Hunter-Gatherer's Guide to the 21st Century: Evolution and the Challenges of Modern Life_, Swift Press.
 [^tipp10]: TIPP10 – Learn touch typing for free, <https://www.tipp10.com/>
