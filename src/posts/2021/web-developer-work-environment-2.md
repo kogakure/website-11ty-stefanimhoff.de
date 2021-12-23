@@ -139,7 +139,7 @@ Finding and replacing multiple files is not that intuitive in Vim. Luckily I fou
 
 I work with GitHub Enterprise at work and need to share code positions with other developers all the time. The plugin [vim-gh-line](https://github.com/ruanyl/vim-gh-line) is made for this. In Vim I position my cursor on a code line and press a shortcut to open the same position in GitHub.
 
-It should be possible to use LSP to run Prettier on Neovim, but I couldn’t yet figure out how. That’s why I installed [neoformat](https://github.com/sbdchd/neoformat) for know to do the job for me.
+It should be possible to use LSP to run Prettier on Neovim, but I couldn’t yet figure out how. That’s why I installed [neoformat](https://github.com/sbdchd/neoformat) for now to do the job for me.
 
 [Copilot.vim](https://github.com/github/copilot.vim) get’s an honorable mention, because I can’t use it yet. [GitHub Pilot](https://copilot.github.com/) is a new feature by GitHub and it's currently invite-only and needs an API key at the moment. I’m on the waiting list. It is a new AI feature that learns automatically and will suggest the right code at the right moment. Looks promising!
 
@@ -153,7 +153,7 @@ Another thing on the opposite end of the window that many people want is a statu
 
 [Neoscroll](https://github.com/karb94/neoscroll.nvim) is a plugin that adds smooth scrolling to Neovim.
 
-I like to work distraction-free. In Visual Studio Code there is the Zen mode which will hide all unnecessary things. For Vim the plugin [Goyo](https://github.com/junegunn/goyo.vim) does similar things. It centers the editor and removes all distractions.
+I like to work distraction-free. In Visual Studio Code there is the Zen mode which will hide all unnecessary things. For Vim the plugin [Goyo](https://github.com/junegunn/goyo.vim) does a similar thing. It centers the editor and removes all distractions.
 
 ![Goyo](/assets/images/posts/work-environment-goyo.jpg)
 
@@ -165,7 +165,7 @@ But in case a language is not yet supported I use [Vim Polyglot](https://github.
 
 The only problem I have is support for Styled Components. It’s an [open issue on Treesitter](https://github.com/nvim-treesitter/nvim-treesitter/issues/1111) and the [official plugin](https://github.com/styled-components/vim-styled-components) is unmaintained and doesn’t support new syntax as transitional properties which creates ugly linting problems for me. I hope this problem can be resolved soon.
 
-As a Front-end Web Developer, I love to see my color values in color. The plugin [colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) does this fast and pretty.
+As a Front-end Web Developer, I love to see my color values visualized. The plugin [colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) does this fast and pretty.
 
 ![Colorizer](/assets/images/posts/work-environment-colorizer.jpg)
 
