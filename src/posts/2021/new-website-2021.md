@@ -45,7 +45,7 @@ I added a new section showing featured posts, the latest posts, links, or quotes
 
 ### RSS/Atom Feeds
 
-The feed produced by Gatsby created a lot of problems. I was not able to remove the CSS classes added by Styled-Components and the custom MSX tags blew up the file size so much that a lot of feed readers couldn’t parse it anymore.
+The feed produced by Gatsby created a lot of problems. I was not able to remove the CSS classes added by Styled-Components and the custom MDX tags blew up the file size so much that a lot of feed readers couldn’t parse it anymore.
 
 All these problems are history with Eleventy. I even created four different feeds to subscribe to: [Posts, Links, and Quotes](/index.xml) combined, or [Posts](/feed-posts.xml), [Links](/feed-links.xml), and [Quotes](/feed-quotes.xml) as separate feeds. Subscribe to what you like.
 

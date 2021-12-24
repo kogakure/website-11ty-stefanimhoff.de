@@ -60,7 +60,7 @@ I’m not betting on politicians to be able to solve a crisis quickly (or at all
 
 ## Getting Comfortable
 
-I think we got too comfortable — and I’m not excluding myself from this. We depend on our phones, buy new things instead of fixing them, we love convenience, and order food or groceries online. This is even more true for people living in cities. We expect things to work, connections to be fast and good, the next hospital to be nearby. We never think or even like to think about how things might go wrong.
+I think we got too comfortable — and I’m not excluding myself from this. We depend on our phones, buy new things instead of fixing them, we love convenience, and order food or groceries online. This is even more true for people living in cities. We expect things to work, transportation to be fast and good, the next hospital to be nearby. We never think or even like to think about how things might go wrong.
 
 But cities will quickly turn into deadly traps in case of catastrophes. That’s what I’ve learned from _The Walking Dead_. Leave the cities when something happens. I think the CEO of Oracle once told that he has a packed motorcycle in his garage in case of emergency. Forget your car, that’s another thing I learned from _The Walking Dead_, there is always a traffic jam of cars on the road out of a city. You need a bicycle or motorbike to survive.
 
