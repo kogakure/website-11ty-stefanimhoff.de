@@ -1,12 +1,4 @@
-[{
-    "title": "The Traditional Colors of Japan",
-    "categories": ["Design", "Web Development"],
-    "text": "<p>In 2007 I stumbled upon a Japanese book about the traditional colors of Japan by <strong>Nobyoshi Hamada</strong>. He listed all 250 colors with their color value in the appendix. I took some time to create an ASE file to be used with all common design software.</p><p>With this version of the website I finally dedicate an extra section to the colors, listing them all with their name and color values.</p>",
-    "linkText": "See Traditional Colors of Japan",
-    "link": "/traditional-colors-of-japan/",
-    "image": "/assets/images/projects/traditional-colors-of-japan.svg",
-    "class": "project-layout-50-end no-border svg-japanese-color"
-  },
+[
   {
     "title": "Journal & Blog",
     "categories": ["Writing"],
@@ -49,6 +41,15 @@
     "link": "/projects/xing-onboarding-illustrations/",
     "image": "/assets/images/projects/xing-illustrations.jpg",
     "class": "project-layout-70-start"
+  },
+  {
+    "title": "The Traditional Colors of Japan",
+    "categories": ["Design", "Web Development"],
+    "text": "<p>In 2007 I stumbled upon a Japanese book about the traditional colors of Japan by <strong>Nobyoshi Hamada</strong>. He listed all 250 colors with their color value in the appendix. I took some time to create an ASE file to be used with all common design software.</p><p>With this version of the website I finally dedicate an extra section to the colors, listing them all with their name and color values.</p>",
+    "linkText": "See Traditional Colors of Japan",
+    "link": "/traditional-colors-of-japan/",
+    "image": "/assets/images/projects/traditional-colors-of-japan.svg",
+    "class": "project-layout-50-end no-border svg-japanese-color"
   },
   {
     "title": "Bamboo Illustration",
