@@ -150,7 +150,7 @@ Mac OS doesn’t come with a built-in package manager like Linux distributions. 
 
 ### Homebrew Cask
 
-A lot of people don’t know, but Homebrew is capable to install Mac OS Applications. By providing an optional `--cask` command it’s possible to install software you need. The command `brew install --cask brave-browser` will install the [Brave Browser](https://brave.com/). You can find a list of all the software I install this way in the [cask.sh](https://github.com/kogakure/dotfiles/blob/master/setup/cask.sh) file in my setup folder.
+A lot of people don’t know, but Homebrew is capable to install Mac OS applications. By providing the `--cask` option it’s possible to install applications you need. The command `brew install --cask brave-browser` will install the [Brave Browser](https://brave.com/). You can find a list of all the software I install this way in the [cask.sh](https://github.com/kogakure/dotfiles/blob/master/setup/cask.sh) file in my setup folder.
 
 ## Version Control with Git
 
