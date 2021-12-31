@@ -17,7 +17,7 @@ Walter-Heitmann-Str. 2<br />
 
 ### Acknowledgments
 
-- This website is built with [Eleventy], a simpler static site generator
+- This website is built with [Eleventy], a simpler static site generator.
 - The design was created with [Affinity Designer] and uses the typeface [Secuela] by [deFharo].
 - The Bonsai image on my homepage was taken by [Norio Nakayama].
 - The minimalistic icons are created by [Remix Icon] which is [Jimmy Cheung] and [Wendy Gao].
