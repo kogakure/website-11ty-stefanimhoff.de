@@ -8,7 +8,7 @@ tags:
 
 {% youtube "saWNMPL5ygk" %}
 
-- [Arcane](https://www.themoviedb.org/tv/94605-arcane) {% netflix "81435684" %} – I never played the game “League of Legends” and skipped this TV Show first, because nearly all film adaptations of games suck. But then I saw the high rating on rating platforms and gave it a try. It’s an incredible story in a Steam Punk world. This TV Show was the best thing I’ve seen in 2021, it’s pure art. Everything is perfect: The storytelling, character development, voice actors, animation, colors, cinematography, and music. 🏆
+- [Arcane](https://www.themoviedb.org/tv/94605-arcane) {% netflix "81435684" %} – I never played the game “League of Legends” and skipped this TV Show first, because nearly all film adaptations of games suck. But then I saw the high ratings and gave it a try. It’s an incredible story in a Steam Punk world. This TV Show was the best thing I’ve seen in 2021, it’s pure art. Everything is perfect: The storytelling, character development, voice actors, animation, colors, cinematography, and music. 🏆
 - [The Witcher](https://www.themoviedb.org/tv/71912-the-witcher) {% netflix "80189685" %} – Another fantastic season of this incredible TV Show.
 - [The Silent Sea](https://www.themoviedb.org/tv/96777-the-silent-sea) {% netflix "81098012" %} is a new Korean Sci-Fi and Mystery TV Show.
 - [Super Crooks](https://www.themoviedb.org/tv/127599) {% netflix "81034907" %} is a new Anime TV Show based on the comics of _Mark Millar_.

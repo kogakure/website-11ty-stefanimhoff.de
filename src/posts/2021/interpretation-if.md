@@ -59,7 +59,7 @@ The last sentence of the first stanza is a warning against vanity and arrogance,
 
 To be able to dream up a better future is an important virtue, but following a “dream” can become an end in itself. It is important to not be obsessed with them and to re-evaluate and discard the ones that are not useful anymore.
 
-Reason is one of the Four Virtues of the Stoics. Thinking clearly is important for everything. But here, again, the reminder to make sure they don’t become an end in itself.
+Reason is one of the Four Virtues of the Stoics. Thinking clearly is important for everything. But here, again, the reminder to make sure it doesn’t become an end in itself.
 
 The next sentence is a reminder to keep serenity. The Stoics reputation is to be calm, no matter if good or bad things happen. The works of _Epictetus_, _Marcus Aurelius_, or _Seneca_ are filled with examples to remind them that all fame and suffering is impermanent.
 

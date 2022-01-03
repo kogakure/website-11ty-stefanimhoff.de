@@ -70,7 +70,7 @@ Because I’m over 40, I had the “privilege” to be born before the internet 
 
 I was a boy scout for many years and got my first knife when I was 7 or 8. I stayed in boy scout camps for long cold weeks during the holidays in Denmark or mountains and forests in Germany, where we build bridges and slept in tents. We baked bread and had watered down tea. The next supermarket was miles away. I never liked it too much, but hardship builds character.
 
-I did obligatory military service for nearly a year, learning to shoot with pistols and guns, crawling over wet meadows, and freezing in the snow in cold winter. I fell into a cold river while crawling in darkness through a forest. I didn’t like that either but don’t regret the experience. Germany discontinued obligatory military service, which is why younger people have no clue what I’m talking about. For them a bad WLAN connection is probably the most uncomfortable thing they experienced.
+I did obligatory military service for nearly a year, learning to shoot with pistols and rifles, crawling over wet meadows, and freezing in the snow in cold winter. I fell into a cold river while crawling in darkness through a forest. I didn’t like that either but don’t regret the experience. Germany discontinued obligatory military service, which is why younger people have no clue what I’m talking about. For them a bad WLAN connection is probably the most uncomfortable thing they experienced.
 
 ## Preparing for a Blackout
 
