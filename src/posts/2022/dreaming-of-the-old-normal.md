@@ -44,7 +44,7 @@ The measures are dire but there is room to grow. Fiji still leads the charts of 
 
 Munich made walking illegal, I read.[^dpa2021ra] At least the walkers don’t get attacked by paramilitary troops and attack dogs, like in Amsterdam.[^guerrilla] They get fined 3,000 € or dragged into a police car and beaten up behind a curtain.[^disclose] _The New Normal_.
 
-Another 25-year-old soccer player collapsed and died today with a heart attack[^obrien2022hl] and a news anchorman collapsed on live TV.[^world2022zi] FIFA reports a 5-fold increase in sudden cardiac and unexplained deaths among FIFA athletes in 2021.[^sones2021dx] Damn, climate change is getting really nasty. _The New Normal_
+Another 25-year-old soccer player collapsed and died today with a heart attack[^obrien2022hl] and a news anchorman collapsed on live TV.[^world2022zi] FIFA reports a 5-fold increase in sudden cardiac and unexplained deaths among FIFA athletes in 2021.[^sones2021dx] Damn, climate change is getting really nasty. _The New Normal_.
 
 I regret opening the news. I rarely open the news these days.
 
