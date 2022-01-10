@@ -1,0 +1,24 @@
+.banner {
+  background-color: var(--color-fg-feather);
+  border-radius: var(--radius-2);
+  margin-bottom: var(--space-10);
+  padding: var(--space-10);
+
+  & p:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+.banner summary {
+  cursor: pointer;
+  font-size: var(--font-size-3);
+  font-weight: var(--font-weight-black);
+  letter-spacing: -0.02em;
+  line-height: var(--line-height-1);
+  margin-block-start: 0;
+  outline: none;
+}
+
+.banner[open] summary {
+  margin-block-end: var(--space-8);
+}

@@ -5,14 +5,14 @@
 }
 
 .rowgap {
-  row-gap: clamp(1.5rem, $space-55, 6rem);
+  row-gap: clamp(1.5rem, var(--space-55), 6rem);
 }
 
 /** Fullsize */
 .layout-fullsize {
   display: grid;
   grid-column: 1 / -1;
-  grid-template-columns: $grid-fullsize;
+  grid-template-columns: var(--grid-fullsize);
   width: 100%;
 }
 
@@ -23,7 +23,7 @@
 /** Wide */
 .layout-wide {
   display: grid;
-  grid-template-columns: $grid-fullsize;
+  grid-template-columns: var(--grid-fullsize);
   width: 100%;
 
   & .wrapper {
@@ -40,7 +40,7 @@
 /** Narrow */
 .layout-narrow {
   display: grid;
-  grid-template-columns: $grid-fullsize;
+  grid-template-columns: var(--grid-fullsize);
 
   & .wrapper {
     grid-column: 2 / -2;

@@ -1,7 +1,7 @@
 /** Footnotes */
 .footnote-ref a {
   color: var(--color-accent);
-  font-weight: $font-weight-light;
+  font-weight: var(--font-weight-light);
 }
 
 .footnote-bracket {
@@ -10,7 +10,7 @@
 
 .footnote-backref {
   color: var(--color-accent);
-  font-weight: $font-weight-light;
+  font-weight: var(--font-weight-light);
   text-decoration: none;
 }
 
@@ -21,7 +21,7 @@
 
 .footnotes :target {
   background-color: var(--color-fg-feather);
-  padding: $space-5;
+  padding: var(--space-5);
 }
 
 .footnotes-list {
@@ -35,7 +35,7 @@
   content: counter(item);
   counter-increment: item;
   font-size: smaller;
-  font-weight: $font-weight-black;
+  font-weight: var(--font-weight-black);
   left: 0;
   padding-top: 0.15rem;
   position: absolute;

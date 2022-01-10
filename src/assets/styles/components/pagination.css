@@ -24,7 +24,7 @@
   height: 40px;
   justify-content: center;
   outline: none;
-  transition-duration: 500ms;
+  transition-duration: var(--transition-duration-5);
   transition-property: opacity;
   transition-timing-function: ease-in-out;
   width: 40px;

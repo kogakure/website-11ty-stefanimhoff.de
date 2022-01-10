@@ -1,6 +1,5 @@
 module.exports = {
   plugins: [
-    require('postcss-advanced-variables'),
     require('postcss-import'),
     require('postcss-custom-properties'),
     require('postcss-nested'),

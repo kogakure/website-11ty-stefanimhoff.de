@@ -1,10 +1,10 @@
 /** Verse */
 .verse {
   display: flex;
-  font-size: $font-size-3;
+  font-size: var(--font-size-3);
   font-style: italic;
-  margin-block-end: $space-10;
-  margin-block-start: $space-10;
+  margin-block-end: var(--space-10);
+  margin-block-start: var(--space-10);
   margin-inline-end: 0;
   margin-inline-start: 0;
 

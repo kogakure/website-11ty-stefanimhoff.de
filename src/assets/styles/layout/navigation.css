@@ -32,7 +32,7 @@
 
 .navigation-item-link {
   color: var(--color-fg);
-  font-weight: $font-weight-light;
+  font-weight: var(--font-weight-light);
   text-decoration: none;
 
   &:hover,

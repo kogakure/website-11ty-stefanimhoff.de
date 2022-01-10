@@ -4,7 +4,7 @@
 /** Curriculum Vitae */
 .cv {
   display: grid;
-  grid-template-columns: $grid-wide;
+  grid-template-columns: var(--grid-wide);
 }
 
 .cv-title {
@@ -67,7 +67,7 @@
 }
 
 .cv-education {
-  margin-block-end: $space-12;
+  margin-block-end: var(--space-12);
 
   &:last-child {
     margin-block-end: 0;
@@ -75,17 +75,17 @@
 }
 
 .cv-item-info {
-  margin-block-end: $space-10;
+  margin-block-end: var(--space-10);
 }
 
 .cv-item-title {
-  font-weight: $font-weight-semi-bold;
+  font-weight: var(--font-weight-semi-bold);
 }
 
 .cv-item-duration {
   font-style: italic;
   font-variant-ligatures: none;
-  margin-block-end: $space-2;
+  margin-block-end: var(--space-2);
 }
 
 .cv-item-headline-row {
@@ -94,8 +94,8 @@
 
 .cv-item-list {
   list-style: none;
-  margin-block-end: $space-10;
-  margin-block-start: $space-5;
+  margin-block-end: var(--space-10);
+  margin-block-start: var(--space-5);
   padding: 0;
 }
 
@@ -109,7 +109,7 @@
 
 .cv-interests-list {
   column-count: 1;
-  column-gap: $space-55;
+  column-gap: var(--space-55);
 }
 
 @media (--tablet) {

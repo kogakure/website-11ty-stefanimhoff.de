@@ -34,7 +34,7 @@
 .journal-posts-section {
   border-block-start-color: var(--color-border);
   border-block-start-style: solid;
-  border-width: $border-width-1;
+  border-width: var(--border-width-1);
   display: grid;
   grid-template-columns: repeat(16, 1fr);
   width: 100%;
@@ -43,8 +43,8 @@
 .journal-posts-year {
   grid-column: 1 / 3;
   margin-block-end: 0;
-  padding-block-end: $space-7;
-  padding-block-start: $space-7;
+  padding-block-end: var(--space-7);
+  padding-block-start: var(--space-7);
 
   @media (--tablet) {
     grid-column: 1 / 5;
@@ -66,7 +66,7 @@
 .journal-posts-list-item {
   border-block-end-color: var(--color-border);
   border-block-end-style: solid;
-  border-width: $border-width-1;
+  border-width: var(--border-width-1);
   margin-block-end: 0;
   margin-block-start: 0;
 
@@ -78,10 +78,10 @@
 .journal-posts-link {
   display: flex;
   justify-content: space-between;
-  padding-block-end: $space-7;
-  padding-block-start: $space-7;
-  padding-inline-end: $space-4;
-  padding-inline-start: $space-4;
+  padding-block-end: var(--space-7);
+  padding-block-start: var(--space-7);
+  padding-inline-end: var(--space-4);
+  padding-inline-start: var(--space-4);
   text-decoration: none;
 
   &:hover,
@@ -116,7 +116,7 @@
   @media (--tablet) {
     color: var(--color-fg);
     display: block;
-    font-weight: $font-weight-extra-light;
+    font-weight: var(--font-weight-extra-light);
     min-width: 7em;
     text-align: end;
   }
@@ -132,7 +132,7 @@
 }
 
 .journal-post-title {
-  font-size: $font-size-6;
+  font-size: var(--font-size-6);
   grid-column: 2 / -2;
   grid-row: 1;
   margin-block-end: 0;
@@ -155,7 +155,7 @@
 
 .journal-post-meta-author {
   line-height: 1;
-  margin-block-end: $space-6;
+  margin-block-end: var(--space-6);
 }
 
 .journal-post-meta-date {
@@ -180,17 +180,17 @@
   }
 
   > h2 {
-    font-size: $font-size-4;
-    margin-block-end: $space-8;
-    margin-block-start: $space-14;
+    font-size: var(--font-size-4);
+    margin-block-end: var(--space-8);
+    margin-block-start: var(--space-14);
   }
 
   > h3,
   > h4,
   > h5,
   > h6 {
-    font-size: $font-size-3;
-    margin-block-start: $space-10 !important;
+    font-size: var(--font-size-3);
+    margin-block-start: var(--space-10) !important;
   }
 
   > h2:first-of-type,

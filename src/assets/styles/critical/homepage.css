@@ -112,7 +112,7 @@
 
 .homepage-journal-text {
   grid-column: 1 / -1;
-  margin-block-end: $space-10;
+  margin-block-end: var(--space-10);
 }
 
 @media (--tablet) {
@@ -123,7 +123,7 @@
 
 .homepage-journal-subscribe {
   grid-column: 1 / -1;
-  margin-block-end: $space-10;
+  margin-block-end: var(--space-10);
 }
 
 @media (--tablet) {

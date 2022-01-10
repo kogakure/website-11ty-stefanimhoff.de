@@ -1,0 +1,7 @@
+/** Page Footer */
+.page-footer {
+  display: grid;
+  grid-template-columns: var(--grid-fullsize);
+  grid-template-rows: clamp(3rem, var(--space-55), 9rem);
+  margin-block-start: clamp(1.5rem, var(--space-55), 4.5rem);
+}

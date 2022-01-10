@@ -1,19 +1,19 @@
 /** Figure & Caption */
 figure {
-  border-radius: $radius-4;
-  margin-block-end: $space-55;
+  border-radius: var(--radius-4);
+  margin-block-end: var(--space-55);
   margin-block-start: 0;
   margin-inline-end: 0;
   margin-inline-start: 0;
 
   &.light {
     background: rgba(255, 255, 255, 0.8);
-    padding: $space-10;
+    padding: var(--space-10);
   }
 
   &.dark {
     background: rgba(0, 0, 0, 0.8);
-    padding: $space-10;
+    padding: var(--space-10);
   }
 }
 

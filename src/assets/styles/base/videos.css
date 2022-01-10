@@ -1,6 +1,6 @@
 /** Video */
 .video-wrapper {
-  margin-block-end: $space-10;
+  margin-block-end: var(--space-10);
   padding-block-end: 56.25%;
   position: relative;
 }

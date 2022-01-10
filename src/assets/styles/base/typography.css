@@ -21,8 +21,8 @@ body {
   color: var(--color-fg);
   display: flex;
   flex-direction: column;
-  font-family: $font-family-base;
-  font-weight: $font-weight-normal;
+  font-family: var(--font-family-base);
+  font-weight: var(--font-weight-normal);
   height: 100vh;
   line-height: 1.6;
 }
@@ -37,24 +37,24 @@ h6,
 .page-title,
 .headline,
 .subheadline {
-  font-weight: $font-weight-black;
+  font-weight: var(--font-weight-black);
   letter-spacing: -0.02em;
-  line-height: $line-height-1;
+  line-height: var(--line-height-1);
   margin-block-start: 0;
   position: relative;
 }
 
 h1,
 .page-title {
-  font-size: $font-size-7;
-  margin-block-end: $space-13;
+  font-size: var(--font-size-7);
+  margin-block-end: var(--space-13);
 }
 
 h2,
 .headline {
-  font-size: $font-size-5;
-  margin-block-end: $space-10;
-  margin-block-start: $space-16;
+  font-size: var(--font-size-5);
+  margin-block-end: var(--space-10);
+  margin-block-start: var(--space-16);
 }
 
 h3,
@@ -62,9 +62,9 @@ h4,
 h5,
 h6,
 .subheadline {
-  font-size: $font-size-4;
-  margin-block-end: $space-8;
-  margin-block-start: $space-14;
+  font-size: var(--font-size-4);
+  margin-block-end: var(--space-8);
+  margin-block-start: var(--space-14);
 }
 
 h2:first-of-type,
@@ -84,7 +84,7 @@ h6:first-of-type {
 .dark .title,
 .dark .headline,
 .dark .subheadline {
-  font-weight: $font-weight-extra-bold;
+  font-weight: var(--font-weight-extra-bold);
 }
 
 /** GitHub Style Anchor */
@@ -110,11 +110,11 @@ h6:first-of-type {
 /** Paragraph */
 p,
 .paragraph {
-  font-size: $font-size-3;
-  font-weight: $font-weight-normal;
+  font-size: var(--font-size-3);
+  font-weight: var(--font-weight-normal);
   letter-spacing: normal;
-  line-height: $line-height-2;
-  margin-block-end: $space-10;
+  line-height: var(--line-height-2);
+  margin-block-end: var(--space-10);
   margin-block-start: 0;
 }
 
@@ -124,19 +124,19 @@ p:last-of-type {
 
 .dark p,
 .dark .paragraph {
-  font-weight: $font-weight-light;
+  font-weight: var(--font-weight-light);
 }
 
 /** Lists */
 ul {
-  font-size: $font-size-3;
+  font-size: var(--font-size-3);
   list-style-type: square;
-  margin-block-end: $space-12;
+  margin-block-end: var(--space-12);
   margin-block-start: 0;
   padding-inline-start: 1.2em;
 
   li {
-    margin-block-end: $space-5;
+    margin-block-end: var(--space-5);
   }
 
   li & {
@@ -152,12 +152,12 @@ ul {
 }
 
 ol {
-  font-size: $font-size-3;
-  margin-block-end: $space-12;
+  font-size: var(--font-size-3);
+  margin-block-end: var(--space-12);
   padding-inline-start: 1.2em;
 
   li {
-    margin-block-end: $space-2;
+    margin-block-end: var(--space-2);
   }
 
   li & {
@@ -186,7 +186,7 @@ mark {
   background-color: rgba(230, 240, 40, 0.7);
   border-color: rgba(0, 0, 0, 0.1);
   border-radius: 0.25em;
-  box-shadow: $shadow-dark-inset;
+  box-shadow: var(--shadow-dark-inset);
   color: rgba(0, 0, 0, 0.75);
   padding-block-end: 0.4em;
   padding-block-start: 0.4em;
@@ -205,10 +205,10 @@ samp {
   background-color: var(--color-bg-code);
   border-radius: 0.3em;
   color: var(--color-fg-code);
-  padding-block-end: $space-1;
-  padding-block-start: $space-1;
-  padding-inline-end: $space-3;
-  padding-inline-start: $space-3;
+  padding-block-end: var(--space-1);
+  padding-block-start: var(--space-1);
+  padding-inline-end: var(--space-3);
+  padding-inline-start: var(--space-3);
   white-space: normal;
 }
 
@@ -216,15 +216,15 @@ kbd {
   background-color: #f7f7f7;
   border-color: #cccccc;
   border-style: solid;
-  border-width: $border-width-1;
-  box-shadow: $shadow-beveled-keyboard;
+  border-width: var(--border-width-1);
+  box-shadow: var(--shadow-beveled-keyboard);
   color: #333333;
   display: inline-block;
-  font-size: $font-size-2;
+  font-size: var(--font-size-2);
   font-weight: 700;
   line-height: 1.4;
   padding: 0.3em 0.6em 0.1em;
-  text-shadow: $shadow-white-outline;
+  text-shadow: var(--shadow-white-outline);
   white-space: nowrap;
 }
 
@@ -233,7 +233,7 @@ abbr {
 }
 
 :is(code, kbd, samp) {
-  font-family: $font-family-mono;
+  font-family: var(--font-family-mono);
   font-size: clamp(0.8rem, 0.8vw, 1rem);
 }
 
@@ -250,22 +250,22 @@ q[lang|='en'] {
 }
 
 blockquote {
-  margin-block-end: $space-12;
-  margin-block-start: $space-12;
-  margin-inline-end: $space-8;
-  margin-inline-start: $space-8;
+  margin-block-end: var(--space-12);
+  margin-block-start: var(--space-12);
+  margin-inline-end: var(--space-8);
+  margin-inline-start: var(--space-8);
   position: relative;
 
   @media (--tablet) {
-    margin-inline-end: $space-10;
-    margin-inline-start: $space-10;
+    margin-inline-end: var(--space-10);
+    margin-inline-start: var(--space-10);
   }
 
   &::before {
     color: var(--color-accent);
     content: '“';
     font-family: Trebuchet MS, Georgia, serif;
-    font-size: $font-size-6;
+    font-size: var(--font-size-6);
     height: 0.6em;
     left: -0.55em;
     position: absolute;
@@ -275,38 +275,38 @@ blockquote {
   p,
   ul,
   ol {
-    font-size: $font-size-3;
+    font-size: var(--font-size-3);
     font-style: italic;
-    font-weight: $font-weight-extra-light;
-    margin-block-end: $space-10;
+    font-weight: var(--font-weight-extra-light);
+    margin-block-end: var(--space-10);
     margin-block-start: 0;
 
     &:nth-last-child(2) {
-      margin-block-end: $space-2;
+      margin-block-end: var(--space-2);
     }
 
     & strong {
       font-style: italic;
-      font-weight: $font-weight-bold;
+      font-weight: var(--font-weight-bold);
     }
 
     &:last-child {
       & strong {
-        font-size: $font-size-3;
+        font-size: var(--font-size-3);
         font-style: normal;
-        font-weight: $font-weight-bold;
+        font-weight: var(--font-weight-bold);
 
         &::before {
           content: '—';
-          font-weight: $font-weight-light;
+          font-weight: var(--font-weight-light);
           left: -0.8em;
           position: absolute;
         }
 
         & em {
-          font-size: $font-size-3;
-          font-weight: $font-weight-normal;
-          font-weight: $font-weight-extra-light;
+          font-size: var(--font-size-3);
+          font-weight: var(--font-weight-normal);
+          font-weight: var(--font-weight-extra-light);
         }
       }
     }
@@ -328,8 +328,8 @@ q {
 }
 
 .pullquote {
-  padding-block-end: $space-9;
-  padding-block-start: $space-9;
+  padding-block-end: var(--space-9);
+  padding-block-start: var(--space-9);
   text-align: center;
 
   &::before {
@@ -337,9 +337,9 @@ q {
   }
 
   & p {
-    font-size: $font-size-4;
-    font-weight: $font-weight-extra-bold;
-    line-height: $line-height-1;
+    font-size: var(--font-size-4);
+    font-weight: var(--font-weight-extra-bold);
+    line-height: var(--line-height-1);
     margin: 0;
   }
 
@@ -358,9 +358,9 @@ q {
   }
 
   footer {
-    font-size: $font-size-2;
+    font-size: var(--font-size-2);
     font-weight: normal;
-    margin-top: $space-6;
+    margin-top: var(--space-6);
   }
 
   b {
@@ -371,7 +371,7 @@ q {
 /** Links */
 a {
   color: var(--color-fg);
-  font-weight: $font-weight-semi-bold;
+  font-weight: var(--font-weight-semi-bold);
   text-decoration: underline;
   text-decoration-color: var(--color-fg-soft);
   text-decoration-thickness: 0.2em;
@@ -400,10 +400,10 @@ a {
   background: var(--color-fg-full);
   color: var(--color-fg-full);
   cursor: help;
-  padding-block-end: $space-1;
-  padding-block-start: $space-1;
-  padding-inline-end: $space-1;
-  padding-inline-start: $space-1;
+  padding-block-end: var(--space-1);
+  padding-block-start: var(--space-1);
+  padding-inline-end: var(--space-1);
+  padding-inline-start: var(--space-1);
 
   &.spoiler-visible {
     color: var(--color-fg-full-inverse);

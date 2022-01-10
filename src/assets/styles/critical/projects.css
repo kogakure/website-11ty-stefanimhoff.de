@@ -35,7 +35,7 @@
 .project-categories {
   color: var(--color-fg-strong);
   display: block;
-  font-size: $font-size-3;
+  font-size: var(--font-size-3);
   font-variant: small-caps;
   line-height: 1;
 }
@@ -53,11 +53,11 @@
 
 /** Projects Layout 50/50 */
 @define-placeholder project-layout-50 {
-  column-gap: $space-55;
+  column-gap: var(--space-55);
   display: grid;
   grid-column: 2 / -2;
   grid-template-columns: repeat(2, 1fr);
-  row-gap: calc($space-55 / 2);
+  row-gap: calc(var(--space-55) / 2);
 }
 
 .project-layout-50-start {
@@ -154,10 +154,10 @@
 
 /** Projects Layout 70/30 */
 @define-placeholder project-layout-70 {
-  column-gap: $space-55;
+  column-gap: var(--space-55);
   display: grid;
   grid-row: 1;
-  row-gap: calc($space-55 / 2);
+  row-gap: calc(var(--space-55) / 2);
 }
 
 .project-layout-70-start {
@@ -177,8 +177,8 @@
   & figcaption {
     grid-column: 1 / -1;
     grid-row: 2;
-    padding-inline-end: $space-55;
-    padding-inline-start: $space-55;
+    padding-inline-end: var(--space-55);
+    padding-inline-start: var(--space-55);
   }
 }
 
@@ -221,8 +221,8 @@
   & figcaption {
     grid-column: 1 / -1;
     grid-row: 2;
-    padding-inline-end: $space-55;
-    padding-inline-start: $space-55;
+    padding-inline-end: var(--space-55);
+    padding-inline-start: var(--space-55);
   }
 }
 
@@ -251,12 +251,12 @@
 
 /** Projects Layout 100 */
 @define-placeholder project-layout-100 {
-  column-gap: $space-55;
+  column-gap: var(--space-55);
   display: grid;
   grid-column: 1 / -1;
   grid-row: 1;
   grid-template-columns: repeat(2, 1fr);
-  row-gap: calc($space-55 / 2);
+  row-gap: calc(var(--space-55) / 2);
 }
 
 .project-layout-100-start {
@@ -275,7 +275,7 @@
   & figcaption {
     grid-column: 1 / -1;
     grid-row: 2;
-    padding-inline: $space-55;
+    padding-inline: var(--space-55);
   }
 }
 
@@ -309,7 +309,7 @@
   & figcaption {
     grid-column: 1 / -1;
     grid-row: 2;
-    padding-inline: $space-55;
+    padding-inline: var(--space-55);
   }
 }
 
@@ -323,7 +323,7 @@
     & figcaption {
       grid-column: 2 / -1;
       grid-row: 2;
-      padding-inline-end: $space-55;
+      padding-inline-end: var(--space-55);
       padding-inline-start: 0;
     }
   }
@@ -332,14 +332,14 @@
 /* Extra spacing and background for the Bamboo */
 .svg-bamboo img {
   background-color: var(--color-fg-feather);
-  padding-block-end: $space-10;
-  padding-inline-end: $space-55;
+  padding-block-end: var(--space-10);
+  padding-inline-end: var(--space-55);
 }
 
 .svg-japanese-color {
   & img {
     background: transparent;
-    transition-duration: 500ms;
+    transition-duration: var(--transition-duration-5);
     transition-property: filter;
     transition-timing-function: ease-in-out;
   }
@@ -347,7 +347,7 @@
   & .image-shadow:focus,
   & .image-shadow:hover {
     & img {
-      filter: drop-shadow($shadow-subtle-shade);
+      filter: drop-shadow(var(--shadow-subtle-shade));
     }
 
     &::after {
@@ -366,7 +366,7 @@
 /** Projects Detail Page */
 .projects-detail {
   display: grid;
-  grid-template-columns: $grid-wide;
+  grid-template-columns: var(--grid-wide);
 }
 
 .projects-detail-title {
@@ -395,7 +395,7 @@
   grid-column-gap: 20px;
   grid-row-gap: 20px;
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-  margin-block-end: $space-12;
+  margin-block-end: var(--space-12);
 
   & p {
     margin-block-end: 0;
@@ -407,7 +407,7 @@
   grid-column-gap: 20px;
   grid-row-gap: 20px;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  margin-block-end: $space-12;
+  margin-block-end: var(--space-12);
 
   & p {
     margin-block-end: 0;

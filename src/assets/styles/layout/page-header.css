@@ -1,9 +1,9 @@
 /** Page Header */
 .page-header {
   display: grid;
-  grid-template-columns: $grid-fullsize;
-  grid-template-rows: clamp(3rem, $space-55, 9rem);
-  margin-block-end: clamp(1.5rem, $space-55, 4.5rem);
+  grid-template-columns: var(--grid-fullsize);
+  grid-template-rows: clamp(3rem, var(--space-55), 9rem);
+  margin-block-end: clamp(1.5rem, var(--space-55), 4.5rem);
 }
 
 .minimal-page-header {

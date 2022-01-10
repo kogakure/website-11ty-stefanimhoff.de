@@ -23,7 +23,7 @@
   fill: var(--color-fg);
   font-size: 12px;
   height: 12px;
-  transition-duration: $transition-duration-5;
+  transition-duration: var(--transition-duration-5);
   transition-property: transform;
   transition-timing-function: ease-in-out;
   width: 12px;

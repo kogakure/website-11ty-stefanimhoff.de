@@ -4,7 +4,7 @@
 /** The Colors of Japan */
 .colors-japan {
   display: grid;
-  grid-template-columns: $grid-wide;
+  grid-template-columns: var(--grid-wide);
 }
 
 .colors-japan-title {

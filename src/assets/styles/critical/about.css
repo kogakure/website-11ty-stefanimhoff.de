@@ -45,9 +45,9 @@
 
 @media (--tablet) {
   .about-photo {
-    border-bottom-left-radius: $radius-1;
+    border-bottom-left-radius: var(--radius-1);
     border-inline-start-width: 1px;
-    border-top-left-radius: $radius-1;
+    border-top-left-radius: var(--radius-1);
   }
 }
 
@@ -69,7 +69,7 @@
 }
 
 .about-me-intro {
-  margin-block-end: $space-10;
+  margin-block-end: var(--space-10);
 }
 
 .about-website {
