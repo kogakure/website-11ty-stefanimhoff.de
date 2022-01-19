@@ -152,7 +152,7 @@ One can become worried about the security of Western values and way of life when
 
 The _Feminian Sandstones_ is a reference to the emancipation of women. The stanza is also a reference to relaxed sexual morality.
 
-The results of the sexual revolution and women in the workforce are positive for the individual. But the plumbing birthrates in most Western countries are a serious threat to these countries. If the fertility rate falls below the replacement level, a population is unable to recover and will die out. Problems arise much earlier with an aging population because social security systems and retirement plans stop working.
+The results of the sexual revolution and women in the workforce are positive for the individual. But the plunging birthrates in most Western countries are a serious threat to these countries. If the fertility rate falls below the replacement level, a population is unable to recover and will die out. Problems arise much earlier with an aging population because social security systems, health care, and retirement plans stop working.
 
 The stable nuclear family is in decline, with one-person households increasing dramatically. Senseless One-Night-Stands, pornography, girls making their income as prostitutes on OnlyFans are a side-effect of constantly lowered sexual morality. Finding a partner is reduced to dating apps, where people get “swiped” by their looks.
 
