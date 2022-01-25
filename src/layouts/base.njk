@@ -26,6 +26,9 @@
     {% include "preload.njk" %}
     {% include "robots.njk" %}
     {% include "feeds.njk" %}
+    {% if charts %}
+      {% include "chartsjs.njk" %}
+    {% endif %}
   </head>
   <body {% if bodyClass %}class="{{ bodyClass }}"{% endif %}>
     {% include "icon-sprites.njk" %}
