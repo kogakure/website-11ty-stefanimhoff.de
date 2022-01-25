@@ -9,7 +9,7 @@ const filters = require('./src/utils/filters.js');
 const shortcodes = require('./src/utils/shortcodes.js');
 const collections = require('./src/utils/collections.js');
 
-module.exports = function (config) {
+module.exports = function(config) {
   // Plugins
   config.addPlugin(pluginReadingTime);
   config.addPlugin(pluginRssFeed);
@@ -21,6 +21,7 @@ module.exports = function (config) {
 
   // Markdown It
   let markdownIt = require('markdown-it');
+  let markdownItCharts = require('markdown-it-charts');
   let markdownItFootnotes = require('markdown-it-footnote');
   let markdownItGitHubHeadings = require('markdown-it-github-headings');
   let markdownItSpoiler = require('markdown-it-spoiler');
@@ -33,6 +34,7 @@ module.exports = function (config) {
 
   let markdownLib = markdownIt(options)
     .use(markdownItFootnotes)
+    .use(markdownItCharts)
     .use(markdownItGitHubHeadings)
     .use(markdownItExternalAnchor, {
       domain: 'www.stefanimhoff.de',
@@ -99,11 +101,21 @@ module.exports = function (config) {
   config.addWatchTarget('src/assets');
 
   // Copy static files to dist
-  config.addPassthroughCopy({ 'src/static/**/*.{xml,html,ico}': '.' });
-  config.addPassthroughCopy({ 'src/static/.well-known/*': '.well-known' });
-  config.addPassthroughCopy({ 'src/downloads': 'downloads' });
-  config.addPassthroughCopy({ 'src/assets/fonts': 'assets/fonts' });
-  config.addPassthroughCopy({ 'src/assets/images': 'assets/images' });
+  config.addPassthroughCopy({
+    'src/static/**/*.{xml,html,ico}': '.'
+  });
+  config.addPassthroughCopy({
+    'src/static/.well-known/*': '.well-known'
+  });
+  config.addPassthroughCopy({
+    'src/downloads': 'downloads'
+  });
+  config.addPassthroughCopy({
+    'src/assets/fonts': 'assets/fonts'
+  });
+  config.addPassthroughCopy({
+    'src/assets/images': 'assets/images'
+  });
 
   // Deep-Merge
   config.setDataDeepMerge(true);

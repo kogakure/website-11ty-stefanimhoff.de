@@ -55,6 +55,7 @@
     "gulp-svg-sprite": "^1.5.0",
     "html-minifier": "^4.0.0",
     "lodash": "^4.17.21",
+    "markdown-it-charts": "^1.0.5",
     "markdown-it-external-anchor": "^1.0.0",
     "markdown-it-footnote": "^3.0.2",
     "markdown-it-github-headings": "^2.0.0",
