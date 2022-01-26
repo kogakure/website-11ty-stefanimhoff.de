@@ -24,7 +24,7 @@ Back in 2017, I counted way too strict, I even counted each dental brush as one 
 - A box of screws is one thing
 - All loose screws are one thing
 - All sandwich bags inside a box are one thing
-- A hard drive includes its cable as one thing because it needs it to operate
+- A hard drive and its cable is one thing because it needs it to operate
 - A pair of socks is one thing
 - Counting all consumables (except food)
 
