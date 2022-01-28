@@ -15,7 +15,7 @@ The way we write notes determines how we think and learn. Many studies have show
 
 A lot of people avoid taking notes and search for answers on the Internet instead. This is a grave error because it looks convenient to have all knowledge <q>at the tips of my fingers</q>. And worse, it produces the **Illusion of Competence**[^schroder2018aa] in a person. <q>I don’t need to know this, I can always look it up</q> is a common sentence you hear today. <q>I can ask Siri or Alexa.</q>
 
-But knowledge-building doesn’t work that way. And saving content into some archive doesn’t either. I’m guilty of this myself. Having used Evernote for a decade I was used to saving everything I _wanted to remember_ into the tool. I sorted and curated, tagged, and sometimes even highlighted content. But I fell victim to the **Collectors Fallacy**[^tietze2014aa]. Because you collected something doesn’t mean you learned it or are able to explain it.
+But knowledge-building doesn’t work that way. And saving content into some archive doesn’t either. I’m guilty of this myself. Having used Evernote for a decade I was used to saving everything I _wanted to remember_ into the tool. I sorted and curated, tagged, and sometimes even highlighted content. But I fell victim to the **Collectors Fallacy**.[^tietze2014aa] Because you collected something doesn’t mean you learned it or are able to explain it.
 
 A few months ago a co-worker pointed me to the **Zettelkasten Method**. At first, I discarded it as too complicated. The founder _Niklas Luhmann_ seemed rather eccentric to me. His physical Zettelkasten—a huge shelve with 90,000 notes—was an abomination to me as a [Minimalist](/minimalism/).
 

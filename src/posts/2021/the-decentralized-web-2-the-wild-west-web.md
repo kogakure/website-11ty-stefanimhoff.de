@@ -50,13 +50,13 @@ Minds has a build-in encrypted [chat](https://chat.minds.com/) that was recently
 
 [Matrix](https://matrix.org/) is an open network for secure, decentralized communication. It’s feature-rich and allows communication between different servers running (similar to Mastodon). Additionally, Matrix allows communication over Bridging with external services like Slack, Microsoft Teams, IRC, XMPP, Telegram, WhatsApp, Facebook, Hangouts, Signal, and many more.
 
-It’s end-to-end encrypted, supports WebRTC VoIP/Video, and has no single point of control or failure due to its decentralized architecture. Matrix has a feature-set similar to commercial apps and it introduced recently _Spaces_, a feature to group rooms and people together (similar to a workspace in Slack)[^chishtie2021ed].
+It’s end-to-end encrypted, supports WebRTC VoIP/Video, and has no single point of control or failure due to its decentralized architecture. Matrix has a feature-set similar to commercial apps and it introduced recently _Spaces_, a feature to group rooms and people together (similar to a workspace in Slack).[^chishtie2021ed]
 
 To connect to the Matrix federation you use a [client](https://matrix.org/clients/). You are not forced to use a specific one and can even create your own. The most used client is [Element](https://element.io/), available for Web, Android, iOS, macOS, Windows, and Linux.
 
-Mozilla switched recently from IRC to [Matrix](https://chat.mozilla.org/)[^gruner2019aa], Minds switched their [chat](https://chat.minds.com/) to Matrix. Gitter joined Element[^le-pape2020xh], Automattic invested nearly $5 Million into New Vector (the company founded by the core Matrix team in 2017)[^hodgson2020aa] [^lomas2020aa], and Element raised $30 Million[^le-pape2021xi].
+Mozilla switched recently from IRC to [Matrix](https://chat.mozilla.org/),[^gruner2019aa] Minds switched their [chat](https://chat.minds.com/) to Matrix. Gitter joined Element,[^le-pape2020xh] Automattic invested nearly $5 Million into New Vector (the company founded by the core Matrix team in 2017),[^hodgson2020aa] [^lomas2020aa] and Element raised $30 Million.[^le-pape2021xi]
 
-More and more governments use Matrix. The French government forked the messenger and created their own messenger [Tchap](https://www.tchap.gouv.fr), the German states of Schleswig-Holstein and Hamburg use Matrix, and the German military introduced the [BwMessenger](https://www.bwi.de/news-blog/news/artikel/open-source-matrix-ist-einheitlicher-messenger-standard-fuer-die-bundeswehr) for communication[^loynes2020ie].
+More and more governments use Matrix. The French government forked the messenger and created their own messenger [Tchap](https://www.tchap.gouv.fr), the German states of Schleswig-Holstein and Hamburg use Matrix, and the German military introduced the [BwMessenger](https://www.bwi.de/news-blog/news/artikel/open-source-matrix-ist-einheitlicher-messenger-standard-fuer-die-bundeswehr) for communication.[^loynes2020ie]
 
 Matrix provides a service to [create a link](https://matrix.to/#/@kogakure:matrix.org) for any instance to share with people of different instances to connect.
 
@@ -98,9 +98,9 @@ With the recent aggressive deletions of videos by YouTube of scientists talking 
 
 ## IPFS
 
-[IPFS](https://ipfs.io/) is one of the decentralized projects that has huge potential and is already very mature. I first discovered it when the [Brave Webbrowser](https://brave.com/) added native support for the IPFS protocol in January, 2021[^brave2021yc] [^bondy2021ag].
+[IPFS](https://ipfs.io/) is one of the decentralized projects that has huge potential and is already very mature. I first discovered it when the [Brave Webbrowser](https://brave.com/) added native support for the IPFS protocol in January, 2021.[^brave2021yc] [^bondy2021ag]
 
-IPFS stands for _InterPlanetary File System_ and is a peer-to-peer hypermedia protocol (`ipfs://`). This name is not a joke but hints into the possibilities of the protocol in the distant future. Currently, communication between Mars and Earth takes around 13 minutes[^ormston2012dr], and transmitting 30MB of data can take up to 20 hours[^nasa2012gh]. Not the best conditions for a person on Mars to browse the internet. But IPFS and its features could help with this, by storing hashes on nodes on Mars to reduce the access time to commonly requested files dramatically.
+IPFS stands for _InterPlanetary File System_ and is a peer-to-peer hypermedia protocol (`ipfs://`). This name is not a joke but hints into the possibilities of the protocol in the distant future. Currently, communication between Mars and Earth takes around 13 minutes,[^ormston2012dr] and transmitting 30MB of data can take up to 20 hours.[^nasa2012gh] Not the best conditions for a person on Mars to browse the internet. But IPFS and its features could help with this, by storing hashes on nodes on Mars to reduce the access time to commonly requested files dramatically.
 
 Any file in the IPFS network is split into smaller chunks, which are cryptographically hashed and have a unique fingerprint, a CID (content identifier). It is the permanent record for this file as it exists at that point in time.
 

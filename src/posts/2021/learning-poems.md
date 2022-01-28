@@ -20,7 +20,7 @@ Next, I learned the English translation of [Epitaph for “Poet’s Tomb”](htt
 
 Compared to **The Gods of the Copybook Headings** this poem was easy to learn in 1-2 days. I’m still struggling to remember it in Japanese, though.
 
-The next poem on my list is [If—](https://www.poetryfoundation.org/poems/46473/if---) by _Rudyard Kipling_. <q>It provides traditional advice about how to live a good life</q> and <q>is considered to be one of the best examples of Victorian stoicism</q>[^jenson2016ib].
+The next poem on my list is [If—](https://www.poetryfoundation.org/poems/46473/if---) by _Rudyard Kipling_. <q>It provides traditional advice about how to live a good life</q> and <q>is considered to be one of the best examples of Victorian stoicism</q>.[^jenson2016ib]
 
 {% banner "An interesting fact about the Victorian Age", true %}
 

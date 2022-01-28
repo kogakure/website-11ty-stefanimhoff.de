@@ -16,9 +16,9 @@ His speech is more important than ever because what he talked about happens righ
 
 > Roughly 4 in 10 (41%) of Biden and half (52%) of Trump voters at least somewhat agree that it’s time to split the country, favoring blue/red states seceding from the union.
 >
-> **Edward Snowden**, _[Twitter](https://twitter.com/Snowden/status/1444028576383307778)_, quoting a recent poll[^hall2021fp].
+> **Edward Snowden**, _[Twitter](https://twitter.com/Snowden/status/1444028576383307778)_, quoting a recent poll.[^hall2021fp]
 
-Unfortunately, the USA is not the only country with this tendency, it happens less radically also in Germany with its West/East political split and strongly biased state media[^hanfeld2020xv].
+Unfortunately, the USA is not the only country with this tendency, it happens less radically also in Germany with its West/East political split and strongly biased state media.[^hanfeld2020xv]
 
 [^hall2021fp]: Colby Hall (2021): _SHOCK POLL: Majority of Trump Voters Now in Favor of Seceding from the Union_, <https://www.mediaite.com/politics/shock-poll-majority-of-trump-voters-now-in-favor-of-seceding-from-the-union/>.
 [^hanfeld2020xv]: Michael Hanfeld (2020): _92 Prozent für Rot-Rot-Grün_, <https://www.faz.net/aktuell/feuilleton/medien/ard-volontaere-wie-divers-ist-die-ausbildungs-generation-17038169.html>.
