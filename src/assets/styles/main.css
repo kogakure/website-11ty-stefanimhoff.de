@@ -15,5 +15,6 @@
 @import 'components/book';
 @import 'components/color-swatch';
 @import 'components/download-link';
+@import 'components/email';
 @import 'components/flags';
 @import 'components/verse';
