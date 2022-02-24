@@ -60,7 +60,7 @@ As I mentioned, I own two other websites: A website about the Ninja (my oldest w
 
 I created designs for both websites, but they were based on the same Design System, using the same color palettes, grid, font, icons, and mood.
 
-They look similar enough to not be a copy but use a lot of the same code base. Visitors of two or more of my websites will immediately recognize they are based on the same design.
+They look different enough to not be a copy but use a lot of the same code base. Visitors of two or more of my websites will immediately recognize they are based on the same design.
 
 ## Photo Blog
 
