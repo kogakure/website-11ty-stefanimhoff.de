@@ -19,7 +19,7 @@ Recently, I finished the book [Engaging Japanese Philosophy: A Short History](ht
 
 On a Sunday morning, I decided to create a [prototype](https://codepen.io/kogakure/pen/RwxwoWm) based on the typesetting of this book in CSS. It had some interesting challenges and I did it just for fun.
 
-Later that week I decided to create my first iA Writer template based on that style. I called the template it [Nanzan](https://github.com/kogakure/ia-writer-template-nanzan) (南山) because the book was typeset by the _Nanzan Institute for Religion and Culture_. It’s free and you can download the code as a ZIP archive and double click the `.iatemplate` file.
+Later that week I decided to create my first iA Writer template based on that style. I called the template [Nanzan](https://github.com/kogakure/ia-writer-template-nanzan) (南山) because the book was typeset by the _Nanzan Institute for Religion and Culture_. It’s free and you can download the code as a ZIP archive and double click the `.iatemplate` file.
 
 ![Nanzan](/assets/images/posts/ia-writer-template-nanzan.jpg)
 
