@@ -61,7 +61,3 @@ The fantastic Bonsai image was shot by _Norio Nakayama_ and provided with a CC l
 ![Phone Footer](./images/stefanimhoff-v2-phone-footer.jpg)
 
 </div>
-
-### Offscreen Navigation
-
-![Offscreen Navigation](./images/stefanimhoff-v2-navigation.jpg)
