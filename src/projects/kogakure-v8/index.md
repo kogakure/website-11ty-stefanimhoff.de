@@ -1,5 +1,5 @@
 ---
-title: Martial Arts Website
+title: Martial Arts Website 2017
 description: I redesigned my Martial Arts Online Magazine in 2017.
 ---
 
@@ -7,7 +7,9 @@ I redesigned my [Martial Arts Online Magazine](https://www.kogakure.de/) in 2017
 
 I removed clutter by removing some background patterns, added new hover animations for images and containers, added new buttons, and a new pulsing heart animation for the donation section.
 
-I added **Service Worker** and full offline support for the website. The source programming is available on [GitHub](https://github.com/kogakure/website-hugo-kogakure.de).
+{% more "Source Code", "https://github.com/kogakure/website-hugo-kogakure.de", true %}
+
+---
 
 ## Color Palette
 
@@ -20,7 +22,7 @@ I added **Service Worker** and full offline support for the website. The source 
 {% color "#FFFFFF" %}
 {% endcolorstack %}
 
----
+## Typeface
 
 <figure class="light image-shadow">
 
@@ -28,7 +30,7 @@ I added **Service Worker** and full offline support for the website. The source 
 
 </figure>
 
----
+## Logo
 
 <figure class="light image-shadow">
 
@@ -36,7 +38,7 @@ I added **Service Worker** and full offline support for the website. The source 
 
 </figure>
 
----
+## Illustration
 
 ![Bamboo Illustration](./images/kogakure-v8-illustration.jpg)
 
