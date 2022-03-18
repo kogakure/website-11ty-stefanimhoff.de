@@ -81,9 +81,9 @@
     "title": "Personal Website & Blog",
     "categories": ["Web Design", "Web Development"],
     "text": "<p>My website and blog first launched in <strong>2006</strong> and is the website you’re looking at. The current design is the <strong>4th</strong> iteration.</p>",
-    "linkText": "See Showcase of Version 2",
-    "link": "/projects/stefanimhoff-v2/",
-    "image": "/assets/images/projects/stefanimhoff-v2.jpg",
+    "linkText": "See Showcase of Version 4",
+    "link": "/projects/stefanimhoff-v4/",
+    "image": "/assets/images/projects/stefanimhoff-v4.jpg",
     "class": "project-layout-50-start"
   },
   {
