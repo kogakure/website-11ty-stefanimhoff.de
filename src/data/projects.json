@@ -59,12 +59,12 @@
     "class": "project-layout-100-end svg-bamboo no-border"
   },
   {
-    "title": "Martial Arts Website",
+    "title": "Ninjutsu Book 木隠",
     "categories": ["Web Design", "Web Development", "Writing"],
-    "text": "<p>My <a href='https://www.kogakure.de/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts Online Magazine</a> with the topic of <em>Ninja</em> &amp; <em>Ninjutsu</em> was first launched in <strong>1999</strong> and is my oldest and most visited website. The current design is already the <strong>8th</strong> iteration.</p>",
-    "linkText": "See Showcase of Version 7",
-    "link": "/projects/kogakure-v8/",
-    "image": "/assets/images/projects/martial-arts-website.jpg",
+    "text": "<p>My <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>Ninjutsu Book 木隠</a> was first launched in <strong>1999</strong> and is my oldest and most visited website. The current design is the <strong>9th</strong> iteration. In 2022 I translated it to English to make it accessible to a larger readership.</p>",
+    "linkText": "See Showcase of Version 9",
+    "link": "/projects/kogakure-v9/",
+    "image": "/assets/images/projects/kogakure-v9.jpg",
     "class": "project-layout-50-start"
   },
   {
