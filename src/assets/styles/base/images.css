@@ -24,6 +24,7 @@ img {
 img[src$='.svg'] {
   background: transparent;
   border: 0;
+  box-shadow: none;
 }
 
 .image-shadow {

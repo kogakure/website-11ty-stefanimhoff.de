@@ -395,7 +395,8 @@
   grid-column-gap: 20px;
   grid-row-gap: 20px;
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-  margin-block-end: var(--space-12);
+  margin-block-end: var(--space-10);
+  margin-block-start: var(--space-10);
 
   & p {
     margin-block-end: 0;
@@ -407,7 +408,8 @@
   grid-column-gap: 20px;
   grid-row-gap: 20px;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  margin-block-end: var(--space-12);
+  margin-block-end: var(--space-10);
+  margin-block-start: var(--space-10);
 
   & p {
     margin-block-end: 0;
