@@ -7,6 +7,8 @@ I created this small website for three Thai restaurants in Hamburg in 2010. Of t
 
 I learned a lot about Graphic Design while working on it. I created the complete graphic by myself and learned how to design Gold items. I wanted to stay as true to Thai culture as possible and researched in-depth the colors and style of Thailand.
 
+---
+
 ## Color Palette
 
 {% colorstack %}
@@ -17,7 +19,7 @@ I learned a lot about Graphic Design while working on it. I created the complete
 {% color "#D8BB34" %}
 {% endcolorstack %}
 
----
+## Typeface
 
 <figure class="dark image-shadow">
 
@@ -25,19 +27,21 @@ I learned a lot about Graphic Design while working on it. I created the complete
 
 </figure>
 
+## Design Elements
+
 <figure class="light image-shadow">
 
 ![Gold Accessories](./images/thai-restaurant-accessories.jpg)
 
 </figure>
 
-## Homepage
-
-![Homepage](./images/thai-restaurant-homepage.jpg)
-
 ## Making-Of Buddha Composition
 
 ![Subpage](./images/thai-restaurant-making-of-buddha.jpg)
+
+## Homepage
+
+![Homepage](./images/thai-restaurant-homepage.jpg)
 
 ## Subpages
 
