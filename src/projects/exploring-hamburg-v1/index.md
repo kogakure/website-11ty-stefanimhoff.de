@@ -24,38 +24,10 @@ The website is mostly a **photography** blog, but I also write **short essays** 
 
 <figure class="light image-shadow">
 
-![Typefaces IM Fell English and Playfair Display](./images/hamburg-blog-typefaces.svg)
+![Typefaces IM Fell English and Playfair Display](./images/exploring-hamburg-v1-typefaces.svg)
 
 </figure>
 
 ---
 
-## Homepage
-
-![Homepage](./images/hamburg-blog-homepage.jpg)
-
-## Tablet & Phone
-
-<div class="projects-detail-medium">
-
-![Homepage 1 Tablet](./images/hamburg-blog-mobile-tablet-1.jpg)
-
-![Homepage 2 Tablet](./images/hamburg-blog-mobile-tablet-2.jpg)
-
-![Homepage 3 Tablet](./images/hamburg-blog-mobile-tablet-3.jpg)
-
-![Homepage 4 Tablet](./images/hamburg-blog-mobile-tablet-4.jpg)
-
-</div>
-
-<div class="projects-detail-small">
-
-![Homepage 1 Phone](./images/hamburg-blog-mobile-phone-1.jpg)
-
-![Homepage 2 Phone](./images/hamburg-blog-mobile-phone-2.jpg)
-
-![Homepage 3 Phone](./images/hamburg-blog-mobile-phone-3.jpg)
-
-![Homepage 4 Phone](./images/hamburg-blog-mobile-phone-4.jpg)
-
-</div>
+![Homepage](./images/exploring-hamburg-v1-homepage.jpg)

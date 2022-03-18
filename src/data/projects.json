@@ -91,7 +91,7 @@
     "categories": ["Web Design", "Web Development", "Photography"],
     "text": "<p>I created this <a href='https://hamburg.stefanimhoff.de/' rel='nofollow noopener noreferrer external' target='_blank'>Photography Blog</a> for one of my hobbies: I explore the city Hamburg, mostly walking, sometimes biking to find out more about the individual districts and to shoot photos. The current design is the <strong>2nd</strong> iteration.</p>",
     "linkText": "See Showcase of Version 1",
-    "link": "/projects/hamburg-blog/",
+    "link": "/projects/exploring-hamburg-v1/",
     "image": "/assets/images/projects/hamburg-blog.jpg",
     "class": "project-layout-50-end"
   },
