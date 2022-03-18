@@ -1,11 +1,13 @@
 ---
-title: Exploring Hamburg
+title: Exploring Hamburg 2016
 description: I explore Hamburg, mostly walking, sometimes biking to find out more about the individual districts and to shoot photos.
 ---
 
 I created a [website](https://hamburg.stefanimhoff.de/) for one of my hobbies: I explore Hamburg, mostly walking, sometimes biking to find out more about the individual districts and to shoot photos. There are 109 districts in Hamburg and I plan to walk them all, street by street.
 
 The website is mostly a **photography** blog, but I also write **short essays** about the districts. The website is written in English, so visitors from around the world can find out places to visit while staying in Hamburg.
+
+{% more "Source Code", "https://github.com/kogakure/website-hugo-hamburg.stefanimhoff.de/", true %}
 
 ---
 
@@ -20,7 +22,7 @@ The website is mostly a **photography** blog, but I also write **short essays** 
 {% color "#FFFFFF" %}
 {% endcolorstack %}
 
----
+## Typefaces
 
 <figure class="light image-shadow">
 
@@ -28,6 +30,6 @@ The website is mostly a **photography** blog, but I also write **short essays** 
 
 </figure>
 
----
+## Homepage
 
 ![Homepage](./images/exploring-hamburg-v1-homepage.jpg)
