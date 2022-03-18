@@ -13,14 +13,6 @@ This is a reduced selection of the components. Most components come in multiple 
 
 ---
 
-<div class="show-light">
-
 ![XING Design System Light Mode](./images/xing-design-system-light.png)
 
-</div>
-
-<div class="show-dark">
-
 ![XING Design System Dark Mode](./images/xing-design-system-dark.png)
-
-</div>
