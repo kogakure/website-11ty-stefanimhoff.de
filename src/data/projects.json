@@ -37,7 +37,7 @@
     "title": "XING Onboarding Illustration",
     "categories": ["Illustration", "Icon Design"],
     "text": "<p>I was asked to create three new illustrations that could be used for an Onboarding screen on <a href='https://www.xing.com/' rel='nofollow noopener noreferrer external' target='_blank'>XING</a>. I accepted the challenge to take over this task outside of my job description and finished the whole process from concept, scribbles to final illustrations in a day.</p>",
-    "linkText": "See Illustrations",
+    "linkText": "See XING Onboarding Illustrations",
     "link": "/projects/xing-onboarding-illustrations/",
     "image": "/assets/images/projects/xing-illustrations.jpg",
     "class": "project-layout-70-start"
@@ -50,6 +50,26 @@
     "link": "/traditional-colors-of-japan/",
     "image": "/assets/images/projects/traditional-colors-of-japan.svg",
     "class": "project-layout-50-end no-border svg-japanese-color"
+  },
+  {
+    "title": "iA Writer Template Nanzan",
+    "categories": ["Web Design", "Web Development"],
+    "text": "<p>This <a href='https://ia.net/writer' rel='nofollow noopener noreferrer external' target='_blank'>iA Writer</a> template is inspired by the typographic style of the book <a href='https://www.amazon.com/gp/product/0824874072/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0824874072&linkCode=as2' rel='nofollow noopener noreferrer external' target='_blank'>Engaging Japanese Philosophy</a> by Thomas P. Kasulis, designed by the <em>Nanzan Institute for Religion and Culture</em>.</p>",
+    "linkText": "Download iA Writer Template Nanzan on GitHub",
+    "link": "https://github.com/kogakure/ia-writer-template-nanzan",
+    "external": true,
+    "image": "/assets/images/projects/ia-template-nanzan.jpg",
+    "class": "project-layout-50-start"
+  },
+  {
+    "title": "iA Writer Template Shibui",
+    "categories": ["Web Design", "Web Development"],
+    "text": "<p>This <a href='https://ia.net/writer' rel='nofollow noopener noreferrer external' target='_blank'>iA Writer</a> template is inspired by the Japanese aesthetics style shibui which was founded during the Muromachi period (1336-1392). I use the same style for my current personal branding on my personal website, for my martial arts book and my photo blog.</p>",
+    "linkText": "Download iA Writer Template Shibui on GitHub",
+    "link": "https://github.com/kogakure/ia-writer-template-shibui",
+    "external": true,
+    "image": "/assets/images/projects/ia-template-shibui.jpg",
+    "class": "project-layout-50-end"
   },
   {
     "title": "Bamboo Illustration",
@@ -71,7 +91,7 @@
     "title": "Book & Book Cover",
     "categories": ["Writing", "Graphic Design"],
     "text": "<p>I wrote this book in <strong>2017</strong> out of the essays I’ve written on my <a href='https://www.kogakure.de/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> in the last 20 years. It’s a book in German about the Ninja and their secret art of Ninjutsu.</p><p>I also designed the book cover for my book. The book was written with <a href='https://www.gitbook.com/' rel='nofollow noopener noreferrer external' target='_blank'>GitBook</a> and can be read or downloaded for free as PDF, ePub, or Mobi eBook.</p>",
-    "linkText": "Read Book",
+    "linkText": "Read the Book",
     "link": "https://book.kogakure.de/",
     "external": true,
     "image": "/assets/images/projects/book-kogakure.jpg",
@@ -90,7 +110,7 @@
     "title": "Koi Illustration",
     "categories": ["Illustration", "Painting"],
     "text": "<p>I created this illustration for a previous version of my website in <strong>2007</strong> with a pencil on paper and then brought it into Adobe Photoshop, where all coloring was done.</p>",
-    "linkText": "See Project",
+    "linkText": "See the “Making-of”",
     "link": "/projects/koi-illustration/",
     "image": "/assets/images/projects/koi-illustration.jpg",
     "class": "project-layout-70-start"
@@ -108,7 +128,7 @@
     "title": "Osteopathie-Institut Hamburg",
     "categories": ["Web Design", "Web Development"],
     "text": "<p>I created this website for the <strong>Osteopathie-Institut Hamburg</strong> in <strong>2010</strong> as one of my last websites before I started working as a <em>Frontend Engineer</em> for XING.</p>",
-    "linkText": "See Project",
+    "linkText": "See Showcase of Osteopathie-Institut Hamburg",
     "link": "/projects/osteopathie-hamburg/",
     "image": "/assets/images/projects/osteopathie-hamburg.jpg",
     "class": "project-layout-50-start"
@@ -117,7 +137,7 @@
     "title": "Thai Restaurants Hamburg",
     "categories": ["Graphic Design", "Web Design", "Web Development"],
     "text": "<p>I created this small website for three Thai restaurants in Hamburg in <strong>2010</strong>. It was online for nearly ten years and I had a lot of fun creating it.</p>",
-    "linkText": "See Project",
+    "linkText": "See Showcase of Thai Restaurants Hamburg",
     "link": "/projects/thai-restaurants-hamburg/",
     "image": "/assets/images/projects/thai-restaurant.jpg",
     "class": "project-layout-50-end"
@@ -126,7 +146,7 @@
     "title": "Ingo: Iga Ninja Cipher Font",
     "categories": ["Type Design", "Graphic Design"],
     "text": "<p>The <em>Iga Ninja Cipher Font</em> was created by me of an image provided by the <strong>Iga Ninja Museum</strong> in Japan and is said to be a font for correspondence in cipher. It was a fun personal project to learn how to create a typeface.</p>",
-    "linkText": "See on GitHub",
+    "linkText": "Download Font on GitHub",
     "link": "https://github.com/kogakure/font-ingo",
     "external": true,
     "image": "/assets/images/projects/ingo-iga-ninja-cipher.jpg",
