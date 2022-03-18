@@ -9,6 +9,8 @@ I invested full effort into it not only because the teacher of that school was m
 
 The website had an interactive carousel on the homepage, collapsible sections in the course section, a custom Google Map pin, and a contact form.
 
+---
+
 ## Color Palette
 
 {% colorstack %}
@@ -19,15 +21,13 @@ The website had an interactive carousel on the homepage, collapsible sections in
 {% color "#FFFFFF" %}
 {% endcolorstack %}
 
----
+## Typefaces
 
 <figure class="light image-shadow">
 
 ![Typefaces Delicous and Baskerville](./images/osteopathie-hamburg-typefaces.svg)
 
 </figure>
-
----
 
 ## Homepage
 
