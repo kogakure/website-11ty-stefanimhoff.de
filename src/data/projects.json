@@ -63,7 +63,7 @@
     "categories": ["Web Design", "Web Development", "Writing"],
     "text": "<p>My <a href='https://www.kogakure.de/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts Online Magazine</a> with the topic of <em>Ninja</em> &amp; <em>Ninjutsu</em> was first launched in <strong>1999</strong> and is my oldest and most visited website. The current design is already the <strong>8th</strong> iteration.</p>",
     "linkText": "See Showcase of Version 7",
-    "link": "/projects/kogakure/",
+    "link": "/projects/kogakure-v8/",
     "image": "/assets/images/projects/martial-arts-website.jpg",
     "class": "project-layout-50-start"
   },

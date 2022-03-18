@@ -53,27 +53,3 @@ I added **Service Worker** and full offline support for the website. The source 
 ![Book Recommendation Page](./images/kogakure-v8-recommendations.jpg)
 
 </div>
-
-## Grid Layout
-
-<div class="projects-detail-medium">
-
-![CSS Grid Layout 1](./images/kogakure-v8-css-grid-1.jpg)
-
-![CSS Grid Layout 2](./images/kogakure-v8-css-grid-2.jpg)
-
-![CSS Grid Layout 3](./images/kogakure-v8-css-grid-3.jpg)
-
-![CSS Grid Layout 4](./images/kogakure-v8-css-grid-4.jpg)
-
-</div>
-
-## Tablet & Phone
-
-<div class="projects-detail-medium">
-
-![Hompage Tablet](./images/kogakure-v8-tablet.png)
-
-![Homepage Phone](./images/kogakure-v8-phone.png)
-
-</div>
