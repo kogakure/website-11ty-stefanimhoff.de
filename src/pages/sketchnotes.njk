@@ -10,7 +10,7 @@ permalink: /sketchnotes/
 
 <article class="sketchnotes-grid">
 {% for sketchnote in sketchnotes %}
-  <a class="sketchnotes-item image-shadow {{ sketchnote.class }}" href="{{ sketchnote.title | slug }}" {{ site.animation }}>
+  <a class="sketchnotes-item image-shadow {{ sketchnote.class }}" href="/sketchnotes/{{ sketchnote.title | slugify }}" {{ site.animation }}>
     <img class="sketchnotes-image" src="{{ sketchnote.image }}"/>
   </a>
 {% endfor %}

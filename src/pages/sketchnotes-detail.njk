@@ -5,7 +5,7 @@ pagination:
   data: sketchnotes
   size: 1
   alias: sketchnote
-permalink: "/sketchnotes/{{ sketchnote.title | slug }}/"
+permalink: "/sketchnotes/{{ sketchnote.title | slugify }}/"
 backLink: /sketchnotes/
 eleventyComputed:
   title: "{{ sketchnote.title }}"
@@ -32,7 +32,7 @@ eleventyComputed:
   <a 
     aria-label="{{ previousPost.title }}" 
     class="pagination pagination-start" 
-    href="/sketchnotes/{{ previousPost.title | slug }}/" 
+    href="/sketchnotes/{{ previousPost.title | slugify }}/" 
     rel="prev"
     title="{{ previousPost.title }}"
   >
@@ -44,7 +44,7 @@ eleventyComputed:
   <a 
     aria-label="{{ nextPost.title }}" 
     class="pagination pagination-end" 
-    href="/sketchnotes/{{ nextPost.title | slug }}/" 
+    href="/sketchnotes/{{ nextPost.title | slugify }}/" 
     rel="next"
     title="{{ nextPost.title }}"
   >

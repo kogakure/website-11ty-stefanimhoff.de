@@ -9,7 +9,7 @@ const filters = require('./src/utils/filters.js');
 const shortcodes = require('./src/utils/shortcodes.js');
 const collections = require('./src/utils/collections.js');
 
-module.exports = function(config) {
+module.exports = function (config) {
   // Plugins
   config.addPlugin(pluginReadingTime);
   config.addPlugin(pluginRssFeed);
@@ -102,19 +102,19 @@ module.exports = function(config) {
 
   // Copy static files to dist
   config.addPassthroughCopy({
-    'src/static/**/*.{xml,html,ico}': '.'
+    'src/static/**/*.{xml,html,ico}': '.',
   });
   config.addPassthroughCopy({
-    'src/static/.well-known/*': '.well-known'
+    'src/static/.well-known/*': '.well-known',
   });
   config.addPassthroughCopy({
-    'src/downloads': 'downloads'
+    'src/downloads': 'downloads',
   });
   config.addPassthroughCopy({
-    'src/assets/fonts': 'assets/fonts'
+    'src/assets/fonts': 'assets/fonts',
   });
   config.addPassthroughCopy({
-    'src/assets/images': 'assets/images'
+    'src/assets/images': 'assets/images',
   });
 
   // Deep-Merge
@@ -134,7 +134,7 @@ module.exports = function(config) {
       layouts: 'layouts',
       output: 'dist',
     },
-    templateFormats: ['njk', 'md', '11ty.js', 'jpg', 'png', 'svg'],
+    templateFormats: ['njk', 'md', '11ty.js'],
     htmlTemplateEngine: 'njk',
     dataTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
