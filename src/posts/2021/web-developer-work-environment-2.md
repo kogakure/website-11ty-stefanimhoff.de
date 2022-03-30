@@ -141,7 +141,7 @@ I work with GitHub Enterprise at work and need to share code positions with othe
 
 It should be possible to use LSP to run Prettier on Neovim, but I couldn’t yet figure out how. That’s why I installed [neoformat](https://github.com/sbdchd/neoformat) for now to do the job for me.
 
-[Copilot.vim](https://github.com/github/copilot.vim) get’s an honorable mention, because I can’t use it yet. [GitHub Pilot](https://copilot.github.com/) is a new feature by GitHub and it's currently invite-only and needs an API key at the moment. I’m on the waiting list. It is a new AI feature that learns automatically and will suggest the right code at the right moment. Looks promising!
+[Copilot.vim](https://github.com/github/copilot.vim) <del>get’s an honorable mention, because I can’t use it yet</del> <ins>is a very helpful plugin</ins>. [GitHub Pilot](https://copilot.github.com/) is a new feature by GitHub and it's currently invite-only and needs an API key at the moment. <del>I’m on the waiting list.</del> It is a new AI feature that learns automatically and will suggest the right code at the right moment. <del>Looks promising</del> <ins>It is fantastic</ins>!
 
 ### Window Improvements
 
