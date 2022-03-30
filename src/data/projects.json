@@ -74,7 +74,7 @@
   {
     "title": "Bamboo Illustration",
     "categories": ["Illustration"],
-    "text": "<p>I created the bamboo illustration in <strong>2006</strong> for my <a href='https://www.kogakure.de/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> used Adobe Illustrator and the gradient grid tool.</p><p><strong>2015</strong> I decided to use my bamboo as <abbr title='Scalable Vector Graphics'>SVG</abbr> on my website. Unfortunately, the gradient tool is not supported in <abbr>SVG</abbr> and I needed recreate my bamboo with linear, radial, and other supported gradients in <a href='https://affinity.serif.com/designer/' rel='nofollow noopener noreferrer external' target='_blank'>Affinity Designer</a>.</p>",
+    "text": "<p>I created the bamboo illustration in <strong>2006</strong> for my <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> used Adobe Illustrator and the gradient grid tool.</p><p><strong>2015</strong> I decided to use my bamboo as <abbr title='Scalable Vector Graphics'>SVG</abbr> on my website. Unfortunately, the gradient tool is not supported in <abbr>SVG</abbr> and I needed recreate my bamboo with linear, radial, and other supported gradients in <a href='https://affinity.serif.com/designer/' rel='nofollow noopener noreferrer external' target='_blank'>Affinity Designer</a>.</p>",
     "image": "/assets/images/projects/bamboo-illustration.svg",
     "class": "project-layout-100-end svg-bamboo no-border"
   },
@@ -90,7 +90,7 @@
   {
     "title": "Book & Book Cover",
     "categories": ["Writing", "Graphic Design"],
-    "text": "<p>I wrote this book in <strong>2017</strong> out of the essays I’ve written on my <a href='https://www.kogakure.de/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> in the last 20 years. It’s a book in German about the Ninja and their secret art of Ninjutsu.</p><p>I also designed the book cover for my book. The book was written with <a href='https://www.gitbook.com/' rel='nofollow noopener noreferrer external' target='_blank'>GitBook</a> and can be read or downloaded for free as PDF, ePub, or Mobi eBook.</p>",
+    "text": "<p>I wrote this book in <strong>2017</strong> out of the essays I’ve written on my <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> in the last 20 years. It’s a book in German about the Ninja and their secret art of Ninjutsu.</p><p>I also designed the book cover for my book. The book was written with <a href='https://www.gitbook.com/' rel='nofollow noopener noreferrer external' target='_blank'>GitBook</a> and can be read or downloaded for free as PDF, ePub, or Mobi eBook.</p>",
     "linkText": "Read the Book",
     "link": "https://book.kogakure.de/",
     "external": true,
