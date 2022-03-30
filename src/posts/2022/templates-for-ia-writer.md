@@ -19,11 +19,17 @@ Recently, I finished the book [Engaging Japanese Philosophy: A Short History](ht
 
 On a Sunday morning, I decided to create a [prototype](https://codepen.io/kogakure/pen/RwxwoWm) based on the typesetting of this book in CSS. It had some interesting challenges and I did it just for fun.
 
+## iA Writer Template Nanzan
+
 Later that week I decided to create my first iA Writer template based on that style. I called the template [Nanzan](https://github.com/kogakure/ia-writer-template-nanzan) (南山) because the book was typeset by the _Nanzan Institute for Religion and Culture_. It’s free and you can download the code as a ZIP archive and double click the `.iatemplate` file.
 
 ![Nanzan](/assets/images/posts/ia-writer-template-nanzan.jpg)
 
 {% more "iA Writer Template Nanzan on Github", "https://github.com/kogakure/ia-writer-template-nanzan", true %}
+
+---
+
+## iA Writer Template Shibui
 
 After I finished my first template I decided to immediately create my second template, based on the aesthetics style I used for my personal branding. I called it [Shibui](https://github.com/kogakure/ia-writer-template-shibui) (渋い) because that is the style I based my design on.
 
