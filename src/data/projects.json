@@ -64,7 +64,7 @@
   {
     "title": "iA Writer Template Shibui (渋い)",
     "categories": ["Web Design", "Web Development"],
-    "text": "<p>This <a href='https://ia.net/writer' rel='nofollow noopener noreferrer external' target='_blank'>iA Writer</a> template is inspired by the Japanese aesthetics style shibui which was founded during the Muromachi period (1336-1392). I use the same style for my current personal branding on my personal website, for my martial arts book and my photo blog.</p>",
+    "text": "<p>This <a href='https://ia.net/writer' rel='nofollow noopener noreferrer external' target='_blank'>iA Writer</a> template is inspired by the Japanese aesthetics style shibui which was founded during the Muromachi period (1336-1392). I use the same style for my current personal branding on my personal website, for my <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>martial arts book</a> and my <a href='https://hamburg.stefanimhoff.de/' rel='nofollow noopener noreferrer external' target='_blank'>photo blog</a>.</p>",
     "linkText": "Download iA Writer Template Shibui on GitHub",
     "link": "https://github.com/kogakure/ia-writer-template-shibui",
     "external": true,
