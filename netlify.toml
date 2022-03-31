@@ -5,6 +5,10 @@
 [build.environment]
   NODE_VERSION = "12.16"
 
+[dev]
+  command = "npm run dev"
+  publish = "dist"
+
 [[headers]]
   for = "/*"
   [headers.values]
