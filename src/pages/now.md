@@ -22,9 +22,9 @@ I’m reading currently these **books**:
 
 I’m working with the [Zettelkasten](https://zettelkasten.de/) note-taking method using [Obsidian](https://obsidian.md/) to write and link ideas, [DEVONthink](https://www.devontechnologies.com/apps/devonthink) to store reference material, and [iA Writer](https://ia.net/writer) to create texts out of the ideas. These are some statistics:
 
-- **2534** notes
-- **443** bibliography entries
-- **5217** reference items
+- **2603** notes
+- **453** bibliography entries
+- **5243** reference items
 
 ---
 
