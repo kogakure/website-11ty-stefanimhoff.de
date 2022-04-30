@@ -1,6 +1,7 @@
 ---
 title: Manage References for Note-Taking
 date: 2022-04-22T18:00:00+02:00
+updated: 2022-04-30
 author: Stefan Imhoff
 description: When writing notes, it’s important to keep references somewhere to make sure our ideas are backed and we can quote the source accordingly. This is how I work with my references.
 tags:
@@ -29,7 +30,7 @@ I use an approach probably most people follow. If I see an interesting item, I o
 
 I recently made a huge change to my workflow. I used Pocket for many years as the tool of choice for collecting items to process. But in the last months, I got more and more unhappy with Pocket. Even though it’s still the best-integrated tool of that kind, I had the feeling the company focuses on the wrong things. Instead of improving the interface and retrievability of my collected items, they focused on features to discover new things. I don’t need nor want that, I distrust algorithms, because they just transport the bias of their programmers. And most programmers (me included) are left-leaning, the result is an inaccurate and biased view of the world. I decide whom I follow and what I consume.
 
-Instead of allowing me to use the full size of my monitor to quickly browser my collection on a masonry grid, everything is still crammed into small columns with small thumbnails. At least the tagging feature got some love lately.
+Instead of allowing me to use the full size of my monitor to quickly browse my collection on a masonry grid, everything is still crammed into small columns with small thumbnails. At least the tagging feature got some love lately.
 
 And the search is a nightmare, it simply doesn’t work. It’s slow and even if I remember reading an item two weeks ago and searching for the exact words, it’s unlikely to be in the results. The results are pages long, but sometimes outright wrong. Filtering for oldest/newest/relevance seems to be broken because it doesn’t work anymore. Once something is in Pocket, I will _never_ find it again.
 
@@ -39,7 +40,7 @@ In 2020 I stumbled on the new bookmark manager [Raindrop.io](https://raindrop.io
 
 Sometimes I used its nice big view and ultra-fast and fantastic search to find a bookmark, but I used Pocket to collect and read my items.
 
-Over the next year, Pocket became more annoying to me and I used Raindrop.io more often. Last month they added the brand-new _Highlights_ feature and it is fantastic. It allows highlighting on any website text (in four different colors) and adding notes. A browser extension even keeps the highlight active the next time you visit the website. Additionally, the highlights are collected in a highlights section of the app.
+Over the next year, Pocket became more annoying to me and I used Raindrop.io more often. Last month they added the brand-new _Highlights_ feature and it is fantastic. It allows to highlight text on any website (in four different colors) and to add notes. A browser extension even keeps the highlight active the next time you visit the website. Additionally, the highlights are collected in a highlights section of the app.
 
 I decided to look into the features of Raindrop.io again and discovered things I didn’t know it was able to do. Each collection can have a different view (List, Card, Headlines, Moodboard). You can upload PDFs, images, and videos. There is an [Alfred Plugin](https://www.packal.org/workflow/search-raindropio), manual sorting, export functionality of your bookmarks, and a shortcut to search inside the browser bar for bookmarks. The Pro version allows full-text search, nested collections, permanent copies, finding duplicates, and broken links. I decided to go Pro again.
 
@@ -59,7 +60,7 @@ After I consumed the content I collected, I add tags and then I move it to an ar
 
 ## DEVONthink
 
-If a reference is very important to me, I’ll collect it into [DEVONthink](https://devontechnologies.com/apps/devonthink). Even though Raindrop.io has an offline feature, allowing to keep article, if the content goes offline, I still never trust cloud solutions fully. In DEVONthink the content is mine, it’s offline. I usually save articles with the DEVONthink web clipper as Markdown (sometimes PDF, or full websites) into my reference archive.
+If a reference is very important to me, I’ll collect it into [DEVONthink](https://devontechnologies.com/apps/devonthink). Even though Raindrop.io has an offline feature, allowing to keep articles, if the content goes offline, I still never trust cloud solutions fully. In DEVONthink the content is mine, it’s offline. I usually save articles with the DEVONthink web clipper as Markdown (sometimes PDF, or full websites) into my reference archive.
 
 I have currently 21K bookmarks in Raindrop.io and 5K reference items in DEVONthink, so roughly ¼ of all reference items make it offline.
 
