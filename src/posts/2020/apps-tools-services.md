@@ -1,6 +1,7 @@
 ---
 title: Apps, Tools & Services
 date: 2020-04-18T10:00:00+02:00
+updated: 2022-04-30
 author: Stefan Imhoff
 description: All the apps, tools and services I use on my iPhone, iPad, Apple Watch, Apple TV, and Mac.
 tags:
@@ -38,11 +39,11 @@ DEVONthink has data science algorithms that analyze your content and suggest a l
 
 I store everything in DEVONthink. Notes, PDF documents (scanned with OCR), images, videos, quotes, and use over 17000 different tags in 5 databases.
 
-### Obsidian 🖥
+### Obsidian 📱 🖥
 
-I use [Obsidian](https://obsidian.md/) to write notes and to connect ideas. It’s the best tool I know for note-taking. In less than 6 month I created over 800 notes in Obsidian. It’s Markdown based and the files are plain text file on your hard drive.
+I use [Obsidian](https://obsidian.md/) to write notes and to connect ideas. It’s the best tool I know for note-taking. In less than 6 month I created over 800 notes in Obsidian. It’s Markdown based and the files are plain text file on your hard drive. I’m currently using the [Minimal](https://minimal.guide/) theme.
 
-### Scanner Pro 📱
+### Scanner Pro
 
 I use [Scanner Pro](https://apps.apple.com/app/scanner-pro-pdf-scanner-app/id333710667) on my iPhone and iPad. Nearly every document I get in a paper format I scan with this app. The documents get converted with [OCR](https://en.wikipedia.org/wiki/Optical_character_recognition) to PDF with searchable text and can be automatically saved to cloud storage like Dropbox or iCloud. From there I move the documents directly into DEVONthink.
 
@@ -84,9 +85,9 @@ I use [Apple Numbers](https://www.apple.com/numbers/) for everything I need to d
 
 [Time Sink](https://manytricks.com/timesink/) is a Mac app that allows tracking how much time you spend on which app. You can see which apps are active and how long and at what times.
 
-### Productive habits & daily goals tracker 📱
+### Habit Tracker
 
-I use [Productive](http://productiveapp.io/) to track my habits. You can decide which habit you want to perform how often per day or week and then check off what you did during the day. You can see your streaks for each habit and stay motivated.
+I use [Habit Tracker](https://apps.apple.com/app/habit-tracker/id1438388363) to track my habits. You can decide which habit you want to perform how often per day or week and then check off what you did during the day. You can see your streaks for each habit and stay motivated.
 
 ### IFTTT (Pro) 📱 🌐
 
@@ -124,9 +125,9 @@ It has support for RAW, PSD, 360° photo editing, HDR, batch automation, smart o
 
 [Affinity Publisher](https://affinity.serif.com/publisher/) is the newest tool by **Serif**. It’s an incredibly powerful DTP tool to replace Adobe InDesign or Quark Express. I just started working with it but I plan to create and layout a book with it. It seamlessly integrates with Affinity Designer and Affinity Photo and allows doing nearly everything you can think of.
 
-### Mindnote 📱 🖥
+### MindNode 📱 🖥
 
-[Mindnote](https://mindnode.com/) is my favorite tool to create mind notes and map out ideas. I use it on all my devices. When I learned everything about Japanese Design I used it to [map out my research](https://my.mindnode.com/FGhdh66uMbi1aJ9RfriKUL3JoMCHd18aS8z9Uayw).
+[MindNode](https://mindnode.com/) is my favorite tool to create mind notes and map out ideas. I use it on all my devices. When I learned everything about Japanese Design I used it to [map out my research](https://my.mindnode.com/FGhdh66uMbi1aJ9RfriKUL3JoMCHd18aS8z9Uayw).
 
 ### Typeface 🖥
 
@@ -146,13 +147,19 @@ I don’t like [Instagram](https://www.behance.net/) too much, because the brows
 
 ## Development
 
+### NeoVim 🖥
+
+I use [NeoVim](https://neovim.io/) as my primary code editor. It’s just the best editor available. You can see my configuration files, the mappings, settings, functions, and the plugins I use in my [dotfiles](https://github.com/kogakure/dotfiles/tree/master/nvim) repository.
+
 ### Visual Studio Code 🖥
 
-I use [Visual Studio Code](https://code.visualstudio.com/) as my primary code editor. It’s just the best editor available. But because I’m a Vim user for more than a decade, I use a [NeoVim integration](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim). This way I can combine the best of both worlds. And I still use [NeoVim](https://neovim.io/) from time to time, when Visual Studio Code is not powerful enough for a task. I use a bunch of extensions which would be too much to list them all. Maybe I’ll do it in a future blog post.
+I still use [Visual Studio Code](https://code.visualstudio.com/) from time to time. I use a bunch of extensions which would be too much to list them all.
 
-### iTerm 🖥
+### Kitty 🖥
 
-Even though _Visual Studio Code_ has a build-in terminal, I usually use it only for running tests or committing files in Git. I use [iTerm](https://iterm2.com/) instead. It’s the best terminal emulator available. I use additionally [tmux](https://github.com/tmux/tmux/) and [tmuxinator](https://github.com/tmuxinator/tmuxinator) to manage and restore multiple terminal sessions. I can easily switch between projects or keep multiple servers running.
+I used iTerm2 for a long time as my terminal, but recently I switched to [Kitty](https://github.com/kovidgoyal/kitty). It is much fast which is important, because I use NeoVim in the terminal as my primary code editor.
+
+I use additionally [tmux](https://github.com/tmux/tmux/) and [tmuxinator](https://github.com/tmuxinator/tmuxinator) to manage and restore multiple terminal sessions. I can easily switch between projects or keep multiple servers running.
 
 ### GitHub 📱 🖥 🌐
 
@@ -180,21 +187,37 @@ I use [Integrity](https://apps.apple.com/app/integrity/id513610341) regularly to
 
 ## News & Information
 
-### Feedly (Pro+) 📱 🌐
+### Feedbin 📱 🌐
 
-[Feedly](https://feedly.com/) is my main source of information. I follow all my RSS/Atom feeds, my YouTube subscriptions, Twitter tweets, Reddit, and news sources. The iPad app I use most of the time while reading my news during breakfast or on the sofa.
+[Feedbin](https://feedbin.com/) is my main source of information. I follow all my RSS/Atom feeds, my YouTube subscriptions, Twitter tweets, Newsletters, Reddit, and news sources. A really cool feature of Feedbin is to track changes in articles.
 
-I save everything of interest into Pocket for later research. I use Feedly since the Google News Reader shut down and never regretted paying for the service.
+I save everything of interest into Raindrop.io for later research. I used Feedly for many years since the Google News Reader shut down, but recently the pricing and features did not match and Feedbin is much more fun to use.
 
-They have useful features like muting specific words or phrases (for new contracts only with Pro+), annotate and search and also store a copy of everything you saved into Dropbox. I use DEVONthink to index this folder to search for everything I ever saved in Feedly since 2006.
+### Reeder 📱 🖥
 
-### Pocket (Premium) 📱 🌐
+I use Feedbin together with [Reeder 5](https://reederapp.com/). Reeder is a beautiful news reader which allows using read later services (Pocket, Instapaper) and many different services (Feedbin, Feedly, etc.) and also directly reading RSS/Atom feeds without a service and synchronizing them between all devices via iCloud.
 
-[Pocket](https://getpocket.com/) is my tool to save and read my content. Every article, video, or content I want to remember I save into Pocket. Mozilla bought Pocket and the Firefox browser has the feature built-in. I use tags to organize the content. Pocket allows reading articles without all the clutter and noise in a font, with line-height and width of your choice. I automatically save my favorite articles with IFTTT to Feedly and Pinboard – it’s always a good idea to have your content not just in one service.
+### Raindrop.io (Pro) 📱 🖥 🌐
+
+[Raindrop.io](https://raindrop.io/) is my bookmark manager. It is so much fun, I save nearly everything in it. The tool allows organizing bookmarks in collections (\$), tagging and filtering (by type of bookmark).
+
+A deduplicating service finds broken links (\$). The new highlighting feature allows to use 4 different colors and add comments to any text. A browser extension allows to hightlight the text also directly on the website. Each collection can use a different view (Grid, Headlines, Masonry, or List). Full-text search will search every web-page and PDF (\$). Raindrop automatically creates a backup of every website for offline reading (\$).
+
+Raindrop can also be used to create moodboards and it is possible to upload common media files. Collections can be edited together with other users and it is possible to share individual collections publicly ([here are mine](https://raindrop.io/kogakure)).
+
+### Pocket (Premium)
+
+I still use [Pocket](https://getpocket.com/) to create highlights, that get then synchronized to Readwise. As soon as the hightlights of Raindrop.io are synchronized to Readwise, I will reconsider keeping Pocket. I automatically move articles from Raindrop.io to Pocket via IFTTT.
+
+### Readwise 📱 🌐
+
+[Readwise](https://readwise.io/) is my favorite tool to have all my hightlights of different services in one place, no matter if it is my Kindle, Apple Books, Pocket, Feedly, Instapaper, Medium, Twitter, etc. Each morning you get five random hightlights to review which is a fantastic way to be reminded of ideas you highlighted.
+
+I synchronize my hightlights with Obsidian where I store them permanently as Markdown documents.
 
 ### Pinboard 🌐
 
-[Pinboard](https://pinboard.in/) I use mostly as a backup for all the links I save. They get automatically transferred from Pocket to Pinboard with IFTTT. I joined Pinboard when the price was a one-time payment of 9 USD.
+[Pinboard](https://pinboard.in/) I use mostly as a backup for all the links I save. They get automatically transferred from Raindrop.io to Pinboard with IFTTT. I joined Pinboard when the price was a one-time payment of 9 USD.
 
 ### Wikipedia 📱 🌐
 
@@ -202,7 +225,7 @@ I use the [Wikipedia](https://www.wikipedia.org/) website and [iOS app](https://
 
 ### Tweetbot 📱 🖥
 
-I use [Tweetbot for iOS](https://tapbots.com/tweetbot/) and [Tweetbot for Mac](https://www.tapbots.com/tweetbot/mac/) as my primary Twitter client. The Twitter feed is otherwise just too messy, unordered, and full of advertising. I don’t like Twitter in particular, but unfortunately, a lot of industry news is just published there. I mute everybody annoying instantly in Tweetbot, sometimes for a week, a month, or forever.
+I read Twitter feeds in Feedbin, but occasionally I use [Tweetbot for iOS](https://tapbots.com/tweetbot/) and [Tweetbot for Mac](https://www.tapbots.com/tweetbot/mac/) as a Twitter client. The Twitter feed is otherwise just too messy, unordered, and full of advertising. I don’t like Twitter in particular, but unfortunately, a lot of industry news is just published there. I mute everybody annoying instantly in Tweetbot, sometimes for a week, a month, or forever.
 
 ### Minds 📱 🌐
 
@@ -258,9 +281,17 @@ Matrix even allows bridges, to communicate with a user of Slack, Apple Messenger
 
 You can contact me on [@kogakure:matrix.org](https://matrix.to/#/@kogakure:matrix.org).
 
+### Status 📱 🖥
+
+[Status](https://status.im/) is a new completely decentralized instant messaging app. It’s also a crypto wallet and a Web3 browser. No phone, email, or username is needed to use it. You can choose a random unique id at the first start. I think it’s a very pretty messenger and it’s easy to share the own (complete anonymous) [profile](https://join.status.im/u/0x046ef708e10d74f71a3294f6bb4b96f0731c6a39bd9abd0993ddfd0015500d3c0dda98b351b2685b9f0e0e57d71cba8149d494f801956a051e77d15d963dc74b81).
+
 ### Session 📱 🖥
 
-[Session](https://getsession.org/) is a new messenger with an interesting security model. It collects no meta data. Not even your phone number or email. You are completely anonymous. The first time you use it you get a session key. You can save a backup for this session to restore it on another device. To contact another person all you need is have the public session key. The chat is routed through a onion routing network which makes it nearly impossible to leave any footprint. It’s open source and censorship resitant.
+[Session](https://getsession.org/) is a new decentralized messenger with an interesting security model. It collects no meta data. Not even your phone number or email. You are completely anonymous. The first time you use it you get a session key. You can save a backup for this session to restore it on another device. To contact another person all you need is have the public session key. The chat is routed through a onion routing network which makes it nearly impossible to leave any footprint. It’s open source and censorship resitant.
+
+### Brave Talk 🌐
+
+[Brave Talk](https://talk.brave.com/) is a way to have unlimited video calls with up to 4 people for free. No download of any app needed.
 
 ### Jitsi Meet 📱 🌐
 
@@ -295,6 +326,10 @@ To listen to podcasts I use [Apple Podcasts](https://apps.apple.com/app/apple-po
 ### YouTube 📱 🌐
 
 I use the [YouTube](https://www.youtube.com/) app and website a lot to watch videos from channels I follow. I use the extensions [DF YouTube](https://addons.mozilla.org/en-US/firefox/addon/df-youtube/) and [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/) to make the viewing experience more enjoyable. I hide all sidebars, comments, suggestions, and other needy crap. Also, all videos stop by default and are automatically switched to fullscreen mode.
+
+### Odysee/LBRY 📱 🖥 🌐
+
+[Odysee](https://odysee.com/) is a complete decentralized video platform that doesn’t censor anything except illegal things. It uses the [LBRY](https://lbry.com/) network for open, free, and fair digital content. LBRY itself doesn’t censor anything, it is not able to do so, because the content is shared peer-to-peer and the meta data lives on the blockchain.
 
 ### IMDb 📱 🌐
 
@@ -376,6 +411,10 @@ Shirabe Jisho is a [powerful Japanese-English dictionary](https://jisho.org/). I
 
 [Goodreads](https://www.goodreads.com/) is the only decent social reading platform. I use it to track the books I want to read and the books I’m reading and update my status once a week. You can save books to shelves, follow friends, and get inspirations about what to read next or do a reading challenge every year. You can [follow me on Goodreads](https://www.goodreads.com/user/show/28460819) or look into the books I’ve read.
 
+### Literal 📱 🌐
+
+[Literal](https://literal.club/) is a new platform to explore new books, join book clubs and share what you read with other people. It’s currently still invite-only, but I have invites left. Ping me if you want an invite. You can [follow me on Literal](https://literal.club/kogakure).
+
 ### Kindle 📱 🖥
 
 I use the [iPad and iPhone Kindle](https://apps.apple.com/app/kindle/id302584613) app and the [MacOS Kindle](https://apps.apple.com/app/kindle/id405399194) app as a companion to my Kindle Paperwhite. I use the app usually either to look at color photos or illustrations or after I’ve finished a book to review my marginalia (notes and markings).
@@ -397,6 +436,10 @@ The [Health Mate](https://healthmate.withings.com/) app by Withings is a nice wa
 ### Reps & Sets
 
 I use the [Reps & Sets](https://repsandsetsapp.com/) app for my [Calisthenics](/calisthenics/) training, multiple times per week. As a early adopter I get the Premium features for free.
+
+### Insight Timer 📱
+
+I use [Insight Timer](https://insighttimer.com/) for my daily meditation. I honestly don’t use much of it’s features, except the feature to create custom timers.
 
 ## Finance & Calculations
 
@@ -432,10 +475,6 @@ I use the [Netatmo](https://www.netatmo.com/) weather app to monitor the tempera
 
 [AlertsPro](http://www.alertspro.com/lang/en.html) is the thirds weather app by _MeteoGroup_ on my devices. It shows weather warnings for your locations and visualizes the length, region, and severity of severe weather.
 
-### MeteoEarth 📱 🌐
-
-[MeteoEarth](http://www.meteoearth.com/) is the fourth app by _MeteoGroup_ on my devices and has also a free online version. It allows visualization of real-time data of temperature, rain, clouds, wind, air pressure, and tropical storms around the globe.
-
 ### SolarWatch 📱
 
 [SolarWatch](https://apps.apple.com/app/solarwatch-tageslicht-wetter/id1191365122) is my favorite app to show the sunrise and sunset.
@@ -454,9 +493,13 @@ I switched to [Apple Maps](https://www.apple.com/maps/), because I dislike Googl
 
 [Google Translate](https://translate.google.com/) is my favorite translation app. It got so good in the last years that most sentences it produces don’t need any manual changes.
 
+### Dropbox (Plus) 📱 🖥 🌐
+
+[Dropbox](https://www.dropbox.com/) is my cloud provider. My [Synology NAS](https://www.synology.com/) synchronizes automatically everything in Dropbox as a backup. Never trust cloud providers.
+
 ### iCloud 📱 🖥 🌐
 
-[iCloud](https://www.icloud.com/) is my cloud provider. I used Dropbox for a long time, but the new CloudKit sync is so fast and seamless with Apple Devices, I made the switch.
+[iCloud](https://www.icloud.com/) is my second cloud provider. The new CloudKit sync is so fast and seamless with Apple Devices and Apple services work optimally with iCloud.
 
 ### The Unarchiver 🖥
 
