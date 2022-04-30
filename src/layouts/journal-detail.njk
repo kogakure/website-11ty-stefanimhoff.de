@@ -21,6 +21,11 @@ css: journal.css
   </aside>
   <div class="journal-post">
     {{ content | safe }}
+    {% if updated %}
+    <footer class="journal-post-meta-updated">
+      <b>Last Updated:</b> <time datetime="{{ updated | dateToISO }}">{{ updated | dateToFormat() }}</time>
+    </footer>
+    {% endif %}
   </div>
   {% include "pagination.njk" %}
 </article>
