@@ -89,6 +89,7 @@ h6:first-of-type {
 
 /** GitHub Style Anchor */
 .anchor {
+  fill: var(--color-fg);
   float: left;
   line-height: 1;
   margin-inline-start: -20px;
