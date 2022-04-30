@@ -1,9 +1,9 @@
 const outdent = require('outdent')({
-  newline: ' '
+  newline: ' ',
 });
 
 module.exports = {
-  affiliate: function(text, asin) {
+  affiliate: function (text, asin) {
     const affiliateLink = `http://www.amazon.de/gp/product/${asin}?ie=UTF8&tag=stefanimhoffde-21&linkCode=as2&camp=1638&creative=6742&creativeASIN=${asin}`;
 
     const html = outdent`
@@ -11,7 +11,7 @@ module.exports = {
 
     return html;
   },
-  book: function(asin, alt = '') {
+  book: function (asin, alt = '') {
     const amazonImageUrl = `https://images-na.ssl-images-amazon.com/images/P/${asin}.01.LZZZZZZZ.jpg`;
     const affiliateUrl = `http://www.amazon.de/gp/product/${asin}?ie=UTF8&tag=stefanimhoffde-21&linkCode=as2&camp=1638&creative=6742&creativeASIN=${asin}`;
 
@@ -26,13 +26,13 @@ module.exports = {
 
     return html;
   },
-  bookshelf: function(content) {
+  bookshelf: function (content) {
     return outdent`
     <div class="book-shelf">
       ${content}
     </div>`;
   },
-  banner: function(content, summary, open = false) {
+  banner: function (content, summary, open = false) {
     let isOpen;
 
     if (open) {
@@ -49,7 +49,7 @@ module.exports = {
       </details>
     </aside>`;
   },
-  flag: function(label, href) {
+  flag: function (label, href) {
     let html;
 
     if (href) {
@@ -70,7 +70,7 @@ module.exports = {
 
     return html;
   },
-  netflix: function(id) {
+  netflix: function (id) {
     const html = outdent`
       <a 
         rel="nofollow noopener noreferrer external" 
@@ -79,11 +79,11 @@ module.exports = {
         class="flag flag-netflix" 
         title="Netflix"
       >
-        <span class="flag-hidden" aria-hidden="true">[</span>N<span class="flag-hidden" aria-hidden="true">]</span></a>`;
+        <span class="flag-hidden" aria-hidden="true">[</span>N<span class="flag-hidden" aria-hidden="true">etflix]</span></a>`;
 
     return html;
   },
-  primevideo: function(id) {
+  primevideo: function (id) {
     const html = outdent`
     <a 
       rel="nofollow noopener noreferrer external" 
@@ -92,11 +92,11 @@ module.exports = {
       class="flag flag-prime-video" 
       title="Prime Video"
     >
-      <span class="flag-hidden" aria-hidden="true">[</span>P<span class="flag-hidden" aria-hidden="true">]</span></a>`;
+      <span class="flag-hidden" aria-hidden="true">[</span>P<span class="flag-hidden" aria-hidden="true">rime Video]</span></a>`;
 
     return html;
   },
-  color: function(color, title = false, description = false) {
+  color: function (color, title = false, description = false) {
     const activeClass = 'color-swatch--is-active';
     let clickHandler;
     let descriptionHeadline;
@@ -141,13 +141,13 @@ module.exports = {
 
     return html;
   },
-  colorstack: function(content) {
+  colorstack: function (content) {
     return outdent`
     <div class="color-stack">
       ${content}
     </div>`;
   },
-  more: function(text, url, external = false) {
+  more: function (text, url, external = false) {
     let externalLink;
 
     if (external) {
@@ -167,7 +167,7 @@ module.exports = {
 
     return html;
   },
-  download: function(text, url) {
+  download: function (text, url) {
     const html = outdent`
     <a href="${url}">${text}<span class="download-icon">
         <svg aria-hidden="true" viewBox="0 0 24 24" width="1em" height="1em">
@@ -177,7 +177,7 @@ module.exports = {
 
     return html;
   },
-  email: function(text, key = false) {
+  email: function (text, key = false) {
     const downloadText = 'Download public key (ProtonMail/GPG)';
     const link = outdent`
     <a id="email" class="objuscated" href="mailto:hey (at) imhoff (dot) name">
@@ -197,11 +197,11 @@ module.exports = {
 
     return `${link} ${key ? keyDownload : ''}`;
   },
-  verse: function(content) {
+  verse: function (content) {
     return outdent`
     <blockquote class="verse"><pre>${content}</pre></blockquote>`;
   },
-  youtube: function(id) {
+  youtube: function (id) {
     return outdent`
     <div class="video-wrapper">
       <iframe src="https://www.youtube.com/embed/${id}"
@@ -210,7 +210,7 @@ module.exports = {
       </iframe>
     </div>`;
   },
-  odysee: function(id) {
+  odysee: function (id) {
     return outdent`
     <div class="video-wrapper">
       <iframe id="lbry-iframe" src="https://odysee.com/$/embed/${id}" 
