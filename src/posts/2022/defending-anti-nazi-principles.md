@@ -8,7 +8,7 @@ tags:
   - politics
 ---
 
-Today is the “_Anniversary of the Liberation from National Socialism_”. I stumbled upon _Section 41_ of the book <cite>Nietzsche and the Nazis</cite>[^hicks2010ub] [^hicks2013bu] by **Stephen Hicks**, Ph.D.
+Today is the “_Anniversary of the Liberation from National Socialism_.” I stumbled upon _Section 41_ of the book <cite>Nietzsche and the Nazis</cite>[^hicks2010ub][^hicks2013bu] by **Stephen Hicks**, Ph.D.
 
 He identified five major principles of the Nazis:
 
@@ -18,7 +18,7 @@ He identified five major principles of the Nazis:
 - Authoritarianism
 - Socialism
 
-We should remember that it weren’t some “evil” people, who were the result of the war and its atrocities, but the collective acceptance and support for the five principles above.
+We should remember that it weren’t some “evil” people, who were the reason for the war and its atrocities, but the collective acceptance and support for the five principles above.
 
 It’s time to remind ourselves that the opposite of those values is the antidote against repeating the past. But unfortunately we can observe the opposite is happening.
 

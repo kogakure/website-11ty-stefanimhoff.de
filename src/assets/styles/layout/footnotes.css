@@ -2,6 +2,7 @@
 .footnote-ref a {
   color: var(--color-accent);
   font-weight: var(--font-weight-light);
+  padding: 0.1em;
 }
 
 .footnote-bracket {
