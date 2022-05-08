@@ -372,6 +372,7 @@ q {
 /** Links */
 a {
   color: var(--color-fg);
+  font-variant-ligatures: none;
   font-weight: var(--font-weight-semi-bold);
   text-decoration: underline;
   text-decoration-color: var(--color-fg-soft);
