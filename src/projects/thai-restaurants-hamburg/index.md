@@ -23,7 +23,7 @@ I learned a lot about Graphic Design while working on it. I created the complete
 
 <figure class="dark image-shadow">
 
-![Typeface Diavlo](./images/thai-restaurant-typefaces.svg)
+![Typeface Diavlo](/assets/images/projects/thai-restaurants-hamburg/thai-restaurant-typefaces.svg)
 
 </figure>
 
@@ -31,20 +31,20 @@ I learned a lot about Graphic Design while working on it. I created the complete
 
 <figure class="light image-shadow">
 
-![Gold Accessories](./images/thai-restaurant-accessories.jpg)
+![Gold Accessories](/assets/images/projects/thai-restaurants-hamburg/thai-restaurant-accessories.jpg)
 
 </figure>
 
 ## Making-Of Buddha Composition
 
-![Subpage](./images/thai-restaurant-making-of-buddha.jpg)
+![Subpage](/assets/images/projects/thai-restaurants-hamburg/thai-restaurant-making-of-buddha.jpg)
 
 ## Homepage
 
-![Homepage](./images/thai-restaurant-homepage.jpg)
+![Homepage](/assets/images/projects/thai-restaurants-hamburg/thai-restaurant-homepage.jpg)
 
 ## Subpages
 
-![Subpage Restaurants](./images/thai-restaurant-restaurants.jpg)
+![Subpage Restaurants](/assets/images/projects/thai-restaurants-hamburg/thai-restaurant-restaurants.jpg)
 
-![Phone Bistros](./images/thai-restaurant-bistros.jpg)
+![Phone Bistros](/assets/images/projects/thai-restaurants-hamburg/thai-restaurant-bistros.jpg)

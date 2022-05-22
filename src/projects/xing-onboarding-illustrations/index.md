@@ -11,16 +11,16 @@ One icon was needed for _Job Beginners_, one for _Professionals_ and one for _Re
 
 ## Final Illustrations
 
-![Final Illustrations](./images/xing-illustrations-final-illustrations.jpg)
+![Final Illustrations](/assets/images/projects/xing-onboarding-illustrations/xing-illustrations-final-illustrations.jpg)
 
 ## Final Draft
 
-![Final Draft](./images/xing-illustrations-final-draft.jpg)
+![Final Draft](/assets/images/projects/xing-onboarding-illustrations/xing-illustrations-final-draft.jpg)
 
 ## Making-Of
 
-![Making-Of Starter](./images/xing-illustrations-making-of-starter.jpg)
+![Making-Of Starter](/assets/images/projects/xing-onboarding-illustrations/xing-illustrations-making-of-starter.jpg)
 
-![Making-Of Retired](./images/xing-illustrations-making-of-retired.jpg)
+![Making-Of Retired](/assets/images/projects/xing-onboarding-illustrations/xing-illustrations-making-of-retired.jpg)
 
-![Making-Of Professional](./images/xing-illustrations-making-of-professional.jpg)
+![Making-Of Professional](/assets/images/projects/xing-onboarding-illustrations/xing-illustrations-making-of-professional.jpg)

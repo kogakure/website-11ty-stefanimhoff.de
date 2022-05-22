@@ -29,22 +29,22 @@ At the end of 2021 I decided to unify my brand and to redesign my [photo blog](h
 
 <figure class="light image-shadow">
 
-![Secuela Variable Regular](./images/secuela-variable-regular.svg)
+![Secuela Variable Regular](/assets/images/projects/exploring-hamburg-v2/secuela-variable-regular.svg)
 
 </figure>
 
 <figure class="light image-shadow">
 
-![Secuela Variable Italic](./images/secuela-variable-italic.svg)
+![Secuela Variable Italic](/assets/images/projects/exploring-hamburg-v2/secuela-variable-italic.svg)
 
 </figure>
 
 ## Homepage
 
-![Homepage Light](./images/exploring-hamburg-v2-homepage.jpg)
+![Homepage Light](/assets/images/projects/exploring-hamburg-v2/exploring-hamburg-v2-homepage.jpg)
 
-![Homepage Dark](./images/exploring-hamburg-v2-homepage-dark.jpg)
+![Homepage Dark](/assets/images/projects/exploring-hamburg-v2/exploring-hamburg-v2-homepage-dark.jpg)
 
 ## Subpage
 
-![Subpage](./images/exploring-hamburg-v2-subpage.jpg)
+![Subpage](/assets/images/projects/exploring-hamburg-v2/exploring-hamburg-v2-subpage.jpg)

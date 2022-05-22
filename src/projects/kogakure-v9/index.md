@@ -33,40 +33,40 @@ The first time in it‘s 22-year-long history I created a complete translation o
 
 <figure class="light image-shadow">
 
-![Secuela Variable Regular](./images/secuela-variable-regular.svg)
+![Secuela Variable Regular](/assets/images/projects/kogakure-v9/secuela-variable-regular.svg)
 
 </figure>
 
 <figure class="light image-shadow">
 
-![Secuela Variable Italic](./images/secuela-variable-italic.svg)
+![Secuela Variable Italic](/assets/images/projects/kogakure-v9/secuela-variable-italic.svg)
 
 </figure>
 
 ## Illustration
 
-![Bamboo Illustration](./images/kogakure-v8-illustration.jpg)
+![Bamboo Illustration](/assets/images/projects/kogakure-v9/kogakure-v8-illustration.jpg)
 
 ## Homepage
 
-![Homepage Light](./images/kogakure-v9-homepage.jpg)
+![Homepage Light](/assets/images/projects/kogakure-v9/kogakure-v9-homepage.jpg)
 
-![Homepage Dark](./images/kogakure-v9-homepage-dark.jpg)
+![Homepage Dark](/assets/images/projects/kogakure-v9/kogakure-v9-homepage-dark.jpg)
 
 ## Subpages
 
 <div class="projects-detail-medium">
 
-![](./images/kogakure-v9-essay.jpg)
+![](/assets/images/projects/kogakure-v9/kogakure-v9-essay.jpg)
 
-![](./images/kogakure-v9-recommendations.jpg)
+![](/assets/images/projects/kogakure-v9/kogakure-v9-recommendations.jpg)
 
 </div>
 
 <div class="projects-detail-medium">
 
-![](./images/kogakure-v9-colophon.jpg)
+![](/assets/images/projects/kogakure-v9/kogakure-v9-colophon.jpg)
 
-![](./images/kogakure-v9-glossary.jpg)
+![](/assets/images/projects/kogakure-v9/kogakure-v9-glossary.jpg)
 
 </div>

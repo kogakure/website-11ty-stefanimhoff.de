@@ -13,7 +13,7 @@
     "text": "<p>One of my passions is <em>Sketchnotes</em> or also called <em>Visual Notetaking</em>. In Sketchnoting you use visual language to quickly visualize ideas, notes, or thoughts. I create Sketchnotes since I first visited a workshop in <strong>2015</strong>.</p>",
     "linkText": "See Sketchnotes",
     "link": "/sketchnotes/",
-    "image": "/assets/images/projects/sketchnotes.jpg",
+    "image": "/assets/images/projects/thumbnails/sketchnotes.jpg",
     "class": "project-layout-50-end"
   },
   {
@@ -30,7 +30,7 @@
     "text": "<p>As a Senior Web Developer on the Design System Team I created, maintained, and documented the components of the XING Design System. I supported teams implementing our components across the platform.</p>",
     "linkText": "See XING Design System Components",
     "link": "/projects/xing-design-system/",
-    "image": "/assets/images/projects/xing-design-system.jpg",
+    "image": "/assets/images/projects/thumbnails/xing-design-system.jpg",
     "class": "project-layout-70-end"
   },
   {
@@ -39,7 +39,7 @@
     "text": "<p>I was asked to create three new illustrations that could be used for an Onboarding screen on <a href='https://www.xing.com/' rel='nofollow noopener noreferrer external' target='_blank'>XING</a>. I accepted the challenge to take over this task outside of my job description and finished the whole process from concept, scribbles to final illustrations in a day.</p>",
     "linkText": "See XING Onboarding Illustrations",
     "link": "/projects/xing-onboarding-illustrations/",
-    "image": "/assets/images/projects/xing-illustrations.jpg",
+    "image": "/assets/images/projects/thumbnails/xing-illustrations.jpg",
     "class": "project-layout-70-start"
   },
   {
@@ -48,7 +48,7 @@
     "text": "<p>In 2007 I stumbled upon a Japanese book about the traditional colors of Japan by <strong>Nobyoshi Hamada</strong>. He listed all 250 colors with their color value in the appendix. I took some time to create an ASE file to be used with all common design software.</p><p>With this version of the website I finally dedicate an extra section to the colors, listing them all with their name and color values.</p>",
     "linkText": "See Traditional Colors of Japan",
     "link": "/traditional-colors-of-japan/",
-    "image": "/assets/images/projects/traditional-colors-of-japan.svg",
+    "image": "/assets/images/projects/thumbnails/traditional-colors-of-japan.svg",
     "class": "project-layout-50-end no-border svg-japanese-color"
   },
   {
@@ -58,7 +58,7 @@
     "linkText": "Download iA Writer Template Nanzan on GitHub",
     "link": "https://github.com/kogakure/ia-writer-template-nanzan",
     "external": true,
-    "image": "/assets/images/projects/ia-template-nanzan.jpg",
+    "image": "/assets/images/projects/thumbnails/ia-template-nanzan.jpg",
     "class": "project-layout-50-start"
   },
   {
@@ -68,14 +68,14 @@
     "linkText": "Download iA Writer Template Shibui on GitHub",
     "link": "https://github.com/kogakure/ia-writer-template-shibui",
     "external": true,
-    "image": "/assets/images/projects/ia-template-shibui.jpg",
+    "image": "/assets/images/projects/thumbnails/ia-template-shibui.jpg",
     "class": "project-layout-50-end"
   },
   {
     "title": "Bamboo Illustration",
     "categories": ["Illustration"],
     "text": "<p>I created the bamboo illustration in <strong>2006</strong> for my <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> used Adobe Illustrator and the gradient grid tool.</p><p><strong>2015</strong> I decided to use my bamboo as <abbr title='Scalable Vector Graphics'>SVG</abbr> on my website. Unfortunately, the gradient tool is not supported in <abbr>SVG</abbr> and I needed recreate my bamboo with linear, radial, and other supported gradients in <a href='https://affinity.serif.com/designer/' rel='nofollow noopener noreferrer external' target='_blank'>Affinity Designer</a>.</p>",
-    "image": "/assets/images/projects/bamboo-illustration.svg",
+    "image": "/assets/images/projects/thumbnails/bamboo-illustration.svg",
     "class": "project-layout-100-end svg-bamboo no-border"
   },
   {
@@ -84,7 +84,7 @@
     "text": "<p>My <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>Ninjutsu Book 木隠</a> was first launched in <strong>1999</strong> and is my oldest and most visited website. The current design is the <strong>9th</strong> iteration. In 2022 I translated it to English to make it accessible to a larger readership.</p>",
     "linkText": "See Showcase of Version 9",
     "link": "/projects/kogakure-v9/",
-    "image": "/assets/images/projects/kogakure-v9.jpg",
+    "image": "/assets/images/projects/thumbnails/kogakure-v9.jpg",
     "class": "project-layout-50-start"
   },
   {
@@ -94,7 +94,7 @@
     "linkText": "Read the Book",
     "link": "https://book.kogakure.de/",
     "external": true,
-    "image": "/assets/images/projects/book-kogakure.jpg",
+    "image": "/assets/images/projects/thumbnails/book-kogakure.jpg",
     "class": "project-layout-50-end"
   },
   {
@@ -103,7 +103,7 @@
     "text": "<p>My website and blog first launched in <strong>2006</strong> and is the website you’re looking at. The current design is the <strong>4th</strong> iteration.</p>",
     "linkText": "See Showcase of Version 4",
     "link": "/projects/stefanimhoff-v4/",
-    "image": "/assets/images/projects/stefanimhoff-v4.jpg",
+    "image": "/assets/images/projects/thumbnails/stefanimhoff-v4.jpg",
     "class": "project-layout-50-start"
   },
   {
@@ -112,7 +112,7 @@
     "text": "<p>I created this illustration for a previous version of my website in <strong>2007</strong> with a pencil on paper and then brought it into Adobe Photoshop, where all coloring was done.</p>",
     "linkText": "See the “Making-of”",
     "link": "/projects/koi-illustration/",
-    "image": "/assets/images/projects/koi-illustration.jpg",
+    "image": "/assets/images/projects/thumbnails/koi-illustration.jpg",
     "class": "project-layout-70-start"
   },
   {
@@ -121,7 +121,7 @@
     "text": "<p>I created this <a href='https://hamburg.stefanimhoff.de/' rel='nofollow noopener noreferrer external' target='_blank'>Photography Blog</a> for one of my hobbies: I explore the city Hamburg, mostly walking, sometimes biking to find out more about the individual districts and to shoot photos. The current design is the <strong>2nd</strong> iteration.</p>",
     "linkText": "See Showcase of Version 2",
     "link": "/projects/exploring-hamburg-v2/",
-    "image": "/assets/images/projects/exploring-hamburg-v2.jpg",
+    "image": "/assets/images/projects/thumbnails/exploring-hamburg-v2.jpg",
     "class": "project-layout-50-end"
   },
   {
@@ -130,7 +130,7 @@
     "text": "<p>I created this website for the <strong>Osteopathie-Institut Hamburg</strong> in <strong>2010</strong> as one of my last websites before I started working as a <em>Frontend Engineer</em> for XING.</p>",
     "linkText": "See Showcase of Osteopathie-Institut Hamburg",
     "link": "/projects/osteopathie-hamburg/",
-    "image": "/assets/images/projects/osteopathie-hamburg.jpg",
+    "image": "/assets/images/projects/thumbnails/osteopathie-hamburg.jpg",
     "class": "project-layout-50-start"
   },
   {
@@ -139,7 +139,7 @@
     "text": "<p>I created this small website for three Thai restaurants in Hamburg in <strong>2010</strong>. It was online for nearly ten years and I had a lot of fun creating it.</p>",
     "linkText": "See Showcase of Thai Restaurants Hamburg",
     "link": "/projects/thai-restaurants-hamburg/",
-    "image": "/assets/images/projects/thai-restaurant.jpg",
+    "image": "/assets/images/projects/thumbnails/thai-restaurant.jpg",
     "class": "project-layout-50-end"
   },
   {
@@ -149,7 +149,7 @@
     "linkText": "Download Font on GitHub",
     "link": "https://github.com/kogakure/font-ingo",
     "external": true,
-    "image": "/assets/images/projects/ingo-iga-ninja-cipher.jpg",
+    "image": "/assets/images/projects/thumbnails/ingo-iga-ninja-cipher.jpg",
     "class": "project-layout-50-start"
   }
 ]

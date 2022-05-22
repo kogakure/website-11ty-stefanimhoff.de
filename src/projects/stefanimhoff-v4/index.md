@@ -34,42 +34,42 @@ The Gatsby version is still hosted on a [subdomain](https://v3.stefanimhoff.de/)
 
 <figure class="light image-shadow">
 
-![Secuela Variable Regular](./images/secuela-variable-regular.svg)
+![Secuela Variable Regular](/assets/images/projects/stefanimhoff-v4/secuela-variable-regular.svg)
 
 </figure>
 
 <figure class="light image-shadow">
 
-![Secuela Variable Italic](./images/secuela-variable-italic.svg)
+![Secuela Variable Italic](/assets/images/projects/stefanimhoff-v4/secuela-variable-italic.svg)
 
 </figure>
 
 ## Homepage
 
-![Homepage Light](./images/stefanimhoff-v4-homepage.jpg)
+![Homepage Light](/assets/images/projects/stefanimhoff-v4/stefanimhoff-v4-homepage.jpg)
 
-![Homepage Dark](./images/stefanimhoff-v4-homepage-dark.jpg)
+![Homepage Dark](/assets/images/projects/stefanimhoff-v4/stefanimhoff-v4-homepage-dark.jpg)
 
 ## Subpages
 
-![](./images/stefanimhoff-v4-about.jpg)
+![](/assets/images/projects/stefanimhoff-v4/stefanimhoff-v4-about.jpg)
 
 <div class="projects-detail-medium">
 
-![](./images/stefanimhoff-v4-journal.jpg)
+![](/assets/images/projects/stefanimhoff-v4/stefanimhoff-v4-journal.jpg)
 
-![](./images/stefanimhoff-v4-essay.jpg)
+![](/assets/images/projects/stefanimhoff-v4/stefanimhoff-v4-essay.jpg)
 
 </div>
 
-![](./images/stefanimhoff-v4-haiku.jpg)
+![](/assets/images/projects/stefanimhoff-v4/stefanimhoff-v4-haiku.jpg)
 
-![](./images/stefanimhoff-v4-haiku-detail.jpg)
+![](/assets/images/projects/stefanimhoff-v4/stefanimhoff-v4-haiku-detail.jpg)
 
 <div class="projects-detail-medium">
 
-![](./images/stefanimhoff-v4-sketchnotes.jpg)
+![](/assets/images/projects/stefanimhoff-v4/stefanimhoff-v4-sketchnotes.jpg)
 
-![](./images/stefanimhoff-v4-colors-of-japan.jpg)
+![](/assets/images/projects/stefanimhoff-v4/stefanimhoff-v4-colors-of-japan.jpg)
 
 </div>

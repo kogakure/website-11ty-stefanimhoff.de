@@ -25,28 +25,28 @@ The website had an interactive carousel on the homepage, collapsible sections in
 
 <figure class="light image-shadow">
 
-![Typefaces Delicous and Baskerville](./images/osteopathie-hamburg-typefaces.svg)
+![Typefaces Delicous and Baskerville](/assets/images/projects/osteopathie-hamburg/osteopathie-hamburg-typefaces.svg)
 
 </figure>
 
 ## Homepage
 
-![Homepage](./images/osteopathie-hamburg-homepage.jpg)
+![Homepage](/assets/images/projects/osteopathie-hamburg/osteopathie-hamburg-homepage.jpg)
 
 ## Training Page
 
-![Training Page](./images/osteopathie-hamburg-training.jpg)
+![Training Page](/assets/images/projects/osteopathie-hamburg/osteopathie-hamburg-training.jpg)
 
 ## Subpages
 
 <div class="projects-detail-medium">
 
-![Subpage Osteopathie](./images/osteopathie-hamburg-osteopathie.jpg)
+![Subpage Osteopathie](/assets/images/projects/osteopathie-hamburg/osteopathie-hamburg-osteopathie.jpg)
 
-![Subpage Qigong](./images/osteopathie-hamburg-qigong.jpg)
+![Subpage Qigong](/assets/images/projects/osteopathie-hamburg/osteopathie-hamburg-qigong.jpg)
 
 </div>
 
 ## Contact
 
-![Contact Page](./images/osteopathie-hamburg-contact.jpg)
+![Contact Page](/assets/images/projects/osteopathie-hamburg/osteopathie-hamburg-contact.jpg)

@@ -15,6 +15,6 @@ This is a reduced selection of the components. Most components come in multiple 
 
 ## Component Library
 
-![XING Design System Light Mode](./images/xing-design-system-light.png)
+![XING Design System Light Mode](/assets/images/projects/xing-design-system/xing-design-system-light.png)
 
-![XING Design System Dark Mode](./images/xing-design-system-dark.png)
+![XING Design System Dark Mode](/assets/images/projects/xing-design-system/xing-design-system-dark.png)

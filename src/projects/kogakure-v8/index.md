@@ -26,7 +26,7 @@ I removed clutter by removing some background patterns, added new hover animatio
 
 <figure class="light image-shadow">
 
-![Typeface Exo](./images/kogakure-v8-typeface.svg)
+![Typeface Exo](/assets/images/projects/kogakure-v8/kogakure-v8-typeface.svg)
 
 </figure>
 
@@ -34,24 +34,24 @@ I removed clutter by removing some background patterns, added new hover animatio
 
 <figure class="light image-shadow">
 
-![Rakkan Logo](./images/kogakure-v8-logo.svg)
+![Rakkan Logo](/assets/images/projects/kogakure-v8/kogakure-v8-logo.svg)
 
 </figure>
 
 ## Illustration
 
-![Bamboo Illustration](./images/kogakure-v8-illustration.jpg)
+![Bamboo Illustration](/assets/images/projects/kogakure-v8/kogakure-v8-illustration.jpg)
 
 ## Homepage
 
-![Homepage](./images/kogakure-v8-homepage.jpg)
+![Homepage](/assets/images/projects/kogakure-v8/kogakure-v8-homepage.jpg)
 
 ## Subpages
 
 <div class="projects-detail-medium">
 
-![Ninjutsu Page](./images/kogakure-v8-ninjutsu.jpg)
+![Ninjutsu Page](/assets/images/projects/kogakure-v8/kogakure-v8-ninjutsu.jpg)
 
-![Book Recommendation Page](./images/kogakure-v8-recommendations.jpg)
+![Book Recommendation Page](/assets/images/projects/kogakure-v8/kogakure-v8-recommendations.jpg)
 
 </div>

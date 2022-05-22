@@ -26,10 +26,10 @@ The website is mostly a **photography** blog, but I also write **short essays** 
 
 <figure class="light image-shadow">
 
-![Typefaces IM Fell English and Playfair Display](./images/exploring-hamburg-v1-typefaces.svg)
+![Typefaces IM Fell English and Playfair Display](/assets/images/projects/exploring-hamburg-v1/exploring-hamburg-v1-typefaces.svg)
 
 </figure>
 
 ## Homepage
 
-![Homepage](./images/exploring-hamburg-v1-homepage.jpg)
+![Homepage](/assets/images/projects/exploring-hamburg-v1/exploring-hamburg-v1-homepage.jpg)
