@@ -3,7 +3,7 @@ title: Exploring Hamburg 2021
 description: I explore Hamburg, mostly walking, sometimes biking to find out more about the individual districts and to shoot photos.
 ---
 
-At the end of 2021 I decided to unify my brand and to redesign my [photo blog](https://hamburg.stefanimhoff.de/). I used the existing brand design and created the website based on that design, using variations like full-height photos and rotated text.
+At the end of 2021, I decided to unify my brand and redesign my [photoblog](https://hamburg.stefanimhoff.de/). I used the existing brand design and created the website based on that design, using variations like full-height photos and rotated text.
 
 {% more "Source Code", "https://github.com/kogakure/website-11ty-hamburg.stefanimhoff.de/", true %}
 

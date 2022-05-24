@@ -3,7 +3,7 @@ title: Osteopathie-Institut Hamburg
 description: This website for the Osteopathie-Insitut Hamburg I created in 2010.
 ---
 
-This website for the **Osteopathie-Insitut Hamburg**, a school to learn Osteopathie was one of the last websites I created before I started working as a _Frontend Engineer_ for [XING](https://www.xing.com/) on just one product.
+This website for the **Osteopathie-Institut Hamburg**, a school to learn Osteopathie was one of the last websites I created before I started working as a _Frontend Engineer_ for [XING](https://www.xing.com/) on just one product.
 
 I invested full effort into it not only because the teacher of that school was my Martial Arts teacher at that time, but also because the provided material (photos, quotes, text) was fantastic.
 

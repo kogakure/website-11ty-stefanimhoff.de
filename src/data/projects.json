@@ -2,7 +2,7 @@
   {
     "title": "Journal & Blog",
     "categories": ["Writing"],
-    "text": "<p>I have been writing <a href='/essays/'>essays</a> on this website since <strong>2007</strong>. The topics include programming, design, self-improvement, productivity, books, and films. The collection has been much bigger, but I deleted outdated and irrelevant essays. Since <strong>2019</strong> I also publish <a href='/quotes/'>quotes</a> and <a href='/links/'>link bundles</a> with recommendations.</p>",
+    "text": "<p>I have been writing <a href='/essays/'>essays</a> on this website since <strong>2007</strong>. The topics include programming, design, self-improvement, productivity, books, and films. The collection has been much bigger, but I deleted outdated and irrelevant essays. Since <strong>2019</strong> I have also published <a href='/quotes/'>quotes</a> and <a href='/links/'>link bundles</a> with recommendations.</p>",
     "linkText": "Read Journal",
     "link": "/journal/",
     "class": "project-layout-50-only-start"
@@ -27,7 +27,7 @@
   {
     "title": "XING Design System",
     "categories": ["Web Design", "Web Development", "Writing"],
-    "text": "<p>As a Senior Web Developer on the Design System Team I created, maintained, and documented the components of the XING Design System. I supported teams implementing our components across the platform.</p>",
+    "text": "<p>As a Senior Web Developer on the Design System Team, I created, maintained, and documented the components of the XING Design System. I supported teams implementing our components across the platform.</p>",
     "linkText": "See XING Design System Components",
     "link": "/projects/xing-design-system/",
     "image": "/assets/images/projects/thumbnails/xing-design-system.jpg",
@@ -36,7 +36,7 @@
   {
     "title": "XING Onboarding Illustration",
     "categories": ["Illustration", "Icon Design"],
-    "text": "<p>I was asked to create three new illustrations that could be used for an Onboarding screen on <a href='https://www.xing.com/' rel='nofollow noopener noreferrer external' target='_blank'>XING</a>. I accepted the challenge to take over this task outside of my job description and finished the whole process from concept, scribbles to final illustrations in a day.</p>",
+    "text": "<p>I was asked to create three new illustrations that could be used for an Onboarding screen on <a href='https://www.xing.com/' rel='nofollow noopener noreferrer external' target='_blank'>XING</a>. I accepted the challenge to take over this task outside of my job description and finished the whole process from concept to scribbles, to final illustrations in a day.</p>",
     "linkText": "See XING Onboarding Illustrations",
     "link": "/projects/xing-onboarding-illustrations/",
     "image": "/assets/images/projects/thumbnails/xing-illustrations.jpg",
@@ -64,7 +64,7 @@
   {
     "title": "iA Writer Template Shibui (渋い)",
     "categories": ["Web Design", "Web Development"],
-    "text": "<p>This <a href='https://ia.net/writer' rel='nofollow noopener noreferrer external' target='_blank'>iA Writer</a> template is inspired by the Japanese aesthetics style shibui which was founded during the Muromachi period (1336-1392). I use the same style for my current personal branding on my personal website, for my <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>martial arts book</a> and my <a href='https://hamburg.stefanimhoff.de/' rel='nofollow noopener noreferrer external' target='_blank'>photo blog</a>.</p>",
+    "text": "<p>This <a href='https://ia.net/writer' rel='nofollow noopener noreferrer external' target='_blank'>iA Writer</a> template is inspired by the Japanese aesthetics style shibui which was founded during the Muromachi period (1336-1392). I use the same style for my current personal branding on my website, for my <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>martial arts book</a> and for my <a href='https://hamburg.stefanimhoff.de/' rel='nofollow noopener noreferrer external' target='_blank'>photoblog</a>.</p>",
     "linkText": "Download iA Writer Template Shibui on GitHub",
     "link": "https://github.com/kogakure/ia-writer-template-shibui",
     "external": true,
@@ -74,7 +74,7 @@
   {
     "title": "Bamboo Illustration",
     "categories": ["Illustration"],
-    "text": "<p>I created the bamboo illustration in <strong>2006</strong> for my <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> used Adobe Illustrator and the gradient grid tool.</p><p><strong>2015</strong> I decided to use my bamboo as <abbr title='Scalable Vector Graphics'>SVG</abbr> on my website. Unfortunately, the gradient tool is not supported in <abbr>SVG</abbr> and I needed recreate my bamboo with linear, radial, and other supported gradients in <a href='https://affinity.serif.com/designer/' rel='nofollow noopener noreferrer external' target='_blank'>Affinity Designer</a>.</p>",
+    "text": "<p>I created the bamboo illustration in <strong>2006</strong> for my <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> using Adobe Illustrator and the gradient grid tool.</p><p><strong>2015</strong> I decided to use my bamboo as <abbr title='Scalable Vector Graphics'>SVG</abbr> on my website. Unfortunately, the gradient tool is not supported in <abbr>SVG</abbr> and I needed to recreate my bamboo with linear, radial, and other supported gradients in <a href='https://affinity.serif.com/designer/' rel='nofollow noopener noreferrer external' target='_blank'>Affinity Designer</a>.</p>",
     "image": "/assets/images/projects/thumbnails/bamboo-illustration.svg",
     "class": "project-layout-100-end svg-bamboo no-border"
   },
@@ -118,7 +118,7 @@
   {
     "title": "Exploring Hamburg",
     "categories": ["Web Design", "Web Development", "Photography"],
-    "text": "<p>I created this <a href='https://hamburg.stefanimhoff.de/' rel='nofollow noopener noreferrer external' target='_blank'>Photography Blog</a> for one of my hobbies: I explore the city Hamburg, mostly walking, sometimes biking to find out more about the individual districts and to shoot photos. The current design is the <strong>2nd</strong> iteration.</p>",
+    "text": "<p>I created this <a href='https://hamburg.stefanimhoff.de/' rel='nofollow noopener noreferrer external' target='_blank'>Photography Blog</a> for one of my hobbies: I explore the city of Hamburg, mostly walking, and sometimes biking to find out more about the individual districts and to shoot photos. The current design is the <strong>2nd</strong> iteration.</p>",
     "linkText": "See Showcase of Version 2",
     "link": "/projects/exploring-hamburg-v2/",
     "image": "/assets/images/projects/thumbnails/exploring-hamburg-v2.jpg",

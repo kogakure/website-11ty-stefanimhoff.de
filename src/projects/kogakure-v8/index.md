@@ -3,7 +3,7 @@ title: Martial Arts Website 2017
 description: I redesigned my Martial Arts Online Magazine in 2017.
 ---
 
-I redesigned my [Martial Arts Online Magazine](https://www.kogakure.de/) in 2017. Additionally, I moved the website from _Jekyll_ (as static page generator) to [Hugo](http://gohugo.io/). I used the **CSS Grid Layout** throughout the website, the homepage has **12 different grids**.
+I redesigned my [Martial Arts Online Magazine](https://www.kogakure.de/) in 2017. Additionally, I moved the website from _Jekyll_ (a static page generator) to [Hugo](http://gohugo.io/). I used the **CSS Grid Layout** throughout the website, the homepage has **12 different grids**.
 
 I removed clutter by removing some background patterns, added new hover animations for images and containers, added new buttons, and a new pulsing heart animation for the donation section.
 

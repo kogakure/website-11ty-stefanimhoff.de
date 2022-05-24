@@ -3,9 +3,9 @@ title: Martial Arts Website 2022
 description: I redesigned my Ninjutsu Book 木隠 in 2022.
 ---
 
-At the beginning of 2022 I decided to unify my brand and to redesign my [Ninjutsu Book 木隠](https://www.kogakure.de/en/). I used the existing brand design and created the website based on that design.
+At the beginning of 2022, I decided to unify my brand and redesign my [Ninjutsu Book 木隠](https://www.kogakure.de/en/). I used the existing brand design and created the website based on that design.
 
-The first time in it‘s 22-year-long history I created a complete translation of the content to English language.
+For the first time in its 22-year-long history, I created a complete translation of the content into the English language.
 
 {% more "Source Code", "https://github.com/kogakure/website-11ty-kogakure.de", true %}
 

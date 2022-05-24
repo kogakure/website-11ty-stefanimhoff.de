@@ -9,7 +9,8 @@
   },
   "experience": {
     "headline": "Professional Experience",
-    "items": [{
+    "items": [
+      {
         "company": "NEW WORK SE",
         "url": "https://www.xing.com",
         "title": "Senior Software Engineer",
@@ -45,10 +46,10 @@
         "title": "Web Designer",
         "duration": "09/2005-12/2010",
         "tasks": [
-          "Planning, design and layout of websites.",
+          "Planning, design, and layout of websites.",
           "Implementation in W3C standard with HTML and CSS.",
           "Programming websites with content management systems and blog systems.",
-          "Revision and update of existing customer website.",
+          "Revision and update of existing customer websites.",
           "Customer advisory"
         ]
       },
@@ -58,10 +59,10 @@
         "title": "Media Designer",
         "duration": "02/2002-01/2005",
         "tasks": [
-          "Creation of Internet and Intranet pages with HTML, CSS, PHP, MySQL and Typo3.",
+          "Creation of Internet and Intranet pages with HTML, CSS, PHP, MySQL, and Typo3.",
           "Filming of industrial processes and production facilities in Germany and France.",
-          "Editing and Postproduction with Premiere, Avid and After Effect.",
-          "Creation of 3D models and animations with 3ds max and Cinema 4D."
+          "Editing and Postproduction with Premiere, Avid, and After Effect.",
+          "Creation of 3D models and animations with 3ds max, and Cinema 4D."
         ]
       },
       {
@@ -70,24 +71,27 @@
         "title": "Intern Web Design",
         "duration": "03/2001-04/2001",
         "tasks": [
-          "Relaunch, conception and realisation of websites with Dreamweaver, Fireworks, Photos and Flash 5 & ActionScript."
+          "Relaunch, conception, and realization of websites with Dreamweaver, Fireworks, Photoshop, and Flash 5 & ActionScript."
         ]
       }
     ]
   },
   "education": {
     "headline": "Education",
-    "items": [{
-      "school": "bib International College",
-      "url": "https://www.bib.de",
-      "degree": "Computer Scientist",
-      "location": "Hanover, Germany",
-      "duration": "10/1999-09/2001"
-    }]
+    "items": [
+      {
+        "school": "bib International College",
+        "url": "https://www.bib.de",
+        "degree": "Computer Scientist",
+        "location": "Hanover, Germany",
+        "duration": "10/1999-09/2001"
+      }
+    ]
   },
   "skills": {
     "headline": "Key Skills",
-    "items": [{
+    "items": [
+      {
         "headline": "Fontend",
         "tags": [
           "HTML",
@@ -135,8 +139,9 @@
           "Affinity Designer",
           "Affinity Photo",
           "Affinity Publisher",
+          "Figma",
           "Sketch",
-          "Abstact",
+          "Abstract",
           "Adobe Photoshop",
           "Adobe Illustrator"
         ]
@@ -178,8 +183,8 @@
           "Slack",
           "Confluence",
           "Jira",
-          "Basecamp",
-          "Notion"
+          "Notion",
+          "Basecamp"
         ]
       },
       {
@@ -188,10 +193,12 @@
           "Kanban",
           "Scrum",
           "Miro",
-          "Abstract",
           "OKR",
           "GTD",
           "Pomodoro",
+          "DEVONthink",
+          "Obsidian",
+          "Logseq",
           "Zettelkasten Method",
           "Bullet Journal"
         ]
@@ -217,7 +224,8 @@
   },
   "languages": {
     "headline": "Languages",
-    "items": [{
+    "items": [
+      {
         "language": "German",
         "level": "native language"
       },
@@ -227,7 +235,7 @@
       },
       {
         "language": "Japanese",
-        "level": "basic"
+        "level": "advanced-beginner"
       },
       {
         "language": "Spanish",
@@ -238,20 +246,20 @@
   "awards": {
     "headline": "Awards",
     "items": [
-      "Three times winner of yearly company-wide innovation award of XING Prototyping Days (2013, 2015, 2017).",
+      "Three times winner of the yearly company-wide innovation award of XING Prototyping Days (2013, 2015, 2017).",
       "SEMY Award – German Search Marketing Award 2015."
     ]
   },
   "interests": {
     "headline": "Interests & Hobbies",
     "items": [
-      "I do <a href='/calisthenics/'>Calisthenics</a> (Body Weight Training), like walking long distances and regularly do Meditation to keep my body and mind fresh and stay in a growth mindset.",
-      "I do <a href='/sketchnotes/'>Sketchnotes</a> and love <em>Visual Thinking</em>. With these skills I collect and visualize my ideas to deepen understanding.",
+      "I do <a href='/calisthenics/'>Calisthenics</a> (Body Weight Training), like walking long distances, and regularly do Meditation to keep my body and mind fresh and stay in a growth mindset.",
+      "I do <a href='/sketchnotes/'>Sketchnotes</a> and love <em>Visual Thinking</em>. With these skills, I collect and visualize my ideas to deepen my understanding.",
       "I have a passion for <strong>writing</strong>. Besides writing essays, I wrote a <a href='https://book.kogakure.de/'>book</a> and follow the <em><a href='/zettelkasten-note-taking-devonthink/'>Zettelkasten</a></em> method of note-taking.",
-      "I have a high interest in <strong>design and art</strong>, and related topics as architecture, interior design or typography.",
-      "I’m a regular reader and love <strong><a href='https://www.goodreads.com/kogakure/' target='_blank' rel='nofollow noopener noreferrer external'>books</a></strong>. Whenever possible I read books about philosophy, science, history or related topics. My library has around 1.000 books.",
-      "<strong>Japanese things</strong> fascinate me a lot. Be it the language, Kanji character, Japanese aesthetics and design (<em>wabi sabi</em>, <em>iki</em>, <em>shibui</em>) or art forms like <em>shodō</em>, <em>sumi-e</em>, <em>ukiyo-e</em> or <em>irezumi</em>, to name just a few. I also write my own <a href='/haiku/'>Haiku</a>.",
-      "I started learning manual <strong>photography</strong>. My camera is a <em>Fuji X100T</em>, with it’s fixed lens the perfect tool for city photography, sports or people."
+      "I have a high interest in <strong>design and art</strong>, and related topics such as architecture, interior design, and typography.",
+      "I’m a regular reader and love <strong><a href='https://www.goodreads.com/kogakure/' target='_blank' rel='nofollow noopener noreferrer external'>books</a></strong>. Whenever possible I read books about philosophy, science, history, or related topics. My library has around 1.000 books.",
+      "<strong>Japanese things</strong> fascinate me a lot. Be it the language, Kanji character, Japanese aesthetics and design (<em>wabi-sabi</em>, <em>iki</em>, <em>shibui</em>), or art forms like <em>shodō</em>, <em>sumi-e</em>, <em>ukiyo-e</em>, or <em>irezumi</em>, to name just a few. I also write my own <a href='/haiku/'>Haiku</a>.",
+      "I started learning manual <strong>photography</strong>. My camera is a <em>Fuji X100T</em>, with its fixed lens the perfect tool for city photography, sports, or people."
     ]
   }
 }
