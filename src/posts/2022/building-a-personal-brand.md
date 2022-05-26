@@ -50,7 +50,7 @@ One year later I made small [design adjustments](/new-website-2021/) (a new font
 
 I got a lot of positive feedback for the new design and decided to keep it for a longer time (this time really). I’ll make adjustments over time for sure, but I don’t plan to change the design anytime soon. I love how some famous web developers like [Jeremy Keith](https://adactio.com/) keep the same design since (probably) the beginning of the 2000s.
 
-My website is like my hub. I post my [work](/projects/), [contact information](/about/), [poetry](/haiku/), [Sketchnotes](/sketchnotes/), [essays](/essays/), [link recommendations](/links/), [quotes](/quotes/), [podcasts](/podcasts/) and [updates](/now/). I might add photos in the future.
+My website is like my hub. I post my [work](/projects/), [contact information](/about/), [poetry](/haiku/), [Sketchnotes](/sketchnotes/), [essays](/journal/), and [updates](/now/). I might add photos in the future.
 
 ## Same, Same, but Different
 

@@ -7,6 +7,7 @@ tags:
   - code
   - design
   - download
+  - featured
 ---
 
 I write a lot. Not just essays, but also notes, poetry, books, technical documentation, discussions, and proposals at work. Most of the things I write are in [Markdown](https://daringfireball.net/projects/markdown/syntax) because it’s one of the quickest and best Markup languages that exists.

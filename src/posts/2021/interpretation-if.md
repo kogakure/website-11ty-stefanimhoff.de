@@ -5,6 +5,7 @@ author: Stefan Imhoff
 description: A modern interpretation of Rudyard Kiplings great poem.
 tags:
   - poetry
+  - featured
 ---
 
 After my last poem interpretation for [The Gods of the Copybook Headings](/interpretation-the-gods-of-the-copybook-headings/) I saw a recommendation to another poem of _Rudyard Kipling_: **If—**. It is a shorter poem, but each sentence has a deep meaning. Kipling must have had a deep understanding of human nature.

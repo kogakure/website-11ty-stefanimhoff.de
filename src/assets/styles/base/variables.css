@@ -2,6 +2,7 @@
   /** Grids */
   --grid-fullsize: repeat(18, 1fr);
   --grid-wide: repeat(14, 1fr);
+  --grid-narrow: repeat(10, 1fr);
 
   /** Border Widths */
   --border-width-1: 1px;

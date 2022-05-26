@@ -65,7 +65,7 @@
 
 .journal-posts-list-item {
   border-block-end-color: var(--color-border);
-  border-block-end-style: solid;
+  border-block-end-style: dotted;
   border-width: var(--border-width-1);
   margin-block-end: 0;
   margin-block-start: 0;
@@ -93,21 +93,6 @@
 
 .journal-posts-title {
   flex-grow: 1;
-}
-
-.journal-posts-type {
-  flex-grow: 0;
-  flex-shrink: 0;
-  justify-self: end;
-}
-
-.journal-posts-icon {
-  fill: var(--color-border);
-
-  .journal-posts-link:hover &,
-  .journal-posts-link:focus & {
-    fill: var(--color-accent);
-  }
 }
 
 .journal-posts-date {
@@ -172,11 +157,15 @@
   grid-column: 2 / -2;
 
   @media (--tablet) {
-    grid-column: 3 / -7;
+    grid-column: 3 / 13;
   }
 
   @media (--desktop) {
-    grid-column: 7 / -7;
+    grid-column: 5 / 13;
+  }
+
+  @media (--wide) {
+    grid-column: 7 / 13;
   }
 
   > h2 {

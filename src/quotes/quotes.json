@@ -1,9 +1,0 @@
-{
-  "layout": "journal-detail",
-  "templateEngineOverride": "njk,md",
-  "permalink": "/quotes/{{ page.fileSlug }}/",
-  "backLink": "/journal/",
-  "description": "An inspiring quote",
-  "og": "quotes.png",
-  "tags": ["journal", "quotes"]
-}

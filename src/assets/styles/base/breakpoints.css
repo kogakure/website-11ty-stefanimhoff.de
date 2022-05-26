@@ -2,3 +2,4 @@
 @custom-media --phone (width >= 320px);
 @custom-media --tablet (width >= 768px);
 @custom-media --desktop (width >= 1200px);
+@custom-media --wide (width >= 1800px);
