@@ -38,9 +38,15 @@ to = "https://www.stefanimhoff.de/:splat"
 status = 301
 force = true
 
+# Prettify Redirects
 [[redirects]]
-from = "/raindrop.xml"
+from = "/feed-raindrop.xml"
 to = "https://bg.raindrop.io/rss/public/25041238"
+status = 200
+
+[[redirects]]
+from = "/feed-reddit.xml"
+to = "https://www.reddit.com/user/kogakure/.rss"
 status = 200
 
 # Redirects
