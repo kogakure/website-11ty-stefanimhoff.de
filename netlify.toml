@@ -20,7 +20,7 @@
 
 [[headers]]
   for = "/sw.js"
-  
+
   [headers.values]
     cache-control = "max-age=0,no-cache,no-store,must-revalidate"
 
@@ -37,6 +37,11 @@ from = "https://imhoff.name/*"
 to = "https://www.stefanimhoff.de/:splat"
 status = 301
 force = true
+
+[[redirects]]
+from = "/raindrop.xml"
+to = "https://bg.raindrop.io/rss/public/25041238"
+status = 200
 
 # Redirects
 [[redirects]]
