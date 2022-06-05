@@ -1,5 +1,5 @@
 ---
-title: Setting Up a Web Developer Work Environment – Neovim
+title: "Setting Up a Web Developer Work Environment: Neovim"
 date: 2021-12-23T10:00:00+01:00
 author: Stefan Imhoff
 description: I decided to re-exampine my developer tools and replace some of them with better tools.

@@ -1,5 +1,5 @@
 ---
-title: The Decentralized Web – Why Do We Need It?
+title: "The Decentralized Web: Why Do We Need It?"
 date: 2021-10-25T09:00:00+02:00
 author: Stefan Imhoff
 description: This is the first part of a three-part-series on the Decentralized Web. This part will highlight the dangers looming on the free internet.

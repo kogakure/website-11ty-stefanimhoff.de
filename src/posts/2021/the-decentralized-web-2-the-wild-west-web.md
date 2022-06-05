@@ -1,5 +1,5 @@
 ---
-title: The Decentralized Web – The Wild West Web
+title: "The Decentralized Web: The Wild West Web"
 date: 2021-11-01T09:00:00+02:00
 author: Stefan Imhoff
 description: This is the seconds part of a three-part-series on the Decentralized Web. This part will show some promising examples for the decentralized web.

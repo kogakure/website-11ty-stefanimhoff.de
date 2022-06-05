@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Gulp.js 16 – PostCSS"
+title: "Introduction to Gulp.js 16: PostCSS"
 author: Stefan Imhoff
 date: 2015-10-16T07:50:29+00:00
 description: "The ultimative tutorial and guide for Gulp.js: How to use PostCSS with Gulp to process CSS and how to lint your CSS files with Stylelint."

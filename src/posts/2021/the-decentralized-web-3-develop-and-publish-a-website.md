@@ -1,5 +1,5 @@
 ---
-title: The Decentralized Web – Develop and Publish a Website
+title: "The Decentralized Web: Develop and Publish a Website"
 date: 2021-11-08T09:00:00+01:00
 author: Stefan Imhoff
 description: This is the third part of a three-part-series on the Decentralized Web. In this part we’ll code and release our first decentralized website.
