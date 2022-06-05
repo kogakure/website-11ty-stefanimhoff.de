@@ -314,6 +314,11 @@ blockquote {
   }
 }
 
+p + ul,
+p + ol {
+  margin-block-start: var(--space-12);
+}
+
 q {
   font-style: italic;
 
