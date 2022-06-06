@@ -87,7 +87,8 @@
   column-count: 1;
   column-gap: 2.775vw;
 }
-6 @media (--tablet) {
+
+@media (--tablet) {
   .homepage-what-i-do-text {
     column-count: 2;
   }
