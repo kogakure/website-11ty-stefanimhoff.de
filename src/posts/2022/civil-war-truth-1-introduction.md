@@ -32,7 +32,7 @@ Maajid Nawaz is sure, that we are in the midst of such a civil war, even though 
 
 > So, the powers that be, who are losing that power need to clamp down. (…) It’s an internal civil war in a hybrid war context, over truth, and over information. Centralization versus decentralization. Basically, it’s no longer about left or right, it’s about up versus down. It’s about power versus those who don’t have power.
 >
-> **Maajid Nawaz**[^rogan2022yc]
+> **Maajid Nawaz**, <cite>The Joe Rogan Experience 1780 – Maajid Nawaz</cite>[^rogan2022yc]
 
 Neil Oliver, a British television presenter, archaeologist, and author formulated a possible hypothesis in an interview with Bret Weinstein on why we don’t see physical violence in this civil war. The horrors of the 20th century were committed by generations who had seen and done terrible things. Neil Oliver has his doubts that the people who are running the show now, who were born and raised in peace, have the guts to do the necessary “wet work”.[^weinstein2022el]
 
@@ -96,7 +96,7 @@ Jordan Peterson describes in his 2017 lecture <cite>Personality and Its Transfor
 >
 > You can’t blame the manifestation of that sort of thing on any of those levels. When a society goes down that way it goes down everywhere at the same time. It’s not the totalitarians at the top and all the happy people striving to be free at the bottom. Not at all. It’s Totalitarianism on every single level of the hierarchy.
 >
-> **Jordan B Peterson**, [2017 Personality 22: Conclusion: Psychology and Belief](https://youtu.be/J9j-bVDrGdI?t=2700), 45:00
+> **Jordan B Peterson**, <cite>2017 Personality 22: Conclusion: Psychology and Belief</cite>[^peterson2017ab] (45:00)
 
 To understand why our _Gated Institutions_ break down all at the same time, we need to understand the problems first and how they are connected. I’ll shine a light on the offenders like politicians, corporations, academia, science, media corporations, journalism, and social media in the next parts of this essay.
 
