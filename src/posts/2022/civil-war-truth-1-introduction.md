@@ -105,7 +105,7 @@ To understand why our _Gated Institutions_ break down all at the same time, we n
 This is the first part of a seven-part series that investigates why the last 10 years were so uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate our politicians and corporations.
 
 1. **Introduction**
-2. _Corporatism & Corruption_
+2. _Corporatism & Technocracy_
 3. _Political Division_
 4. _Media & Journalism_
 5. _Academia_
