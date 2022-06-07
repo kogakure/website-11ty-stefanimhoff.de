@@ -9,7 +9,7 @@ tags:
 
 At the end of 2017, I had the wish to create a new website, as my old design and the technology got a little bit dated. I started by collecting inspirations and ideas about the direction I wanted to go.
 
-In 2017 and 2018 I didn’t do a lot, but browsing inspiring websites, looking into trends and styles. I was sure to pick a Japanese inspired topic, as all my website designs had one: My first design was inspired by [Japanese Tattoo](/showcase/koi-illustration/) (_Irezumi_), my second design was based on the topic [Bonsai](/showcase/stefanimhoff-v2/) and my martial arts website uses [Bamboo](/showcase/kogakure/) as a recurrent theme since 1999.
+In 2017 and 2018 I didn’t do a lot, but browsing inspiring websites, looking into trends and styles. I was sure to pick a Japanese inspired topic, as all my website designs had one: My first design was inspired by [Japanese Tattoo](/projects/koi-illustration/) (_Irezumi_), my second design was based on the topic [Bonsai](/projects/stefanimhoff-v2/) and my [martial arts website](https://www.kogakure.de/en/) uses [Bamboo](/projects/kogakure-v8/) as a recurrent theme since 1999.
 
 ## Japanese Aesthetics & Design
 
