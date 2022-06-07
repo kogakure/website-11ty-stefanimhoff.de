@@ -8,7 +8,7 @@
     {%- if page.url === "/" -%}
       {{ site.author }} · {{ site.description }}
     {%- else -%}
-      {{ title }} · {{ site.author }}
+      {{ title | replace("&nbsp;", " ") }} · {{ site.author }}
     {%- endif -%}
     </title>
 
