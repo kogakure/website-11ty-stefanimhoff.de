@@ -158,7 +158,7 @@ I learned in the documentary that owning a radio is very important, because with
 
 ### Clothes
 
-I have two leather pants, {% affiliate "military camouflage pants", "B07LB5BT7K" %}, a {% affiliate "T-shirt", "B07PJLB9T7" %}, a {% affiliate "jacket", "B01MROMR2Z" %}, a {% affiliate "jungle hat", "B07NZ4KJ99" %}, and two {% affiliate "camouflage nets", "B07VD8LSH8" %} to conceal myself. Abdominal protection and tactical gloves complete the equipment.
+I have two leather pants, {% affiliate "military camouflage pants", "B07LB5BT7K" %}, a {% affiliate "T-shirt", "B07PJLB9T7" %}, a {% affiliate "jacket", "B01MROMR2Z" %}, a {% affiliate "jungle hat", "B07NZ4KJ99" %}, and two {% affiliate "camouflage nets", "B07VD8LSH8" %} to conceal myself. Abdominal protection and {% affiliate "tactical gloves", "B01LZMZS9K" %} complete the equipment.
 
 ### Defence
 
@@ -222,6 +222,18 @@ The Bushcraft series is a series of useful books about survival: {% affiliate "B
 I don’t idealize or look forward to catastrophe, that is sure. I prefer having my warm flat, good food, Netflix, and the internet.
 
 But I want to be prepared. Civilization is sewn with a thin thread. It doesn’t harm to at least stock up some food and equipment for the worst case.
+
+## Update (June, 2022)
+
+This year I came across the concept of a “bug out bag”, first I heard it in a video about a [Digital Bugout Bag](https://youtu.be/qqboMMBOJRE). A bug out bag is a portable kit to survive an emergency for at least 72 hours.
+
+If something bad happens you might have a few minutes or maybe an hour to leave your home. That is not enough time to bring all my items out of my cellar and pack. Also, if the energy is down, it’s hard to find the stuff in total darkness. This means you need to be ready and packed. I created an encrypted, digital bug out bag on two {% affiliate "SanDisk Extreme Pro 64GB microSD", "B07G3GMRYF" %}, holding all my important files.
+
+Next I bought a waterproof {% affiliate "45L Military Tactical Army Bagpack", "B08NF9KH46" %} with two additional {% affiliate "Molle bags", "B07DFJWYTK" %}, a {% affiliate "foldable Molle bag", "B07WSTV47J" %}, a {% affiliate "Molle bag for my drinking bottle", "B085XS851K" %}, an {% affiliate "outdoor first aid kid", "B07G4BTX5Z" %}, and a {% affiliate "chest bag", "B01KMYCPRO" %}. The bag is huge and holds all items previously stored in my huge wooden box. Additionally, I bought a {% affiliate "bag for my bow", "B07F83TB5T" %}, that holds bow tendons, arrowheads, hand/arm protection, and other equipment. I have two arrow quivers, one for {% affiliate "easy access", "B07YWT623G" %} and one for {% affiliate "safe transportation", "B016JPZ7ES" %}.
+
+And yes, I bought the {% affiliate "Gadsen flag", "B085VRYBPH" %} sticker additionally. It’s the flag used by Libertarians around the world. The snake design and the words <q>Don’t Tread On Me</q> are a warning of vigilance and willingness to act in defense against coercion. 😂
+
+![](/assets/images/posts/bug-out-bag.jpg)
 
 [^mooser2021lp]: Barbara Mooser (2021): _Skandal im Netz: Abgeordneter Huber im Twitter-Gewitter_, <https://www.sueddeutsche.de/muenchen/ebersberg/falscher-hashtag-skandal-im-netz-abgeordneter-huber-im-twitter-gewitter-1.5388590>.
 [^rnd2021rc]: RND (2021): _Oliver Welke in „heute-show“ über Impfverweigerer: „Leider irgendwie asozial“_, <https://www.rnd.de/medien/heute-show-oliver-welke-kritisiert-impfverweigerer-leider-irgendwie-asozial-DKSKOLVJSNFZRATN7KT5UH4OZE.html>.
