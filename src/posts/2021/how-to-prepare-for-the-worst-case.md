@@ -89,6 +89,12 @@ Countries like Austria or Switzerland prepare their population for a Blackout.[^
 - Flare gun
 - Knife
 
+{% banner "Durable Foods", true %}
+
+Rice, pasta, and salt are three types of food that have nearly unlimited lifespan (under the right storage conditions).
+
+{% endbanner %}
+
 I can check off everything on this list except the flare gun and power generator because they are not practical for a city flat.
 
 ## My Survival Equipment
@@ -104,7 +110,7 @@ I have an extensive amount of food in stock, all things I regularly consume and 
 - Couscous (1kg)
 - Asian Noodles, _e.g. Mie, Ramen, Somen, Soba_ (3 kg)
 - Pasta (5 kg)
-- Rice (2 kg)
+- Rice (6 kg)
 - Potatoes (2 kg)
 - Cans with stew, meat, goulash, and soup (10)
 - Chocolate, _dark_ (1 kg)
