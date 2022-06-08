@@ -20,6 +20,10 @@
   position: relative;
 }
 
+.footnotes p a {
+  word-break: break-word;
+}
+
 .footnotes :target {
   background-color: var(--color-fg-feather);
   padding: var(--space-5);
