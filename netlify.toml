@@ -46,7 +46,7 @@ status = 200
 
 [[redirects]]
 from = "/feed-reddit.xml"
-to = "https://www.reddit.com/user/kogakure/.rss"
+to = "https://www.stefanimhoff.de/feed-raindrop.xml"
 status = 200
 
 # Redirects
