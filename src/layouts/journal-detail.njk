@@ -17,7 +17,10 @@ css: journal.css
       {{ date | dateToFormat() }}
     </time>
     </div>
-    <div class="journal-post-meta-reading-time">{{ content | readingTime }} read</div>
+    <div class="journal-post-meta-time">
+      {{ content | striptags(true) | wordcount }} <span class="journal-post-meta-time-fragment">words</span> • 
+      {{ content | readingTime }} <span class="journal-post-meta-time-fragment">read</span>
+    </div>
   </aside>
   <div class="journal-post">
     {{ content | safe }}

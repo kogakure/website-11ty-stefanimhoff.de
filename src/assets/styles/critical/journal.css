@@ -147,9 +147,12 @@
   line-height: 1.2;
 }
 
-.journal-post-meta-reading-time {
-  font-style: italic;
+.journal-post-meta-time {
   line-height: 1;
+}
+
+.journal-post-meta-time-fragment {
+  font-style: italic;
 }
 
 /** Journal Detail Page Post */
