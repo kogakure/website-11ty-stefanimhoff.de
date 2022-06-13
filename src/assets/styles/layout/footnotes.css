@@ -40,8 +40,9 @@
   content: counter(item);
   counter-increment: item;
   font-size: smaller;
-  font-weight: var(--font-weight-black);
+  font-weight: var(--font-weight-thin);
   left: 0;
+  opacity: 0.6;
   padding-top: 0.15rem;
   position: absolute;
   vertical-align: super;
