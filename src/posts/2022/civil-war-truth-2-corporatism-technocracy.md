@@ -41,7 +41,7 @@ Luckily, it seems to begin to fail. Mary Woods, professor of Global Economic Gov
 
 Current politics in most Western Democracies are flooded with problems like nepotism, insider trading, and corruption. All of this is illegal, but nearly never do politicians get held accountable. And it doesn’t matter in which country you look, be it Nancy Pelosi in the US continuously benefitting on the stock market from her inside knowledge,[^zilber2022sc] or the corruption affair of the current German chancellor during his time as mayor of Hamburg city.[^latsch2022le] But there is another legal form of corruption.
 
-Lobbyism is a growing problem in Western Democracies. In Germany, only donations to political parties that exceed €50,000 need to be specified. Yearly donations over €10,000 need to go into the annual report. In 2021 alone, all German political parties got more than €11.6 million in donations, as Sahra Wagenknecht, a politician of the party _Die Linke_ mentions in her report. The Ministry of Health got €60 million in donations from corporations.[^wagenknecht2022qo]
+Lobbyism is a growing problem in Western Democracies. In Germany, only donations to political parties that exceed €50,000 need to be specified. Yearly donations over €10,000 need to go into the annual report. In 2021 alone, all German political parties received more than €11.6 million in donations, as Sahra Wagenknecht, a politician of the party _Die Linke_ mentions in her report. The Ministry of Health received €60 million in donations from corporations.[^wagenknecht2022qo]
 
 Another huge problem for hidden corruption is sponsoring political events because it is completely exempt from any reporting. A party congress can easily exceed 50 corporate sponsors, each paying between €10,000 and €20,000 for a booth.[^winter2019yu] The party congress of the SPD, the leading German party, was sponsored by Pfizer, DocMorris, and Microsoft, all beneficiaries of the Corona crisis.[^wagenknecht2022qo]
 
@@ -115,7 +115,7 @@ The Federal Ministry of Education and Research of Germany commissioned a study i
 >
 > **Federal Ministry of Education and Research**, <cite>The Future of Values Held by People in Our Country</cite>[^bmfbuf2020ah]
 
-Hidden behind marketing words and euphemistic language, camouflaged as a hypothetical scenario, a social credit system as implemented in China is being flirted with. In blunt corporatist language, they want to additionally allow companies to benefit from your behavior.
+Hidden behind marketing speech and euphemistic language, camouflaged as a hypothetical scenario, a social credit system as implemented in China is being flirted with. In blunt corporatist language, they want to additionally allow companies to benefit from your behavior.
 
 Sometimes I despise the TV Show <cite>Black Mirror</cite>, because it seems technocrats use it as a source of ideas and not a warning. They also regularly get inspired by <cite>1984</cite>, <cite>Brave New World</cite>, and <cite>Fahrenheit 451</cite>.
 
