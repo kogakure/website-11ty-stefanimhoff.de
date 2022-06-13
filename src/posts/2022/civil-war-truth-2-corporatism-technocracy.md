@@ -1,5 +1,5 @@
 ---
-title: "Civil War for Truth: Corporatism & Technocracy"
+title: "Civil War for Truth: Corporatism and Technocracy"
 date: 2022-06-13T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the second part of a seven-part series that
@@ -37,7 +37,7 @@ Luckily, it seems to begin to fail. Mary Woods, professor of Global Economic Gov
 >
 > **Mary Woods**, _The World Economic Forum’s Great Narrative Conference_, November 2021 (via [James Lindsay](https://twitter.com/ConceptualJames/status/1484355983082094598))
 
-## Lobbyism, Sponsoring & Corruption
+## Lobbyism, Sponsoring and Corruption
 
 Current politics in most Western Democracies are flooded with problems like nepotism, insider trading, and corruption. All of this is illegal, but nearly never do politicians get held accountable. And it doesn’t matter in which country you look, be it Nancy Pelosi in the US continuously benefitting on the stock market from her inside knowledge,[^zilber2022sc] or the corruption affair of the current German chancellor during his time as mayor of Hamburg city.[^latsch2022le] But there is another legal form of corruption.
 
@@ -95,7 +95,7 @@ The most worrying thing is that Trudeau not only froze the accounts of the Truck
 
 David Sacks mentions how bad the negative consequences will be because this precedent makes it dangerous to donate to any political cause that might collide with the interests of the state in the future. This will damage the trust in government and the finance system for a long time.[^sacks2022py]
 
-## The Oligarchs & Technocratic Elites
+## The Oligarchs and Technocratic Elites
 
 Corporations merge into monopolies or oligarchies. We have Big Oil, Big Food, Big Finance, and Big Pharma. Most industries of the world are controlled by a handful of companies. Black Rock and Vanguard own the world. And governments don’t want or can’t control these tendencies. The existing anti-trust laws are rarely applied.
 
@@ -138,9 +138,9 @@ There will be soon a huge class of dispossessed people that rent everything from
 This is the second part of a seven-part series that investigates why the last 10 years were so uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate our political division.
 
 1. [Introduction](/civil-war-truth-1-introduction/)
-2. **Corporatism & Corruption**
+2. **Corporatism and Corruption**
 3. _Political Division_
-4. _Media & Journalism_
+4. _Media and Journalism_
 5. _Academia_
 6. _Science_
 7. _Conclusion_
