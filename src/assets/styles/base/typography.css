@@ -255,22 +255,13 @@ blockquote {
   margin-block-start: var(--space-12);
   margin-inline-end: var(--space-8);
   margin-inline-start: var(--space-8);
+  padding-inline-end: var(--space-8);
+  padding-inline-start: var(--space-8);
   position: relative;
 
   @media (--tablet) {
     margin-inline-end: var(--space-10);
     margin-inline-start: var(--space-10);
-  }
-
-  &::before {
-    color: var(--color-accent);
-    content: '“';
-    font-family: Trebuchet MS, Georgia, serif;
-    font-size: var(--font-size-6);
-    height: 0.6em;
-    left: -0.55em;
-    position: absolute;
-    top: -0.55em;
   }
 
   p,
@@ -281,9 +272,10 @@ blockquote {
     font-weight: var(--font-weight-extra-light);
     margin-block-end: var(--space-10);
     margin-block-start: 0;
+    opacity: 0.6;
 
     &:nth-last-child(2) {
-      margin-block-end: var(--space-2);
+      margin-block-end: var(--space-5);
     }
 
     & strong {
@@ -292,17 +284,15 @@ blockquote {
     }
 
     &:last-child {
+      opacity: 0.8;
+
       & strong {
+        display: list-item;
+        float: left;
         font-size: var(--font-size-3);
         font-style: normal;
         font-weight: var(--font-weight-bold);
-
-        &::before {
-          content: '—';
-          font-weight: var(--font-weight-light);
-          left: -0.8em;
-          position: absolute;
-        }
+        list-style-type: '— ';
 
         & em {
           font-size: var(--font-size-3);
