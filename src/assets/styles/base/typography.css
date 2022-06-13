@@ -255,6 +255,7 @@ blockquote {
   margin-block-start: var(--space-12);
   margin-inline-end: var(--space-8);
   margin-inline-start: var(--space-8);
+  overflow: hidden;
   padding-inline-end: var(--space-8);
   padding-inline-start: var(--space-8);
   position: relative;
