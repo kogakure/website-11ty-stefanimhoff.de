@@ -8,12 +8,12 @@
     {%- if page.url === "/" -%}
       {{ site.author }} · {{ site.description }}
     {%- else -%}
-      {{ title | replace("&nbsp;", " ") }} · {{ site.author }}
+      {{ title | safe }} · {{ site.author }}
     {%- endif -%}
     </title>
 
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-    
+
     <script type="module">
       document.documentElement.classList.remove('no-js');
       document.documentElement.classList.add('js');
