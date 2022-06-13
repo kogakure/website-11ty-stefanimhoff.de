@@ -283,6 +283,10 @@ blockquote {
       font-weight: var(--font-weight-bold);
     }
 
+    & sup {
+      font-style: normal;
+    }
+
     &:last-child {
       opacity: 0.8;
 
