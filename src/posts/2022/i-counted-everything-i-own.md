@@ -34,7 +34,7 @@ Matt D’Avella counted 1,641 items in his home (together with his wife); 1363 t
 
 After counting my flat and cellar on the weekend the results are finally in. I own **2541** items, including 162 consumables. _Matt won_.
 
-I still own 652 books and way too many coffee cups (I even don’t drink coffee) 🤷‍♂️ And I still have way too many clothes, but even though I don’t wear my dress shirts very often, I still love them too much to get rid of them.
+I still own 652 books and way too many coffee cups (I don’t even drink coffee) 🤷‍♂️ And I still have way too many clothes, but even though I don’t wear my dress shirts very often, I still love them too much to get rid of them.
 
 ### Things vs. Consumables
 

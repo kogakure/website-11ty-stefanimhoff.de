@@ -106,7 +106,7 @@ This is the first part of a seven-part series that investigates why the last 10 
 
 1. **Introduction**
 2. [Corporatism and Technocracy](/civil-war-truth-2-corporatism-technocracy/)
-3. _Political Division_
+3. [Political Division](/civil-war-truth-3-political-division/)
 4. _Media and Journalism_
 5. _Academia_
 6. _Science_

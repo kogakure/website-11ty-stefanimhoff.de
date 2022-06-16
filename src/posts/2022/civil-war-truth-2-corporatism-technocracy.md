@@ -10,9 +10,11 @@ tags:
   - politics
 ---
 
+## Corporatism
+
 It’s nearly impossible to separate these days Politics and Economy from each other. Most Western countries are already captured by blunt corporatism.
 
-Corporatism is the economic policy component of fascism, essentially <q>economic totalitarianism as practiced by Mussolini and Hitler.</q> Mussolini was praised by many people, including Winston Churchill, who admired him <q>as late as 1940.</q>[^dilorenzo1994uv]
+Corporatism is the economic policy component of fascism, an ideology thought up by Giovanni Gentile.[^dsouza2017mo] It is <q>economic totalitarianism as practiced by Mussolini and Hitler.</q>[^dilorenzo1994uv] Mussolini was praised by many people, including Winston Churchill, who admired him <q>as late as 1940.</q>[^dilorenzo1994uv]
 
 > Everything within the state, nothing outside the state, nothing against the state. \
 > (Tutto nello Stato, niente al di fuori dello Stato, nulla contro lo Stato.)
@@ -43,15 +45,15 @@ Current politics in most Western Democracies are flooded with problems like nepo
 
 Lobbyism is a growing problem in Western Democracies. In Germany, only donations to political parties that exceed €50,000 need to be specified. Yearly donations over €10,000 need to go into the annual report. In 2021 alone, all German political parties received more than €11.6 million in donations, as Sahra Wagenknecht, a politician of the party _Die Linke_ mentions in her report. The Ministry of Health received €60 million in donations from corporations.[^wagenknecht2022qo]
 
+Worrying are also the continued donations of the _Bill & Melinda Gates Foundation_ to politicians, education, and science. The “German Society for International Cooperation” (GIZ) received 2021 over \$138 million in donations from the foundation. It is a company that works together with the Development Assistance Ministry and other ministries.[^wallasch2022ih]
+
 Another huge problem for hidden corruption is sponsoring political events because it is completely exempt from any reporting. A party congress can easily exceed 50 corporate sponsors, each paying between €10,000 and €20,000 for a booth.[^winter2019yu] The party congress of the SPD, the leading German party, was sponsored by Pfizer, DocMorris, and Microsoft, all beneficiaries of the Corona crisis.[^wagenknecht2022qo]
 
 Sahra Wagenknecht mentions another problem: The revolving door effect. Politicians that work in a specific resort together with Lobbyists of a company get often promoted into well-payed positions in exactly those companies later. A department head responsible for contracts for the Corona warn-app given to the Deutsche Telekom got shortly after a lucrative position at the Telekom.[^wagenknecht2022qo]
 
 This <q>continual interchange of personnel (…) between business and government (…) create[s] a state within the state to serve private interests which are not always in harmony with the general interests of the nation.</q>[^dilorenzo1994uv]
 
-Worrying are also the continued donations of the _Bill & Melinda Gates Foundation_ to politicians, education, and science. The “German Society for International Cooperation” (GIZ) received 2021 over \$138 million in donations from the foundation. It is a company that works together with the Development Assistance Ministry and other ministries.[^wallasch2022ih]
-
-These legal, intransparent tricks to buy influence into legislation should be called what it is: **corruption**.
+These legal, intransparent tricks to buy influence into legislation should be outlawed and called what it is: **corruption**.
 
 ## A Loss of Separation of Powers
 
@@ -85,7 +87,7 @@ COVID-19 was used as an excuse to remove basic rights of citizens as the right t
 >
 > If I’m going to change that and it’s no longer your decision. Right? Then it requires a broader and deeper conversation. And it requires, I’d say, that’s referendum level change in our culture.
 >
-> **Maajid Nawaz**[^rogan2022yc]
+> **Maajid Nawaz**, _The Joe Rogan Experience 1780 – Maajid Nawaz_[^rogan2022yc]
 
 These laws were rushed in without the consent of the people, and without a vote during an election, in many cases by decree. They were applied often in hypocritical ways to preserve the powers of the state, for example by forbidding “bad” demonstrations against measurements and restrictions and allowing “good” demonstrations for social causes like “Black Lives Matter” or the environment.
 
@@ -139,14 +141,15 @@ This is the second part of a seven-part series that investigates why the last 10
 
 1. [Introduction](/civil-war-truth-1-introduction/)
 2. **Corporatism and Corruption**
-3. _Political Division_
+3. [Political Division](/civil-war-truth-3-political-division/)
 4. _Media and Journalism_
 5. _Academia_
 6. _Science_
 7. _Conclusion_
 
-[^ideas2021hh]: Academy of Ideas (2021): _Is 1984 Becoming a Reality? - George Orwell’s Warning to the World_, <https://www.youtube.com/watch?v=vEMlvpMY7yw>.
-[^williamson2022ud]: Chris Williamson and Robert Spalding (2022): _China’s Secret Playbook For War - General Robert Spalding | Modern Wisdom Podcast 463_, <https://youtu.be/tEKFE37IqgI>.
+[^dsouza2017mo]: Dinesh D'Souza (2017): _Is Fascism Right Or Left?_, <https://youtu.be/m6bSsaVL6gA>.
+[^ideas2021hh]: Academy of Ideas (2021): _Is 1984 Becoming a Reality? – George Orwell’s Warning to the World_, <https://youtu.be/vEMlvpMY7yw>.
+[^williamson2022ud]: Chris Williamson and Robert Spalding (2022): _China’s Secret Playbook For War – General Robert Spalding | Modern Wisdom Podcast 463_, <https://youtu.be/tEKFE37IqgI>.
 [^breuninger2019gm]: Kevin Breuninger (2019): _Kamala Harris attacks Joe Biden’s record on busing and working with segregationists in vicious exchange at Democratic debate_, <https://www.cnbc.com/2019/06/27/harris-attacks-bidens-record-on-busing-and-working-with-segregationists.html>.
 [^burke2019hj]: Michael Burke (2019): _Harris: ‘I believe’ Biden accusers_, <https://thehill.com/homenews/campaign/437107-harris-i-believe-biden-accusers/>.
 [^schwab2017aw]: Klaus Schwab and David Gergen (2017): _Strengthening Collaboration in a Fractured World-Featuring Special Guest Yo-Yo Ma_, <https://youtu.be/AoBRnrtX9U4>.
@@ -154,14 +157,14 @@ This is the second part of a seven-part series that investigates why the last 10
 [^dilorenzo1994uv]: Thomas J. DiLorenzo (1994): _Economic Fascism_, <https://fee.org/articles/economic-fascism/>.
 [^zilber2022sc]: Ariel Zilber and Thomas Barrabi (2022): _Joe Rogan takes aim at Nancy Pelosi, pols for ‘insider trading’_, <https://nypost.com/2022/04/11/joe-rogan-slams-nancy-pelosi-pols-for-insider-trading/>.
 [^latsch2022le]: Gunther Latsch and Ansgar Siemens (2022): _Strafanzeige gegen Kanzler Scholz und Bürgermeister Tschentscher_, <https://www.spiegel.de/panorama/justiz/cum-ex-affaere-um-warburg-bank-strafanzeige-gegen-kanzler-scholz-und-buergermeister-tschentscher-a-b5abc953-46cd-49ef-b7d0-184829e31ba1>.
-[^wagenknecht2022qo]: Sahra Wagenknecht (2022): _Lobbyismus, gekaufte Politik, Meinungsmache - Leben wir in einer liberalen Demokratie?_, <https://youtu.be/dOCB87649D0>.
-[^winter2019yu]: Sabrina Winter (2019): _Lobbyismus auf Parteitagen: Das sind die Sponsor\*innen der Parteien_, <https://www.abgeordnetenwatch.de/blog/lobbyismus/lobbyismus-auf-parteitagen-das-sind-die-sponsorinnen-der-parteien>.
+[^wagenknecht2022qo]: Sahra Wagenknecht (2022): _Lobbyismus, gekaufte Politik, Meinungsmache – Leben wir in einer liberalen Demokratie?_, <https://youtu.be/dOCB87649D0>.
 [^wallasch2022ih]: Alexander Wallasch (2022): _Hat Anne Will Geld von Bill Gates bekommen?_, <https://reitschuster.de/post/hat-anne-will-geld-von-bill-gates-bekommen/>.
+[^winter2019yu]: Sabrina Winter (2019): _Lobbyismus auf Parteitagen: Das sind die Sponsor\*innen der Parteien_, <https://www.abgeordnetenwatch.de/blog/lobbyismus/lobbyismus-auf-parteitagen-das-sind-die-sponsorinnen-der-parteien>.
 [^rbb242021qk]: RBB24 (2021): _Oberstes Gericht erklärt Corona-Notbremse für verfassungsgemäß_, <https://www.rbb24.de/politik/thema/corona/beitraege/2021/11/bundesverfassungsgericht-urteil-bundesnotbremse-schulschliessung.html>.
 [^focusonline2021hh]: FocusOnline (2021): _Angela Merkel und das pikante Abendessen mit den Verfassungsrichtern im Kanzleramt_, <https://www.focus.de/politik/deutschland/vor-prozess-gegen-kanzlerin-merkel-laedt-verfassungsrichter-zum-essen-spaeter-sollen-diese-ueber-sie-urteilen_id_13485292.html>.
 [^griptnews2022xn]: Gript News (2022): _Police Dogs Used to Attack Anti-Lockdown Protestors in Amsterdam_, <https://gript.ie/watch-police-dogs-used-to-attack-anti-lockdown-protestors-in-amsterdam/>.
 [^rtde2021zl]: RTDE (2021): _Wegen Polizeigewalt in Berlin - UN-Sonderbeauftragter Melzer kündigt “offizielle Intervention” an_, <https://de.rt.com/inland/121923-wegen-polizeigewalt-in-berlin-un-sonderberichterstatter-intervention/>.
-[^rogan2022yc]: Joe Rogan and Maajid Nawaz (2022): _The Joe Rogan Experience 1780 - Maajid Nawaz_, <https://open.spotify.com/episode/1ugbn7cuab3mNgKbo81ajM>.
+[^rogan2022yc]: Joe Rogan and Maajid Nawaz (2022): _The Joe Rogan Experience 1780 – Maajid Nawaz_, <https://open.spotify.com/episode/1ugbn7cuab3mNgKbo81ajM>.
 [^sacks2022py]: David Sacks and Bari Weiss (2022): _How Big Tech Is Strangling Your Freedom_, <https://www.honestlypod.com/podcast/episode/2b0f956c/how-big-tech-is-strangling-your-freedom>.
 [^bmfbuf2020ah]: Bundesministerium für Bildung und Forschung (2020): _Zukunft von Wertvorstellungen der Menschen in unserem Land_, <https://www.vorausschau.de/>.
 [^dillon2021dn]: Tim Dillon (2021): _Tim Dillon Talking To Tech Giants On Clubhouse_, <https://youtu.be/3hBw0ZR8q6I>.
