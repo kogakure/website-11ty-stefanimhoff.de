@@ -66,7 +66,7 @@ If you are only for free speech, if it’s your speech, you are not for free spe
 >
 > **Noam Chomsky**
 
-There is no need for the protection of free speech for mainstream views. Because, as Mick Hume writes, <q>in the end, it is only those views deemed too extreme or offensive that need defending on free-speech grounds.[^hume2020aa]</q>
+There is no need for the protection of free speech for mainstream views. Because, as Mick Hume writes, <q>in the end, it is only those views deemed too extreme or offensive that need defending on free-speech grounds.</q>[^hume2020aa]
 
 Without free speech there is no possibility to find common ground, there is no discussion, and conflicts can’t be resolved without violence. Free speech is the only tool we have to stay on a balanced ground between tradition and progress. There is an evolutionary reason people come with different temperaments, and it is no accident people tend to get more conservative with age. Old people have lived a long life and learned what works and what does not and want to preserve these learnings for the next generation. Progressive new ideas are also needed, to prevent society to stagnate or dying out, if the external conditions change. But every new idea needs to be checked and tested. That is what free speech is for.
 
