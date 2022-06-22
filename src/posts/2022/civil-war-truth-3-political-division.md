@@ -119,7 +119,7 @@ Suddenly, the authoritarians realized they opened pandora’s box with the intro
 >
 > > We need regulation… to prevent rich people from controlling our channels of communication.
 >
-> That was Ellen Pao, former CEO of Reddit, [railing against Musk](https://www.washingtonpost.com/outlook/2022/04/08/musk-twitter-equity-discrimination-speech/) in the pages of… the *Washington Post!* A newspaper owned by Jeff Bezos complaining about rich people controlling “channels of communication” just might be the never-released punchline of Monty Python’s classic “Funniest Joke in the World” skit.
+> That was Ellen Pao, former CEO of Reddit, [railing against Musk](https://www.washingtonpost.com/outlook/2022/04/08/musk-twitter-equity-discrimination-speech/) in the pages of… the Washington Post!  A newspaper owned by Jeff Bezos complaining about rich people controlling “channels of communication” just might be the never-released punchline of Monty Python’s classic “Funniest Joke in the World” skit.
 >
 > Many detractors went the Pao route, suddenly getting religious about concentrated wealth having control over the public discourse. In a world that had not yet gone completely nuts, that is probably where the outrage campaign would have ended, since the oligarchical control issue could at least be a legitimate one, if printed in a newspaper not owned by Jeff Bezos.
 >

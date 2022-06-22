@@ -18,7 +18,7 @@ I was never interested in politics and could barely recollect the names of the c
 
 The last years felt like something wasn’t right anymore in many parts of society. Many people share this feeling.
 
-At first, I couldn’t point the finger at the reasons for why all these things happened, but when I listened at the end of 2021 to James Lindsay’s podcast <cite>Welcome to the Second Enlightenment</cite>[^lindsay2021bi] I was finally able to understand.
+At first, I couldn’t point the finger at the reasons for why all these things happened, but when I listened at the end of 2021 to James Lindsay’s podcast “<cite>Welcome to the Second Enlightenment</cite>”[^lindsay2021bi] I was finally able to understand.
 
 Lindsay explains in the podcast his hypothesis that we find ourselves at the beginning of a new enlightenment phase.
 
@@ -54,7 +54,7 @@ This belief was wrong. Lindsay argues that we recently left Phase 3 (Information
 
 Lindsay explains that all the political, social, and economic problems we see now, are a result of the breakdown of our _Gated Institutions_ and an attempt of globalist, technocratic elites to keep their power and move society as quickly as possible into Phase 5 (a centralized, controlled information economy) with assisted living and thinking under control of a technocratic regime.
 
-Many intellectuals observe the same issues and try to formulate hypotheses for what we witness. The American social psychologist Jonathan Haidt wrote the well-received article <cite>Why the Past 10 Years of American Life Have Been Uniquely Stupid</cite>[^haidt2022wy] in <cite>The Atlantic</cite> in April 2022, Andrew Doyle wrote <cite>The experts are lying to you</cite>[^doyle2022gf] in June 2022, Steve Patterson wrote last year <cite>Our Present Dark Age, Part 1</cite>,[^patterson2021km] and Eric Weinstein said in a discussion with Sam Harris in 2019 <q>I can’t think of a single institution I trust.</q>[^weinstein2019qo] And those are just a fraction of the articles and discussions regarding this topic.
+Many intellectuals observe the same issues and try to formulate hypotheses for what we witness. The American social psychologist Jonathan Haidt wrote the well-received article “<cite>Why the Past 10 Years of American Life Have Been Uniquely Stupid</cite>”[^haidt2022wy] in <cite>The Atlantic</cite> in April 2022, Andrew Doyle wrote “<cite>The experts are lying to you</cite>”[^doyle2022gf] in <cite>UnHerd</cite> in June 2022, Steve Patterson wrote last year “<cite>Our Present Dark Age, Part 1</cite>,”[^patterson2021km] and Eric Weinstein said in a discussion with Sam Harris in 2019 <q>I can’t think of a single institution I trust.</q>[^weinstein2019qo] And those are just a fraction of the articles and discussions regarding this topic.
 
 Everybody can see the narratives of the _Gated Institutions_ crumbling right in front of our eyes. The COVID-19 crisis made this only more obvious. We see the fraud, corruption, and incompetence of an obsolescence system. We see the “expert class” losing its shit. We see the _Gated Institutions_, for example, the <abbr title="World Economic Forum">WEF</abbr> in Davos, the <abbr title="World Health Organization">WHO</abbr>, <abbr title="Centers for Disease Control and Prevention">CDC</abbr>, <abbr title="National Health Service">NHS</abbr>, <abbr title="United Nations">UN</abbr>, <abbr title="European Union">EU</abbr>, or other institutions fail and fail again. They can’t keep up with the connected knowledge of crowds that can disprove their lies and reveal their agendas in a matter of hours.
 
@@ -86,7 +86,7 @@ Being “red-pilled” means seeing the truth and being able to see through the 
 
 ## Why Do the Gated Institutions Break Down Now?
 
-Jordan Peterson describes in his 2017 lecture <cite>Personality and Its Transformations</cite>[^peterson2017ab] at the _University of Toronto_ how a system can break down on all levels at the same time:
+Jordan Peterson describes in his 2017 lecture “<cite>Personality and Its Transformations</cite>”[^peterson2017ab] at the _University of Toronto_ how a system can break down on all levels at the same time:
 
 > That happens if you are an ideologue. You identify really hard with that plan. The problem is, if something comes up to confront it, well how do you act? You can’t let go of the plan, because you drown. Then you cling to it rigidly. Well, that’s no good, because then you can’t learn anything.
 >

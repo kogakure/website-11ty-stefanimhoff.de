@@ -309,6 +309,10 @@ blockquote {
   }
 }
 
+cite {
+  padding-inline-end: 0.1em;
+}
+
 p + ul,
 p + ol {
   margin-block-start: var(--space-12);
