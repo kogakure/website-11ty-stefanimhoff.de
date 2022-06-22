@@ -141,8 +141,6 @@ I work with GitHub Enterprise at work and need to share code positions with othe
 
 It should be possible to use LSP to run Prettier on Neovim, but I couldn’t yet figure out how. That’s why I installed [neoformat](https://github.com/sbdchd/neoformat) for now to do the job for me.
 
-[Copilot.vim](https://github.com/github/copilot.vim) <del>get’s an honorable mention, because I can’t use it yet</del> <ins>is a very helpful plugin</ins>. [GitHub Pilot](https://copilot.github.com/) is a new feature by GitHub and it's currently invite-only and needs an API key at the moment. <del>I’m on the waiting list.</del> It is a new AI feature that learns automatically and will suggest the right code at the right moment. <del>Looks promising</del> <ins>It is fantastic</ins>!
-
 ### Window Improvements
 
 A lot of new Vim users get confused: Vim supports buffers, windows, and tabs. A buffer is the instance of a file, a window is a view on a buffer and a tab is a collection. Because buffers are not visible by default, beginners don’t know how to see all open files. [Bufferline](https://github.com/akinsho/bufferline.nvim) will add a feature to show all open buffers as if they would be tabs.
