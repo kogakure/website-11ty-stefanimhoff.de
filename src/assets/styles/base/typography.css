@@ -289,15 +289,14 @@ blockquote {
     }
 
     &:last-child {
+      display: list-item;
+      list-style-type: '— ';
       opacity: 0.8;
 
       & strong {
-        display: list-item;
-        float: left;
         font-size: var(--font-size-3);
         font-style: normal;
         font-weight: var(--font-weight-bold);
-        list-style-type: '— ';
 
         & em {
           font-size: var(--font-size-3);
@@ -309,13 +308,18 @@ blockquote {
   }
 }
 
-cite {
-  padding-inline-end: 0.1em;
+blockquote p:first-child {
+  list-style: none;
+  opacity: 0.6;
 }
 
-p + ul,
-p + ol {
-  margin-block-start: var(--space-12);
+blockquote blockquote p:last-child {
+  list-style: none;
+  opacity: 0.6;
+}
+
+cite {
+  padding-inline-end: 0.1em;
 }
 
 q {
