@@ -106,7 +106,7 @@ And propaganda works, even months or years after claims have been proven wrong, 
 >
 > **Joseph Goebbels**
 
-Unfortunately, as Dr. Daniele Ganser pointed out in his talk,[^ganser2020em] it is not possible to not be influenced by propaganda. The only way is in his opinion to go into nature, to train mindfulness, and be skeptical about everything, be careful if somebody wants to sell you war or to hate a specific group of people. As a historian, Ganser said, <q>we are always 20 years late.</q> With every conflict people think that _this_ time the government tells the truth and that _this_ perceived thread is real.
+Unfortunately, as Dr. Daniele Ganser pointed out in his talk, it is not possible to not be influenced by propaganda.[^ganser2020em] The only way is in his opinion to go into nature, to train mindfulness, and be skeptical about everything, be careful if somebody wants to sell you war or to hate a specific group of people. As a historian, Ganser said, <q>we are always 20 years late.</q> With every conflict people think that _this_ time the government tells the truth and that _this_ perceived thread is real.
 
 Ganser mentioned the war propaganda of the Iraq War 2003, where a young woman claimed Iraqi soldiers would have killed incubator babies by throwing them on the floor. Later it was revealed she was the daughter of the Kuwaiti ambassador. No matter where you look, from Vietnam, 9/11, Ukraine 2014 and 2022 to COVID-19 you’ll find propaganda, used to manipulate how you think about a topic.
 
