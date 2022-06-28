@@ -143,7 +143,7 @@ This is the second part of a seven-part series that investigates why the last 10
 2. **Corporatism and Corruption**
 3. [Political Division](/civil-war-truth-3-political-division/)
 4. [Media and Journalism](/civil-war-truth-4-media-journalism/)
-5. _Academia_
+5. [Academia](/civil-war-truth-5-academia/)
 6. _Science_
 7. _Conclusion_
 
