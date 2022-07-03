@@ -75,7 +75,7 @@ I use [Apple Numbers](https://www.apple.com/numbers/) for everything I need to d
 
 ### JustFocus 🖥
 
-[JustFocus](https://climstudio.com/justfocus/) is a nice, free tool to make sure you work focussed and do regular breaks. It uses the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to switch between work and break time. You can adjust the length of work, short or long break periods. During break time the tool will block your screen and show a nice wallpaper and a quote to make sure you spend your break away from the screen.
+[JustFocus](https://climstudio.com/justfocus/) is a nice, free tool to make sure you work focused and do regular breaks. It uses the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to switch between work and break time. You can adjust the length of work, short or long break periods. During break time the tool will block your screen and show a nice wallpaper and a quote to make sure you spend your break away from the screen.
 
 ### Bartender 🖥
 
@@ -201,19 +201,19 @@ I use Feedbin together with [Reeder 5](https://reederapp.com/). Reeder is a beau
 
 [Raindrop.io](https://raindrop.io/) is my bookmark manager. It is so much fun, I save nearly everything in it. The tool allows organizing bookmarks in collections (\$), tagging and filtering (by type of bookmark).
 
-A deduplicating service finds broken links (\$). The new highlighting feature allows to use 4 different colors and add comments to any text. A browser extension allows to hightlight the text also directly on the website. Each collection can use a different view (Grid, Headlines, Masonry, or List). Full-text search will search every web-page and PDF (\$). Raindrop automatically creates a backup of every website for offline reading (\$).
+A deduplicating service finds broken links (\$). The new highlighting feature allows to use 4 different colors and add comments to any text. A browser extension allows to highlight the text also directly on the website. Each collection can use a different view (Grid, Headlines, Masonry, or List). Full-text search will search every web-page and PDF (\$). Raindrop automatically creates a backup of every website for offline reading (\$).
 
 Raindrop can also be used to create moodboards and it is possible to upload common media files. Collections can be edited together with other users and it is possible to share individual collections publicly ([here are mine](https://raindrop.io/kogakure)).
 
 ### Pocket (Premium)
 
-I still use [Pocket](https://getpocket.com/) to create highlights, that get then synchronized to Readwise. As soon as the hightlights of Raindrop.io are synchronized to Readwise, I will reconsider keeping Pocket. I automatically move articles from Raindrop.io to Pocket via IFTTT.
+I still use [Pocket](https://getpocket.com/) to create highlights, that get then synchronized to Readwise. As soon as the highlights of Raindrop.io are synchronized to Readwise, I will reconsider keeping Pocket. I automatically move articles from Raindrop.io to Pocket via IFTTT.
 
 ### Readwise 📱 🌐
 
-[Readwise](https://readwise.io/) is my favorite tool to have all my hightlights of different services in one place, no matter if it is my Kindle, Apple Books, Pocket, Feedly, Instapaper, Medium, Twitter, etc. Each morning you get five random hightlights to review which is a fantastic way to be reminded of ideas you highlighted.
+[Readwise](https://readwise.io/) is my favorite tool to have all my highlights of different services in one place, no matter if it is my Kindle, Apple Books, Pocket, Feedly, Instapaper, Medium, Twitter, etc. Each morning you get five random highlights to review which is a fantastic way to be reminded of ideas you highlighted.
 
-I synchronize my hightlights with Obsidian where I store them permanently as Markdown documents.
+I synchronize my highlights with Obsidian where I store them permanently as Markdown documents.
 
 ### Pinboard 🌐
 

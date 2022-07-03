@@ -15,7 +15,7 @@ Something similar said the superhero _He-Man_ from the 80s TV show _Masters of t
 
 The first time I stumbled upon Vim (or Vi) a couple of years ago, when I first had to edit any file on a server and none of my fancy editors worked there. The first time I worked with Vi(m) was my natural reaction: <q>WTF, I can not tap until I press i? Who invents such a crap?</q>.
 
-But because I, as a web worker inevitably have to work on the server, again and again, I could not avoid learning either Vim or Nano. And so, for years, I coped quite well with four or five Vim keys. But I was **so** wrong. Wrong. Wrong. Realy wrong.
+But because I, as a web worker inevitably have to work on the server, again and again, I could not avoid learning either Vim or Nano. And so, for years, I coped quite well with four or five Vim keys. But I was **so** wrong. Wrong. Wrong. Really wrong.
 
 Three years ago I had already tried to learn Vim and had failed miserably. Why?
 

@@ -48,7 +48,7 @@ We throw around the term “Blackout” when the energy goes out for 10 minutes,
 >
 > **Amos Burton** quoting Lydia (James S. A. Corey), _The Expanse_
 
-The whole European energy grid is in a bad state. The push to green energy will worsen the problem soon. Germany had two Brownouts (near Blackouts) in the last two years that could only be prevented by transfering energy from neighboring countries.
+The whole European energy grid is in a bad state. The push to green energy will worsen the problem soon. Germany had two Brownouts (near Blackouts) in the last two years that could only be prevented by transferring energy from neighboring countries.
 
 And Blackouts are only one possible threat to civilization. A solar flare might destroy our grid and computers, as _Bret Weinstein_ describes in his article.[^weinstein2021rg] It’s much more likely our civilization might end from a solar flare than global warming or an asteroid.
 

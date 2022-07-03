@@ -3,7 +3,7 @@ title: "Civil War for Truth: Introduction"
 author: Stefan Imhoff
 date: "2022-06-06T07:00:00+02:00"
 description: This is the introduction of a seven-part series that
-  investigates why the last 10 years were so uniquely turbulent with
+  investigates why the last 10 years were uniquely turbulent with
   ever-increasing political division, rampant censorship, and growing
   authoritarianism.
 tags:
@@ -102,7 +102,7 @@ To understand why our _Gated Institutions_ break down all at the same time, we n
 
 ---
 
-This is the first part of a seven-part series that investigates why the last 10 years were so uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate our politicians and corporations.
+This is the first part of a seven-part series that investigates why the last 10 years were uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate our politicians and corporations.
 
 1. **Introduction**
 2. [Corporatism and Technocracy](/civil-war-truth-2-corporatism-technocracy/)

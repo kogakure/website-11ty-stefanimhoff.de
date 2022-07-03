@@ -44,7 +44,7 @@ Minds has a premium membership program for content creators that want to access 
 
 I like the clean design and how nice and big the content is shown. And the edit feature is fantastic to fix a typo later. With a basic account and a few posts, I earned $20 in tokens in 3 years.
 
-Minds has a build-in encrypted [chat](https://chat.minds.com/) that was recently migrated to Matrix.
+Minds has a built-in encrypted [chat](https://chat.minds.com/) that was recently migrated to Matrix.
 
 ## Matrix
 
@@ -84,7 +84,7 @@ A user who wants to request a file finds a provider that stores the content, pay
 
 But LBRY is more. It is a protocol (`lbry://`) for any type of digital content, for example, videos, music, ebooks, or video games. It has the aim to become the digital library of the future.
 
-The content of the network is distributed across a network of hosts similar to BitTorrent, but with build-in possibilities for monetization, while the metadata lives on a blockchain.
+The content of the network is distributed across a network of hosts similar to BitTorrent, but with built-in possibilities for monetization, while the metadata lives on a blockchain.
 
 Content creators can set a price or give the content away for free, content consumers can tip content creators or purchase paid content. LBRY uses its own crypto-currency `LBC` (LBRY Credits).
 

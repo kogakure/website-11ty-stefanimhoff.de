@@ -3,7 +3,7 @@ title: "Civil War for Truth: Political Division"
 date: 2022-06-20T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the third part of a seven-part series that
-  investigates why the last 10 years were so uniquely turbulent with
+  investigates why the last 10 years were uniquely turbulent with
   ever-increasing political division, rampant censorship, and growing
   authoritarianism.
 tags:
@@ -169,7 +169,7 @@ The reason most people have no clue how bad the state of the world is is the res
 
 ---
 
-This is the third part of a seven-part series that investigates why the last 10 years were so uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate our media companies and journalists.
+This is the third part of a seven-part series that investigates why the last 10 years were uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate our media companies and journalists.
 
 1. [Introduction](/civil-war-truth-1-introduction/)
 2. [Corporatism and Technocracy](/civil-war-truth-2-corporatism-technocracy/)

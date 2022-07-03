@@ -3,7 +3,7 @@ title: "Civil War for Truth: Corporatism and Technocracy"
 date: 2022-06-13T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the second part of a seven-part series that
-  investigates why the last 10 years were so uniquely turbulent with
+  investigates why the last 10 years were uniquely turbulent with
   ever-increasing political division, rampant censorship, and growing
   authoritarianism.
 tags:
@@ -27,7 +27,7 @@ Everybody in Washington knows that the laws are made by companies and financial 
 
 Most politics these days is political theater, what Chris Williamson coined as _Performative Disagreement_ in his interview with General Robert Spalding.[^williamson2022ud]
 
-We could observe this in the primaries of the US elections in 2019 when candidates like Kamala Harris accused Joe Biden indirectly of being a racist because he opposed public school busses and worked with segregationists in his past.[^breuninger2019gm] She also accused him indirectly of rape when she said she believed Biden’s accusers for sexual misconduct.[^burke2019hj] After she lost in the primaries she was picked as his running mate nevertheless, proving the political theater. This trend can be observed not just in the USA, but throughout Western Democracies.
+We could observe this in the primaries of the US elections in 2019 when candidates like Kamala Harris accused Joe Biden indirectly of being a racist because he opposed public school buses and worked with segregationists in his past.[^breuninger2019gm] She also accused him indirectly of rape when she said she believed Biden’s accusers for sexual misconduct.[^burke2019hj] After she lost in the primaries she was picked as his running mate nevertheless, proving the political theater. This trend can be observed not just in the USA, but throughout Western Democracies.
 
 And the growing influence of unelected organizations like the World Economic Forum (WEF) under Klaus Schwab and their direct influence on politicians and companies is a worrying trend. The WEF is in reality only an exchange for Corporatism, even if they call it euphemistic <q>Public-Private Partnerships</q>.[^matuschek2022gv]
 
@@ -137,7 +137,7 @@ There will be soon a huge class of dispossessed people that rent everything from
 
 ---
 
-This is the second part of a seven-part series that investigates why the last 10 years were so uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate our political division.
+This is the second part of a seven-part series that investigates why the last 10 years were uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate our political division.
 
 1. [Introduction](/civil-war-truth-1-introduction/)
 2. **Corporatism and Corruption**

@@ -135,7 +135,7 @@ optimize: {
     dest: productionAssets + '/images/',
     options: {
       optimizationLevel: 3,
-      progessive: true,
+      progressive: true,
       interlaced: true
     }
   }

@@ -32,9 +32,9 @@ We have _instinct_ and _emotion_ in every discussion, thinking in black or white
 
 Rational discourse is nearly impossible these days.
 
-We have support for _war_ and _zero-sum thinking_ everywhere. How did we come from we need to help Ukraine with humanitarian aid to <q>we need to defeat Russia, so they can never attack anybody again, ever</q> in two weeks? Maybe figuring out a diplomatic way to let Putin end the war without loosing his face would be an idea? No, zero-sum game.
+We have support for _war_ and _zero-sum thinking_ everywhere. How did we come from we need to help Ukraine with humanitarian aid to <q>we need to defeat Russia, so they can never attack anybody again, ever</q> in two weeks? Maybe figuring out a diplomatic way to let Putin end the war without losing his face would be an idea? No, zero-sum game.
 
-We have _Authoritarianism_ everywhere. During COVID we could see this accelerated dramatically. <q>Do this, or else!</q> The police used cars, horses, attack dogs and batons against peaceful protesters. People were interned in camps or locked at home when they tested positiv for a virus. People was forbidden to work, demonstrate, meet, travel, or go to a restaurant. We had daily propaganda, and state-sponsored hate speech every day on television.
+We have _Authoritarianism_ everywhere. During COVID we could see this accelerated dramatically. <q>Do this, or else!</q> The police used cars, horses, attack dogs and batons against peaceful protesters. People were interned in camps or locked at home when they tested positive for a virus. People was forbidden to work, demonstrate, meet, travel, or go to a restaurant. We had daily propaganda, and state-sponsored hate speech every day on television.
 
 Politicians call for expropriation of companies, for regulation of companies, regulation of speech and basic rights, there is discussion about restricting people in the name of climate change to specific amounts of living space or energy, and money is printed like toilet paper resulting in sky-rocketing inflation. _Socialism_ is getting stronger.
 

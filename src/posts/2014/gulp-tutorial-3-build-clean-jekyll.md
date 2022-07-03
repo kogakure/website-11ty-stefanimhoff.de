@@ -67,7 +67,7 @@ delete: {
 
 I will shorten all configuration options from now on. Every task will have its own option section. These are JavaScript objects so don’t forget the trailing comma if you add a new configuration option.
 
-The actuall task will look like this:
+The actually task will look like this:
 
 #### gulp/tasks/development/delete.js
 
@@ -146,7 +146,7 @@ I put my `_config.yml` and other configuration files always at the root of my pr
 
 {% banner "To bundle or not to bundle" %}
 
-**Be carefull:** If you didn’t install Jekyll with a Gemfile you’ll have to change the Jekyll tasks and remove the `bundle exec` part. Instead of `return cp.spawn('bundle', ['exec', 'jekyll' …` you write `return cp.spawn('jekyll', ['build', '-q' …`. All other options stay the same.
+**Be careful:** If you didn’t install Jekyll with a Gemfile you’ll have to change the Jekyll tasks and remove the `bundle exec` part. Instead of `return cp.spawn('bundle', ['exec', 'jekyll' …` you write `return cp.spawn('jekyll', ['build', '-q' …`. All other options stay the same.
 
 {% endbanner %}
 

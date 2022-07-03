@@ -3,7 +3,7 @@ title: "Civil War for Truth: Media and Journalism"
 date: 2022-06-27T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the fourth part of a seven-part series that
-  investigates why the last 10 years were so uniquely turbulent with
+  investigates why the last 10 years were uniquely turbulent with
   ever-increasing political division, rampant censorship, and growing
   authoritarianism.
 tags:
@@ -174,7 +174,7 @@ This shows a trend that gives hope. People are sick of woke political agenda. Th
 
 ---
 
-This is the fourth part of a seven-part series that investigates why the last 10 years were so uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate Academia.
+This is the fourth part of a seven-part series that investigates why the last 10 years were uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate Academia.
 
 1. [Introduction](/civil-war-truth-1-introduction/)
 2. [Corporatism and Technocracy](/civil-war-truth-2-corporatism-technocracy/)

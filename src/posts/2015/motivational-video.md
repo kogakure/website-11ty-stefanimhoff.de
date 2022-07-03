@@ -45,7 +45,7 @@ Additionally I <mark>highlight</mark> the parts used in the film.
 
 > <mark>Pain is temporary. It may last a minute, or an hour, or a day, or a year, but eventually it will subside and something else will take its place. If I quit, however, it lasts forever.</mark>
 >
-> **Lance Armstrong**, _It’s Not About the Bike: My Journey Back to Life. New York: Berkley Books (2001); Quoted by Eric Thomas_
+> **Lance Armstrong**, _It’s Not About the Bike: My Journey Back to Life. New York: Berkeley Books (2001); Quoted by Eric Thomas_
 
 ---
 

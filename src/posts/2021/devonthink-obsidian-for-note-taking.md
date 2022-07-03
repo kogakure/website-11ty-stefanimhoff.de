@@ -63,7 +63,7 @@ If it is text in an image I use the OCR feature to convert it into selectable te
 
 Articles I save always as Markdown to my reference database for later reference. The DEVONthink capture feature is one of the most useful features I know. It grabs the article, cleans it from advertising and layout elements, and converts it Markdown, including all links.
 
-I use the Markdown highlight feature (`==hightlight==`) to mark interesting parts of the text. These parts get converted into permanent notes in Obsidian. To remember where I got the note from I create a new entry in a [BibDesk](https://bibdesk.sourceforge.io/) database (which lives inside my Obsidian vault in a subfolder) and add the reference key to the note.
+I use the Markdown highlight feature (`==highlight==`) to mark interesting parts of the text. These parts get converted into permanent notes in Obsidian. To remember where I got the note from I create a new entry in a [BibDesk](https://bibdesk.sourceforge.io/) database (which lives inside my Obsidian vault in a subfolder) and add the reference key to the note.
 
 I tag my notes with hashtags (`#tag`) which I convert to system tags with DEVONthink.
 

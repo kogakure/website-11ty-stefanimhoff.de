@@ -3,7 +3,7 @@ title: "Civil War for Truth: Academia"
 date: 2022-07-04T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the fifth part of a seven-part series that
-  investigates why the last 10 years were so uniquely turbulent with
+  investigates why the last 10 years were uniquely turbulent with
   ever-increasing political division, rampant censorship, and growing
   authoritarianism.
 tags:
@@ -136,7 +136,7 @@ The only way this can be stopped is when more companies stand up against activis
 
 ---
 
-This is the fifth part of a seven-part series that investigates why the last 10 years were so uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate science.
+This is the fifth part of a seven-part series that investigates why the last 10 years were uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate science.
 
 1. [Introduction](/civil-war-truth-1-introduction/)
 2. [Corporatism and Technocracy](/civil-war-truth-2-corporatism-technocracy/)

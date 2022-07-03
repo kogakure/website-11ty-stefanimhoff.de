@@ -2,7 +2,7 @@
 title: Spring Cleaning
 date: 2022-05-26T15:00:00+02:00
 author: Stefan Imhoff
-description: I removed my link and quote posts and will share intersting things on Reddit from now on.
+description: I removed my link and quote posts and will share interesting things on Reddit from now on.
 tags:
   - personal
 ---
