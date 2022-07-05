@@ -64,7 +64,7 @@ At first glance these ideas sound nice, don’t they? But this is because of ass
 
 Equity is even more worrying because it stands for equality of outcome. It means that if you see _any_ difference in gender, sex, race, or any other attribute, the reason is _always_ a systemic underlying condition that holds people down. It ignores preference, interest, merit, diligence, hard work, genes, or luck as contributing factors. Ironically, gender activists try to reduce a multi-level problem to a binary in this case.
 
-This all resulted in a prominent victimhood culture at the universities, where trigger warnings are now necessary before you read Shakespeare or listen to a Standup comedian or philosophical talk. It produced a culture that sees invented the concept of Micro-aggressions and sees those in statements like <q>Merry Christmas</q> or <q>Women bear children,</q> and believes that <q>Words are Violence.</q>
+This all resulted in a prominent victimhood culture at the universities, where trigger warnings are now necessary before you read Shakespeare or listen to a Standup comedian or philosophical talk. It produced a culture that invented the concept of Micro-aggressions and sees those in statements like <q>Merry Christmas</q> or <q>Women bear children,</q> and believes that <q>Words are Violence.</q>
 
 Gad Saad coined the term <q>Collective Munchausen</q> for this faux-victimhood mentality. <q>Rather than feigning a medical condition or inflicting an injury, sufferers of Collective Munchausen seek attention, sympathy, and empathy by advertising their supposed victimhood status (or piggybacking on the victimhood of others, Collective Munchausen by Proxy).</q>[^saad2020aa]
 
@@ -98,7 +98,7 @@ The Evergreen State College experienced a 27% drop in enrollments after the riot
 
 In 2017 and 2018 a group of three authors, Peter Boghossian, James A. Lindsay, and Helen Pluckrose started a project to expose the political corruption in several academic fields. They wrote and submitted bogus papers to academic journals in cultural, queer, race, gender, fat, and sexuality studies to see if they could pass peer review. They wrote 20 articles that had purposely absurd ideas. One of the most famous papers investigated rape culture in dog parks, another one investigated how transphobia could be reduced by penetrating men anally with sex toys, one proposed Fat Body Building, and one study rewrote Adolf Hitler’s <cite>Mein Kampf</cite> in feminist language.[^lindsay2018zb]
 
-The team first failed with their approach at first and decided to understand and study the ideologies to write more effective hoax papers. Helen Pluckrose and James Lindsay worked their insights into the ideologies into a book on the topic. They both started projects to fight the corruption in Academia. Helen Pluckrose started [Counterweight](https://counterweightsupport.com/), a project to reduce political polarization that is threatening science and James Lindsay started [New Discourses](https://newdiscourses.com/), a magazine, podcast, and education platform on post-modernist and Neo-Marxist ideology.
+The team failed with their approach at first and decided to understand and study the ideologies to write more effective hoax papers. Helen Pluckrose and James Lindsay worked their insights into the ideologies into a book on the topic. They both started projects to fight the corruption in Academia. Helen Pluckrose started [Counterweight](https://counterweightsupport.com/), a project to reduce political polarization that is threatening science and James Lindsay started [New Discourses](https://newdiscourses.com/), a magazine, podcast, and education platform on post-modernist and Neo-Marxist ideology.
 
 By the time of the reveal 4 papers had been published, 1 paper won a prize, 3 had been accepted, but not yet published, 6 had been rejected and 7 were under review. Filmmaker Mike Nayna produced a short documentary about the [Grievance Studies Affair](https://youtu.be/kVk9a5Jcd1k).
 
@@ -120,7 +120,7 @@ A few recent examples show what can happen if ideology destroys the workplace.
 
 ## Wokeness Harms Company Culture
 
-Spotify got repeatedly into troubled water since its acquisition of the Joe Rogan Experience on its platform. Employees staged multiple walkouts and breakdowns every time a guest on Joe Rogan talked about a controversial topic such as Transgender, COVID-19, or politics in general. But for now, the profit was more important to the company than pleasing the grievances of triggered employees.[^hamilton2020aa]
+Spotify got repeatedly into troubled water since its acquisition of the Joe Rogan Experience on its platform. Employees staged multiple walkouts and had tearful breakdowns every time a guest on Joe Rogan talked about a controversial topic such as Transgender, COVID-19, or politics in general. But for now, the profit was more important to the company than pleasing the grievances of triggered employees.[^hamilton2020aa]
 
 Another recent example is the resignation of the Jewish opinion writer Bari Weiss in 2020 from her position at The New York Times. The harassment she had to endure on internal Slack channels for her center-left positions became unbearable.[^weiss2020vp]
 
