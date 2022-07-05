@@ -41,7 +41,7 @@ excludeFromSitemap: true
           </div>
           {% if item.url %}
             <div>
-              <a href={{ item.url }} target="_blank" rel="nofollow noopener noreferrer external">{{ item.url | replace(r/https?:\/\//, "")}}</a>
+              <a href={{ item.url }} {{ site.external }}>{{ item.url | replace(r/https?:\/\//, "")}}</a>
             </div>
           {% endif %}
           </div>
@@ -64,7 +64,7 @@ excludeFromSitemap: true
         </div>
         {% if item.url %}
           <div>
-            <a href={{ item.url }} target="_blank" rel="nofollow noopener noreferrer external">{{ item.url | replace(r/https?:\/\//, "")}}</a>
+            <a href={{ item.url }} {{ site.external }}>{{ item.url | replace(r/https?:\/\//, "")}}</a>
           </div>
         {% endif %}
       </div>

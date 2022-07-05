@@ -21,10 +21,10 @@ permalink: /about/
     <h2 class="subheadline">About Me</h2>
     <p>
       I’m <em>Stefan Imhoff</em>, a Front-End Web Developer, and Designer from
-      Hamburg, Germany. I love design and art, reading <a href="https://goodreads.com/kogakure" rel="nofollow noopener noreferrer" target="_blank">books</a>,
-      listening to <a href="https://raindrop.io/kogakure/podcasts-24118384" rel="nofollow noopener noreferrer" target="_blank">podcasts</a>,
-      watching <a href="https://www.themoviedb.org/u/kogakure/favorites" rel="nofollow noopener noreferrer" target="_blank">movies</a>
-      and <a href="https://www.themoviedb.org/u/kogakure/favorites/tv" rel="nofollow noopener noreferrer" target="_blank">TV shows</a>,
+      Hamburg, Germany. I love design and art, reading <a href="https://goodreads.com/kogakure" {{ site.external }}>books</a>,
+      listening to <a href="https://raindrop.io/kogakure/podcasts-24118384" {{ site.external }}>podcasts</a>,
+      watching <a href="https://www.themoviedb.org/u/kogakure/favorites" {{ site.external }}>movies</a>
+      and <a href="https://www.themoviedb.org/u/kogakure/favorites/tv" {{ site.external }}>TV shows</a>,
       creating <a href="/sketchnotes/">Sketchnotes</a>, taking photos, and writing <a href="/haiku/">Haiku</a>.
     </p>
   </div>
@@ -32,28 +32,24 @@ permalink: /about/
     <p>
       I love
       <a
-        href="https://hamburg.stefanimhoff.de/"
-        rel="nofollow noopener noreferrer" target="_blank">walking and cycling</a>, running, and doing
-        <a href="/calisthenics/">Calisthenics</a> to stay fit. My ideal weather
-        is thunderstorms and rain, but I like also warm sunny weather.
+        href="https://hamburg.stefanimhoff.de/" {{ site.external }}>walking and cycling</a>, 
+        running, and doing <a href="/calisthenics/">Calisthenics</a> to stay fit. 
+        My ideal weather is thunderstorms and rain, but I like also warm sunny weather.
         My favorite places are the sea, forests, and mountains.
     </p>
     <p>
       When I’m inside I like reading my estimated 1,000 books. I read mostly
       philosophy, science, design, and architecture. And I am a big
       fan of movies and TV shows. I like to cook,
-      <a
-        href="https://en.wikipedia.org/wiki/Hochzeitssuppe"
-        rel="nofollow noopener noreferrer" target="_blank">Niedersächsische Hochzeitssuppe</a> is my favorite dish.
+      <a href="https://en.wikipedia.org/wiki/Hochzeitssuppe" {{ site.external }}>Nieder&shy;sächsische Hochzeits&shy;suppe</a> 
+      is my favorite dish.
     </p>
     <p>
       I see myself as a <a href="/minimalism/">Minimalist</a>, a Stoic, an
       Introvert, and Japanophile. Writing is a passion for me. Besides writing
       <a href="/journal/">essays</a> I’ve written a
-      <a
-        href="https://book.kogakure.de/"
-        rel="nofollow noopener noreferrer" target="_blank">book</a> and run a
-      <a href="https://www.kogakure.de/en/" target="_blank">website</a>
+      <a href="https://book.kogakure.de/" {{ site.external }}>book</a> and run a
+      <a href="https://www.kogakure.de/en/" {{ site.external }}>website</a>
       about Ninja and Ninjutsu.
     </p>
     <p>See what I’m doing right <a href="/now/">now</a>.</p>
@@ -63,10 +59,10 @@ permalink: /about/
 <section class="about-website" {{ site.animation }}>
   <h2 class="subheadline">About This Website</h2>
   <p>
-    I build this website with <a href="https://www.11ty.dev/"rel="nofollow noopener noreferrer" target="_blank">Eleventy</a>, a fast, fun, and simple static site generator.
+    I build this website with <a href="https://www.11ty.dev/" {{ site.external }}>Eleventy</a>, a fast, fun, and simple static site generator.
   </p>
   <p class="no-margin">
-    The source code of this website is available on <a href="https://github.com/kogakure/website-11ty-stefanimhoff.de" rel="nofollow noopener noreferrer" target="_blank">GitHub</a>. Feel free to learn from the source code and reuse code for your projects.  Don’t just steal it. Learn from it. Remix. Reuse. Build your own stuff.
+    The source code of this website is available on <a href="https://github.com/kogakure/website-11ty-stefanimhoff.de" {{ site.external }}>GitHub</a>. Feel free to learn from the source code and reuse code for your projects.  Don’t just steal it. Learn from it. Remix. Reuse. Build your own stuff.
   </p>
 </section>
 
@@ -76,15 +72,8 @@ permalink: /about/
   <p>{% email "Say hello.", true %}</p>
   <p class="no-margin">
     You can send me a text message on
-    <a
-      href="/downloads/session.txt"
-      rel="nofollow noopener noreferrer" target="_blank">Session</a>,
-    <a
-      href="https://join.status.im/u/0x046ef708e10d74f71a3294f6bb4b96f0731c6a39bd9abd0993ddfd0015500d3c0dda98b351b2685b9f0e0e57d71cba8149d494f801956a051e77d15d963dc74b81"
-      rel="nofollow noopener noreferrer" target="_blank">Status</a>, or
-    <a
-      href="https://matrix.to/#/@kogakure:matrix.org"
-      rel="nofollow noopener noreferrer" target="_blank">Matrix</a>.
+    <a href="https://matrix.to/#/@kogakure:matrix.org" {{ site.external }}>Matrix</a> or
+    <a href="/downloads/session.txt" {{ site.external }}>Session</a>.
   </p>
 </section>
 
@@ -93,9 +82,7 @@ permalink: /about/
   <ul class="about-social-media">
     {% for item in connect %}
     <li>
-      <a
-        href="{{ item.url }}"
-        rel="nofollow noopener noreferrer" target="_blank">{{ item.text }}</a>
+      <a href="{{ item.url }}" {{ site.external }}>{{ item.text }}</a>
     </li>
     {% endfor %}
   </ul>
