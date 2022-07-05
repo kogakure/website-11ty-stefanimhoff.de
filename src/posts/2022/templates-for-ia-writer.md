@@ -22,7 +22,7 @@ On a Sunday morning, I decided to create a [prototype](https://codepen.io/kogaku
 
 ## iA Writer Template Nanzan
 
-Later that week I decided to create my first iA Writer template based on that style. I called the template [Nanzan](https://github.com/kogakure/ia-writer-template-nanzan) (南山) because the book was typeset by the _Nanzan Institute for Religion and Culture_. It’s free and you can download the code as a ZIP archive and double click the `.iatemplate` file.
+Later that week I decided to create my first iA Writer template based on that style. I called the template [Nanzan](https://github.com/kogakure/ia-writer-template-nanzan) (南山) because the book was typeset by the _Nanzan Institute for Religion and Culture_. The template is free and you can download the code as a ZIP archive and double click the `.iatemplate` file.
 
 ![Nanzan](/assets/images/posts/ia-writer-template-nanzan.jpg)
 
