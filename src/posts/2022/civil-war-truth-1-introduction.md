@@ -1,7 +1,7 @@
 ---
-title: "Civil War for Truth: Introduction"
+title: 'Civil War for Truth: Introduction'
 author: Stefan Imhoff
-date: "2022-06-06T07:00:00+02:00"
+date: '2022-06-06T07:00:00+02:00'
 description: This is the introduction of a seven-part series that
   investigates why the last 10 years were uniquely turbulent with
   ever-increasing political division, rampant censorship, and growing
@@ -109,7 +109,7 @@ This is the first part of a seven-part series that investigates why the last 10 
 3. [Political Division](/civil-war-truth-3-political-division/)
 4. [Media and Journalism](/civil-war-truth-4-media-journalism/)
 5. [Academia](/civil-war-truth-5-academia/)
-6. _Science_
+6. [Science](/civil-war-truth-6-science/)
 7. _Conclusion_
 
 [^lindsay2021bi]: James Lindsay (2021): _Welcome to the Second Enlightenment_, <https://newdiscourses.com/2021/10/welcome-to-the-second-enlightenment/>.

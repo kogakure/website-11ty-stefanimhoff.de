@@ -1,5 +1,5 @@
 ---
-title: "Civil War for Truth: Media and Journalism"
+title: 'Civil War for Truth: Media and Journalism'
 date: 2022-06-27T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the fourth part of a seven-part series that
@@ -181,7 +181,7 @@ This is the fourth part of a seven-part series that investigates why the last 10
 3. [Political Division](/civil-war-truth-3-political-division/)
 4. **Media and Journalism**
 5. [Academia](/civil-war-truth-5-academia/)
-6. _Science_
+6. [Science](/civil-war-truth-6-science/)
 7. _Conclusion_
 
 [^eagle2022hi]: James Eagle (2022): _Most Popular Websites Since 1993_, <https://youtu.be/hNDILCdZmRo>.

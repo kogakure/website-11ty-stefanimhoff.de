@@ -1,5 +1,5 @@
 ---
-title: "Civil War for Truth: Academia"
+title: 'Civil War for Truth: Academia'
 date: 2022-07-04T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the fifth part of a seven-part series that
@@ -143,7 +143,7 @@ This is the fifth part of a seven-part series that investigates why the last 10 
 3. [Political Division](/civil-war-truth-3-political-division/)
 4. [Media and Journalism](/civil-war-truth-4-media-journalism/)
 5. **Academia**
-6. _Science_
+6. [Science](/civil-war-truth-6-science/)
 7. _Conclusion_
 
 [^cox2011vs]: Tony Cox and Sandra Aamodt (2011): _Brain Maturity Extends Well Beyond Teen Years_, <https://www.npr.org/templates/story/story.php?storyId=141164708>.

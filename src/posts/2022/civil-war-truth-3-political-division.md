@@ -1,5 +1,5 @@
 ---
-title: "Civil War for Truth: Political Division"
+title: 'Civil War for Truth: Political Division'
 date: 2022-06-20T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the third part of a seven-part series that
@@ -176,7 +176,7 @@ This is the third part of a seven-part series that investigates why the last 10 
 3. **Political Division**
 4. [Media and Journalism](/civil-war-truth-4-media-journalism/)
 5. [Academia](/civil-war-truth-5-academia/)
-6. _Science_
+6. [Science](/civil-war-truth-6-science/)
 7. _Conclusion_
 
 [^watson2021aa]: Paul Joseph Watson (2021): _AMERICA 2021_, <https://youtu.be/p1kUN0MyMHw>.

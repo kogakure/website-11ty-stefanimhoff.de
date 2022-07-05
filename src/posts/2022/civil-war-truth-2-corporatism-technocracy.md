@@ -1,5 +1,5 @@
 ---
-title: "Civil War for Truth: Corporatism and Technocracy"
+title: 'Civil War for Truth: Corporatism and Technocracy'
 date: 2022-06-13T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the second part of a seven-part series that
@@ -144,7 +144,7 @@ This is the second part of a seven-part series that investigates why the last 10
 3. [Political Division](/civil-war-truth-3-political-division/)
 4. [Media and Journalism](/civil-war-truth-4-media-journalism/)
 5. [Academia](/civil-war-truth-5-academia/)
-6. _Science_
+6. [Science](/civil-war-truth-6-science/)
 7. _Conclusion_
 
 [^dsouza2017mo]: Dinesh D'Souza (2017): _Is Fascism Right Or Left?_, <https://youtu.be/m6bSsaVL6gA>.
