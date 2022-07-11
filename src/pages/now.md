@@ -16,7 +16,6 @@ I’m reading currently these **books**:
 {% bookshelf %}
 {% book "B08MQ7ZHQT" %}
 {% book "1526600218" %}
-{% book "B08GFTLK96" %}
 {% book "1419723170" %}
 {% book "1419737112" %}
 {% book "1419753517" %}
@@ -24,9 +23,9 @@ I’m reading currently these **books**:
 
 I’m working with the [Zettelkasten](https://zettelkasten.de/) note-taking method using [Obsidian](https://obsidian.md/) to write and link ideas, [DEVONthink](https://www.devontechnologies.com/apps/devonthink) to store reference material, and [iA Writer](https://ia.net/writer) to create texts out of the ideas. These are some statistics:
 
-- **2842** notes
-- **606** bibliography entries
-- **5445** reference items
+- **2852** notes
+- **612** bibliography entries
+- **5477** reference items
 
 ---
 
