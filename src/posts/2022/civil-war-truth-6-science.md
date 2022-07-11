@@ -14,7 +14,7 @@ tags:
 
 I had shown in my last essay with the example of the humanities how corrupt parts of science are. Unfortunately, it’s worse than that. Even though the ideology of identity politics is creeping into other areas outside the humanities rapidly, it is not the worst problem the institution has.
 
-John Ioannidis showed in his scientific article <cite>Why Most Published Research Findings Are False</cite>[^ioannidis2005ud] from 2005 that 90% of all published medical information is flawed. He and his team found out after years of meta-analysis research that <q>80 percent of non-randomized studies (by far the most common type) turn out to be wrong, as do 25 percent of supposedly gold-standard randomized trials, and as much as 10 percent of the platinum-standard large randomized trials.</q>[^freedman2010fe]
+John Ioannidis showed in his scientific article “<cite>Why Most Published Research Findings Are False</cite>”[^ioannidis2005ud] from 2005 that 90% of all published medical information is flawed. He and his team found out after years of meta-analysis research that <q>80 percent of non-randomized studies (by far the most common type) turn out to be wrong, as do 25 percent of supposedly gold-standard randomized trials, and as much as 10 percent of the platinum-standard large randomized trials.</q>[^freedman2010fe]
 
 _Marcia Angell_, editor of the New England Journal of Medicine wrote:
 
@@ -26,7 +26,7 @@ He mentioned in his article the many reasons that lead to the problem. Bias is o
 
 > Moreover for many current scientific fields, claimed research findings may often be simply accurate measures of the prevailing bias.
 >
-> **John Ioannidis**, [Why most Published Research Findings are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
+> **John Ioannidis**, <cite>Why most Published Research Findings are False</cite>[^ioannidis2005ud]
 
 The only way to ensure this bias is found is through rigorous scrutiny by other scientists. But this is not done.[^freedman2010fe]
 
