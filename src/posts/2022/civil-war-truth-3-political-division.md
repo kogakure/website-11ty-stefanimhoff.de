@@ -173,11 +173,11 @@ This is the third part of a seven-part series that investigates why the last 10 
 
 1. [Introduction](/civil-war-truth-1-introduction/)
 2. [Corporatism and Technocracy](/civil-war-truth-2-corporatism-technocracy/)
-3. **Political Division**
+3. _Political Division_
 4. [Media and Journalism](/civil-war-truth-4-media-journalism/)
 5. [Academia](/civil-war-truth-5-academia/)
 6. [Science](/civil-war-truth-6-science/)
-7. _Conclusion_
+7. [Conclusion](/civil-war-truth-7-conclusion/)
 
 [^watson2021aa]: Paul Joseph Watson (2021): _AMERICA 2021_, <https://youtu.be/p1kUN0MyMHw>.
 [^carlisle2019pn]: Madeleine Carlisle (2019): _What to Know About the Origins of ‘Left’ and ‘Right’ in Politics, From the French Revolution to the 2020 Presidential Race_, <https://time.com/5673239/left-right-politics-origins/>.

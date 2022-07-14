@@ -1,5 +1,5 @@
 ---
-title: "The Gods of the Copybook Headings: A Warning Against Loss of Virtue, Morality, and Reason"
+title: 'The Gods of the Copybook Headings: A Warning Against Loss of Virtue, Morality, and Reason'
 date: 2021-06-12T10:00:00+02:00
 author: Stefan Imhoff
 description: A modern interpretation of Rudyard Kiplings great poem.
@@ -10,7 +10,7 @@ tags:
 
 {% youtube "37ARLInjLVE" %}
 
-A few months ago I stumbled over the poem “The Gods of the Copybook Headings” by _Rudyard Kipling_. I had never heard of the poem before, but the [visual interpretation of the poem](https://www.youtube.com/watch?v=37ARLInjLVE) by filmmaker and author [Lauren Southern](https://laurensouthern.net/) put me under a spell. I watched it over and over again and can recite the poem from my memory.
+A few months ago I stumbled over the poem <cite>The Gods of the Copybook Headings</cite> by _Rudyard Kipling_. I had never heard of the poem before, but the [visual interpretation of the poem](https://www.youtube.com/watch?v=37ARLInjLVE) by filmmaker and author [Lauren Southern](https://laurensouthern.net/) put me under a spell. I watched it over and over again and can recite the poem from my memory.
 
 As a _mostly_ reasonable person with political center-left libertarian views, I’m utterly frustrated with the ongoing global movement against reason that accelerated over the last 5 years. The poem echoes this feeling.
 
@@ -34,7 +34,7 @@ Copybook Headings were lined pages with short wisdom, aphorisms, or verses at th
 
 ## The Poem
 
-The poem was released in London on 26th October 1919 in the _Sunday Pictorial_. In 1920 it was released in the USA under the title “The Gods of the Copybook Margins”.
+The poem was released in London on 26th October 1919 in the _Sunday Pictorial_. In 1920 it was released in the USA under the title <cite>The Gods of the Copybook Margins.</cite>
 
 It is a poem with ten stanzas, each with four lines (Quatrains) with a rhyme scheme of AABB CCDD.
 
@@ -96,7 +96,7 @@ Large parts of the world honesty believe that Black people are hunted by racist 
 
 But when investigated the stories begin to crumble quickly. The “Black Lives Matter” organization was founded on a lie repeating the mantra <q>Hands up, don’t shoot</q> of the _Michael Brown_ case.[^elder2020aa] More worrying is that the organization was founded by confessing Marxists. The founders have ties to the radical-left terrorist organization “The Weather Underground” which bombed buildings like _The Capitol_ and _Pentagon_ in the 60s and 70s.[^kohls2020aa]
 
-Until recently they stated one of their goals was the “destruction of the nuclear family”. The organization is used every four years to help the Democrats win elections. It is used to transfer billions of donations through dubious channels to political agitators, most money will likely never reach Black communities. Even the mother of _Breonna Taylor_, a victim of a police shooting, called the organization a fraud.[^byrne2021pl] The co-founder however grew exceptionally rich for a Marxist since she started the organization.[^vincent2021en]
+Until recently they stated one of their goals was the “destruction of the nuclear family.” The organization is used every four years to help the Democrats win elections. It is used to transfer billions of donations through dubious channels to political agitators, most money will likely never reach Black communities. Even the mother of _Breonna Taylor_, a victim of a police shooting, called the organization a fraud.[^byrne2021pl] The co-founder however grew exceptionally rich for a Marxist since she started the organization.[^vincent2021en]
 
 While they claim Blacks are hunted in the streets by racist cops, the real number of shot unarmed Blacks for 2019 was between 13-27 (depending on the database), the numbers for Whites are slightly higher.[^mccaffree2021li] Taking the crime and murder rate to the proportion of the US population these numbers are easily explained.
 
@@ -116,11 +116,11 @@ Women’s sports are in the progress of being eradicated by biological males com
 
 Aggressive male criminals can self-identify in California as female and are transferred to women’s prisons where they are put together with biological women.[^emmons2020en] Soon women’s shelters might be forced to take in biological males, that self-identify as female.[^desanctis2021db]
 
-Gender dysphoria in Swedish teen girls is up 1,500 percent since 2008.[^dms2020ck] Teenage girls are insecure and prone to social peer pressure which explains the sky-rocking numbers with whole groups of girls coming out as ”Trans” or “Non-Binary”. In some countries, it’s possible to use puberty blockers or even sex reassignment surgery without the consent of the parents. This results in irreversible damage that can’t be reversed should the child change their mind later.[^robbins2018sc] [^jackson2020cv]
+Gender dysphoria in Swedish teen girls is up 1,500 percent since 2008.[^dms2020ck] Teenage girls are insecure and prone to social peer pressure which explains the sky-rocking numbers with whole groups of girls coming out as ”Trans” or “Non-Binary.” In some countries, it’s possible to use puberty blockers or even sex reassignment surgery without the consent of the parents. This results in irreversible damage that can’t be reversed should the child change their mind later.[^robbins2018sc][^jackson2020cv]
 
 Radical activists try to compel speech and intimidate others to recognize the 70+ made-up gender pronouns while it is perfectly possible to respect any transgender with the existing two pronouns.
 
-The denial of objective truth shows itself in the invention of words like “birthing person” (mother), “chestfeeding” (breastfeeding), or in statements like ”men can menstruate and give birth” or “a trans-woman is a woman” which are objectively false.
+The denial of objective truth shows itself in the invention of words like <q>birthing person</q> (mother), <q>chestfeeding</q> (breastfeeding), or in statements like <q>men can menstruate and give birth</q> or <q>a trans-woman is a woman</q> which are objectively false.
 
 Attacks on scientists of biology or evolution biology increased in the last years. Multiple scientists retracted their papers out of fear of being canceled. _Naval Ravikant_ said in a recent interview: <q>Biology will suffer the most. Synthetic biology, for example, a lot of this will end up in China, because you won’t be able to map facts and reality and actions together.</q>[^rogan2019ul]
 
@@ -133,7 +133,7 @@ The denial of objective truth will not only endanger women and children but driv
 > But when we disarmed They sold us and delivered us bound to our foe, \
 > And the Gods of the Copybook Headings said: “Stick to the Devil you know.”
 
-The _Cambrian_ is a reference to the welsh _Lloyd George_, prime minister during World War I. He negotiated the peace treaty in Versailles in 1919. The disarmament of the Germans was negotiated but at the same time the disarmament of the winners. The peace didn’t hold for long and Germany rearmed in secrecy.
+The _Cambrian_ is a reference to the Welsh _Lloyd George_, prime minister during World War I. He negotiated the peace treaty in Versailles in 1919. The disarmament of the Germans was negotiated but at the same time the disarmament of the winners. The peace didn’t hold for long and Germany rearmed in secrecy.
 
 This stanza is a warning to believe nobody that promises lasting peace. A country needs to ensure it’s always able to defend its values and borders (if needed with violence) against aggressors or it will cease to exist.
 
@@ -141,7 +141,7 @@ If you don’t, you will get conditions like France, were 226 people where kille
 
 It is important to be able to defend oneself because <q>a harmless man is not a good man. A good man is a very, very dangerous man, who has that under voluntary control,</q> as _Jordan B. Peterson_ stated.
 
-One can become worried about the security of Western values and way of life when reading that the US military ends gender-neutral fitness tests for soldiers to be more inclusive[^ffn2021ru] or starts implementing woke ideology[^nightingale2021ne] while Chinese soldiers train in harsh weather and the government works on genetically enhancing their soldiers.[^dilanian2020je] A recent joke goes like this: <q>When the Chinese soldiers invade, the US soldiers will ask them what their pronouns are.</q>
+One can become worried about the security of Western values and way of life when reading that the US military ends gender-neutral fitness tests for soldiers to be more inclusive[^ffn2021ru] or starts implementing woke ideology[^nightingale2021ne] while Chinese soldiers train in harsh weather and the government works on programs genetically enhancing their soldiers.[^dilanian2020je] A recent joke goes like this: <q>When the Chinese soldiers invade, the US soldiers will ask them what their pronouns are.</q>
 
 ### Stanza 6
 
@@ -177,9 +177,9 @@ As _Elon Musk_ put it in quite harsh words on _Joe Rogans_ Podcast: <q>Now let m
 
 Socialism is again high in favor in Western countries, particularly by the educated, bored, upper-middle-class that live everyday a comfortable life through the means of capitalist production while at the same time rail against it.
 
-They paint capitalism as the devil even though it cut extreme poverty (less than $1.90 per day) in half between 1990 and 2010.[^murphy2018ez] [^mitchell2018qu] [^rosling2015lc]
+They paint capitalism as the devil even though it cut extreme poverty (less than $1.90 per day) in half between 1990 and 2010.[^murphy2018ez][^mitchell2018qu][^rosling2015lc]
 
-It seems we never learn from our past. More and more people want to destroy the current way of life. Everywhere people talk about a restart of “how we live” or a “Great Reset”. These ideas always end in bloodshed and millions of dead people, because you can’t create a society on the drawing board. <q>Communism doesn’t know how</q>[^lindsay2021ut] which is why it fails each time. 100 million dead people should have been enough to learn that it won’t work, but it seems like it doesn’t.
+It seems we never learn from our past. More and more people want to destroy the current way of life. Everywhere people talk about a restart of “how we live” or a “Great Reset.” These utopian ideas always end in bloodshed and millions of dead people, because you can’t create a society on the drawing board. <q>Communism doesn’t know how</q>[^lindsay2021ut] which is why it fails each time. 100 million dead people should have been enough to learn that it won’t work, but it seems like it doesn’t.
 
 ### Stanza 8
 
@@ -198,7 +198,7 @@ Masks and lockdowns were presented as the one perfect solution to prevent infect
 
 Drugs as Hydroxychloroquine and Ivermectin were (and still are) rejected by large parts of the medical community, even though the doctors could see the results of their effectiveness in their patients. Especially Ivermectin has proven itself highly effective in multiple meta-studies as a drug for prevention, treatment, and possibly even to treat Post-COVID or vaccine side effects.[^weinstein2021zr]
 
-The further the time will progress the more scandals around COVID will come to light. Sharing the “right-wing” _Lab Leak Hypothesis_ one year ago could have gotten a person de-platformed, and now it’s a broadly accepted hypothesis. Big Tech and media prevented this story from discussing. Now they retroactively stealth edit old articles, push forward all kinds of reasons why they got it _so_ wrong, and blame others.[^hlusa2021ag] [^watson2021pa]
+The further the time will progress the more scandals around COVID will come to light. Sharing the “right-wing” _Lab Leak Hypothesis_ one year ago could have gotten a person de-platformed, and now it’s a broadly accepted hypothesis. Big Tech and media prevented this story from discussing. Now they retroactively stealth edit old articles, push forward all kinds of reasons why they got it _so_ wrong, and blame others.[^hlusa2021ag][^watson2021pa]
 
 ### Stanza 9
 
@@ -209,11 +209,11 @@ The further the time will progress the more scandals around COVID will come to l
 
 This stanza is a depressing realization that humanity will not learn from its mistakes. We will repeat them again, and again, and again.
 
-Bad ideas like socialism, communism, or fascism are kept alive or are revived. It’s 2021 and we have again concentration camps in China and the world pretends nothing happened because we don’t want to risk our business opportunities with China.
+Bad ideas like Socialism, Communism, or Fascism are kept alive or are revived. It’s 2021 and we have again concentration camps in China and the world pretends nothing happened because we don’t want to risk our business opportunities with China.
 
-Racist, sexists, anti-scientific, anti-reason, postmodernist ideas like Critical Theory are pushed into the education system and companies and destroy these institutions[^nayna2019qz] unless brave people stand up against these toxic ideas.[^pachal2020gj] [^monroe2021im]
+Racist, sexists, anti-scientific, anti-reason, postmodernist ideas like <q>Critical Theory</q> are pushed into the education system and companies and destroy these institutions[^nayna2019qz] unless brave people stand up against these toxic ideas.[^pachal2020gj][^monroe2021im]
 
-People get segregated by race, have to disavow their “whiteness” or acknowledge their “privilege”. People of color that don’t subscribe to these ideas are labeled “race traitor”, “Uncle Tom”, “or not being authentically (race/sex/sexual orientation)”.
+People get segregated by race, have to disavow their “whiteness” or acknowledge their “privilege.” People of color that don’t subscribe to these ideas are labeled “race traitor”, “Uncle Tom”, “or not being authentically (race/sex/sexual orientation).”
 
 Identity politics divide people into smaller and smaller sub-categories that fight each other. Discourse is shut down with compelled speech codes, trigger warnings, or safe spaces. People are bullied into compliance, are harassed, doxed, or fired from their jobs for disagreeing.
 
@@ -234,11 +234,11 @@ Reaching for Utopia (greek “not a place”) results always in a Dystopia (gree
 
 There will be no war, that ends all wars, no “Great Reset”, no restart without getting rid of millions of people that don’t subscribe to the idea. <q>All zero-point ideologies were devastating and always resulted in totalitarian systems or totalitarian thinking,</q> stated Prof. _Nobert Bolz_ in a recent podcast.[^muller-ullrich2021bu] He fears that the Western world is again in a situation where serious intellectuals are thinking about whether we could go back to zero, construct a new form of society and economy, a new human nature.
 
-The pandemic or climate crisis offers convenient reasons to justify authoritarian or totalitarian ideas for “the greater good”. The German _Supreme Court_ already hinted that massive personal restrictions might be justified to reach the climate goals.[^escritt2021ap]
+The pandemic or climate crisis offers convenient reasons to justify authoritarian or totalitarian ideas for “the greater good.” The German _Supreme Court_ already hinted that massive personal restrictions might be justified to reach the climate goals.[^escritt2021ap]
 
-A recent survey asked how many Germans would be willing to pay every month to stop climate change. If I remember correctly the number was below € 20 per month. Even at the risk of disillusioning large numbers of my readers, every German (including children and senior citizens) would have to pay between **€ 300** and **€ 600** net every month **for the next 30 years** in order to reach the climate goals of the Paris Agreement.[^unger2021pf] And this would reduce Germany’s global CO₂ emissions from **2%** to **1%**, which is as many savings as China generates _additionally_ each year.[^unger2021pf] It will not only destroy the country’s competitiveness, make the energy supply unreliable, but also have no measurable effect. Neither will stopped eating meat. But if the self-righteous voters demand measures from the politicians, that will be exactly what we are given.
+A recent survey asked how many Germans would be willing to pay every month to stop climate change. If I remember correctly the number was below € 20 per month. Even at the risk of disillusioning large numbers of my readers, every German (including children and senior citizens) would have to pay between **€ 300** and **€ 600** net every month **for the next 30 years** in order to reach the climate goals of the Paris Agreement.[^unger2021pf] And this would reduce Germany’s global CO₂ emissions from **2%** to **1%**, which is as much savings as China generates _additionally_ each year.[^unger2021pf] It will not only destroy the country’s competitiveness, make the energy supply unreliable, but also have no measurable effect. Neither will stopped eating meat. But if the self-righteous voters demand measures from the politicians, that will be exactly what we are given.
 
-So be prepared to have fewer (or no) flights in the future, lose your car, and be restricted in your movement and freedoms. If you think the COVID-19 restrictions were bad, you have no clue what is coming.
+So be prepared to have fewer (or no) flights in the future, to lose your car, and be restricted in your movement and freedoms. If you think the COVID-19 restrictions were bad, you have no clue what is coming.
 
 All these endeavors ignore human nature, reason, personal liberty, and self-determination. To achieve a reset one would have to suppress, intimidate, incarcerate, reeducate, or even kill millions of people. I don’t think any sane person would like to live in a totalitarian, digitalized surveillance state like China is currently building. We have to call out and shame people that push for these ideas before it is too late.
 

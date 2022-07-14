@@ -179,10 +179,10 @@ This is the fourth part of a seven-part series that investigates why the last 10
 1. [Introduction](/civil-war-truth-1-introduction/)
 2. [Corporatism and Technocracy](/civil-war-truth-2-corporatism-technocracy/)
 3. [Political Division](/civil-war-truth-3-political-division/)
-4. **Media and Journalism**
+4. _Media and Journalism_
 5. [Academia](/civil-war-truth-5-academia/)
 6. [Science](/civil-war-truth-6-science/)
-7. _Conclusion_
+7. [Conclusion](/civil-war-truth-7-conclusion/)
 
 [^eagle2022hi]: James Eagle (2022): _Most Popular Websites Since 1993_, <https://youtu.be/hNDILCdZmRo>.
 [^pewresearchcenter2021cm]: Pew Research Center (2021): _Total estimated circulation of U.S. daily newspapers_, <https://www.pewresearch.org/journalism/chart/sotnm-newspapers-total-estimated-circulation-for-u-s-daily-newspapers/>.

@@ -169,8 +169,8 @@ This is the sixth part of a seven-part series that investigates why the last 10 
 3. [Political Division](/civil-war-truth-3-political-division/)
 4. [Media and Journalism](/civil-war-truth-4-media-journalism/)
 5. [Academia](/civil-war-truth-5-academia/)
-6. **Science**
-7. _Conclusion_
+6. _Science_
+7. [Conclusion](/civil-war-truth-7-conclusion/)
 
 [^ioannidis2005ud]: John P. A. Ioannidis (2005): _Why Most Published Research Findings Are False_, <https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124>.
 [^freedman2010fe]: David H. Freedman (2010): _Lies, Damned Lies, and Medical Science_, <https://www.theatlantic.com/magazine/archive/2010/11/lies-damned-lies-and-medical-science/308269/>.

@@ -104,13 +104,13 @@ To understand why our _Gated Institutions_ break down all at the same time, we n
 
 This is the first part of a seven-part series that investigates why the last 10 years were uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate our politicians and corporations.
 
-1. **Introduction**
+1. _Introduction_
 2. [Corporatism and Technocracy](/civil-war-truth-2-corporatism-technocracy/)
 3. [Political Division](/civil-war-truth-3-political-division/)
 4. [Media and Journalism](/civil-war-truth-4-media-journalism/)
 5. [Academia](/civil-war-truth-5-academia/)
 6. [Science](/civil-war-truth-6-science/)
-7. _Conclusion_
+7. [Conclusion](/civil-war-truth-7-conclusion/)
 
 [^lindsay2021bi]: James Lindsay (2021): _Welcome to the Second Enlightenment_, <https://newdiscourses.com/2021/10/welcome-to-the-second-enlightenment/>.
 [^haidt2022wy]: Jonathan Haidt (2022): _Why the Past 10 Years of American Life Have Been Uniquely Stupid_, <https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/>.

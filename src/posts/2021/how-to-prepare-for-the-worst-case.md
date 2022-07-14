@@ -8,7 +8,7 @@ tags:
   - survival
 ---
 
-I tended to have a more positive image of human nature than _Thomas Hobbes_, I believed in sharing, cooperation, and “The Wisdom of Crowds”. But since Corona, I had to revise my idea of human nature. I can’t believe how easy it was to scare more than half of the population with a virus that has a more than 99,98% survival rate to forget all their virtue and liberal values.
+I tended to have a more positive image of human nature than _Thomas Hobbes_, I believed in sharing, cooperation, and “The Wisdom of Crowds.” But since Corona, I had to revise my idea of human nature. I can’t believe how easy it was to scare more than half of the population with a virus that has a more than 99,98% survival rate to forget all their virtue and liberal values.
 
 > The thing about civilization is, it keeps you civil. Get rid of one, you can’t count on the other.
 >
@@ -54,7 +54,7 @@ And Blackouts are only one possible threat to civilization. A solar flare might 
 
 Other things might be natural disasters like floods or storms, social uprising, riots, disrupted supply chains[^roussinos2021dl] due to wars and catastrophes, hacker attacks on infastructure, or the prospect of a future war with China.
 
-Enough reasons to start thinking about what to do if “_shit hits the fan_”. I’ve seen how poorly the German government handled the 100-year flood in 2021, the Corona crisis, and how our soon-to-be chancellor _Olaf Scholz_ failed as mayor of Hamburg to protect the city when hundreds of Antifa rioters unleashed violence on the city for multiple days during the **G20 Summit** in 2017.[^spiegel2017oz]
+Enough reasons to start thinking about what to do if “_shit hits the fan_.” I’ve seen how poorly the German government handled the 100-year flood in 2021, the Corona crisis, and how our soon-to-be chancellor _Olaf Scholz_ failed as mayor of Hamburg to protect the city when hundreds of Antifa rioters unleashed violence on the city for multiple days during the **G20 Summit** in 2017.[^spiegel2017oz]
 
 I’m not betting on politicians to be able to solve a crisis quickly (or at all).
 
@@ -74,7 +74,7 @@ I did obligatory military service for nearly a year, learning to shoot with pist
 
 ## Preparing for a Blackout
 
-Countries like Austria or Switzerland prepare their population for a Blackout.[^bundesheer2021dn] Germany doesn’t care, our politicians think all is fine and no action is needed. We don’t even get sirens running on the yearly alarm day. Austria produced a documentary[^hanslik2018wu] [^poet2019ss] that shows what happens during a Blackout. The film mentions what an Austrian citizen should have to be prepared:
+Countries like Austria or Switzerland prepare their population for a Blackout.[^bundesheer2021dn] Germany doesn’t care, our politicians think all is fine and no action is needed. We don’t even get sirens running on the yearly alarm day. Austria produced a documentary[^hanslik2018wu][^poet2019ss] that shows what happens during a Blackout. The film mentions what an Austrian citizen should have to be prepared:
 
 - 10-15 l of water per person
 - Camping stove and fuel paste
@@ -166,6 +166,8 @@ I learned in the documentary that owning a radio is very important, because with
 
 I have two leather pants, {% affiliate "military camouflage pants", "B07LB5BT7K" %}, a {% affiliate "T-shirt", "B07PJLB9T7" %}, a {% affiliate "jacket", "B01MROMR2Z" %}, a {% affiliate "jungle hat", "B07NZ4KJ99" %}, and two {% affiliate "camouflage nets", "B07VD8LSH8" %} to conceal myself. Abdominal protection and {% affiliate "tactical gloves", "B01LZMZS9K" %} complete the equipment.
 
+I bought a {% affiliate "military rain poncho", "B00D9A4WRU" %}, some Green Beret recommended which is large enough to be used as a tarp. The 60 meter {% affiliate "Paracord", "B009R1KAGM" %} I bought can be used to create a temporary shelter or for climbing.
+
 ### Defence
 
 The description of the second week after a Blackout is quite unsettling. Police and military will be mostly occupied with protecting nuclear power plants and securing important governmental zones, and hospitals. The rest will be mostly lawless.
@@ -174,21 +176,19 @@ My theory is that people behave and are friendly as long as the crisis has a for
 
 That’s why everybody should have at least basic skills in martial arts to be able to defend themselves and their family. I started doing martial arts at the age of 12. Karate was my first martial art. I trained it for 8 years. Then I switched to Ninjutsu because it’s an authentic martial art and not a sport. I learned kicks and punches, levers and throws, and handling weapons. I trained for 12 years in that martial arts before I stopped. I’m not the best martial artist, but I know enough to do a lot of damage to an attacker.
 
-Because I always loved knives and swords I own a few. They are all legal by German law. But besides a pocket knife, you are not allowed to carry those outside your property in Germany. I own a {% affiliate "Ka-Bar combat knife", "B000BT1G6W" %}, a {% affiliate "Kukri military-style machete", "B001PL8Y5G" %}, and a few more. The knives that can be carried every day are my [Laguiole en Aubrac](http://www.laguiole-en-aubrac.fr/), a beautiful French knife, and a [Swiss Army knife](https://www.victorinox.com/).
+Because I always loved knives and swords I own a few. They are all legal by German law. But besides a pocket knife, you are not allowed to carry those outside your property in Germany. I own a {% affiliate "Ka-Bar combat knife", "B000BT1G6W" %}, a {% affiliate "Kukri military-style machete", "B001PL8Y5G" %}, and a few more. The knives that can be carried every day are my [Laguiole en Aubrac](http://www.laguiole-en-aubrac.fr/), a beautiful French knife, my {% affiliate "Higonokami", "B08HVP5CR5" %}, a Japanese pocket knife, and a [Swiss Army knife](https://www.victorinox.com/).
 
 I own a {% affiliate "blowpipe", "B06XNZ24SG" %} and a {% affiliate "recurve bow", "B086XC775Y" %} with a few dozen arrows. I always loved shooting with a bow and I’m good with it. I have wood and {% affiliate "carbon arrows", "B07XDK5K9W" %} and bought a pack of {% affiliate "hunting arrowheads", "B0987WBTT4" %}. A {% affiliate "quiver", "B07YWT623G" %} and protection gear complete the set.
 
 As I mentioned in the wood and fire section I bought two {% affiliate "Tomahawks", "B08LN12J1V" %} which can be used as weapons.
 
-Since I started Martial Arts I love Japanese Swords. I got my first blunt sword at Christmas with 12. Today I own a set of [Daishō](https://en.wikipedia.org/wiki/Daish%C5%8D) (_jap._ 大小, big-little), which is a _Katana_ and a _Wakizashi_. They are hand-forged from carbon steel and unbelievably sharp. One of these swords can cut a human in half.
-
-You can expect me to move around the wasteland like [Michonne](<https://walkingdead.fandom.com/wiki/Michonne_Hawthorne_(TV_Series)>) from _The Walking Dead_ in case of mayhem.
+Since I started Martial Arts I love Japanese Swords. I got my first blunt sword at Christmas with 12. Today I own a set of [Daishō](https://en.wikipedia.org/wiki/Daish%C5%8D) (_jap._ 大小, big-little), which is a _Katana_ and a _Wakizashi_. They are hand-forged from carbon steel and unbelievably sharp. One of these swords can cut a human in half. You can expect me to move around the wasteland like [Michonne](<https://walkingdead.fandom.com/wiki/Michonne_Hawthorne_(TV_Series)>) from _The Walking Dead_ in case of mayhem.
 
 A sharpening stone and sword care set is part of my equipment.
 
 ## What’s Missing?
 
-I miss more equipment which I will buy in the next months that need more research. I need a tarp tent, a waterproof mat, a sleeping bag, a hammock, and a good, large backpack.
+I miss more equipment which I will buy in the next months that need more research. I need a tarp tent, a waterproof mat, a sleeping bag, a hammock, and ~~a good, large backpack~~ (see update notes).
 
 My plan is only thought through for the first few weeks or a month. For a long-term problem, I plan to go back to my family in the countryside. It has options to hunt or keep animals, plant and harvest crops, vegetables and not starve to death.
 
@@ -196,12 +196,19 @@ My plan is only thought through for the first few weeks or a month. For a long-t
 
 My favorite books on the topic of self-sufficiency are the books of John Seymour. He was a British farmer and author who wrote fantastic, illustrated books like {% affiliate "The New Complete Book of Self-Sufficiency", "0241352460" %}, {% affiliate "New Self-Sufficient Gardener", "1409346781" %}, or {% affiliate "Forgotten Arts & Crafts", "0751327824" %}. These books teach how to be self-sufficient.
 
+### English
+
 {% bookshelf %}
 {% book "0241352460" %}
-{% book "3831015775" %}
 {% book "1409346781" %}
-{% book "3783161452" %}
 {% book "0751327824" %}
+{% endbookshelf %}
+
+### German
+
+{% bookshelf %}
+{% book "3831015775" %}
+{% book "3783161452" %}
 {% book "3783162033" %}
 {% endbookshelf %}
 
@@ -211,16 +218,23 @@ I own a version of {% affiliate "Der Reibert", "3813207064" %} from when I was i
 
 The Bushcraft series is a series of useful books about survival: {% affiliate "Bushcraft 101", "B00MIMHPII" %} , {% affiliate "First Aid", "B01N4SB7FE" %}, {% affiliate "Trapping, Gathering, and Cooking in the Wild", "1440598525" %}, {% affiliate "Advanced", "B0108VCQV6" %}, and the {% affiliate "Illustrated", "1507209029" %} Visual Guide.
 
+### English
+
 {% bookshelf %}
 {% book "B00MIMHPII" %}
-{% book "3730604406" %}
 {% book "B01N4SB7FE" %}
-{% book "3730608851" %}
 {% book "1440598525" %}
-{% book "3730608231" %}
 {% book "B0108VCQV6" %}
-{% book "3730605046" %}
 {% book "1507209029" %}
+{% endbookshelf %}
+
+### German
+
+{% bookshelf %}
+{% book "3730604406" %}
+{% book "3730608851" %}
+{% book "3730608231" %}
+{% book "3730605046" %}
 {% endbookshelf %}
 
 ## Conclusion
@@ -228,6 +242,8 @@ The Bushcraft series is a series of useful books about survival: {% affiliate "B
 I don’t idealize or look forward to catastrophe, that is sure. I prefer having my warm flat, good food, Netflix, and the internet.
 
 But I want to be prepared. Civilization is sewn with a thin thread. It doesn’t harm to at least stock up some food and equipment for the worst case.
+
+---
 
 ## Update (June, 2022)
 

@@ -140,12 +140,12 @@ There will be soon a huge class of dispossessed people that rent everything from
 This is the second part of a seven-part series that investigates why the last 10 years were uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate our political division.
 
 1. [Introduction](/civil-war-truth-1-introduction/)
-2. **Corporatism and Corruption**
+2. _Corporatism and Corruption_
 3. [Political Division](/civil-war-truth-3-political-division/)
 4. [Media and Journalism](/civil-war-truth-4-media-journalism/)
 5. [Academia](/civil-war-truth-5-academia/)
 6. [Science](/civil-war-truth-6-science/)
-7. _Conclusion_
+7. [Conclusion](/civil-war-truth-7-conclusion/)
 
 [^dsouza2017mo]: Dinesh D'Souza (2017): _Is Fascism Right Or Left?_, <https://youtu.be/m6bSsaVL6gA>.
 [^ideas2021hh]: Academy of Ideas (2021): _Is 1984 Becoming a Reality? – George Orwell’s Warning to the World_, <https://youtu.be/vEMlvpMY7yw>.

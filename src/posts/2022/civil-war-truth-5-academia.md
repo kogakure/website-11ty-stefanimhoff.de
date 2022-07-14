@@ -142,9 +142,9 @@ This is the fifth part of a seven-part series that investigates why the last 10 
 2. [Corporatism and Technocracy](/civil-war-truth-2-corporatism-technocracy/)
 3. [Political Division](/civil-war-truth-3-political-division/)
 4. [Media and Journalism](/civil-war-truth-4-media-journalism/)
-5. **Academia**
+5. _Academia_
 6. [Science](/civil-war-truth-6-science/)
-7. _Conclusion_
+7. [Conclusion](/civil-war-truth-7-conclusion/)
 
 [^cox2011vs]: Tony Cox and Sandra Aamodt (2011): _Brain Maturity Extends Well Beyond Teen Years_, <https://www.npr.org/templates/story/story.php?storyId=141164708>.
 [^conquest1968ar]: Robert Conquest (1968): _The Great Terror_, NY Macmillan.
