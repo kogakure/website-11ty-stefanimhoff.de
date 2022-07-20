@@ -257,7 +257,7 @@ I use [Slack](https://slack.com/) mostly at work. I also have my account but use
 
 ### Apple Mail 🖥
 
-I use Apple Mail on Desktop to connect to my work email on an Exchange server and my ProtonMail server via the [ProtonMail Bridge](https://protonmail.com/bridge/).
+I use Apple Mail on Desktop to connect to my work email on an Exchange server and my ProtonMail server via the [ProtonMail Bridge](https://proton.me/mail/bridge).
 
 ### Signal 📱 🖥
 
