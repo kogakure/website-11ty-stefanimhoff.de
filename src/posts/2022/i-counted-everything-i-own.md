@@ -48,7 +48,7 @@ I did the same as Matt and checked all my items if they are a thing or consumabl
     "datasets": [
       {
         "label": "Things vs. Consumables",
-        "data": [2202, 339],
+        "data": [2257, 361],
         "backgroundColor": ["#D7B98E", "#0C0C0C"]
       }
     ]
@@ -65,7 +65,7 @@ I did the same as Matt and checked all my items if they are a thing or consumabl
         }
       },
       "legend": {
-        "position": "bottom"
+        "position": "right"
       }
     }
   }
@@ -92,7 +92,7 @@ Most of my items are in the living room, followed by the bedroom, kitchen, cella
     "datasets": [
       {
         "label": "Rooms",
-        "data": [1178, 674, 303, 178, 131, 64, 10],
+        "data": [1199, 760, 305, 127, 137, 77, 10],
         "backgroundColor": [
           "#FAD689",
           "#939650",
@@ -117,7 +117,7 @@ Most of my items are in the living room, followed by the bedroom, kitchen, cella
         }
       },
       "legend": {
-        "position": "bottom"
+        "position": "right"
       }
     }
   }
@@ -156,8 +156,7 @@ My top category is “books”, even though I recently gave 150 books away. Foll
       {
         "label": "Categories",
         "data": [
-          652, 270, 259, 195, 179, 175, 140, 133, 108, 95, 74, 64, 48, 46, 40,
-          35, 17, 11
+          655, 272, 262, 208, 180, 176, 171, 138, 114, 96, 74, 64, 48, 46, 40, 36, 26, 12
         ],
         "backgroundColor": [
           "#CB4042",
@@ -194,7 +193,7 @@ My top category is “books”, even though I recently gave 150 books away. Foll
         }
       },
       "legend": {
-        "position": "bottom"
+        "position": "right"
       }
     }
   }
