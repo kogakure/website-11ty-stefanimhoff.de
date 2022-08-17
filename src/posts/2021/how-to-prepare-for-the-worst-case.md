@@ -138,19 +138,31 @@ I own a set of {% affiliate "drinking cups", "B08D3PFYJM" %}, a {% affiliate "po
 
 ### Fire, Heat & Light
 
-My most precious purchase is a portable {% affiliate "camping stove", "B083TMRWLP" %}. It’s small and can cook with wood and alcohol. I have a pack of {% affiliate "lighters", "B091ZN5DNV" %} and {% affiliate "fire steel", "B07M9HQXC6" %} to start a fire. I have an easily flammable {% affiliate "wood block", "B007W1OEFW" %} to start a fire when it’s wet.
+My most precious purchase is a portable {% affiliate "camping stove", "B083TMRWLP" %}. It’s small and can cook with wood and alcohol. But I also bought a {% affiliate "gas cooker", "B0030DH1T2" %} and a few {% affiliate "gas cartridges", "B01EX27KHG" %} for easy cooking in case of a blackout for one or two weeks.
+
+I have a pack of {% affiliate "lighters", "B091ZN5DNV" %} and {% affiliate "fire steel", "B07M9HQXC6" %} to start a fire. I have an easily flammable {% affiliate "wood block", "B007W1OEFW" %} to start a fire when it’s wet.
 
 A {% affiliate "pot hanger", "B09DSXVL2G" %} allows me to hang a pod over an open fire. I bought {% affiliate "solid fuel", "B005NGMJLY" %} to survive the first few days before I need to chop wood.
 
-For that I own a wood saw, a wire saw and a set of {% affiliate "Tomahawks", "B08LN12J1V" %}. They are not the best to chop wood, but can also be used as a hammer, pick, and weapon. I’m thinking of buying a good ax.
+For that I own a wood saw, a wire saw and a set of {% affiliate "Tomahawks", "B08LN12J1V" %}. They are not the best to chop wood, but can also be used as a hammer, pick, and weapon. I bought later additionally a good {% affiliate "ax", "B00YKUG032" %}.
 
 I own a {% affiliate "Maglite", "B00XWPDS40" %} flashlight and a {% affiliate "radio", "B01CQCJFTG" %} with a crank that can produce bright light without any batteries. I have a bag with {% affiliate "100 tea lights", "B076DSBQD3" %}, to have light during a Blackout.
 
 For winter, I own a {% affiliate "pocket warmer", "B018OJT5ZY" %} with a pack of hard coal I have since I had to do guard duty at the military for 4 hours straight in winter. A piece can burn and give heat for many hours.
 
+### Shelter
+
+For basic shelter I bought a {% affiliate "tarp", "B07TZHVRZR" %} tent and a {% affiliate "Snugpack Special Forces 2 Sleeping Bag", "B0019LW64W" %}. I have a waterproof pad and camping mat. My {% affiliate "rain poncho", "B00D9A4WRU" %} can also be used as a tarp.
+
+### Clothes
+
+I have two leather pants, {% affiliate "military camouflage pants", "B07LB5BT7K" %}, a {% affiliate "T-shirt", "B07PJLB9T7" %}, a {% affiliate "jacket", "B01MROMR2Z" %}, a {% affiliate "jungle hat", "B07NZ4KJ99" %}, and two {% affiliate "camouflage nets", "B07VD8LSH8" %} to conceal myself. Abdominal protection and {% affiliate "tactical gloves", "B01LZMZS9K" %} complete the equipment.
+
+I bought a {% affiliate "military rain poncho", "B00D9A4WRU" %}, some Green Beret recommended which is large enough to be used as a tarp. The 60 meter {% affiliate "Paracord", "B009R1KAGM" %} I bought can be used to create a temporary shelter or for climbing.
+
 ### Movement & Orientation
 
-I have two bicycles, an older mountain bike with a suspension fork and a new [Cube Hyde Pro](https://archiv.cube.eu/2020/347200) city bike with a belt drive system. Those should be sufficient to leave the city when the energy is not restored after a week.
+I have two bicycles, an older mountain bike with a suspension fork and a new [Cube Hyde Pro](https://archiv.cube.eu/2020/347200) city bike with a belt drive system. Those should be sufficient to leave the city when the energy is not restored after a week. I bought a few physical maps to reach my bugout location by bike.
 
 When I was a teenager I bought a {% affiliate "US military compass", "B08D774ZM8" %} that I still own. Additionally, I have a binocular and a monocular. I’m thinking of buying a physical bike map of Germany.
 
@@ -162,13 +174,7 @@ I own a {% affiliate "pocket radio", "B01CQCJFTG" %} with crank, solar, and batt
 
 I learned in the documentary that owning a radio is very important, because without energy all communication breaks down. With no cellphones or landlines, the only way of getting information from emergency teams is a radio or CB radio.
 
-### Clothes
-
-I have two leather pants, {% affiliate "military camouflage pants", "B07LB5BT7K" %}, a {% affiliate "T-shirt", "B07PJLB9T7" %}, a {% affiliate "jacket", "B01MROMR2Z" %}, a {% affiliate "jungle hat", "B07NZ4KJ99" %}, and two {% affiliate "camouflage nets", "B07VD8LSH8" %} to conceal myself. Abdominal protection and {% affiliate "tactical gloves", "B01LZMZS9K" %} complete the equipment.
-
-I bought a {% affiliate "military rain poncho", "B00D9A4WRU" %}, some Green Beret recommended which is large enough to be used as a tarp. The 60 meter {% affiliate "Paracord", "B009R1KAGM" %} I bought can be used to create a temporary shelter or for climbing.
-
-### Defence
+### Tools & Weapons
 
 The description of the second week after a Blackout is quite unsettling. Police and military will be mostly occupied with protecting nuclear power plants and securing important governmental zones, and hospitals. The rest will be mostly lawless.
 
@@ -185,12 +191,6 @@ As I mentioned in the wood and fire section I bought two {% affiliate "Tomahawks
 Since I started Martial Arts I love Japanese Swords. I got my first blunt sword at Christmas with 12. Today I own a set of [Daishō](https://en.wikipedia.org/wiki/Daish%C5%8D) (_jap._ 大小, big-little), which is a _Katana_ and a _Wakizashi_. They are hand-forged from carbon steel and unbelievably sharp. One of these swords can cut a human in half. You can expect me to move around the wasteland like [Michonne](<https://walkingdead.fandom.com/wiki/Michonne_Hawthorne_(TV_Series)>) from _The Walking Dead_ in case of mayhem.
 
 A sharpening stone and sword care set is part of my equipment.
-
-## What’s Missing?
-
-I miss more equipment which I will buy in the next months that need more research. I need a tarp tent, a waterproof mat, a sleeping bag, a hammock, and ~~a good, large backpack~~ (see update notes).
-
-My plan is only thought through for the first few weeks or a month. For a long-term problem, I plan to go back to my family in the countryside. It has options to hunt or keep animals, plant and harvest crops, vegetables and not starve to death.
 
 ## Books
 
@@ -238,6 +238,8 @@ The Bushcraft series is a series of useful books about survival: {% affiliate "B
 {% endbookshelf %}
 
 ## Conclusion
+
+My plan is to bug in for 1 to maximum 3 weeks. Should the crisis not be resolved, I’ll move to my bug out location in the countryside. It has options to hunt or keep animals, plant and harvest crops, vegetables and not starve to death.
 
 I don’t idealize or look forward to catastrophe, that is sure. I prefer having my warm flat, good food, Netflix, and the internet.
 
