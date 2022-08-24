@@ -1,15 +1,18 @@
 {
-  "endOfLine": "lf",
-  "semi": true,
-  "singleQuote": true,
-  "tabWidth": 2,
-  "trailingComma": "es5",
-  "overrides": [
-    {
-      "files": "*.md",
-      "options": {
-        "singleQuote": false
-      }
-    }
-  ]
+	"endOfLine": "lf",
+	"semi": true,
+	"singleQuote": true,
+	"useTabs": true,
+	"tabWidth": 4,
+	"printWidth": 100,
+	"trailingComma": "es5",
+	"overrides": [
+		{
+			"files": "*.md",
+			"options": {
+				"singleQuote": false,
+				"tabWidth": 2
+			}
+		}
+	]
 }
