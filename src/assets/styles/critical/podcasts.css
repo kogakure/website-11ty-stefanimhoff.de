@@ -1,25 +1,25 @@
 @import '../base/variables';
 
 .podcasts {
-  display: grid;
-  grid-column-gap: 20px;
-  grid-row-gap: 20px;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  justify-content: center;
-  margin-block-end: var(--space-10);
-  margin-block-start: 0;
-  place-items: start center;
+	display: grid;
+	grid-column-gap: 20px;
+	grid-row-gap: 20px;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+	justify-content: center;
+	margin-block-end: var(--space-10);
+	margin-block-start: 0;
+	place-items: start center;
 }
 
 .podcasts-link {
-  display: block;
-  text-decoration: none;
+	display: block;
+	text-decoration: none;
 }
 
 .podcasts-cover {
-  margin-block-end: var(--space-1);
+	margin-block-end: var(--space-1);
 }
 
 .podcasts-title {
-  font-size: var(--font-size-3);
+	font-size: var(--font-size-3);
 }

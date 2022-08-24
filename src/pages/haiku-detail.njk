@@ -12,44 +12,43 @@ eleventyComputed:
 ---
 
 <main class="haiku-detail-main">
-  <div class="haiku-detail-grid">
-    {% include "minimal-page-header.njk" %}
-    <div class="haiku-detail-content-grid">
-      <div class="haiku-detail-column">
-        <pre class="haiku-detail-verse"><div {{ site.animation }}>{{ haiku.de }}</div></pre>
-      </div>
+	<div class="haiku-detail-grid">
+		{% include "minimal-page-header.njk" %}
+		<div class="haiku-detail-content-grid">
+			<div class="haiku-detail-column">
+				<pre class="haiku-detail-verse"><div {{ site.animation }}>{{ haiku.de }}</div></pre>
+			</div>
 
-      <div class="haiku-detail-column haiku-detail-column--dark">
-        <pre class="haiku-detail-verse"><div {{ site.animationDelay }}>{{ haiku.en }}</div></pre>
-      </div>
-    </div>
-  </div>
+			<div class="haiku-detail-column haiku-detail-column--dark">
+				<pre class="haiku-detail-verse"><div {{ site.animationDelay }}>{{ haiku.en }}</div></pre>
+			</div>
+		</div>
+	</div>
 </main>
 
 {% set nextPost = pagination.page.next %}
 {% set previousPost = pagination.page.previous %}
 
 {% if previousPost %}
-  <a 
-    aria-label="Haiku {{ previousPost.id }}" 
-    class="pagination pagination-start" 
-    href="/haiku/{{ previousPost.id }}/" 
-    rel="prev"
-    title="Haiku {{ previousPost.id }}"
-  >
-    {% include "pagination-left-arrow.njk" %}
-  </a>
+	<a 
+		aria-label="Haiku {{ previousPost.id }}" 
+		class="pagination pagination-start" 
+		href="/haiku/{{ previousPost.id }}/" 
+		rel="prev"
+		title="Haiku {{ previousPost.id }}"
+	>
+		{% include "pagination-left-arrow.njk" %}
+	</a>
 {% endif %}
 
 {% if nextPost %}
-  <a 
-    aria-label="Haiku {{ nextPost.id }}" 
-    class="pagination pagination-end" 
-    href="/haiku/{{ nextPost.id }}/" 
-    rel="next"
-    title="Haiku {{ nextPost.id }}"
+	<a 
+		aria-label="Haiku {{ nextPost.id }}" 
+		class="pagination pagination-end" 
+		href="/haiku/{{ nextPost.id }}/" 
+		rel="next"
+		title="Haiku {{ nextPost.id }}"
   >
-    {% include "pagination-right-arrow.njk" %}
-  </a>
+		{% include "pagination-right-arrow.njk" %}
+	</a>
 {% endif %}
-

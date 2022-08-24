@@ -3,73 +3,73 @@
 
 /** The Colors of Japan */
 .colors-japan {
-  display: grid;
-  grid-template-columns: var(--grid-wide);
+	display: grid;
+	grid-template-columns: var(--grid-wide);
 }
 
 .colors-japan-title {
-  grid-column: 1 / -1;
-  grid-row: 1;
-  margin-block-end: 0;
+	grid-column: 1 / -1;
+	grid-row: 1;
+	margin-block-end: 0;
 }
 
 .color-japan-introduction {
-  grid-column: 1 / -1;
-  grid-row: 2;
-  margin-block-end: 0;
+	grid-column: 1 / -1;
+	grid-row: 2;
+	margin-block-end: 0;
 
-  @media (--tablet) {
-    grid-column: 1 / 8;
-  }
+	@media (--tablet) {
+		grid-column: 1 / 8;
+	}
 
-  @media (--desktop) {
-    align-content: center;
-    display: grid;
-    grid-column: 1 / 8;
-  }
+	@media (--desktop) {
+		align-content: center;
+		display: grid;
+		grid-column: 1 / 8;
+	}
 }
 
 .color-japan-books {
-  display: flex;
-  grid-column: 1 / -1;
-  grid-row: 3;
-  grid-template-columns: repeat(2, 1fr);
-  margin-block-end: 0;
+	display: flex;
+	grid-column: 1 / -1;
+	grid-row: 3;
+	grid-template-columns: repeat(2, 1fr);
+	margin-block-end: 0;
 
-  & .book {
-    /* Hack for grid bug in Safari: 
+	& .book {
+		/* Hack for grid bug in Safari: 
      * https://github.com/rachelandrew/gridbugs#5-items-with-an-intrinsic-aspect-ratio-should-align-start
      */
-    align-self: flex-end;
-    max-width: 300px;
+		align-self: flex-end;
+		max-width: 300px;
 
-    &:first-of-type {
-      margin-inline-end: 1.5vw;
-    }
+		&:first-of-type {
+			margin-inline-end: 1.5vw;
+		}
 
-    &:last-of-type {
-      margin-inline-start: 1.5vw;
-    }
-  }
+		&:last-of-type {
+			margin-inline-start: 1.5vw;
+		}
+	}
 
-  & img {
-    /* Hack for grid bug in Safari: 
+	& img {
+		/* Hack for grid bug in Safari: 
      * https://github.com/rachelandrew/gridbugs#5-items-with-an-intrinsic-aspect-ratio-should-align-start
      */
-    align-self: flex-end;
-  }
+		align-self: flex-end;
+	}
 
-  @media (--tablet) {
-    grid-column: 9 / -1;
-    grid-row: 2;
-    justify-content: flex-end;
-  }
+	@media (--tablet) {
+		grid-column: 9 / -1;
+		grid-row: 2;
+		justify-content: flex-end;
+	}
 }
 
 .color-japan-grid {
-  display: grid;
-  grid-column: 1 / -1;
-  grid-column-gap: 20px;
-  grid-row-gap: 20px;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+	display: grid;
+	grid-column: 1 / -1;
+	grid-column-gap: 20px;
+	grid-row-gap: 20px;
+	grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
 }

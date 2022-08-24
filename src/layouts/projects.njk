@@ -7,16 +7,16 @@ css: projects.css
 {% set nextPost = collections.projects | getNextCollectionItem(page) %}
 
 <div class="layout-wide">
-  <div class="wrapper projects-detail">
-    <h1 class="projects-detail-title">
-    {{ title }}
-    </h1>
-    <div class="projects-detail-title">
-    </div>
-    <div class="projects-detail-content">
-      {{ content | safe }}
-    </div>
-  </div>
+	<div class="wrapper projects-detail">
+		<h1 class="projects-detail-title">
+			{{ title }}
+		</h1>
+		<div class="projects-detail-title"></div>
+		<div class="projects-detail-content">
+			{{ content | safe }}
+		</div>
+	</div>
 </div>
 
 {% include "pagination.njk" %}
+

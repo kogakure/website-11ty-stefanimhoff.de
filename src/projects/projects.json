@@ -1,7 +1,7 @@
 {
-  "layout": "projects",
-  "permalink": "projects/{{ page.fileSlug }}/",
-  "tags": "projects",
-  "templateEngineOverride": "njk,md",
-  "backLink": "/projects/"
+	"layout": "projects",
+	"permalink": "projects/{{ page.fileSlug }}/",
+	"tags": "projects",
+	"templateEngineOverride": "njk,md",
+	"backLink": "/projects/"
 }

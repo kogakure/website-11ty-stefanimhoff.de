@@ -9,27 +9,32 @@ permalink: /journal/
 <h1 class="journal-title">{{ title }}</h1>
 
 <div class="journal-introduction" {{ site.animationDelay }}>
-  <p>
-    Writing is a passion for me. I’ve written a huge collection of essays about <a href="https://www.kogakure.de/" {{ site.external }}>Ninja&nbsp;&amp;&nbsp;Ninjutsu</a> that I later converted into a <a href="https://book.kogakure.de/" {{ site.external }}>book</a>. The online publishing platform <cite>Medium</cite> selected <a href="/attention/">one of my essays</a> as a recommendation of the day.
-  </p>
+	<p>
+		Writing is a passion for me. I’ve written a huge collection of essays about
+		<a href="https://www.kogakure.de/" {{ site.external }}>Ninja&nbsp;&amp;&nbsp;Ninjutsu</a>
+		that I later converted into a
+		<a href="https://book.kogakure.de/" {{ site.external }}>book</a>. The online publishing
+		platform <cite>Medium</cite> selected <a href="/attention/">one of my essays</a> as a
+		recommendation of the day.
+	</p>
 </div>
 
 <article class="journal-posts">
-  {% for year, yearPosts in collections.journalByYear %}
-    <section class="journal-posts-section">
-      <h3 class="journal-posts-year">{{ year }}</h3>
-      <ul class="journal-posts-list">
-        {% for item in yearPosts | reverse %}
-          <li class="journal-posts-list-item">
-            <a class="journal-posts-link" href="{{ item.url }}">
-              <span class="journal-posts-title">{{ item.data.title }}</span>
-              <time class="journal-posts-date" datetime="{{ item.date | dateToISO }}">
-                {{ item.date | dateToFormat("MMMM Do") }}
-              </time>
-            </a>
-          </li>
-        {% endfor %}
-      </ul>
-    </section>
-  {% endfor %}
+	{% for year, yearPosts in collections.journalByYear %}
+		<section class="journal-posts-section">
+			<h3 class="journal-posts-year">{{ year }}</h3>
+			<ul class="journal-posts-list">
+				{% for item in yearPosts | reverse %}
+					<li class="journal-posts-list-item">
+						<a class="journal-posts-link" href="{{ item.url }}">
+							<span class="journal-posts-title">{{ item.data.title }}</span>
+							<time class="journal-posts-date" datetime="{{ item.date | dateToISO }}">
+								{{ item.date | dateToFormat("MMMM Do") }}
+							</time>
+						</a>
+					</li>
+				{% endfor %}
+			</ul>
+		</section>
+	{% endfor %}
 </article>

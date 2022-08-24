@@ -50,10 +50,7 @@ var config = require("../../config").webp;
  * Convert images to WebP
  */
 gulp.task("webp", function () {
-  return gulp
-    .src(config.src)
-    .pipe(webp(config.options))
-    .pipe(gulp.dest(config.dest));
+	return gulp.src(config.src).pipe(webp(config.options)).pipe(gulp.dest(config.dest));
 });
 ```
 
@@ -69,15 +66,15 @@ var runSequence = require("run-sequence");
  * Run all tasks needed for a build in the defined order
  */
 gulp.task("build:production", function (callback) {
-  runSequence(
-    "delete",
-    "jekyll:production",
-    // ...,
-    "revision",
-    "rev:collect",
-    "webp",
-    callback
-  );
+	runSequence(
+		"delete",
+		"jekyll:production",
+		// ...,
+		"revision",
+		"rev:collect",
+		"webp",
+		callback
+	);
 });
 ```
 
@@ -152,10 +149,7 @@ var config = require("../../config").gzip;
  * Gzip text files
  */
 gulp.task("gzip", function () {
-  return gulp
-    .src(config.src)
-    .pipe(gzip(config.options))
-    .pipe(gulp.dest(config.dest));
+	return gulp.src(config.src).pipe(gzip(config.options)).pipe(gulp.dest(config.dest));
 });
 ```
 
@@ -171,15 +165,15 @@ var runSequence = require("run-sequence");
  * Run all tasks needed for a build in the defined order
  */
 gulp.task("build:production", function (callback) {
-  runSequence(
-    "delete",
-    "jekyll:production",
-    // ...,
-    "revision",
-    "rev:collect",
-    ["webp", "gzip"],
-    callback
-  );
+	runSequence(
+		"delete",
+		"jekyll:production",
+		// ...,
+		"revision",
+		"rev:collect",
+		["webp", "gzip"],
+		callback
+	);
 });
 ```
 

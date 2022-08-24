@@ -1,43 +1,43 @@
 /* Colors */
 :root {
-  --color-accent: hsl(357, 96%, 46%);
-  --color-bg-code: #282c34;
-  --color-fg-code: #abb2bf;
+	--color-accent: hsl(357, 96%, 46%);
+	--color-bg-code: #282c34;
+	--color-fg-code: #abb2bf;
 }
 
 :root,
 .light {
-  --color-bg-full: #ffffff;
-  --color-bg: hsl(40, 7%, 90%);
-  --color-bg-dark: hsl(40, 7%, 80%);
-  --color-border: rgb(185, 184, 182);
-  --color-fg-feather-inverse: rgba(255, 255, 255, 0.05);
-  --color-fg-feather: rgba(0, 0, 0, 0.05);
-  --color-fg-full-inverse: #ffffff;
-  --color-fg-full: #000000;
-  --color-fg-soft-inverse: rgba(255, 255, 255, 0.2);
-  --color-fg-soft: rgba(0, 0, 0, 0.2);
-  --color-fg-strong-inverse: rgba(255, 255, 255, 0.8);
-  --color-fg-strong: rgba(0, 0, 0, 0.8);
-  --color-fg: hsl(40, 7%, 5%);
-  --opacity-dark: 1;
-  --opacity-light: 0;
+	--color-bg-full: #ffffff;
+	--color-bg: hsl(40, 7%, 90%);
+	--color-bg-dark: hsl(40, 7%, 80%);
+	--color-border: rgb(185, 184, 182);
+	--color-fg-feather-inverse: rgba(255, 255, 255, 0.05);
+	--color-fg-feather: rgba(0, 0, 0, 0.05);
+	--color-fg-full-inverse: #ffffff;
+	--color-fg-full: #000000;
+	--color-fg-soft-inverse: rgba(255, 255, 255, 0.2);
+	--color-fg-soft: rgba(0, 0, 0, 0.2);
+	--color-fg-strong-inverse: rgba(255, 255, 255, 0.8);
+	--color-fg-strong: rgba(0, 0, 0, 0.8);
+	--color-fg: hsl(40, 7%, 5%);
+	--opacity-dark: 1;
+	--opacity-light: 0;
 }
 
 .dark {
-  --color-bg-full: #000000;
-  --color-bg: hsl(40, 7%, 10%);
-  --color-bg-dark: hsl(40, 7%, 5%);
-  --color-border: rgb(73, 72, 70);
-  --color-fg-feather-inverse: rgba(0, 0, 0, 0.05);
-  --color-fg-feather: rgba(255, 255, 255, 0.05);
-  --color-fg-full-inverse: #000000;
-  --color-fg-full: #ffffff;
-  --color-fg-soft-inverse: rgba(0, 0, 0, 0.2);
-  --color-fg-soft: rgba(255, 255, 255, 0.2);
-  --color-fg-strong-inverse: rgba(0, 0, 0, 0.8);
-  --color-fg-strong: rgba(255, 255, 255, 0.8);
-  --color-fg: hsla(40, 7%, 90%, 0.87);
-  --opacity-dark: 0;
-  --opacity-light: 1;
+	--color-bg-full: #000000;
+	--color-bg: hsl(40, 7%, 10%);
+	--color-bg-dark: hsl(40, 7%, 5%);
+	--color-border: rgb(73, 72, 70);
+	--color-fg-feather-inverse: rgba(0, 0, 0, 0.05);
+	--color-fg-feather: rgba(255, 255, 255, 0.05);
+	--color-fg-full-inverse: #000000;
+	--color-fg-full: #ffffff;
+	--color-fg-soft-inverse: rgba(0, 0, 0, 0.2);
+	--color-fg-soft: rgba(255, 255, 255, 0.2);
+	--color-fg-strong-inverse: rgba(0, 0, 0, 0.8);
+	--color-fg-strong: rgba(255, 255, 255, 0.8);
+	--color-fg: hsla(40, 7%, 90%, 0.87);
+	--opacity-dark: 0;
+	--opacity-light: 1;
 }

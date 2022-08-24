@@ -70,7 +70,7 @@ var config = require("../../config").rsync;
  * via rsync
  */
 gulp.task("rsync", function () {
-  return gulp.src(config.src).pipe(rsync(config.options));
+	return gulp.src(config.src).pipe(rsync(config.options));
 });
 ```
 

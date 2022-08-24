@@ -121,8 +121,8 @@ To adjust a font size you do not use absolute values anymore, but a mixin. This 
 
 ```scss
 h1 {
-  @include adjust-font-size-to(modular-scale(6));
-  @include trailer(1, modular-scale(6), margin);
+	@include adjust-font-size-to(modular-scale(6));
+	@include trailer(1, modular-scale(6), margin);
 }
 ```
 

@@ -1,5 +1,5 @@
 ---
-title: 'Civil War for Truth: Conclusion'
+title: "Civil War for Truth: Conclusion"
 date: 2022-07-18T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the last part of a seven-part series that

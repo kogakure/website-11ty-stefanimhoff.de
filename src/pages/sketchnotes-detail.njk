@@ -5,49 +5,53 @@ pagination:
   data: sketchnotes
   size: 1
   alias: sketchnote
-permalink: "/sketchnotes/{{ sketchnote.title | slugify }}/"
+permalink: '/sketchnotes/{{ sketchnote.title | slugify }}/'
 backLink: /sketchnotes/
 eleventyComputed:
-  title: "{{ sketchnote.title }}"
+  title: '{{ sketchnote.title }}'
 ---
-
 
 {% set nextPost = pagination.page.next %}
 {% set previousPost = pagination.page.previous %}
 
 <div class="layout-sketchnotes-detail">
-  <figure class="sketchnotes-detail {{ sketchnote.format }} {% if sketchnote.description %}sketchnote--has-caption{% endif %}">
-    <div class="image-shadow">
-      <img class="sketchnotes-detail-image" src="{{ sketchnote.image }}" alt="{{ sketchnote.title }}">
-    </div>
-    {% if sketchnote.description %}
-      <figcaption class="sketchnotes-detail-caption">
-        {{ sketchnote.description | safe }}
-      </figcaption>
-    {% endif %}
-  </figure>
+	<figure
+		class="sketchnotes-detail {{ sketchnote.format }} {% if sketchnote.description %}sketchnote--has-caption{% endif %}"
+	>
+		<div class="image-shadow">
+			<img
+				class="sketchnotes-detail-image"
+				src="{{ sketchnote.image }}"
+				alt="{{ sketchnote.title }}"
+			/>
+		</div>
+		{% if sketchnote.description %}
+			<figcaption class="sketchnotes-detail-caption">
+				{{ sketchnote.description | safe }}
+			</figcaption>
+		{% endif %}
+	</figure>
 </div>
 
 {% if previousPost %}
-  <a 
-    aria-label="{{ previousPost.title }}" 
-    class="pagination pagination-start" 
-    href="/sketchnotes/{{ previousPost.title | slugify }}/" 
-    rel="prev"
-    title="{{ previousPost.title }}"
-  >
-    {% include "pagination-left-arrow.njk" %}
-  </a>
+	<a
+		aria-label="{{ previousPost.title }}"
+		class="pagination pagination-start"
+		href="/sketchnotes/{{ previousPost.title | slugify }}/"
+		rel="prev"
+		title="{{ previousPost.title }}"
+	>
+		{% include "pagination-left-arrow.njk" %}
+	</a>
 {% endif %}
-
 {% if nextPost %}
-  <a 
-    aria-label="{{ nextPost.title }}" 
-    class="pagination pagination-end" 
-    href="/sketchnotes/{{ nextPost.title | slugify }}/" 
-    rel="next"
-    title="{{ nextPost.title }}"
-  >
-    {% include "pagination-right-arrow.njk" %}
-  </a>
+	<a
+		aria-label="{{ nextPost.title }}"
+		class="pagination pagination-end"
+		href="/sketchnotes/{{ nextPost.title | slugify }}/"
+		rel="next"
+		title="{{ nextPost.title }}"
+	>
+		{% include "pagination-right-arrow.njk" %}
+	</a>
 {% endif %}

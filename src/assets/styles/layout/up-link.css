@@ -1,33 +1,33 @@
 /** Up Link */
 .up-link {
-  align-self: center;
-  grid-column: -2;
-  justify-self: center;
-  transition-duration: var(--transition-duration-5);
-  transition-property: transform;
-  transition-timing-function: ease-in-out;
+	align-self: center;
+	grid-column: -2;
+	justify-self: center;
+	transition-duration: var(--transition-duration-5);
+	transition-property: transform;
+	transition-timing-function: ease-in-out;
 
-  &:hover,
-  &:focus {
-    transform: translate3D(0, -0.25rem, 0);
-  }
+	&:hover,
+	&:focus {
+		transform: translate3D(0, -0.25rem, 0);
+	}
 }
 
 .up-link-button {
-  align-items: center;
-  background: transparent;
-  border: 0;
-  cursor: pointer;
-  display: flex;
-  font-size: 0;
-  height: 40px;
-  justify-content: center;
-  width: 40px;
+	align-items: center;
+	background: transparent;
+	border: 0;
+	cursor: pointer;
+	display: flex;
+	font-size: 0;
+	height: 40px;
+	justify-content: center;
+	width: 40px;
 }
 
 .up-link-icon {
-  fill: var(--color-fg);
-  font-size: 20px;
-  height: 20px;
-  width: 20px;
+	fill: var(--color-fg);
+	font-size: 20px;
+	height: 20px;
+	width: 20px;
 }

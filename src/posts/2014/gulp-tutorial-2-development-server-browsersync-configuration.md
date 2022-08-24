@@ -29,7 +29,7 @@ I create inside the `gulp/tasks` folder a file `default.js` and write this code:
 var gulp = require("gulp");
 
 gulp.task("default", function () {
-  console.log("Hello Gulp.js!");
+	console.log("Hello Gulp.js!");
 });
 ```
 
@@ -93,7 +93,7 @@ var config = require("../../config").browsersync.development;
  * Run the build task and start a server with BrowserSync
  */
 gulp.task("browsersync", ["build"], function () {
-  browsersync(config);
+	browsersync(config);
 });
 ```
 
@@ -117,20 +117,20 @@ var developmentAssets = "build/assets";
 var productionAssets = "build/production/assets";
 
 module.exports = {
-  browsersync: {
-    development: {
-      server: {
-        baseDir: [development, build, src],
-      },
-      port: 9999,
-      files: [
-        developmentAssets + "/css/*.css",
-        developmentAssets + "/js/*.js",
-        developmentAssets + "/images/**",
-        developmentAssets + "/fonts/*",
-      ],
-    },
-  },
+	browsersync: {
+		development: {
+			server: {
+				baseDir: [development, build, src],
+			},
+			port: 9999,
+			files: [
+				developmentAssets + "/css/*.css",
+				developmentAssets + "/js/*.js",
+				developmentAssets + "/images/**",
+				developmentAssets + "/fonts/*",
+			],
+		},
+	},
 };
 ```
 

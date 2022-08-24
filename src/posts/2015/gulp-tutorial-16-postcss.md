@@ -86,9 +86,9 @@ var mqpacker = require("css-mqpacker");
 var config = require("../../config");
 
 function onError(err) {
-  gutil.beep();
-  console.log(err);
-  this.emit("end");
+	gutil.beep();
+	console.log(err);
+	this.emit("end");
 }
 
 /**
@@ -96,26 +96,26 @@ function onError(err) {
  * Build sourcemaps and minimize
  */
 var processors = [
-  precss(config.styles.options.precss),
-  autoprefixer(config.styles.options.autoprefixer),
-  mqpacker(config.styles.options.mqpacker),
+	precss(config.styles.options.precss),
+	autoprefixer(config.styles.options.autoprefixer),
+	mqpacker(config.styles.options.mqpacker),
 ];
 
 gulp.task("styles", function () {
-  browsersync.notify("Transforming CSS with PostCSS");
+	browsersync.notify("Transforming CSS with PostCSS");
 
-  return gulp
-    .src(config.styles.src)
-    .pipe(
-      plumber({
-        errorHandler: onError,
-      })
-    )
-    .pipe(sourcemaps.init())
-    .pipe(postcss(processors))
-    .pipe(nano())
-    .pipe(sourcemaps.write("."))
-    .pipe(gulp.dest(config.styles.dest));
+	return gulp
+		.src(config.styles.src)
+		.pipe(
+			plumber({
+				errorHandler: onError,
+			})
+		)
+		.pipe(sourcemaps.init())
+		.pipe(postcss(processors))
+		.pipe(nano())
+		.pipe(sourcemaps.write("."))
+		.pipe(gulp.dest(config.styles.dest));
 });
 ```
 
@@ -275,14 +275,14 @@ var reporter = require("postcss-reporter");
 var config = require("../../config");
 
 gulp.task("lint-styles", function () {
-  return gulp
-    .src(config.lintStyles.src)
-    .pipe(
-      postcss([
-        stylelint(config.lintStyles.options.stylelint),
-        reporter(config.lintStyles.options.reporter),
-      ])
-    );
+	return gulp
+		.src(config.lintStyles.src)
+		.pipe(
+			postcss([
+				stylelint(config.lintStyles.options.stylelint),
+				reporter(config.lintStyles.options.reporter),
+			])
+		);
 });
 ```
 

@@ -1,28 +1,28 @@
 [build]
-  command = "npm run build"
-  publish = "dist"
+	command = "npm run build"
+	publish = "dist"
 
 [build.environment]
-  NODE_VERSION = "12.16"
+	NODE_VERSION = "12.16"
 
 [dev]
-  command = "npm run dev"
-  publish = "dist"
+	command = "npm run dev"
+	publish = "dist"
 
 [[headers]]
-  for = "/*"
-  [headers.values]
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-    X-Content-Type-Options = "nosniff"
-    Referrer-Policy= "no-referrer-when-downgrade"
-    Permissions-Policy = "interest-cohort=()"
+	for = "/*"
+	[headers.values]
+		X-Frame-Options = "DENY"
+		X-XSS-Protection = "1; mode=block"
+		X-Content-Type-Options = "nosniff"
+		Referrer-Policy= "no-referrer-when-downgrade"
+		Permissions-Policy = "interest-cohort=()"
 
 [[headers]]
-  for = "/sw.js"
+	for = "/sw.js"
 
-  [headers.values]
-    cache-control = "max-age=0,no-cache,no-store,must-revalidate"
+	[headers.values]
+		cache-control = "max-age=0,no-cache,no-store,must-revalidate"
 
 
 # Redirect domain aliases to primary domain

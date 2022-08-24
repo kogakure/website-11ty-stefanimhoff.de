@@ -1,11 +1,11 @@
 <nav class="navigation" role="navigation">
-  <ul class="navigation-list">
-    {% for item in navigation %}
-      <li class="navigation-list-item" >
-        <a class="navigation-item-link{% if item.url === page.url %} active{% endif %}" href="{{ item.url }}">
-          {{ item.title }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
+	<ul class="navigation-list">
+		{% for item in navigation %}
+			<li class="navigation-list-item" >
+				<a class="navigation-item-link{% if item.url === page.url %} active{% endif %}" href="{{ item.url }}">
+					{{ item.title }}
+				</a>
+			</li>
+		{% endfor %}
+	</ul>
 </nav>

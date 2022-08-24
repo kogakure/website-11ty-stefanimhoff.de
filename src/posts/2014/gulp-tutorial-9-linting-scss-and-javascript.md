@@ -64,7 +64,7 @@ var config = require("../../config").scsslint;
  * `gem install scss-lint` needed
  */
 gulp.task("scsslint", function () {
-  return gulp.src(config.src).pipe(scsslint(config.options));
+	return gulp.src(config.src).pipe(scsslint(config.options));
 });
 ```
 
@@ -80,7 +80,7 @@ var config = require("../../config").jshint;
  * Check JavaScript sytax with JSHint
  */
 gulp.task("jshint", function () {
-  return gulp.src(config.src).pipe(jshint()).pipe(jshint.reporter(stylish));
+	return gulp.src(config.src).pipe(jshint()).pipe(jshint.reporter(stylish));
 });
 ```
 

@@ -1,15 +1,15 @@
 {% if backLink %}
-  <a class="back-link" href="{{ backLink }}">
-    <button
+	<a class="back-link" href="{{ backLink }}">
+		<button
       class="back-link-button"
       aria-label="Back to overview"
       type="button"
     >
-      <svg class="back-link-icon" aria-hidden="true"  viewBox="0 0 24 24" width="1em" height="1em">
-        <use xlink:href="#arrow-left"></use>
-      </svg>
-    </button>
-  </a>
+			<svg class="back-link-icon" aria-hidden="true"  viewBox="0 0 24 24" width="1em" height="1em">
+				<use xlink:href="#arrow-left"></use>
+			</svg>
+		</button>
+	</a>
 {% else %}
-  <div class="back-link-spacer"></div>
+	<div class="back-link-spacer"></div>
 {% endif %}

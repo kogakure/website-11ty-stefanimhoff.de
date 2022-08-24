@@ -1,38 +1,38 @@
 /** Legal Links */
 .legal {
-  align-items: center;
-  display: flex;
-  font-size: 12px;
-  grid-column: 1 / -3;
-  padding-inline-start: clamp(15px, 2.4vw, 50px);
+	align-items: center;
+	display: flex;
+	font-size: 12px;
+	grid-column: 1 / -3;
+	padding-inline-start: clamp(15px, 2.4vw, 50px);
 }
 
 .legal-copyright {
-  font-size: 14px;
-  margin-inline-end: 0.25em;
-  position: relative;
-  top: 1px;
+	font-size: 14px;
+	margin-inline-end: 0.25em;
+	position: relative;
+	top: 1px;
 }
 
 .legal-author {
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
 }
 
 .legal-author-link {
-  color: var(--color-fg);
-  text-decoration: none;
+	color: var(--color-fg);
+	text-decoration: none;
 
-  &:hover,
-  &:focus {
-    text-decoration: underline;
-    text-decoration-color: var(--color-accent);
-    text-decoration-thickness: 0.15em;
-    text-underline-offset: 0.1em;
-  }
+	&:hover,
+	&:focus {
+		text-decoration: underline;
+		text-decoration-color: var(--color-accent);
+		text-decoration-thickness: 0.15em;
+		text-underline-offset: 0.1em;
+	}
 }
 
 .legal-bullet {
-  margin-inline-end: 0.25em;
-  margin-inline-start: 0.25em;
+	margin-inline-end: 0.25em;
+	margin-inline-start: 0.25em;
 }

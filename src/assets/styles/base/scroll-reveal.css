@@ -2,17 +2,17 @@
 
 /** Reset styles for Sal.js, if no JavaScript is available */
 .no-js {
-  [data-sal|='fade'] {
-    opacity: 1;
-  }
+	[data-sal|='fade'] {
+		opacity: 1;
+	}
 
-  [data-sal|='slide'],
-  [data-sal|='zoom'] {
-    opacity: 1;
-    transform: none;
-  }
+	[data-sal|='slide'],
+	[data-sal|='zoom'] {
+		opacity: 1;
+		transform: none;
+	}
 
-  [data-sal|='flip'] {
-    transform: none;
-  }
+	[data-sal|='flip'] {
+		transform: none;
+	}
 }

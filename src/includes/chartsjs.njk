@@ -1,13 +1,16 @@
 <script type="text/javascript"src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js" defer></script>
 <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const reg = /^[\'\"]+|[\'\"]+$/g;
-    const chartjsLen = document.querySelectorAll('.chartjs').length
-    const myChartJs = [];
-    for (let i = 0; i < chartjsLen; i++) {
-      const elements = document.querySelectorAll('.chartjs');
-      const ctx = elements[i].getContext('2d');
-      myChartJs[i] = new Chart(ctx, JSON.parse(elements[i].innerHTML));
-    }
-  });
+	document.addEventListener('DOMContentLoaded', function () {
+		const reg = /^[\'\"]+|[\'\"]+$/g;
+		const chartjsLen = document
+			.querySelectorAll('.chartjs')
+			.length
+		const myChartJs = [];
+		for (let i = 0; i < chartjsLen; i++) {
+			const elements = document.querySelectorAll('.chartjs');
+			const ctx = elements[i].getContext('2d');
+			myChartJs[i] = new Chart(ctx, JSON.parse(elements[i].innerHTML));
+		}
+	});
 </script>
+

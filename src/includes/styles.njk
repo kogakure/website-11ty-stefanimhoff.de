@@ -1,28 +1,27 @@
 {% if site.isProduction %}
-  {% set criticalCSS %}
-    {% include "critical/base.css" %}
-    {% if css %}
-      {% include "critical/" + css %} 
-    {% endif %}
-  {% endset %}
+	{% set criticalCSS %}
+	{% include "critical/base.css" %}
+	{% if css %}
+		{% include "critical/" + css %}
+	{% endif %}
+	{% endset %}
 
-  <style>
-    {{ criticalCSS | safe }}
-  </style>
+	<style>
+		{{criticalCSS | safe}}
+	</style>
 
 {% else %}
 
-  <link rel="stylesheet" href="{{ '/assets/styles/base.css' | url }}" />
-  {% if css %}
-    <link rel="stylesheet" href="{{ '/assets/styles/' + css | url }}" />
-  {% endif %}
+	<link rel="stylesheet" href="{{ '/assets/styles/base.css' | url }}"/>
+	{% if css %}
+		<link rel="stylesheet" href="{{ '/assets/styles/' + css | url }}"/>
+	{% endif %}
 
 {% endif %}
 
-<link rel="stylesheet" href="{{ '/assets/styles/main.css' | url }}" media="print" onload="this.media='all'" />
-<link rel="stylesheet" href="{{ '/assets/styles/print.css' | url }}" media="print" />
-
+<link rel="stylesheet" href="{{ '/assets/styles/main.css' | url }}" media="print" onload="this.media='all'"/>
+<link rel="stylesheet" href="{{ '/assets/styles/print.css' | url }}" media="print"/>
 
 <noscript>
-<link rel="stylesheet" href="{{ '/assets/styles/main.css' | url }}" />
+	<link rel="stylesheet" href="{{ '/assets/styles/main.css' | url }}"/>
 </noscript>

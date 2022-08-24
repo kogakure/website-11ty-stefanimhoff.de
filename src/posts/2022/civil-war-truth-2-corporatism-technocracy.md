@@ -1,5 +1,5 @@
 ---
-title: 'Civil War for Truth: Corporatism and Technocracy'
+title: "Civil War for Truth: Corporatism and Technocracy"
 date: 2022-06-13T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the second part of a seven-part series that

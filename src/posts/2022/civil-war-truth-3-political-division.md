@@ -1,5 +1,5 @@
 ---
-title: 'Civil War for Truth: Political Division'
+title: "Civil War for Truth: Political Division"
 date: 2022-06-20T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the third part of a seven-part series that

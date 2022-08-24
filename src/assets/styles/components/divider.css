@@ -1,13 +1,13 @@
 /** Divider */
 hr,
 .divider {
-  border-block-end-width: var(--border-width-1);
-  border-block-start-width: 0;
-  border-color: var(--color-fg-feather);
-  border-inline-end-width: 0;
-  border-inline-start-width: 0;
-  border-style: solid;
-  margin-block-end: var(--space-14);
-  margin-block-start: var(--space-14);
-  width: 100%;
+	border-block-end-width: var(--border-width-1);
+	border-block-start-width: 0;
+	border-color: var(--color-fg-feather);
+	border-inline-end-width: 0;
+	border-inline-start-width: 0;
+	border-style: solid;
+	margin-block-end: var(--space-14);
+	margin-block-start: var(--space-14);
+	width: 100%;
 }

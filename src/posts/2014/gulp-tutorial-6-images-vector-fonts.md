@@ -37,10 +37,10 @@ var config = require("../../config").images;
  * if not changed
  */
 gulp.task("images", function () {
-  return gulp
-    .src(config.src)
-    .pipe(changed(config.dest)) // Ignore unchanged files
-    .pipe(gulp.dest(config.dest));
+	return gulp
+		.src(config.src)
+		.pipe(changed(config.dest)) // Ignore unchanged files
+		.pipe(gulp.dest(config.dest));
 });
 ```
 
@@ -133,7 +133,7 @@ var config = require("../../config").copyfonts.development;
  * Copy fonts to folder
  */
 gulp.task("copy:fonts", ["fontcustom"], function () {
-  return gulp.src(config.src).pipe(gulp.dest(config.dest));
+	return gulp.src(config.src).pipe(gulp.dest(config.dest));
 });
 ```
 

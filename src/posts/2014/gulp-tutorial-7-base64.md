@@ -19,13 +19,13 @@ To load the background pattern I use SCSS like this:
 
 ```scss
 %pattern-light-grey {
-  background-color: $background-color;
-  background-image: url(/assets/images/patterns/light_grey.png);
-  background-size: 301px 621px;
+	background-color: $background-color;
+	background-image: url(/assets/images/patterns/light_grey.png);
+	background-size: 301px 621px;
 }
 
 body {
-  @extend %pattern-light-grey;
+	@extend %pattern-light-grey;
 }
 ```
 
@@ -33,9 +33,9 @@ The generated CSS looks like this:
 
 ```css
 body {
-  background-color: #fdfdfd;
-  background-image: url(/assets/images/patterns/light_grey.png);
-  background-size: 301px 621px;
+	background-color: #fdfdfd;
+	background-image: url(/assets/images/patterns/light_grey.png);
+	background-size: 301px 621px;
 }
 ```
 
@@ -43,9 +43,9 @@ After the task ran, the CSS will look like this:
 
 ```css
 body {
-  background-color: #fdfdfd;
-  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAloAAATaBAMAAAB4FdU7AAAA…);
-  background-size: 301px 621px;
+	background-color: #fdfdfd;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAloAAATaBAMAAAB4FdU7AAAA…);
+	background-size: 301px 621px;
 }
 ```
 
@@ -85,10 +85,7 @@ var config = require("../../config").base64;
  * Replace urls in CSS fies with base64 encoded data
  */
 gulp.task("base64", ["sass"], function () {
-  return gulp
-    .src(config.src)
-    .pipe(base64(config.options))
-    .pipe(gulp.dest(config.dest));
+	return gulp.src(config.src).pipe(base64(config.options)).pipe(gulp.dest(config.dest));
 });
 ```
 

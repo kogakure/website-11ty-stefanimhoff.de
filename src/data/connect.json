@@ -1,34 +1,34 @@
 [
-  {
-    "text": "Twitter",
-    "url": "https://twitter.com/kogakure"
-  },
-  {
-    "text": "GitHub",
-    "url": "https://github.com/kogakure"
-  },
-  {
-    "text": "Raindrop.io",
-    "url": "https://raindrop.io/kogakure"
-  },
-  {
-    "text": "Goodreads",
-    "url": "https://www.goodreads.com/kogakure"
-  },
-  {
-    "text": "Literal",
-    "url": "https://literal.club/kogakure"
-  },
-  {
-    "text": "Instagram",
-    "url": "https://www.instagram.com/kogakure/"
-  },
-  {
-    "text": "XING",
-    "url": "https://www.xing.com/profile/Stefan_Imhoff/"
-  },
-  {
-    "text": "LinkedIn",
-    "url": "https://www.linkedin.com/in/kogakure/"
-  }
+	{
+		"text": "Twitter",
+		"url": "https://twitter.com/kogakure"
+	},
+	{
+		"text": "GitHub",
+		"url": "https://github.com/kogakure"
+	},
+	{
+		"text": "Raindrop.io",
+		"url": "https://raindrop.io/kogakure"
+	},
+	{
+		"text": "Goodreads",
+		"url": "https://www.goodreads.com/kogakure"
+	},
+	{
+		"text": "Literal",
+		"url": "https://literal.club/kogakure"
+	},
+	{
+		"text": "Instagram",
+		"url": "https://www.instagram.com/kogakure/"
+	},
+	{
+		"text": "XING",
+		"url": "https://www.xing.com/profile/Stefan_Imhoff/"
+	},
+	{
+		"text": "LinkedIn",
+		"url": "https://www.linkedin.com/in/kogakure/"
+	}
 ]

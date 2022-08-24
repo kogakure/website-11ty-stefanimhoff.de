@@ -3,117 +3,117 @@
 
 /** Curriculum Vitae */
 .cv {
-  display: grid;
-  grid-template-columns: var(--grid-wide);
+	display: grid;
+	grid-template-columns: var(--grid-wide);
 }
 
 .cv-title {
-  grid-column: 1 / -1;
-  grid-row: 1;
-  margin-block-end: 0;
+	grid-column: 1 / -1;
+	grid-row: 1;
+	margin-block-end: 0;
 }
 
 .cv-summary {
-  grid-column: 1 / -1;
+	grid-column: 1 / -1;
 }
 
 @media (--tablet) {
-  .cv-summary {
-    grid-column: 1 / 9;
-  }
+	.cv-summary {
+		grid-column: 1 / 9;
+	}
 }
 
 .cv-personal {
-  grid-column: 1 / -1;
+	grid-column: 1 / -1;
 }
 
 @media (--tablet) {
-  .cv-personal {
-    grid-column: 10 / -1;
-  }
+	.cv-personal {
+		grid-column: 10 / -1;
+	}
 }
 
 .cv-divider {
-  grid-column: 1 / -1;
-  margin-block-end: 0;
-  margin-block-start: 0;
-  width: 90%;
+	grid-column: 1 / -1;
+	margin-block-end: 0;
+	margin-block-start: 0;
+	width: 90%;
 }
 
 .cv-column-main {
-  grid-column: 1 / -1;
+	grid-column: 1 / -1;
 }
 
 @media (--tablet) {
-  .cv-column-main {
-    grid-column: 1 / 9;
-  }
+	.cv-column-main {
+		grid-column: 1 / 9;
+	}
 }
 
 .cv-column-side {
-  grid-column: 1 / -1;
+	grid-column: 1 / -1;
 }
 
 @media (--tablet) {
-  .cv-column-side {
-    grid-column: 10 / -1;
-  }
+	.cv-column-side {
+		grid-column: 10 / -1;
+	}
 }
 
 @media (--desktop) {
-  .cv-column-side {
-    grid-column: 10 / -1;
-  }
+	.cv-column-side {
+		grid-column: 10 / -1;
+	}
 }
 
 .cv-education {
-  margin-block-end: var(--space-12);
+	margin-block-end: var(--space-12);
 
-  &:last-child {
-    margin-block-end: 0;
-  }
+	&:last-child {
+		margin-block-end: 0;
+	}
 }
 
 .cv-item-info {
-  margin-block-end: var(--space-10);
+	margin-block-end: var(--space-10);
 }
 
 .cv-item-title {
-  font-weight: var(--font-weight-semi-bold);
+	font-weight: var(--font-weight-semi-bold);
 }
 
 .cv-item-duration {
-  font-style: italic;
-  font-variant-ligatures: none;
-  margin-block-end: var(--space-2);
+	font-style: italic;
+	font-variant-ligatures: none;
+	margin-block-end: var(--space-2);
 }
 
 .cv-item-headline-row {
-  line-height: 1;
+	line-height: 1;
 }
 
 .cv-item-list {
-  list-style: none;
-  margin-block-end: var(--space-10);
-  margin-block-start: var(--space-5);
-  padding: 0;
+	list-style: none;
+	margin-block-end: var(--space-10);
+	margin-block-start: var(--space-5);
+	padding: 0;
 }
 
 .cv-item-list-item {
-  display: inline;
+	display: inline;
 }
 
 .cv-interests {
-  grid-column: 1 / -1;
+	grid-column: 1 / -1;
 }
 
 .cv-interests-list {
-  column-count: 1;
-  column-gap: var(--space-55);
+	column-count: 1;
+	column-gap: var(--space-55);
 }
 
 @media (--tablet) {
-  .cv-interests-list {
-    column-count: 2;
-  }
+	.cv-interests-list {
+		column-count: 2;
+	}
 }

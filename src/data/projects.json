@@ -1,155 +1,155 @@
 [
-  {
-    "title": "Journal & Blog",
-    "categories": ["Writing"],
-    "text": "<p>I have been writing <a href='/journal/'>essays</a> on this website since <strong>2007</strong>. The topics include programming, design, self-improvement, philosophy, productivity, books, and films. The collection has been much bigger, but I deleted outdated and irrelevant essays.</p>",
-    "linkText": "Read Journal",
-    "link": "/journal/",
-    "class": "project-layout-50-only-start"
-  },
-  {
-    "title": "Sketchnotes",
-    "categories": ["Illustration", "Writing"],
-    "text": "<p>One of my passions is <em>Sketchnotes</em> or also called <em>Visual Notetaking</em>. In Sketchnoting you use visual language to quickly visualize ideas, notes, or thoughts. I create Sketchnotes since I first visited a workshop in <strong>2015</strong>.</p>",
-    "linkText": "See Sketchnotes",
-    "link": "/sketchnotes/",
-    "image": "/assets/images/projects/thumbnails/sketchnotes.jpg",
-    "class": "project-layout-50-end"
-  },
-  {
-    "title": "Haiku",
-    "categories": ["Poetry", "Writing"],
-    "text": "<p>I started writing Haiku poetry some years ago inspired by the works of the Japanese Haiku poet <strong>Matsuo Bashō</strong>. I think Haiku is a fun, creative way to use limitation and brevity while saying something meaningful.</p>",
-    "linkText": "Read Haiku",
-    "link": "/haiku/",
-    "class": "project-layout-50-only-end"
-  },
-  {
-    "title": "XING Design System",
-    "categories": ["Web Design", "Web Development", "Writing"],
-    "text": "<p>As a Senior Web Developer on the Design System Team, I created, maintained, and documented the components of the XING Design System. I supported teams implementing our components across the platform.</p>",
-    "linkText": "See XING Design System Components",
-    "link": "/projects/xing-design-system/",
-    "image": "/assets/images/projects/thumbnails/xing-design-system.jpg",
-    "class": "project-layout-70-end"
-  },
-  {
-    "title": "XING Onboarding Illustration",
-    "categories": ["Illustration", "Icon Design"],
-    "text": "<p>I was asked to create three new illustrations that could be used for an Onboarding screen on <a href='https://www.xing.com/' rel='nofollow noopener noreferrer external' target='_blank'>XING</a>. I accepted the challenge to take over this task outside of my job description and finished the whole process from concept to scribbles, to final illustrations in a day.</p>",
-    "linkText": "See XING Onboarding Illustrations",
-    "link": "/projects/xing-onboarding-illustrations/",
-    "image": "/assets/images/projects/thumbnails/xing-illustrations.jpg",
-    "class": "project-layout-70-start"
-  },
-  {
-    "title": "The Traditional Colors of Japan",
-    "categories": ["Design", "Web Development"],
-    "text": "<p>In 2007 I stumbled upon a Japanese book about the traditional colors of Japan by <strong>Nobyoshi Hamada</strong>. He listed all 250 colors with their color value in the appendix. I took some time to create an ASE file to be used with all common design software.</p><p>With this version of the website I finally dedicate an extra section to the colors, listing them all with their name and color values.</p>",
-    "linkText": "See Traditional Colors of Japan",
-    "link": "/traditional-colors-of-japan/",
-    "image": "/assets/images/projects/thumbnails/traditional-colors-of-japan.svg",
-    "class": "project-layout-50-end no-border svg-japanese-color"
-  },
-  {
-    "title": "iA Writer Template Nanzan (南山)",
-    "categories": ["Web Design", "Web Development"],
-    "text": "<p>This <a href='https://ia.net/writer' rel='nofollow noopener noreferrer external' target='_blank'>iA Writer</a> template is inspired by the typographic style of the book <a href='https://www.amazon.com/gp/product/0824874072/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0824874072&linkCode=as2' rel='nofollow noopener noreferrer external' target='_blank'>Engaging Japanese Philosophy</a> by Thomas P. Kasulis, designed by the <em>Nanzan Institute for Religion and Culture</em>.</p>",
-    "linkText": "Download iA Writer Template Nanzan on GitHub",
-    "link": "https://github.com/kogakure/ia-writer-template-nanzan",
-    "external": true,
-    "image": "/assets/images/projects/thumbnails/ia-template-nanzan.jpg",
-    "class": "project-layout-50-start"
-  },
-  {
-    "title": "iA Writer Template Shibui (渋い)",
-    "categories": ["Web Design", "Web Development"],
-    "text": "<p>This <a href='https://ia.net/writer' rel='nofollow noopener noreferrer external' target='_blank'>iA Writer</a> template is inspired by the Japanese aesthetics style shibui which was founded during the Muromachi period (1336-1392). I use the same style for my current personal branding on my website, for my <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>martial arts book</a> and for my <a href='https://hamburg.stefanimhoff.de/' rel='nofollow noopener noreferrer external' target='_blank'>photoblog</a>.</p>",
-    "linkText": "Download iA Writer Template Shibui on GitHub",
-    "link": "https://github.com/kogakure/ia-writer-template-shibui",
-    "external": true,
-    "image": "/assets/images/projects/thumbnails/ia-template-shibui.jpg",
-    "class": "project-layout-50-end"
-  },
-  {
-    "title": "Bamboo Illustration",
-    "categories": ["Illustration"],
-    "text": "<p>I created the bamboo illustration in <strong>2006</strong> for my <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> using Adobe Illustrator and the gradient grid tool.</p><p><strong>2015</strong> I decided to use my bamboo as <abbr title='Scalable Vector Graphics'>SVG</abbr> on my website. Unfortunately, the gradient tool is not supported in <abbr>SVG</abbr> and I needed to recreate my bamboo with linear, radial, and other supported gradients in <a href='https://affinity.serif.com/designer/' rel='nofollow noopener noreferrer external' target='_blank'>Affinity Designer</a>.</p>",
-    "image": "/assets/images/projects/thumbnails/bamboo-illustration.svg",
-    "class": "project-layout-100-end svg-bamboo no-border"
-  },
-  {
-    "title": "Ninjutsu Book 木隠",
-    "categories": ["Web Design", "Web Development", "Writing"],
-    "text": "<p>My <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>Ninjutsu Book 木隠</a> was first launched in <strong>1999</strong> and is my oldest and most visited website. The current design is the <strong>9th</strong> iteration. In 2022 I translated it to English to make it accessible to a larger readership.</p>",
-    "linkText": "See Showcase of Version 9",
-    "link": "/projects/kogakure-v9/",
-    "image": "/assets/images/projects/thumbnails/kogakure-v9.jpg",
-    "class": "project-layout-50-start"
-  },
-  {
-    "title": "Book & Book Cover",
-    "categories": ["Writing", "Graphic Design"],
-    "text": "<p>I wrote this book in <strong>2017</strong> out of the essays I’ve written on my <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> in the last 20 years. It’s a book in German about the Ninja and their secret art of Ninjutsu.</p><p>I also designed the book cover for my book. The book was written with <a href='https://www.gitbook.com/' rel='nofollow noopener noreferrer external' target='_blank'>GitBook</a> and can be read or downloaded for free as PDF, ePub, or Mobi eBook.</p>",
-    "linkText": "Read the Book",
-    "link": "https://book.kogakure.de/",
-    "external": true,
-    "image": "/assets/images/projects/thumbnails/book-kogakure.jpg",
-    "class": "project-layout-50-end"
-  },
-  {
-    "title": "Personal Website & Blog",
-    "categories": ["Web Design", "Web Development"],
-    "text": "<p>My website and blog first launched in <strong>2006</strong> and is the website you’re looking at. The current design is the <strong>4th</strong> iteration.</p>",
-    "linkText": "See Showcase of Version 4",
-    "link": "/projects/stefanimhoff-v4/",
-    "image": "/assets/images/projects/thumbnails/stefanimhoff-v4.jpg",
-    "class": "project-layout-50-start"
-  },
-  {
-    "title": "Koi Illustration",
-    "categories": ["Illustration", "Painting"],
-    "text": "<p>I created this illustration for a previous version of my website in <strong>2007</strong> with a pencil on paper and then brought it into Adobe Photoshop, where all coloring was done.</p>",
-    "linkText": "See the “Making-of”",
-    "link": "/projects/koi-illustration/",
-    "image": "/assets/images/projects/thumbnails/koi-illustration.jpg",
-    "class": "project-layout-70-start"
-  },
-  {
-    "title": "Exploring Hamburg",
-    "categories": ["Web Design", "Web Development", "Photography"],
-    "text": "<p>I created this <a href='https://hamburg.stefanimhoff.de/' rel='nofollow noopener noreferrer external' target='_blank'>Photography Blog</a> for one of my hobbies: I explore the city of Hamburg, mostly walking, and sometimes biking to find out more about the individual districts and to shoot photos. The current design is the <strong>2nd</strong> iteration.</p>",
-    "linkText": "See Showcase of Version 2",
-    "link": "/projects/exploring-hamburg-v2/",
-    "image": "/assets/images/projects/thumbnails/exploring-hamburg-v2.jpg",
-    "class": "project-layout-50-end"
-  },
-  {
-    "title": "Osteopathie-Institut Hamburg",
-    "categories": ["Web Design", "Web Development"],
-    "text": "<p>I created this website for the <strong>Osteopathie-Institut Hamburg</strong> in <strong>2010</strong> as one of my last websites before I started working as a <em>Frontend Engineer</em> for XING.</p>",
-    "linkText": "See Showcase of Osteopathie-Institut Hamburg",
-    "link": "/projects/osteopathie-hamburg/",
-    "image": "/assets/images/projects/thumbnails/osteopathie-hamburg.jpg",
-    "class": "project-layout-50-start"
-  },
-  {
-    "title": "Thai Restaurants Hamburg",
-    "categories": ["Graphic Design", "Web Design", "Web Development"],
-    "text": "<p>I created this small website for three Thai restaurants in Hamburg in <strong>2010</strong>. It was online for nearly ten years and I had a lot of fun creating it.</p>",
-    "linkText": "See Showcase of Thai Restaurants Hamburg",
-    "link": "/projects/thai-restaurants-hamburg/",
-    "image": "/assets/images/projects/thumbnails/thai-restaurant.jpg",
-    "class": "project-layout-50-end"
-  },
-  {
-    "title": "Ingo: Iga Ninja Cipher Font",
-    "categories": ["Type Design", "Graphic Design"],
-    "text": "<p>The <em>Iga Ninja Cipher Font</em> was created by me of an image provided by the <strong>Iga Ninja Museum</strong> in Japan and is said to be a font for correspondence in cipher. It was a fun personal project to learn how to create a typeface.</p>",
-    "linkText": "Download Font on GitHub",
-    "link": "https://github.com/kogakure/font-ingo",
-    "external": true,
-    "image": "/assets/images/projects/thumbnails/ingo-iga-ninja-cipher.jpg",
-    "class": "project-layout-50-start"
-  }
+	{
+		"title": "Journal & Blog",
+		"categories": ["Writing"],
+		"text": "<p>I have been writing <a href='/journal/'>essays</a> on this website since <strong>2007</strong>. The topics include programming, design, self-improvement, philosophy, productivity, books, and films. The collection has been much bigger, but I deleted outdated and irrelevant essays.</p>",
+		"linkText": "Read Journal",
+		"link": "/journal/",
+		"class": "project-layout-50-only-start"
+	},
+	{
+		"title": "Sketchnotes",
+		"categories": ["Illustration", "Writing"],
+		"text": "<p>One of my passions is <em>Sketchnotes</em> or also called <em>Visual Notetaking</em>. In Sketchnoting you use visual language to quickly visualize ideas, notes, or thoughts. I create Sketchnotes since I first visited a workshop in <strong>2015</strong>.</p>",
+		"linkText": "See Sketchnotes",
+		"link": "/sketchnotes/",
+		"image": "/assets/images/projects/thumbnails/sketchnotes.jpg",
+		"class": "project-layout-50-end"
+	},
+	{
+		"title": "Haiku",
+		"categories": ["Poetry", "Writing"],
+		"text": "<p>I started writing Haiku poetry some years ago inspired by the works of the Japanese Haiku poet <strong>Matsuo Bashō</strong>. I think Haiku is a fun, creative way to use limitation and brevity while saying something meaningful.</p>",
+		"linkText": "Read Haiku",
+		"link": "/haiku/",
+		"class": "project-layout-50-only-end"
+	},
+	{
+		"title": "XING Design System",
+		"categories": ["Web Design", "Web Development", "Writing"],
+		"text": "<p>As a Senior Web Developer on the Design System Team, I created, maintained, and documented the components of the XING Design System. I supported teams implementing our components across the platform.</p>",
+		"linkText": "See XING Design System Components",
+		"link": "/projects/xing-design-system/",
+		"image": "/assets/images/projects/thumbnails/xing-design-system.jpg",
+		"class": "project-layout-70-end"
+	},
+	{
+		"title": "XING Onboarding Illustration",
+		"categories": ["Illustration", "Icon Design"],
+		"text": "<p>I was asked to create three new illustrations that could be used for an Onboarding screen on <a href='https://www.xing.com/' rel='nofollow noopener noreferrer external' target='_blank'>XING</a>. I accepted the challenge to take over this task outside of my job description and finished the whole process from concept to scribbles, to final illustrations in a day.</p>",
+		"linkText": "See XING Onboarding Illustrations",
+		"link": "/projects/xing-onboarding-illustrations/",
+		"image": "/assets/images/projects/thumbnails/xing-illustrations.jpg",
+		"class": "project-layout-70-start"
+	},
+	{
+		"title": "The Traditional Colors of Japan",
+		"categories": ["Design", "Web Development"],
+		"text": "<p>In 2007 I stumbled upon a Japanese book about the traditional colors of Japan by <strong>Nobyoshi Hamada</strong>. He listed all 250 colors with their color value in the appendix. I took some time to create an ASE file to be used with all common design software.</p><p>With this version of the website I finally dedicate an extra section to the colors, listing them all with their name and color values.</p>",
+		"linkText": "See Traditional Colors of Japan",
+		"link": "/traditional-colors-of-japan/",
+		"image": "/assets/images/projects/thumbnails/traditional-colors-of-japan.svg",
+		"class": "project-layout-50-end no-border svg-japanese-color"
+	},
+	{
+		"title": "iA Writer Template Nanzan (南山)",
+		"categories": ["Web Design", "Web Development"],
+		"text": "<p>This <a href='https://ia.net/writer' rel='nofollow noopener noreferrer external' target='_blank'>iA Writer</a> template is inspired by the typographic style of the book <a href='https://www.amazon.com/gp/product/0824874072/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0824874072&linkCode=as2' rel='nofollow noopener noreferrer external' target='_blank'>Engaging Japanese Philosophy</a> by Thomas P. Kasulis, designed by the <em>Nanzan Institute for Religion and Culture</em>.</p>",
+		"linkText": "Download iA Writer Template Nanzan on GitHub",
+		"link": "https://github.com/kogakure/ia-writer-template-nanzan",
+		"external": true,
+		"image": "/assets/images/projects/thumbnails/ia-template-nanzan.jpg",
+		"class": "project-layout-50-start"
+	},
+	{
+		"title": "iA Writer Template Shibui (渋い)",
+		"categories": ["Web Design", "Web Development"],
+		"text": "<p>This <a href='https://ia.net/writer' rel='nofollow noopener noreferrer external' target='_blank'>iA Writer</a> template is inspired by the Japanese aesthetics style shibui which was founded during the Muromachi period (1336-1392). I use the same style for my current personal branding on my website, for my <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>martial arts book</a> and for my <a href='https://hamburg.stefanimhoff.de/' rel='nofollow noopener noreferrer external' target='_blank'>photoblog</a>.</p>",
+		"linkText": "Download iA Writer Template Shibui on GitHub",
+		"link": "https://github.com/kogakure/ia-writer-template-shibui",
+		"external": true,
+		"image": "/assets/images/projects/thumbnails/ia-template-shibui.jpg",
+		"class": "project-layout-50-end"
+	},
+	{
+		"title": "Bamboo Illustration",
+		"categories": ["Illustration"],
+		"text": "<p>I created the bamboo illustration in <strong>2006</strong> for my <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> using Adobe Illustrator and the gradient grid tool.</p><p><strong>2015</strong> I decided to use my bamboo as <abbr title='Scalable Vector Graphics'>SVG</abbr> on my website. Unfortunately, the gradient tool is not supported in <abbr>SVG</abbr> and I needed to recreate my bamboo with linear, radial, and other supported gradients in <a href='https://affinity.serif.com/designer/' rel='nofollow noopener noreferrer external' target='_blank'>Affinity Designer</a>.</p>",
+		"image": "/assets/images/projects/thumbnails/bamboo-illustration.svg",
+		"class": "project-layout-100-end svg-bamboo no-border"
+	},
+	{
+		"title": "Ninjutsu Book 木隠",
+		"categories": ["Web Design", "Web Development", "Writing"],
+		"text": "<p>My <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>Ninjutsu Book 木隠</a> was first launched in <strong>1999</strong> and is my oldest and most visited website. The current design is the <strong>9th</strong> iteration. In 2022 I translated it to English to make it accessible to a larger readership.</p>",
+		"linkText": "See Showcase of Version 9",
+		"link": "/projects/kogakure-v9/",
+		"image": "/assets/images/projects/thumbnails/kogakure-v9.jpg",
+		"class": "project-layout-50-start"
+	},
+	{
+		"title": "Book & Book Cover",
+		"categories": ["Writing", "Graphic Design"],
+		"text": "<p>I wrote this book in <strong>2017</strong> out of the essays I’ve written on my <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> in the last 20 years. It’s a book in German about the Ninja and their secret art of Ninjutsu.</p><p>I also designed the book cover for my book. The book was written with <a href='https://www.gitbook.com/' rel='nofollow noopener noreferrer external' target='_blank'>GitBook</a> and can be read or downloaded for free as PDF, ePub, or Mobi eBook.</p>",
+		"linkText": "Read the Book",
+		"link": "https://book.kogakure.de/",
+		"external": true,
+		"image": "/assets/images/projects/thumbnails/book-kogakure.jpg",
+		"class": "project-layout-50-end"
+	},
+	{
+		"title": "Personal Website & Blog",
+		"categories": ["Web Design", "Web Development"],
+		"text": "<p>My website and blog first launched in <strong>2006</strong> and is the website you’re looking at. The current design is the <strong>4th</strong> iteration.</p>",
+		"linkText": "See Showcase of Version 4",
+		"link": "/projects/stefanimhoff-v4/",
+		"image": "/assets/images/projects/thumbnails/stefanimhoff-v4.jpg",
+		"class": "project-layout-50-start"
+	},
+	{
+		"title": "Koi Illustration",
+		"categories": ["Illustration", "Painting"],
+		"text": "<p>I created this illustration for a previous version of my website in <strong>2007</strong> with a pencil on paper and then brought it into Adobe Photoshop, where all coloring was done.</p>",
+		"linkText": "See the “Making-of”",
+		"link": "/projects/koi-illustration/",
+		"image": "/assets/images/projects/thumbnails/koi-illustration.jpg",
+		"class": "project-layout-70-start"
+	},
+	{
+		"title": "Exploring Hamburg",
+		"categories": ["Web Design", "Web Development", "Photography"],
+		"text": "<p>I created this <a href='https://hamburg.stefanimhoff.de/' rel='nofollow noopener noreferrer external' target='_blank'>Photography Blog</a> for one of my hobbies: I explore the city of Hamburg, mostly walking, and sometimes biking to find out more about the individual districts and to shoot photos. The current design is the <strong>2nd</strong> iteration.</p>",
+		"linkText": "See Showcase of Version 2",
+		"link": "/projects/exploring-hamburg-v2/",
+		"image": "/assets/images/projects/thumbnails/exploring-hamburg-v2.jpg",
+		"class": "project-layout-50-end"
+	},
+	{
+		"title": "Osteopathie-Institut Hamburg",
+		"categories": ["Web Design", "Web Development"],
+		"text": "<p>I created this website for the <strong>Osteopathie-Institut Hamburg</strong> in <strong>2010</strong> as one of my last websites before I started working as a <em>Frontend Engineer</em> for XING.</p>",
+		"linkText": "See Showcase of Osteopathie-Institut Hamburg",
+		"link": "/projects/osteopathie-hamburg/",
+		"image": "/assets/images/projects/thumbnails/osteopathie-hamburg.jpg",
+		"class": "project-layout-50-start"
+	},
+	{
+		"title": "Thai Restaurants Hamburg",
+		"categories": ["Graphic Design", "Web Design", "Web Development"],
+		"text": "<p>I created this small website for three Thai restaurants in Hamburg in <strong>2010</strong>. It was online for nearly ten years and I had a lot of fun creating it.</p>",
+		"linkText": "See Showcase of Thai Restaurants Hamburg",
+		"link": "/projects/thai-restaurants-hamburg/",
+		"image": "/assets/images/projects/thumbnails/thai-restaurant.jpg",
+		"class": "project-layout-50-end"
+	},
+	{
+		"title": "Ingo: Iga Ninja Cipher Font",
+		"categories": ["Type Design", "Graphic Design"],
+		"text": "<p>The <em>Iga Ninja Cipher Font</em> was created by me of an image provided by the <strong>Iga Ninja Museum</strong> in Japan and is said to be a font for correspondence in cipher. It was a fun personal project to learn how to create a typeface.</p>",
+		"linkText": "Download Font on GitHub",
+		"link": "https://github.com/kogakure/font-ingo",
+		"external": true,
+		"image": "/assets/images/projects/thumbnails/ingo-iga-ninja-cipher.jpg",
+		"class": "project-layout-50-start"
+	}
 ]

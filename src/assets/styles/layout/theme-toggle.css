@@ -1,35 +1,35 @@
 /** Theme Toggle */
 .no-js .theme-toggle {
-  display: none;
+	display: none;
 }
 
 .theme-toggle {
-  align-items: center;
-  align-self: center;
-  background: transparent;
-  border: 0;
-  cursor: pointer;
-  display: flex;
-  font-size: 0;
-  grid-column: -2;
-  height: 40px;
-  justify-content: center;
-  justify-self: center;
-  outline: 0;
-  width: 40px;
+	align-items: center;
+	align-self: center;
+	background: transparent;
+	border: 0;
+	cursor: pointer;
+	display: flex;
+	font-size: 0;
+	grid-column: -2;
+	height: 40px;
+	justify-content: center;
+	justify-self: center;
+	outline: 0;
+	width: 40px;
 }
 
 .theme-toggle-icon {
-  fill: var(--color-fg);
-  font-size: 12px;
-  height: 12px;
-  transition-duration: var(--transition-duration-5);
-  transition-property: transform;
-  transition-timing-function: ease-in-out;
-  width: 12px;
+	fill: var(--color-fg);
+	font-size: 12px;
+	height: 12px;
+	transition-duration: var(--transition-duration-5);
+	transition-property: transform;
+	transition-timing-function: ease-in-out;
+	width: 12px;
 
-  .theme-toggle:hover &,
-  .theme-toggle:focus & {
-    transform: scale(1.25);
-  }
+	.theme-toggle:hover &,
+	.theme-toggle:focus & {
+		transform: scale(1.25);
+	}
 }

@@ -61,7 +61,7 @@ var config = require("../../config").browsersync.production;
  * Start a server and watch changes with BrowserSync
  */
 gulp.task("browsersync:production", ["build:production"], function () {
-  browsersync(config);
+	browsersync(config);
 });
 ```
 
@@ -79,22 +79,16 @@ var runSequence = require("run-sequence");
  * Run all tasks needed for a build in the defined order
  */
 gulp.task("build:production", function (callback) {
-  runSequence(
-    "delete",
-    "jekyll:production",
-    ["sass", "scripts", "images", "copy:fonts"],
-    "base64",
-    [
-      "optimize:css",
-      "optimize:js",
-      "optimize:images",
-      "optimize:html",
-      "copy:fonts:production",
-    ],
-    "revision",
-    "rev:collect",
-    callback
-  );
+	runSequence(
+		"delete",
+		"jekyll:production",
+		["sass", "scripts", "images", "copy:fonts"],
+		"base64",
+		["optimize:css", "optimize:js", "optimize:images", "optimize:html", "copy:fonts:production"],
+		"revision",
+		"rev:collect",
+		callback
+	);
 });
 ```
 
@@ -141,23 +135,23 @@ var config = require("../../config").jekyll.production;
  * Build the Jekyll Site
  */
 gulp.task("jekyll:production", function (done) {
-  browsersync.notify("Compiling Jekyll (Production)");
+	browsersync.notify("Compiling Jekyll (Production)");
 
-  return cp
-    .spawn(
-      "bundle",
-      [
-        "exec",
-        "jekyll",
-        "build",
-        "-q",
-        "--source=" + config.src,
-        "--destination=" + config.dest,
-        "--config=" + config.config,
-      ],
-      { stdio: "inherit" }
-    )
-    .on("close", done);
+	return cp
+		.spawn(
+			"bundle",
+			[
+				"exec",
+				"jekyll",
+				"build",
+				"-q",
+				"--source=" + config.src,
+				"--destination=" + config.dest,
+				"--config=" + config.config,
+			],
+			{ stdio: "inherit" }
+		)
+		.on("close", done);
 });
 ```
 

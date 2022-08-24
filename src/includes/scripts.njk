@@ -1,7 +1,9 @@
-{% set js %} 
-  {% include "../assets/scripts/embedded/theme-switcher.js" %}
-  {% if site.isProduction %}
-    {% include "../assets/scripts/embedded/register-serviceworker.js" %}
-  {% endif %}
+{% set js %}
+{% include "../assets/scripts/embedded/theme-switcher.js" %}
+{% if site.isProduction %}
+	{% include "../assets/scripts/embedded/register-serviceworker.js" %}
+{% endif %}
 {% endset %}
-<script>{{ js | jsmin | safe }}</script>
+<script>
+	{{ js | jsmin | safe }}
+</script>

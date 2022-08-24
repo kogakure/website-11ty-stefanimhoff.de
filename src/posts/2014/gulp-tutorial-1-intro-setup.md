@@ -62,10 +62,10 @@ You may use the installation helper by typing the command `npm init`. But I find
 
 ```json
 {
-  "name": "gulp-build",
-  "version": "0.0.1",
-  "description": "The build process of my website with Gulp.js",
-  "private": true
+	"name": "gulp-build",
+	"version": "0.0.1",
+	"description": "The build process of my website with Gulp.js",
+	"private": true
 }
 ```
 

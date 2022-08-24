@@ -67,69 +67,69 @@ var config = require("../../config").browserify;
  * Run JavaScript through Browserify
  */
 gulp.task("scripts", function (callback) {
-  browsersync.notify("Compiling JavaScript");
+	browsersync.notify("Compiling JavaScript");
 
-  var bundleQueue = config.bundleConfigs.length;
+	var bundleQueue = config.bundleConfigs.length;
 
-  var browserifyThis = function (bundleConfig) {
-    var bundler = browserify({
-      // Required watchify args
-      cache: {},
-      packageCache: {},
-      fullPaths: false,
-      // Specify the entry point of your app
-      entries: bundleConfig.entries,
-      // Add file extensions to make optional in your requires
-      extensions: config.extensions,
-      // Enable source maps!
-      debug: config.debug,
-    });
+	var browserifyThis = function (bundleConfig) {
+		var bundler = browserify({
+			// Required watchify args
+			cache: {},
+			packageCache: {},
+			fullPaths: false,
+			// Specify the entry point of your app
+			entries: bundleConfig.entries,
+			// Add file extensions to make optional in your requires
+			extensions: config.extensions,
+			// Enable source maps!
+			debug: config.debug,
+		});
 
-    var bundle = function () {
-      // Log when bundling starts
-      bundleLogger.start(bundleConfig.outputName);
+		var bundle = function () {
+			// Log when bundling starts
+			bundleLogger.start(bundleConfig.outputName);
 
-      return (
-        bundler
-          .bundle()
-          // Report compile errors
-          .on("error", handleErrors)
-          // Use vinyl-source-stream to make the
-          // stream gulp compatible. Specify the
-          // desired output filename here.
-          .pipe(source(bundleConfig.outputName))
-          // Specify the output destination
-          .pipe(gulp.dest(bundleConfig.dest))
-          .on("end", reportFinished)
-      );
-    };
+			return (
+				bundler
+					.bundle()
+					// Report compile errors
+					.on("error", handleErrors)
+					// Use vinyl-source-stream to make the
+					// stream gulp compatible. Specify the
+					// desired output filename here.
+					.pipe(source(bundleConfig.outputName))
+					// Specify the output destination
+					.pipe(gulp.dest(bundleConfig.dest))
+					.on("end", reportFinished)
+			);
+		};
 
-    if (global.isWatching) {
-      // Wrap with watchify and rebundle on changes
-      bundler = watchify(bundler);
-      // Rebundle on update
-      bundler.on("update", bundle);
-    }
+		if (global.isWatching) {
+			// Wrap with watchify and rebundle on changes
+			bundler = watchify(bundler);
+			// Rebundle on update
+			bundler.on("update", bundle);
+		}
 
-    var reportFinished = function () {
-      // Log when bundling completes
-      bundleLogger.end(bundleConfig.outputName);
+		var reportFinished = function () {
+			// Log when bundling completes
+			bundleLogger.end(bundleConfig.outputName);
 
-      if (bundleQueue) {
-        bundleQueue--;
-        if (bundleQueue === 0) {
-          // If queue is empty, tell gulp the task is complete.
-          // https://github.com/gulpjs/gulp/blob/master/docs/API.md#accept-a-callback
-          callback();
-        }
-      }
-    };
+			if (bundleQueue) {
+				bundleQueue--;
+				if (bundleQueue === 0) {
+					// If queue is empty, tell gulp the task is complete.
+					// https://github.com/gulpjs/gulp/blob/master/docs/API.md#accept-a-callback
+					callback();
+				}
+			}
+		};
 
-    return bundle();
-  };
+		return bundle();
+	};
 
-  // Start bundling with Browserify for each bundleConfig specified
-  config.bundleConfigs.forEach(browserifyThis);
+	// Start bundling with Browserify for each bundleConfig specified
+	config.bundleConfigs.forEach(browserifyThis);
 });
 ```
 
@@ -148,21 +148,16 @@ var prettyHrtime = require("pretty-hrtime");
 var startTime;
 
 module.exports = {
-  start: function (filepath) {
-    startTime = process.hrtime();
-    gutil.log("Bundling", gutil.colors.green(filepath));
-  },
+	start: function (filepath) {
+		startTime = process.hrtime();
+		gutil.log("Bundling", gutil.colors.green(filepath));
+	},
 
-  end: function (filepath) {
-    var taskTime = process.hrtime(startTime);
-    var prettyTime = prettyHrtime(taskTime);
-    gutil.log(
-      "Bundled",
-      gutil.colors.green(filepath),
-      "in",
-      gutil.colors.magenta(prettyTime)
-    );
-  },
+	end: function (filepath) {
+		var taskTime = process.hrtime(startTime);
+		var prettyTime = prettyHrtime(taskTime);
+		gutil.log("Bundled", gutil.colors.green(filepath), "in", gutil.colors.magenta(prettyTime));
+	},
 };
 ```
 
@@ -172,18 +167,18 @@ module.exports = {
 var notify = require("gulp-notify");
 
 module.exports = function () {
-  var args = Array.prototype.slice.call(arguments);
+	var args = Array.prototype.slice.call(arguments);
 
-  // Send error to notification center with gulp-notify
-  notify
-    .onError({
-      title: "Compile Error",
-      message: "<%= error.message %>",
-    })
-    .apply(this, args);
+	// Send error to notification center with gulp-notify
+	notify
+		.onError({
+			title: "Compile Error",
+			message: "<%= error.message %>",
+		})
+		.apply(this, args);
 
-  // Keep gulp from hanging on this task
-  this.emit("end");
+	// Keep gulp from hanging on this task
+	this.emit("end");
 };
 ```
 
@@ -221,7 +216,7 @@ Later you import your modules and use them:
 var add = require("./math").add;
 
 exports.increment = function (val) {
-  return add(val, 1);
+	return add(val, 1);
 };
 ```
 
@@ -232,7 +227,7 @@ var navigation = require("./navigation");
 var triggerNavigation = document.querySelector(".toggle-navigation");
 
 document.addEventListener("DOMContentLoaded", function () {
-  triggerNavigation.addEventListener("click", navigation.toggleNavigation);
+	triggerNavigation.addEventListener("click", navigation.toggleNavigation);
 });
 ```
 
@@ -252,21 +247,21 @@ I open my `package.json` file and need to add a few lines:
 
 ```json
 {
-  "...": "...",
-  "browser": {
-    "modernizr": "./app/_bower_components/modernizr/modernizr.js",
-    "jquery": "./app/_bower_components/jquery/dist/jquery.js"
-  },
-  "browserify-shim": {
-    "modernizr": "Modernizr",
-    "jquery": "$"
-  },
-  "browserify": {
-    "transform": ["browserify-shim"]
-  },
-  "devDependencies": {
-    "...": "..."
-  }
+	"...": "...",
+	"browser": {
+		"modernizr": "./app/_bower_components/modernizr/modernizr.js",
+		"jquery": "./app/_bower_components/jquery/dist/jquery.js"
+	},
+	"browserify-shim": {
+		"modernizr": "Modernizr",
+		"jquery": "$"
+	},
+	"browserify": {
+		"transform": ["browserify-shim"]
+	},
+	"devDependencies": {
+		"...": "..."
+	}
 }
 ```
 
@@ -286,7 +281,7 @@ require("modernizr");
 require("jquery");
 
 $(function () {
-  console.log("jQuery and Modernizr loaded");
+	console.log("jQuery and Modernizr loaded");
 });
 ```
 

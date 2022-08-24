@@ -1,5 +1,5 @@
 ---
-title: 'Civil War for Truth: Science'
+title: "Civil War for Truth: Science"
 date: 2022-07-11T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the sixth part of a seven-part series that

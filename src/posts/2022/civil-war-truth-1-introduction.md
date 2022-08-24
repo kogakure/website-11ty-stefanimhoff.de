@@ -1,7 +1,7 @@
 ---
-title: 'Civil War for Truth: Introduction'
+title: "Civil War for Truth: Introduction"
 author: Stefan Imhoff
-date: '2022-06-06T07:00:00+02:00'
+date: "2022-06-06T07:00:00+02:00"
 description: This is the introduction of a seven-part series that
   investigates why the last 10 years were uniquely turbulent with
   ever-increasing political division, rampant censorship, and growing

@@ -1,32 +1,32 @@
 .flag {
-  background-color: lightgrey;
-  border-color: darkgrey;
-  border-radius: var(--radius-1);
-  border-style: solid;
-  border-width: 1px;
-  color: black;
-  font-family: var(--font-family-mono);
-  font-size: 0.7em;
-  font-weight: var(--font-weight-normal);
-  padding-bottom: 0em;
-  padding-left: 0.3em;
-  padding-right: 0.3em;
-  padding-top: 0.1em;
-  text-decoration: none;
+	background-color: lightgrey;
+	border-color: darkgrey;
+	border-radius: var(--radius-1);
+	border-style: solid;
+	border-width: 1px;
+	color: black;
+	font-family: var(--font-family-mono);
+	font-size: 0.7em;
+	font-weight: var(--font-weight-normal);
+	padding-bottom: 0em;
+	padding-left: 0.3em;
+	padding-right: 0.3em;
+	padding-top: 0.1em;
+	text-decoration: none;
 }
 
 .flag-hidden {
-  display: none;
+	display: none;
 }
 
 .flag-netflix {
-  background-color: rgb(207, 0, 0);
-  border-color: rgb(207, 0, 0);
-  color: white;
+	background-color: rgb(207, 0, 0);
+	border-color: rgb(207, 0, 0);
+	color: white;
 }
 
 .flag-prime-video {
-  background-color: rgb(73, 163, 221);
-  border-color: rgb(73, 163, 221);
-  color: black;
+	background-color: rgb(73, 163, 221);
+	border-color: rgb(73, 163, 221);
+	color: black;
 }

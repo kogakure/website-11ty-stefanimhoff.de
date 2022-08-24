@@ -102,15 +102,15 @@ Create a new file named `index.html` inside the folder and paste this basic HTML
 ```html
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Nice Kitty</title>
-  </head>
-  <body>
-    <center>
-      <h1>Nice Kitty</h1>
-      <img src="cat.jpg" />
-    </center>
-  </body>
+	<head>
+		<title>Nice Kitty</title>
+	</head>
+	<body>
+		<center>
+			<h1>Nice Kitty</h1>
+			<img src="cat.jpg" />
+		</center>
+	</body>
 </html>
 ```
 

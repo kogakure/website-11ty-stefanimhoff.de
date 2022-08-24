@@ -1,23 +1,23 @@
 {% if previousPost %}
-  <a 
+	<a 
     aria-label="{{ previousPost.data.title }}" 
     class="pagination pagination-start" 
     href="{{ previousPost.url }}" 
     rel="prev"
     title="{{ previousPost.data.title }}"
   >
-    {% include "pagination-left-arrow.njk" %}
-  </a>
+		{% include "pagination-left-arrow.njk" %}
+	</a>
 {% endif %}
 
 {% if nextPost %}
-  <a 
+	<a 
     aria-label="{{ nextPost.data.title }}" 
     class="pagination pagination-end" 
     href="{{ nextPost.url }}" 
     rel="next"
     title="{{ nextPost.data.title }}"
   >
-    {% include "pagination-right-arrow.njk" %}
-  </a>
+		{% include "pagination-right-arrow.njk" %}
+	</a>
 {% endif %}

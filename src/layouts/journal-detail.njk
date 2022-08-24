@@ -7,28 +7,33 @@ css: journal.css
 {% set nextPost = collections.journal | getNextCollectionItem(page) %}
 
 <article class="journal-post-container">
-  <h1 class="journal-post-title">{{ title | nbsp | safe }}</h1>
-  <aside class="journal-post-meta">
-    <div class="journal-post-meta-author">
-      <em>By</em> <a href="/about/">{{ author }}</a>
-    </div>
-    <div class="journal-post-meta-date">
-    <time datetime="{{ date | dateToISO }}">
-      {{ date | dateToFormat() }}
-    </time>
-    </div>
-    <div class="journal-post-meta-time">
-      {{ content | striptags(true) | wordcount }} <span class="journal-post-meta-time-fragment">words</span> • 
-      {{ content | readingTime }} <span class="journal-post-meta-time-fragment">read</span>
-    </div>
-  </aside>
-  <div class="journal-post">
-    {{ content | safe }}
-    {% if updated %}
-    <footer class="journal-post-meta-updated">
-      <b>Last Updated:</b> <time datetime="{{ updated | dateToISO }}">{{ updated | dateToFormat() }}</time>
-    </footer>
-    {% endif %}
-  </div>
-  {% include "pagination.njk" %}
+	<h1 class="journal-post-title">{{ title | nbsp | safe }}</h1>
+	<aside class="journal-post-meta">
+		<div class="journal-post-meta-author">
+			<em>By</em>
+			<a href="/about/">{{ author }}</a>
+		</div>
+		<div class="journal-post-meta-date">
+			<time datetime="{{ date | dateToISO }}">
+				{{ date | dateToFormat() }}
+			</time>
+		</div>
+		<div class="journal-post-meta-time">
+			{{ content | striptags(true) | wordcount }}
+			<span class="journal-post-meta-time-fragment">words</span> • 
+      {{ content | readingTime }}
+			<span class="journal-post-meta-time-fragment">read</span>
+		</div>
+	</aside>
+	<div class="journal-post">
+		{{ content | safe }}
+		{% if updated %}
+			<footer class="journal-post-meta-updated">
+				<b>Last Updated:</b>
+				<time datetime="{{ updated | dateToISO }}">{{ updated | dateToFormat() }}</time>
+			</footer>
+		{% endif %}
+	</div>
+	{% include "pagination.njk" %}
 </article>
+

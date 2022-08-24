@@ -1,38 +1,44 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+	<head>
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-    <title>
-    {%- if page.url === "/" -%}
-      {{ site.author }} · {{ site.description }}
-    {%- else -%}
-      {{ title | safe }} · {{ site.author }}
-    {%- endif -%}
-    </title>
+		<title>
+			{%- if page.url === "/" -%}
+				{{ site.author }} · {{ site.description }}
+			{%- else -%}
+				{{ title | safe }} · {{ site.author }}
+			{%- endif -%}
+		</title>
 
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+		<link rel="canonical" href="{{ site.url }}{{ page.url }}"/>
 
-    <script type="module">
-      document.documentElement.classList.remove('no-js');
-      document.documentElement.classList.add('js');
-    </script>
+		<script type="module">
+			document
+				.documentElement
+				.classList
+				.remove('no-js');
+			document
+				.documentElement
+				.classList
+				.add('js');
+		</script>
 
-    {% include "scripts.njk" %}
-    {% include "styles.njk" %}
-    {% include "favicons.njk" %}
-    {% include "meta-tags.njk" %}
-    {% include "preload.njk" %}
-    {% include "robots.njk" %}
-    {% include "feeds.njk" %}
-    {% if charts %}
-      {% include "chartsjs.njk" %}
-    {% endif %}
-  </head>
-  <body {% if bodyClass %}class="{{ bodyClass }}"{% endif %}>
-    {% include "icon-sprites.njk" %}
-    {{ content | safe }}
-    <script src="/assets/scripts/main.js" async></script>
-  </body>
+		{% include "scripts.njk" %}
+		{% include "styles.njk" %}
+		{% include "favicons.njk" %}
+		{% include "meta-tags.njk" %}
+		{% include "preload.njk" %}
+		{% include "robots.njk" %}
+		{% include "feeds.njk" %}
+		{% if charts %}
+			{% include "chartsjs.njk" %}
+		{% endif %}
+	</head>
+	<body {% if bodyClass %}class="{{ bodyClass }}"{% endif %}>
+		{% include "icon-sprites.njk" %}
+		{{ content | safe }}
+		<script src="/assets/scripts/main.js" async></script>
+	</body>
 </html>

@@ -7,72 +7,71 @@
 
 code[class*='language-'],
 pre[class*='language-'] {
-  background: none;
-  color: #f8f8f2;
-  font-family: 'Fira Code', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono',
-    monospace;
-  hyphens: none;
-  tab-size: 4;
-  text-align: left;
-  white-space: pre;
-  word-break: normal;
-  word-spacing: normal;
-  word-wrap: normal;
+	background: none;
+	color: #f8f8f2;
+	font-family: 'Fira Code', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	hyphens: none;
+	tab-size: 4;
+	text-align: left;
+	white-space: pre;
+	word-break: normal;
+	word-spacing: normal;
+	word-wrap: normal;
 }
 
 /* Code blocks */
 pre[class*='language-'] {
-  border-radius: 0.3em;
-  margin-block-end: var(--space-10);
-  margin-block-start: 0;
-  overflow: auto;
-  padding: 1em;
+	border-radius: 0.3em;
+	margin-block-end: var(--space-10);
+	margin-block-start: 0;
+	overflow: auto;
+	padding: 1em;
 }
 
 :not(pre) > code[class*='language-'],
 pre[class*='language-'] {
-  background: #2e3440;
+	background: #2e3440;
 }
 
 /* Inline code */
 :not(pre) > code[class*='language-'] {
-  border-radius: 0.3em;
-  padding: 0.1em;
-  white-space: normal;
+	border-radius: 0.3em;
+	padding: 0.1em;
+	white-space: normal;
 }
 
 .token.comment,
 .token.prolog,
 .token.doctype,
 .token.cdata {
-  color: #636f88;
+	color: #636f88;
 }
 
 .token.punctuation {
-  color: #81a1c1;
+	color: #81a1c1;
 }
 
 .namespace {
-  opacity: 0.7;
+	opacity: 0.7;
 }
 
 .token.property,
 .token.tag,
 .token.constant,
 .token.symbol {
-  color: #81a1c1;
+	color: #81a1c1;
 }
 
 .token.number {
-  color: #b48ead;
+	color: #b48ead;
 }
 
 .token.deleted {
-  color: hsl(360, 51%, 60%);
+	color: hsl(360, 51%, 60%);
 }
 
 .token.boolean {
-  color: #81a1c1;
+	color: #81a1c1;
 }
 
 .token.selector,
@@ -81,7 +80,7 @@ pre[class*='language-'] {
 .token.char,
 .token.builtin,
 .token.inserted {
-  color: #a3be8c;
+	color: #a3be8c;
 }
 
 .token.operator,
@@ -90,71 +89,71 @@ pre[class*='language-'] {
 .language-css .token.string,
 .style .token.string,
 .token.variable {
-  color: #81a1c1;
+	color: #81a1c1;
 }
 
 .token.atrule,
 .token.attr-value,
 .token.function,
 .token.class-name {
-  color: #88c0d0;
+	color: #88c0d0;
 }
 
 .token.keyword {
-  color: #81a1c1;
+	color: #81a1c1;
 }
 
 .token.regex,
 .token.important {
-  color: #ebcb8b;
+	color: #ebcb8b;
 }
 
 .token.important,
 .token.bold {
-  font-weight: bold;
+	font-weight: bold;
 }
 
 .token.italic {
-  font-style: italic;
+	font-style: italic;
 }
 
 .token.entity {
-  cursor: help;
+	cursor: help;
 }
 
 /** Highlight of Lines */
 .highlight-line {
-  color: inherit;
-  display: inline-block;
-  text-decoration: none;
+	color: inherit;
+	display: inline-block;
+	text-decoration: none;
 }
 
 /* Allow highlighting empty lines */
 .highlight-line:empty:before {
-  content: ' ';
+	content: ' ';
 }
 
 .highlight-line:not(:last-child) {
-  min-width: 100%;
+	min-width: 100%;
 }
 
 .highlight-line .highlight-line:not(:last-child) {
-  min-width: 0;
+	min-width: 0;
 }
 
 .highlight-line-isdir {
-  background-color: #222;
-  color: #b0b0b0;
+	background-color: #222;
+	color: #b0b0b0;
 }
 
 .highlight-line-active {
-  background-color: hsl(220, 16%, 30%);
+	background-color: hsl(220, 16%, 30%);
 }
 
 .highlight-line-add {
-  background-color: hsla(126, 31%, 39%, 0.5);
+	background-color: hsla(126, 31%, 39%, 0.5);
 }
 
 .highlight-line-remove {
-  background-color: hsla(360, 51%, 37%, 0.5);
+	background-color: hsla(360, 51%, 37%, 0.5);
 }

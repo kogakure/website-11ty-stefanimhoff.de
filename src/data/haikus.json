@@ -1,117 +1,117 @@
 [
-  {
-    "id": "1",
-    "de": "Wolken, unbewegt,\nein Kind lacht laut auf im Hof –\nweit ist der Himmel.",
-    "en": "Clouds, unmoved,\na child laughs out loud in the yard –\nwide is the sky."
-  },
-  {
-    "id": "2",
-    "de": "Sturm in dunkler Nacht,\nRascheln hoch in Baumkronen –\nRauschende Stille.",
-    "en": "Storm in dark night,\nRustling high in the treetops –\nRushing silence."
-  },
-  {
-    "id": "3",
-    "de": "Prasselnder Regen –\neiligen Schrittes der Mann,\ndem Schirm folgt er nach.",
-    "en": "Crackling rain –\nthe man walks in a hurry,\nhe follows the umbrella."
-  },
-  {
-    "id": "4",
-    "de": "Die Winterwinde,\ndas Hausdach, es knackt und knarrt –\neisiger Regen.",
-    "en": "The winter winds,\nthe house roof, it cracks and creaks –\nfreezing rain."
-  },
-  {
-    "id": "5",
-    "de": "Flüsternde Stimmen –\nGespräche in dunkler Nacht,\nvom Sturm weggeweht.",
-    "en": "Whispers –\ntalks in the dark night,\nblown away by the storm."
-  },
-  {
-    "id": "6",
-    "de": "Die Luft ist schon frisch,\nCirruswölkchen am Himmel –\nder Sommer endet.",
-    "en": "The air is already fresh,\nCirrus clouds in the sky –\nthe summer ends."
-  },
-  {
-    "id": "7",
-    "de": "Flackernde Kerzen,\nschon endet das Lichterfest –\nso auch der Sommer.",
-    "en": "Flickering candles,\nthe festival of lights ends –\nSo does the summer."
-  },
-  {
-    "id": "8",
-    "de": "Ein Windstoß, heftig,\nreißt an der Zeitung so stark –\nin Fetzen dahin.",
-    "en": "A gust of wind, fierce,\nrips the newspaper so hard –\nin scraps."
-  },
-  {
-    "id": "9",
-    "de": "Schneebedeckter Berg –\nam Hang fährt ein Skifahrer,\ndie Lawine folgt.",
-    "en": "Snowy mountain –\na skier drives on a slope,\nthe avalanche follows."
-  },
-  {
-    "id": "10",
-    "de": "Es ist gänzlich still,\nblauer Himmel und Sonne –\nein Sonntag im Herbst.",
-    "en": "It is completely silenent,\nblue sky and sun –\na sunday in autumn."
-  },
-  {
-    "id": "11",
-    "de": "Wind in den Blättern,\nwie das Rauschen von Regen\nhoch in den Wipfeln.",
-    "en": "Wind in the leaves,\nlike the rustle of rain\nhigh in the tree tops."
-  },
-  {
-    "id": "12",
-    "de": "Nebel am Abend,\nkühle Luft, feucht wie Suppe –\nkein goldener Herbst.",
-    "en": "Fog in the evening,\ncool air, moist like soup –\nno golden autumn."
-  },
-  {
-    "id": "13",
-    "de": "Ach, der Herbst ist da –\nDa sind sie wieder: Laubbläser.\nIch vermisse den Rechen.",
-    "en": "Oh, autumn arrived –\nThey are back: Leaf blowers.\nI miss the rake."
-  },
-  {
-    "id": "14",
-    "de": "Kühle Luft zieht auf,\nBlätter taumeln im Wind –\nletzter Sonnenstrahl.",
-    "en": "Cool air draws in,\nleaves tumble in the wind –\nlast ray of sunshine."
-  },
-  {
-    "id": "15",
-    "de": "Die Luft riecht nach Moos,\nraschelnde Schritte im Wald –\nein Jahr geht zu Ende.",
-    "en": "The air smells of moss,\nrustling footsteps in the forest –\na year is coming to and end."
-  },
-  {
-    "id": "16",
-    "de": "Hinter der Hecke,\nfeuerrote Ahornblätter –\nverweil’ ein wenig.",
-    "en": "Behind the hedge,\nfiery red maple leaves –\nstay a little."
-  },
-  {
-    "id": "17",
-    "de": "Auf dem Berg ein Schrein,\nmoosbewachsene Stufen –\ndie Götter sind nah.",
-    "en": "A shrine on the mountain\nmoss-covered steps –\nthe gods are near."
-  },
-  {
-    "id": "18",
-    "de": "Im Schutz des Baumes –\nkalter Regen fällt nieder,\ndoch wir sind trocken.",
-    "en": "Under shelter of the tree –\ncold rain pouring down,\nbut we are dry."
-  },
-  {
-    "id": "19",
-    "de": "Oft sah ich ihn dort,\nden alten Mann auf der Bank –\njetzt ist sie verwaist.",
-    "en": "I often saw him there,\nthe old man on the bench –\nnow it is abandoned."
-  },
-  {
-    "id": "20",
-    "de": "Regen fällt leise,\ngrau verhangener Himmel —\ndrinnen ist es warm.",
-    "en": "Rain falls softly\ngray cloudy sky –\nit’s warm inside."
-  },
-  {
-    "id": "21",
-    "de": "Blätter tanzen im Wind,\nverborgen im dichten Nebel —\nmein Herz ist so schwer.",
-    "en": "Leaves dancing in the wind,\nhidden in thick fog –\nmy heart is so heavy."
-  },
-  {
-    "id": "22",
-    "de": "Kalt bläst der Herbstwind,\nich wandere verlassen im Wald –\nErinnerung an den Sommer.",
-    "en": "Autumn wind blows cold,\nI wander deserted in the forest –\nMemory of summer."
-  },
-  {
-    "id": "23",
-    "de": "Abzweigung am Weg,\nnicht genommener Weg im Nebel –\nIch schaue nicht zurück.",
-    "en": "Junction on the way,\nthe path not taken is in the fog –\nI don't look back."
-  }
+	{
+		"id": "1",
+		"de": "Wolken, unbewegt,\nein Kind lacht laut auf im Hof –\nweit ist der Himmel.",
+		"en": "Clouds, unmoved,\na child laughs out loud in the yard –\nwide is the sky."
+	},
+	{
+		"id": "2",
+		"de": "Sturm in dunkler Nacht,\nRascheln hoch in Baumkronen –\nRauschende Stille.",
+		"en": "Storm in dark night,\nRustling high in the treetops –\nRushing silence."
+	},
+	{
+		"id": "3",
+		"de": "Prasselnder Regen –\neiligen Schrittes der Mann,\ndem Schirm folgt er nach.",
+		"en": "Crackling rain –\nthe man walks in a hurry,\nhe follows the umbrella."
+	},
+	{
+		"id": "4",
+		"de": "Die Winterwinde,\ndas Hausdach, es knackt und knarrt –\neisiger Regen.",
+		"en": "The winter winds,\nthe house roof, it cracks and creaks –\nfreezing rain."
+	},
+	{
+		"id": "5",
+		"de": "Flüsternde Stimmen –\nGespräche in dunkler Nacht,\nvom Sturm weggeweht.",
+		"en": "Whispers –\ntalks in the dark night,\nblown away by the storm."
+	},
+	{
+		"id": "6",
+		"de": "Die Luft ist schon frisch,\nCirruswölkchen am Himmel –\nder Sommer endet.",
+		"en": "The air is already fresh,\nCirrus clouds in the sky –\nthe summer ends."
+	},
+	{
+		"id": "7",
+		"de": "Flackernde Kerzen,\nschon endet das Lichterfest –\nso auch der Sommer.",
+		"en": "Flickering candles,\nthe festival of lights ends –\nSo does the summer."
+	},
+	{
+		"id": "8",
+		"de": "Ein Windstoß, heftig,\nreißt an der Zeitung so stark –\nin Fetzen dahin.",
+		"en": "A gust of wind, fierce,\nrips the newspaper so hard –\nin scraps."
+	},
+	{
+		"id": "9",
+		"de": "Schneebedeckter Berg –\nam Hang fährt ein Skifahrer,\ndie Lawine folgt.",
+		"en": "Snowy mountain –\na skier drives on a slope,\nthe avalanche follows."
+	},
+	{
+		"id": "10",
+		"de": "Es ist gänzlich still,\nblauer Himmel und Sonne –\nein Sonntag im Herbst.",
+		"en": "It is completely silenent,\nblue sky and sun –\na sunday in autumn."
+	},
+	{
+		"id": "11",
+		"de": "Wind in den Blättern,\nwie das Rauschen von Regen\nhoch in den Wipfeln.",
+		"en": "Wind in the leaves,\nlike the rustle of rain\nhigh in the tree tops."
+	},
+	{
+		"id": "12",
+		"de": "Nebel am Abend,\nkühle Luft, feucht wie Suppe –\nkein goldener Herbst.",
+		"en": "Fog in the evening,\ncool air, moist like soup –\nno golden autumn."
+	},
+	{
+		"id": "13",
+		"de": "Ach, der Herbst ist da –\nDa sind sie wieder: Laubbläser.\nIch vermisse den Rechen.",
+		"en": "Oh, autumn arrived –\nThey are back: Leaf blowers.\nI miss the rake."
+	},
+	{
+		"id": "14",
+		"de": "Kühle Luft zieht auf,\nBlätter taumeln im Wind –\nletzter Sonnenstrahl.",
+		"en": "Cool air draws in,\nleaves tumble in the wind –\nlast ray of sunshine."
+	},
+	{
+		"id": "15",
+		"de": "Die Luft riecht nach Moos,\nraschelnde Schritte im Wald –\nein Jahr geht zu Ende.",
+		"en": "The air smells of moss,\nrustling footsteps in the forest –\na year is coming to and end."
+	},
+	{
+		"id": "16",
+		"de": "Hinter der Hecke,\nfeuerrote Ahornblätter –\nverweil’ ein wenig.",
+		"en": "Behind the hedge,\nfiery red maple leaves –\nstay a little."
+	},
+	{
+		"id": "17",
+		"de": "Auf dem Berg ein Schrein,\nmoosbewachsene Stufen –\ndie Götter sind nah.",
+		"en": "A shrine on the mountain\nmoss-covered steps –\nthe gods are near."
+	},
+	{
+		"id": "18",
+		"de": "Im Schutz des Baumes –\nkalter Regen fällt nieder,\ndoch wir sind trocken.",
+		"en": "Under shelter of the tree –\ncold rain pouring down,\nbut we are dry."
+	},
+	{
+		"id": "19",
+		"de": "Oft sah ich ihn dort,\nden alten Mann auf der Bank –\njetzt ist sie verwaist.",
+		"en": "I often saw him there,\nthe old man on the bench –\nnow it is abandoned."
+	},
+	{
+		"id": "20",
+		"de": "Regen fällt leise,\ngrau verhangener Himmel —\ndrinnen ist es warm.",
+		"en": "Rain falls softly\ngray cloudy sky –\nit’s warm inside."
+	},
+	{
+		"id": "21",
+		"de": "Blätter tanzen im Wind,\nverborgen im dichten Nebel —\nmein Herz ist so schwer.",
+		"en": "Leaves dancing in the wind,\nhidden in thick fog –\nmy heart is so heavy."
+	},
+	{
+		"id": "22",
+		"de": "Kalt bläst der Herbstwind,\nich wandere verlassen im Wald –\nErinnerung an den Sommer.",
+		"en": "Autumn wind blows cold,\nI wander deserted in the forest –\nMemory of summer."
+	},
+	{
+		"id": "23",
+		"de": "Abzweigung am Weg,\nnicht genommener Weg im Nebel –\nIch schaue nicht zurück.",
+		"en": "Junction on the way,\nthe path not taken is in the fog –\nI don't look back."
+	}
 ]

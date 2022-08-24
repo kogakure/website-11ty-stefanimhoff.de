@@ -31,12 +31,7 @@ var runSequence = require("run-sequence");
  * Run all tasks needed for a build in a defined order
  */
 gulp.task("build", function (callback) {
-  runSequence(
-    "delete",
-    ["jekyll", "sass", "scripts", "images", "copy:fonts"],
-    "base64",
-    callback
-  );
+	runSequence("delete", ["jekyll", "sass", "scripts", "images", "copy:fonts"], "base64", callback);
 });
 ```
 
@@ -80,7 +75,7 @@ var config = require("../../config").delete;
  * Delete folders and files
  */
 gulp.task("delete", function (callback) {
-  del(config.src, callback);
+	del(config.src, callback);
 });
 ```
 
@@ -114,27 +109,27 @@ var config = require("../../config").jekyll.development;
  * Build the Jekyll Site
  */
 gulp.task("jekyll", function (done) {
-  browsersync.notify("Compiling Jekyll");
+	browsersync.notify("Compiling Jekyll");
 
-  return cp
-    .spawn(
-      "bundle",
-      [
-        "exec",
-        "jekyll",
-        "build",
-        "-q",
-        "--source=" + config.src,
-        "--destination=" + config.dest,
-        "--config=" + config.config,
-      ],
-      { stdio: "inherit" }
-    )
-    .on("close", done);
+	return cp
+		.spawn(
+			"bundle",
+			[
+				"exec",
+				"jekyll",
+				"build",
+				"-q",
+				"--source=" + config.src,
+				"--destination=" + config.dest,
+				"--config=" + config.config,
+			],
+			{ stdio: "inherit" }
+		)
+		.on("close", done);
 });
 
 gulp.task("jekyll-rebuild", ["jekyll"], function () {
-  browsersync.reload();
+	browsersync.reload();
 });
 ```
 

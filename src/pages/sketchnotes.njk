@@ -2,16 +2,20 @@
 layout: fullsize
 css: sketchnotes.css
 title: Sketchnotes
-description: This is a collection of Sketchnotes I’ve drawn. 
+description: This is a collection of Sketchnotes I’ve drawn.
 permalink: /sketchnotes/
 ---
 
 <h1 class="sketchnotes-title">Sketchnotes</h1>
 
 <article class="sketchnotes-grid">
-{% for sketchnote in sketchnotes %}
-  <a class="sketchnotes-item image-shadow {{ sketchnote.class }}" href="/sketchnotes/{{ sketchnote.title | slugify }}" {{ site.animation }}>
-    <img class="sketchnotes-image" src="{{ sketchnote.image }}"/>
-  </a>
-{% endfor %}
+	{% for sketchnote in sketchnotes %}
+		<a
+			class="sketchnotes-item image-shadow {{ sketchnote.class }}"
+			href="/sketchnotes/{{ sketchnote.title | slugify }}"
+			{{ site.animation }}
+		>
+			<img class="sketchnotes-image" src="{{ sketchnote.image }}"/>
+		</a>
+	{% endfor %}
 </article>

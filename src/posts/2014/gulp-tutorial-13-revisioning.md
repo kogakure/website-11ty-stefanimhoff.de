@@ -39,7 +39,7 @@ var config = require("../../config").copyfonts.production;
  * Copy fonts to folder
  */
 gulp.task("copy:fonts:production", function () {
-  return gulp.src(config.src).pipe(gulp.dest(config.dest));
+	return gulp.src(config.src).pipe(gulp.dest(config.dest));
 });
 ```
 
@@ -95,13 +95,13 @@ var config = require("../../config").revision;
  * write a manifest file
  */
 gulp.task("revision", function () {
-  return gulp
-    .src(config.src.assets, { base: config.src.base })
-    .pipe(gulp.dest(config.dest.assets))
-    .pipe(rev())
-    .pipe(gulp.dest(config.dest.assets))
-    .pipe(rev.manifest({ path: config.dest.manifest.name }))
-    .pipe(gulp.dest(config.dest.manifest.path));
+	return gulp
+		.src(config.src.assets, { base: config.src.base })
+		.pipe(gulp.dest(config.dest.assets))
+		.pipe(rev())
+		.pipe(gulp.dest(config.dest.assets))
+		.pipe(rev.manifest({ path: config.dest.manifest.name }))
+		.pipe(gulp.dest(config.dest.manifest.path));
 });
 ```
 
@@ -142,7 +142,7 @@ var config = require("../../config").collect;
  * from a manifest file
  */
 gulp.task("rev:collect", function () {
-  return gulp.src(config.src).pipe(collect()).pipe(gulp.dest(config.dest));
+	return gulp.src(config.src).pipe(collect()).pipe(gulp.dest(config.dest));
 });
 ```
 

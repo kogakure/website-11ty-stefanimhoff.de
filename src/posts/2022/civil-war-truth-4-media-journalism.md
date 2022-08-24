@@ -1,5 +1,5 @@
 ---
-title: 'Civil War for Truth: Media and Journalism'
+title: "Civil War for Truth: Media and Journalism"
 date: 2022-06-27T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the fourth part of a seven-part series that

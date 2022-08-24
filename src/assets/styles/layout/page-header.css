@@ -1,17 +1,17 @@
 /** Page Header */
 .page-header {
-  display: grid;
-  grid-template-columns: var(--grid-fullsize);
-  grid-template-rows: clamp(3rem, var(--space-55), 9rem);
-  margin-block-end: clamp(1.5rem, var(--space-55), 4.5rem);
+	display: grid;
+	grid-template-columns: var(--grid-fullsize);
+	grid-template-rows: clamp(3rem, var(--space-55), 9rem);
+	margin-block-end: clamp(1.5rem, var(--space-55), 4.5rem);
 }
 
 .minimal-page-header {
-  display: grid;
-  grid-column: 1 / -1;
-  grid-row: 1;
-  grid-template-columns: repeat(18, 1fr);
-  grid-template-rows: clamp(50px, 5.55vw, 150px);
-  height: clamp(50px, 5.55vw, 150px);
-  z-index: 1;
+	display: grid;
+	grid-column: 1 / -1;
+	grid-row: 1;
+	grid-template-columns: repeat(18, 1fr);
+	grid-template-rows: clamp(50px, 5.55vw, 150px);
+	height: clamp(50px, 5.55vw, 150px);
+	z-index: 1;
 }

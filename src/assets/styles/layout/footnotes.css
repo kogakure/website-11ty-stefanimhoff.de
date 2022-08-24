@@ -1,49 +1,49 @@
 /** Footnotes */
 .footnote-ref a {
-  color: var(--color-accent);
-  font-weight: var(--font-weight-light);
-  padding: 0.1em;
+	color: var(--color-accent);
+	font-weight: var(--font-weight-light);
+	padding: 0.1em;
 }
 
 .footnote-bracket {
-  display: none;
+	display: none;
 }
 
 .footnote-backref {
-  color: var(--color-accent);
-  font-weight: var(--font-weight-light);
-  text-decoration: none;
+	color: var(--color-accent);
+	font-weight: var(--font-weight-light);
+	text-decoration: none;
 }
 
 .footnotes {
-  padding-left: 2rem;
-  position: relative;
+	padding-left: 2rem;
+	position: relative;
 }
 
 .footnotes p a {
-  word-break: break-word;
+	word-break: break-word;
 }
 
 .footnotes :target {
-  background-color: var(--color-fg-feather);
-  padding: var(--space-5);
+	background-color: var(--color-fg-feather);
+	padding: var(--space-5);
 }
 
 .footnotes-list {
-  counter-reset: item;
-  list-style: none;
-  margin: 0;
-  padding: 0;
+	counter-reset: item;
+	list-style: none;
+	margin: 0;
+	padding: 0;
 }
 
 .footnote-item::before {
-  content: counter(item);
-  counter-increment: item;
-  font-size: smaller;
-  font-weight: var(--font-weight-thin);
-  left: 0;
-  opacity: 0.6;
-  padding-top: 0.15rem;
-  position: absolute;
-  vertical-align: super;
+	content: counter(item);
+	counter-increment: item;
+	font-size: smaller;
+	font-weight: var(--font-weight-thin);
+	left: 0;
+	opacity: 0.6;
+	padding-top: 0.15rem;
+	position: absolute;
+	vertical-align: super;
 }

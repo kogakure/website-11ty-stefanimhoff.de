@@ -47,11 +47,7 @@ var config = require("../../config").optimize.css;
  * Copy and minimize CSS files
  */
 gulp.task("optimize:css", function () {
-  return gulp
-    .src(config.src)
-    .pipe(csso(config.options))
-    .pipe(gulp.dest(config.dest))
-    .pipe(size());
+	return gulp.src(config.src).pipe(csso(config.options)).pipe(gulp.dest(config.dest)).pipe(size());
 });
 ```
 
@@ -92,11 +88,11 @@ var config = require("../../config").optimize.js;
  * Copy and minimize JS files
  */
 gulp.task("optimize:js", function () {
-  return gulp
-    .src(config.src)
-    .pipe(uglify(config.options))
-    .pipe(gulp.dest(config.dest))
-    .pipe(size());
+	return gulp
+		.src(config.src)
+		.pipe(uglify(config.options))
+		.pipe(gulp.dest(config.dest))
+		.pipe(size());
 });
 ```
 
@@ -154,11 +150,11 @@ var config = require("../../config").optimize.images;
  * Copy and minimize image files
  */
 gulp.task("optimize:images", function () {
-  return gulp
-    .src(config.src)
-    .pipe(imagemin(config.options))
-    .pipe(gulp.dest(config.dest))
-    .pipe(size());
+	return gulp
+		.src(config.src)
+		.pipe(imagemin(config.options))
+		.pipe(gulp.dest(config.dest))
+		.pipe(size());
 });
 ```
 
@@ -206,10 +202,7 @@ var config = require("../../config").optimize.html;
  * Minimize HTML
  */
 gulp.task("optimize:html", function () {
-  return gulp
-    .src(config.src)
-    .pipe(htmlmin(config.options))
-    .pipe(gulp.dest(config.dest));
+	return gulp.src(config.src).pipe(htmlmin(config.options)).pipe(gulp.dest(config.dest));
 });
 ```
 

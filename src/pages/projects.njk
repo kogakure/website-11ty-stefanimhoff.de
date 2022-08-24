@@ -9,43 +9,39 @@ permalink: /projects/
 <h1 class="projects-title">{{ title }}</h1>
 
 <article class="projects-intro" {{ site.animationDelay }}>
-  <p>
-    I’m a <em>Frontend Developer</em> by profession. But I worked in previous
-    jobs in Design, Editing, and 3D Animation. I even created Flash
-    Animations and Multimedia CD-ROMs when this was a thing.
-  </p>
-  <p>
-    I like the concept of the
-    <a
-      href="https://simple.wikipedia.org/wiki/Renaissance_man"
-      {{ site.external }}>Renaissance Man</a>
-    and try out as many different professions as possible.
-  </p>
-  <p>
-    These are projects I created over the last few years.
-  </p>
+	<p>
+		I’m a <em>Frontend Developer</em> by profession. But I worked in previous jobs in Design,
+		Editing, and 3D Animation. I even created Flash Animations and Multimedia CD-ROMs when this
+		was a thing.
+	</p>
+	<p>
+		I like the concept of the
+		<a href="https://simple.wikipedia.org/wiki/Renaissance_man" {{ site.external }}>Renaissance Man</a>
+		and try out as many different professions as possible.
+	</p>
+	<p>These are projects I created over the last few years.</p>
 </article>
 
 {% for project in projects %}
-  <article class="project-container" {{ site.animationDelay }}>
-    <figure class="project-figure {{ project.class }}">
-    {% if project.image %}
-      <div class="image-shadow project-image-container">
-        <img src="{{ project.image | url }}" alt="{{ project.title }}" />
-      </div>
-    {% endif %}
-    <figcaption>
-      <small class="project-categories">{{ project.categories | join(" / ") }}</small>
-      <h2>{{ project.title }}</h2>
-      {{ project.text | safe }}
-      {% if project.link %}
-        {% if project.external %}
-        <p>{% more project.linkText, project.link, true %}</p>
-        {% else %}
-        <p>{% more project.linkText, project.link %}</p>
-        {% endif %}
-      {% endif %}
-    </figcaption>
-    </figure>
-  </article>
+	<article class="project-container" {{ site.animationDelay }}>
+		<figure class="project-figure {{ project.class }}">
+			{% if project.image %}
+				<div class="image-shadow project-image-container">
+					<img src="{{ project.image | url }}" alt="{{ project.title }}"/>
+				</div>
+			{% endif %}
+			<figcaption>
+				<small class="project-categories">{{ project.categories | join(" / ") }}</small>
+				<h2>{{ project.title }}</h2>
+				{{ project.text | safe }}
+				{% if project.link %}
+					{% if project.external %}
+						<p>{%- more project.linkText,project.link, true -%}</p>
+					{% else %}
+						<p>{%- more project.linkText, project.link -%}</p>
+					{% endif %}
+				{% endif %}
+			</figcaption>
+		</figure>
+	</article>
 {% endfor %}

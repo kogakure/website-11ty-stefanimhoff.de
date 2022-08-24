@@ -3,19 +3,19 @@
 
 /** Email */
 .lock-box {
-  align-items: center;
-  background: transparent;
-  border: 0;
-  cursor: pointer;
-  display: inline-flex;
-  height: 20px;
-  justify-content: center;
-  position: relative;
-  top: 0.2em;
-  width: 25px;
+	align-items: center;
+	background: transparent;
+	border: 0;
+	cursor: pointer;
+	display: inline-flex;
+	height: 20px;
+	justify-content: center;
+	position: relative;
+	top: 0.2em;
+	width: 25px;
 }
 
 .lock-icon {
-  fill: var(--color-fg);
-  font-size: 1.2em;
+	fill: var(--color-fg);
+	font-size: 1.2em;
 }

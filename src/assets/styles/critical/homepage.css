@@ -3,181 +3,181 @@
 
 /** Homepage */
 .homepage-title {
-  grid-column: 2 / -2;
-  grid-row: 1;
+	grid-column: 2 / -2;
+	grid-row: 1;
 
-  & h1 {
-    letter-spacing: -0.04em;
-  }
+	& h1 {
+		letter-spacing: -0.04em;
+	}
 }
 
 @media (--desktop) {
-  .homepage-title {
-    grid-column: 3 / -3;
-  }
+	.homepage-title {
+		grid-column: 3 / -3;
+	}
 }
 
 .homepage-tagline {
-  font-weight: 300;
-  margin-block-start: -0.85em;
-  margin-inline-start: 0.2em;
+	font-weight: 300;
+	margin-block-start: -0.85em;
+	margin-inline-start: 0.2em;
 }
 
 /** Photo */
 .homepage-photo-container {
-  grid-column: 1 / -5;
-  grid-row: 2;
+	grid-column: 1 / -5;
+	grid-row: 2;
 
-  & img {
-    border-bottom-left-radius: 0;
-    border-top-left-radius: 0;
-  }
+	& img {
+		border-bottom-left-radius: 0;
+		border-top-left-radius: 0;
+	}
 }
 
 @media (--tablet) {
-  .homepage-photo-container {
-    grid-column: 1 / -9;
-  }
+	.homepage-photo-container {
+		grid-column: 1 / -9;
+	}
 }
 
 .homepage-photo {
-  border-inline-start-width: 0;
+	border-inline-start-width: 0;
 }
 
 /** About Me */
 .homepage-about-me {
-  align-self: center;
-  grid-column: 2 / -2;
-  grid-row: 3;
+	align-self: center;
+	grid-column: 2 / -2;
+	grid-row: 3;
 }
 
 @media (--tablet) {
-  .homepage-about-me {
-    grid-column: 12 / -2;
-    grid-row: 2;
-  }
+	.homepage-about-me {
+		grid-column: 12 / -2;
+		grid-row: 2;
+	}
 }
 
 @media (--desktop) {
-  .homepage-about-me {
-    grid-column: 13 / -3;
-  }
+	.homepage-about-me {
+		grid-column: 13 / -3;
+	}
 }
 
 /** What I Do */
 .homepage-what-i-do {
-  grid-column: 2 / -2;
-  grid-row: 4;
+	grid-column: 2 / -2;
+	grid-row: 4;
 }
 
 @media (--tablet) {
-  .homepage-what-i-do {
-    grid-column: 3 / -3;
-    grid-row: 3;
-  }
+	.homepage-what-i-do {
+		grid-column: 3 / -3;
+		grid-row: 3;
+	}
 }
 
 @media (--desktop) {
-  .homepage-what-i-do {
-    grid-column: 5 / -5;
-  }
+	.homepage-what-i-do {
+		grid-column: 5 / -5;
+	}
 }
 
 .homepage-what-i-do-text {
-  column-count: 1;
-  column-gap: 2.775vw;
+	column-count: 1;
+	column-gap: 2.775vw;
 }
 
 @media (--tablet) {
-  .homepage-what-i-do-text {
-    column-count: 2;
-  }
+	.homepage-what-i-do-text {
+		column-count: 2;
+	}
 }
 
 /** Journal */
 .homepage-journal {
-  grid-column: 2 / -2;
+	grid-column: 2 / -2;
 }
 
 @media (--tablet) {
-  .homepage-journal {
-    grid-column: 3 / -3;
-  }
+	.homepage-journal {
+		grid-column: 3 / -3;
+	}
 }
 
 @media (--desktop) {
-  .homepage-journal {
-    grid-column: 5 / -5;
-  }
+	.homepage-journal {
+		grid-column: 5 / -5;
+	}
 }
 
 .homepage-journal-introduction {
-  display: grid;
-  grid-template-columns: var(--grid-narrow);
+	display: grid;
+	grid-template-columns: var(--grid-narrow);
 }
 
 .homepage-journal-text {
-  grid-column: 1 / -1;
-  margin-block-end: var(--space-10);
+	grid-column: 1 / -1;
+	margin-block-end: var(--space-10);
 }
 
 @media (--tablet) {
-  .homepage-journal-text {
-    grid-column: 1 / 5;
-  }
+	.homepage-journal-text {
+		grid-column: 1 / 5;
+	}
 }
 
 .homepage-journal-subscribe {
-  grid-column: 1 / -1;
-  margin-block-end: var(--space-10);
+	grid-column: 1 / -1;
+	margin-block-end: var(--space-10);
 }
 
 @media (--tablet) {
-  .homepage-journal-subscribe {
-    grid-column: 6 / -1;
-  }
+	.homepage-journal-subscribe {
+		grid-column: 6 / -1;
+	}
 }
 
 .homepage-journal-latest {
-  display: grid;
-  grid-column: 2 / -2;
-  grid-template-columns: var(--grid-wide);
-  margin-block-start: 0;
+	display: grid;
+	grid-column: 2 / -2;
+	grid-template-columns: var(--grid-wide);
+	margin-block-start: 0;
 }
 
 @media (--tablet) {
-  .homepage-journal-latest {
-    grid-column: 3 / -3;
-  }
+	.homepage-journal-latest {
+		grid-column: 3 / -3;
+	}
 }
 
 .homepage-journal-featured {
-  grid-column: 1 / -1;
+	grid-column: 1 / -1;
 }
 
 @media (--tablet) {
-  .homepage-journal-featured {
-    grid-column: 1 / 6;
-  }
+	.homepage-journal-featured {
+		grid-column: 1 / 6;
+	}
 }
 
 .homepage-journal-latest-posts {
-  grid-column: 1/ -1;
+	grid-column: 1/ -1;
 }
 
 @media (--tablet) {
-  .homepage-journal-latest-posts {
-    grid-column: 7/ -1;
-  }
+	.homepage-journal-latest-posts {
+		grid-column: 7/ -1;
+	}
 }
 
 .homepage-journal-latest-posts-grid {
-  column-count: 1;
-  column-gap: 2.775vw;
+	column-count: 1;
+	column-gap: 2.775vw;
 }
 
 @media (--desktop) {
-  .homepage-journal-latest-posts-grid {
-    column-count: 2;
-  }
+	.homepage-journal-latest-posts-grid {
+		column-count: 2;
+	}
 }
