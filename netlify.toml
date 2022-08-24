@@ -3,7 +3,7 @@
 	publish = "dist"
 
 [build.environment]
-	NODE_VERSION = "12.16"
+	NODE_VERSION = "14.7"
 
 [dev]
 	command = "npm run dev"
