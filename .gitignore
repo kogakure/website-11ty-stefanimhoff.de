@@ -8,3 +8,7 @@ src/includes/critical
 
 # Local Netlify folder
 .netlify
+
+# Vale
+.github/styles/*
+!.github/styles/Vocab/Base
