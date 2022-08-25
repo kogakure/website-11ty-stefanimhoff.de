@@ -1,32 +1,32 @@
 ---
-title: Gitweb Theme
+title: GitWeb Theme
 author: Stefan Imhoff
 date: 2009-02-19T20:00:00+02:00
-description: My popular theme for GitWeb to download for free. Now GitWeb looks a bit more similar to GitHub and is not so ugly anymore.
+description: My popular theme for GitWeb to download for free. Now GitWeb looks more similar to GitHub and is not ugly anymore.
 tags:
   - download
 ---
 
-## GitHub Style for Gitweb
+## GitHub Style for GitWeb
 
-The standard theme of Gitweb is really not very appealing and apparently designed only for functionality.
+The standard theme of GitWeb is not appealing and was designed for functionality.
 
-I could not stand it anymore. Therefore, I have created an alternative, which is based on the design of GitHub.
+I could not stand it anymore. I have created an alternative, which I based on the design of GitHub.
 
 The exact installation instructions are included in the package on GitHub.
 
 ## Screenshots
 
-![Project View](/assets/images/posts/gitweb-theme-projects.png "Project View")
+![Project View](/assets/images/posts/gitweb-theme-projects.png)
 
-![Summary](/assets/images/posts/gitweb-theme-summary.png "Summary")
+![Summary](/assets/images/posts/gitweb-theme-summary.png)
 
-![Commit](/assets/images/posts/gitweb-theme-commit.png "Commit")
+![Commit](/assets/images/posts/gitweb-theme-commit.png)
 
-![Commit DIFF](/assets/images/posts/gitweb-theme-commitdiff.png "Commit DIFF")
+![Commit DIFF](/assets/images/posts/gitweb-theme-commitdiff.png)
 
-![Log](/assets/images/posts/gitweb-theme-log.png "Log")
+![Log](/assets/images/posts/gitweb-theme-log.png)
 
-![Tree View](/assets/images/posts/gitweb-theme-tree.png "Tree View")
+![Tree View](/assets/images/posts/gitweb-theme-tree.png)
 
-{% more "Gitweb Theme on GitHub", "https://github.com/kogakure/gitweb-theme/", true %}
+{% more "GitWeb Theme on GitHub", "https://github.com/kogakure/gitweb-theme/", true %}

@@ -21,9 +21,9 @@ excludeFromSitemap: true
 		<h3 class="cv-item-title">{{ cv.personal.name }}</h3>
 		<p>{{ cv.personal.tagline }}</p>
 		<a href="https://www.stefanimhoff.de">Website</a> /
-    {% email "Email" %} /
-    {% download "CV", "/downloads/cv-stefan-imhoff.zip" %} /
-    {% download "VCard", "/downloads/business-card-stefan-imhoff.zip" %}
+		{% email "Email" %} /
+		{% download "CV", "/downloads/cv-stefan-imhoff.zip" %} /
+		{% download "VCard", "/downloads/business-card-stefan-imhoff.zip" %}
 	</article>
 
 	<hr class="cv-divider"/>
@@ -88,39 +88,38 @@ excludeFromSitemap: true
 					</ul>
 				</div>
 				{% endfor%}
-			</article>
+		</article>
 
-			<article>
-				<h2>{{ cv.languages.headline }}</h2>
+		<article>
+			<h2>{{ cv.languages.headline }}</h2>
 
-				<ul>
-					{% for item in cv.languages.items %}
-						<li>
-							<strong>{{ item.language }}</strong> ({{ item.level }})</li>
-					{% endfor %}
-				</ul>
-			</article>
-
-			<article>
-				<h2>{{ cv.awards.headline }}</h2>
-
-				<ul>
-					{% for item in cv.awards.items %}
-						<li>{{ item }}</li>
-					{% endfor %}
-				</ul>
-			</article>
-		</aside>
-
-		<hr class="cv-divider"/>
-
-		<article class="cv-interests">
-			<h2>{{ cv.interests.headline }}</h2>
-
-			<ul class="cv-interests-list">
-				{% for item in cv.interests.items %}
-					<li>{{ item | safe }}</li>
+			<ul>
+				{% for item in cv.languages.items %}
+					<li>
+						<strong>{{ item.language }}</strong> ({{ item.level }})</li>
 				{% endfor %}
 			</ul>
 		</article>
-	</section>
+
+		<article>
+			<h2>{{ cv.awards.headline }}</h2>
+
+			<ul>
+				{% for item in cv.awards.items %}
+					<li>{{ item }}</li>
+				{% endfor %}
+			</ul>
+		</article>
+	</aside>
+
+	<hr class="cv-divider"/>
+
+	<article class="cv-interests">
+		<h2>{{ cv.interests.headline }}</h2>
+		<ul class="cv-interests-list">
+			{% for item in cv.interests.items %}
+				<li>{{ item | safe }}</li>
+			{% endfor %}
+		</ul>
+	</article>
+</section>

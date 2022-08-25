@@ -17,18 +17,18 @@ Walter-Heitmann-Str. 2<br />
 
 ### Acknowledgments
 
-- This website is built with [Eleventy], a simpler static site generator.
-- The design was created with [Affinity Designer] and uses the typeface [Secuela] by [deFharo].
-- The Bonsai image on my homepage was taken by [Norio Nakayama].
-- The minimalistic icons are created by [Remix Icon] which is [Jimmy Cheung] and [Wendy Gao].
+- I built the website with [Eleventy], a simpler static site generator.
+- I created the design with [Affinity Designer] and it uses the typeface [Secuela] by [deFharo].
+- The Bonsai image on my homepage took [Norio Nakayama].
+- The minimalistic icons are by [Remix Icon] which is [Jimmy Cheung] and [Wendy Gao].
 
 ### License
 
-All content is copyrighted by _Stefan Imhoff_ unless otherwise stated. Feel free to learn from the [Source Code] and reuse code for your projects.
+All content has copyright by _Stefan Imhoff_ unless otherwise stated. Feel free to learn from the [Source Code] and reuse code for your projects.
 
-The essays in my [Journal](/journal/) of this website are licensed under a [Creative Commons license].
+The essays in my [Journal](/journal/) of this website have a [Creative Commons license].
 
-The use of my design—the unique combination of layout, photos, or illustrations—my private photos, personal data, and logo are only allowed with written permission.
+The use of my design—the unique combination of layout, photos, or illustrations—my private photos, personal data, and logo need a written permission for any usage.
 
 In _easier_ words: **This is not a free theme**. Learn from it. Remix. Reuse. Build your own stuff. 🤘
 
@@ -44,7 +44,7 @@ If you find a link on my website that links to a website that violates applicabl
 
 ### Data Protection
 
-I take the protection of your personal data very seriously and strictly adhere to the rules of data protection laws. **I don’t collect _any_ data**.
+I take the protection of your personal data by **not collecting any data** and strictly adhere to the rules of data protection laws.
 
 [eleventy]: https://www.11ty.dev/
 [affinity designer]: https://affinity.serif.com/designer/

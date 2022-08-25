@@ -3,7 +3,7 @@
 
 # stefanimhoff.de
 
-This the source of my [personal website][si] build with [Eleventy], [PostCSS], and [Gulp].
+This is the source of my [personal website][si] build with [Eleventy], [PostCSS], and [Gulp].
 
 ## Installation
 

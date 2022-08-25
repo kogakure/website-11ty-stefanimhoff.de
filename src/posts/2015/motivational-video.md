@@ -2,7 +2,7 @@
 title: Motivational Video
 author: Stefan Imhoff
 date: 2015-08-14T18:15:00+00:00
-description: Last week I found a really inspirational film on YouTube, focusing on Motivation. But because it was poorly quoted, I tried to find the quotes and fix the issue.
+description: Last week I found an inspirational film on YouTube, focusing on Motivation. But because it was poorly quoted, I tried to find the quotes and resolve the issue.
 tags:
   - film
 ---
@@ -15,13 +15,13 @@ Last week I found an inspirational film on YouTube, focusing on motivation. It�
 
 The film _[Why Do We Fall? – Motivational Video](https://youtu.be/mgmVOuLgFB0)_ by _Mateusz M_ is quite successful and was watched until now over **30 million** times.
 
-The one thing though, which I didn’t like was how the sources where quoted. Just a plain comma-separated list of people and music out of context, missing where the quote was from or who said it foremost. This post has the aim to fix this.
+The one thing, though, that I didn’t like was how the sources were quoted. A plain comma-separated list of people and music out of context, missing where the quote was from or who said it foremost. This post aims to fix this.
 
-Sometimes it was hard to find out in which interview exactly a quote was said. If you have more information, please contact me and I’ll update the sources.
+Every so often, it was hard to find out in which interview a quote was said. If you have further information, please contact me, and I’ll update the sources.
 
 ## Music
 
-Music is easy, as it was quoted quite good below the film on YouTube:
+Music is easy, as it was quoted good below the film on YouTube:
 
 1. (00:00) Corynorhinus – Hans Zimmer, James Newton Howard (Batman Begins)
 2. (01:07) Time – Hans Zimmer (Inception)
@@ -31,13 +31,13 @@ Music is easy, as it was quoted quite good below the film on YouTube:
 
 ## Quotes
 
-I wrote down the quotes from different movies, interviews, or speeches with as much context as possible. For interviews, it was hard to find out, where exactly it was quoted because most YouTube videos are missing the information.
+I wrote quotes from different movies, interviews, or speeches with as much context as possible. For interviews, it was hard to find out, where it was quoted because YouTube videos are missing the information.
 
-Additionally I <mark>highlight</mark> the parts used in the film.
+Additionally, I <mark>highlight</mark> the parts used in the film.
 
 ---
 
-> I’d hold you up to say to your mother, <q>this kid’s gonna be the best kid in the world. This kid’s gonna be somebody better than anybody I ever knew.</q> And you grew up good and wonderful. It was great just watching you, every day was like a privilege. Then the time comes for you to be your own man and take on the world, and you did. But somewhere along the line, you changed. You stopped being you. You let people stick a finger in your face and tell you you’re no good. And when things got hard, you started looking for something to blame, like a big shadow. <mark> Let me tell you something you already know. The world ain’t all sunshine and rainbows. It’s a very mean and nasty place and I don’t care how tough you are it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain’t about how hard you hit. It’s about how hard you can get hit and keep moving forward. How much you can take and keep moving forward. That’s how winning is done! </mark> Now if you know what you’re worth then go out and get what you’re worth. But ya gotta be willing to take the hits, and not pointing fingers saying you ain’t where you wanna be because of him, or her, or anybody! Cowards do that and that ain’t you! You’re better than that! I’m always gonna love you no matter what. No matter what happens. You’re my son and you’re my blood. You’re the best thing in my life. But until you start believing in yourself, ya ain’t gonna have a life. Don’t forget to visit your mother.
+> I’d hold you up to say to your mother, <q>this kid’s gonna be the best kid in the world. This kid’s gonna be somebody better than anybody I ever knew.</q> And you grew up good and wonderful. It was great just watching you, every day was like a privilege. Then the time comes for you to be your own man and take on the world, and you did. But somewhere along the line, you changed. You stopped being you. You let people stick a finger in your face and tell you you’re no good. And when things got hard, you started looking for something to blame, like a big shadow. <mark>Let me tell you something you already know. The world ain’t all sunshine and rainbows. It’s a very mean and nasty place and I don’t care how tough you are it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain’t about how hard you hit. It’s about how hard you can get hit and keep moving forward. How much you can take and keep moving forward? That’s how winning is done!</mark> Now if you know what you’re worth then go out and get what you’re worth. But ya gotta be willing to take the hits, and not pointing fingers saying you ain’t where you wanna be because of him, or her, or anybody! Cowards do that and that ain’t you! You’re better than that! I’m always gonna love you no matter what. No matter what happens. You’re my son and you’re my blood. You’re the best thing in my life. But until you start believing in yourself, ya ain’t gonna have a life. Don’t forget to visit your mother.
 >
 > **Rocky Balboa (Sylvester Stallone)**, _Rocky Balboa (2006)_
 
@@ -49,7 +49,7 @@ Additionally I <mark>highlight</mark> the parts used in the film.
 
 ---
 
-> I don’t know what to say, really. Three minutes to the biggest battle of our professional lives. All comes down to today, and either, we heal as a team, or we’re gonna crumble. Inch by inch, play by play. Until we’re finished. We’re in hell right now, gentlemen. Believe me. And, we can stay here, get the shit kicked out of us, or we can fight our way back into the light. We can climb outta hell… one inch at a time. Now I can’t do it for ya, I’m too old. I look around, I see these young faces and I think, I mean, I’ve made every wrong choice a middle-aged man can make. I, uh, I’ve pissed away all my money, believe it or not. I chased off anyone who’s ever loved me. And lately, I can’t even stand the face I see in the mirror. You know, when you get old, in life, things get taken from you. I mean, that’s… that’s… that’s a part of life. But, you only learn that when you start losin’ stuff. You find out life’s this game of inches, so is football. Because in either game - life or football - <mark>the margin for error is so small. I mean, one half a step too late or too early and you don’t quite make it. One-half second too slow, too fast and you don’t quite catch it. The inches we need are everywhere around us. They’re in every break of the game, every minute, every second. </mark> On this team, we fight for that inch. On this team, we tear ourselves and everyone else around us to pieces for that inch. We claw with our fingernails for that inch. Because we know when add up all those inches, that’s gonna make the fucking difference between winning and losing! Between living and dying! I’ll tell you this, in any fight, it’s the guy who's willing to die whose gonna win that inch. And I know, if I’m gonna have any life anymore it’s because I’m still willing to fight and die for that inch, because that’s what living is, the six inches in front of your face. Now I can’t make you do it. You’ve got to look at the guy next to you, look into his eyes. Now I think ya going to see a guy who will go that inch with you. Your gonna see a guy who will sacrifice himself for this team because he knows when it comes down to it your gonna do the same for him. That’s a team, gentlemen, and either, we heal, now, as a team, or we will die as individuals. That’s football guys, that’s all it is. Now, what are you gonna do?
+> I don’t know what to say, really. Three minutes to the biggest battle of our professional lives. All comes down to today, and either, we heal as a team, or we’re gonna crumble. Inch by inch, play by play. Until we’re finished. We’re in hell right now, gentlemen. Believe me. And, we can stay here, get the shit kicked out of us, or we can fight our way back into the light. We can climb outta hell… one inch at a time. Now I can’t do it for ya, I’m too old. I look around, I see these young faces and I think, I mean, I’ve made every wrong choice a middle-aged man can make. I, uh, I’ve pissed away all my money, believe it or not. I chased off anyone who’s ever loved me. And lately, I can’t even stand the face I see in the mirror. You know, when you get old, in life, things get taken from you. I mean, that’s… that’s… that’s a part of life. But, you only learn that when you start losin’ stuff. You find out life’s this game of inches, so is football. Because in either game – life or football – <mark>the margin for error is so small. I mean, one half a step too late or too early and you don’t quite make it. One-half second too slow, too fast and you don’t quite catch it. The inches we need are everywhere around us. They’re in every break of the game, every minute, every second. </mark> On this team, we fight for that inch. On this team, we tear ourselves and everyone else around us to pieces for that inch. We claw with our fingernails for that inch. Because we know when add up all those inches, that’s gonna make the fucking difference between winning and losing! Between living and dying! I’ll tell you this, in any fight, it’s the guy who's willing to die whose gonna win that inch. And I know, if I’m gonna have any life anymore it’s because I’m still willing to fight and die for that inch, because that’s what living is, the six inches in front of your face. Now I can’t make you do it. You’ve got to look at the guy next to you, look into his eyes. Now I think ya going to see a guy who will go that inch with you. Your gonna see a guy who will sacrifice himself for this team because he knows when it comes down to it your gonna do the same for him. That’s a team, gentlemen, and either, we heal, now, as a team, or we will die as individuals. That’s football guys, that’s all it is. Now, what are you gonna do?
 >
 > **Tony D’Amato (Al Pacino)**, _Any Given Sunday (1999)_
 
@@ -81,7 +81,7 @@ Additionally I <mark>highlight</mark> the parts used in the film.
 >
 > That’s why I wake up every morning at two o clock, two-thirty, coz I got my momma counting on me, I got my sister counting on me. I got my son and my daughter counting on me. I got a world that gets up every morning and watches me.
 >
-> Stop being this high school drop out. Stop giving up, stop sleeping on the street, stop walking up and down Finkle avenue like you ain’t got none and get your GED. Stop being afraid to take a test. Stop being afraid to go to college coz your daddy didn’t go and your mommy didn’t go.
+> Stop being this high school dropout. Stop giving up, stop sleeping on the street, stop walking up and down Finkle avenue like you ain’t got none, and get your GED. Stop being afraid to take a test. Stop being afraid to go to college coz your daddy didn’t go and your mommy didn’t go.
 >
 > I don’t do well in math, your right. you ain’t never studied. I’m not good at writing, coz you have never written before! You can get to a writing class and you got tutor after tutor, resource after resource. The problem is, you ain’t never felt no pain before! You’re soft! It’s a soft generation. you quit on everything.
 >
@@ -162,7 +162,7 @@ Additionally I <mark>highlight</mark> the parts used in the film.
 > daughter counting on me. I got a world that gets up every morning and
 > watches me.
 >
-> Stop being this high school drop out. Stop giving up, stop sleeping on the street, stop walking up and down Finkle avenue like you ain’t got none and get your GED. Stop being afraid to take a test. Stop being afraid to go to college coz your daddy didn’t go and your mommy didn’t go.
+> Stop being this high school dropout. Stop giving up, stop sleeping on the street, stop walking up and down Finkle avenue like you ain’t got none, and get your GED. Stop being afraid to take a test. Stop being afraid to go to college coz your daddy didn’t go and your mommy didn’t go.
 >
 > <mark>I don’t do well in math, your right. you ain’t never studied. I’m not good at writing, coz you have never written before!</mark> You can get to a writing class and you got tutor after tutor, resource after resource. The problem is, you ain’t never felt no pain before! You’re soft! It’s a soft generation. you quit on everything.
 >

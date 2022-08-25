@@ -2,7 +2,7 @@
 title: "The Decentralized Web: Develop and Publish a Website"
 date: 2021-11-08T09:00:00+01:00
 author: Stefan Imhoff
-description: This is the third part of a three-part-series on the Decentralized Web. In this part we’ll code and release our first decentralized website.
+description: This is the third part of a three-part series on the Decentralized Web. In this part, we’ll code and release our first decentralized website.
 tags:
   - decentralization
   - code
@@ -14,21 +14,21 @@ You can use IPFS Desktop and the IPFS Daemon with the same data, but not run the
 
 ## Installation
 
-To install [IPFS Desktop](https://github.com/ipfs/ipfs-desktop) you download the binary for your operating system (Mac, Windows, or Linux/FreeBSD).
+To install [IPFS Desktop](https://github.com/ipfs/ipfs-desktop), you download the binary for your operating system (Mac, Windows, or Linux/FreeBSD).
 
 If you want to use Brave, you can navigate to the browser settings and activate in the **IPFS** section the **IPFS Companion**. You can click on the **My Node** button to open the Web UI. You can change the IPFS Node type in the settings of the companion to use the external node from the IPFS Desktop installation. I haven’t figured out yet if it’s possible to use the command-line tool to access the native Brave IPFS node.
 
-To follow along with the tutorial we use the command-line tool. You can install IPFS via [Homebrew](https://brew.sh/) on a Mac:
+To follow along with the tutorial, we use the command-line tool. You can install IPFS via [Homebrew](https://brew.sh/) on a Mac:
 
 ```bash
 $ brew install ipfs
 ```
 
-For other options, like the M1 install please look at the [installation instructions](https://docs.ipfs.io/how-to/command-line-quick-start).
+For other options, like the M1 install, please look at the [installation instructions](https://docs.ipfs.io/how-to/command-line-quick-start).
 
 ## IPFS Web UI
 
-If you installed IPFS Desktop you’ll see the Web UI inside a window which can be accessed through the app itself. You can also open it through the _My Node_ button of the companion extension or by using the URL shown to you when you start the command-line daemon.
+If you installed IPFS Desktop, you’ll see the Web UI inside a window which can be accessed through the app itself. You can open it through the _My Node_ button of the companion extension, or by using the URL shown to you when you start the command-line daemon.
 
 The interface has navigation with multiple items: Status, Files, Explore, Peers, and Settings.
 
@@ -58,13 +58,13 @@ $ ipfs ls /ipfs/QmQPeNsJPyVWPFDVHb77w8G42Fvo15z4bG2X8D2GhfbSXc/
 
 ## Start the Node
 
-To run the node on the command line you have to start the daemon:
+To run the node on the command line, you have to start the daemon:
 
 ```bash
 $ ipfs daemon
 ```
 
-If the IPFS Desktop app is running you’ll get an error that tells you, another process is already using the repository:
+If the IPFS Desktop app is running, you’ll get an error that tells you, another process is already using the repository:
 
 ```bash
 Error: lock /Users/username/.ipfs/repo.lock: someone else has the lock
@@ -79,7 +79,7 @@ $ echo "Hello World" > hello-world.txt
 $ ipfs add hello-world.txt
 ```
 
-With the same `ipfs cat` command from above, but using the hash of the `hello-world.txt` file you can see its contents.
+With the same `ipfs cat` command from above, but using the hash of the `hello-world.txt` file, you can see its contents.
 
 ## Create a Simple Webpage
 
@@ -134,13 +134,13 @@ You can see your website now by opening the following URL in Brave:
 
 [https://ipfs.io/ipfs/\<website-hash\>](https://ipfs.io/ipfs/website-hash)
 
-It should also work in other browsers because this URL is using a gateway, but it might be very slow or take a while till the file is available.
+It should work in other browsers because this URL is using a gateway, but it might be slow or take a while until the file is available.
 
-In Brave, you’ll see a button in your URL bar to open it directly in IPFS (without a gateway). This will also change the bar to show a IPFS icon and the real IPFS address.
+In Brave, you’ll see a button in your URL bar to open it directly in IPFS (without a gateway). This will change the bar to show an IPFS icon and the IPFS address.
 
 ## Publishing to IPNS
 
-Each time you change something with your website, you’ll get new hashes for the changed files and folders affected which makes it hard to always serve your recent version to the world. This is where IPNS (the InterPlanetary Name System) comes into play. You create an IPNS hash that is tied to your Peer ID.
+Each time you change something with your website, you’ll get new hashes for the changed files and folders affected, which makes it hard to always serve your recent version to the world. This is where IPNS (the InterPlanetary Name System) comes into play. You create an IPNS hash that is tied to your Peer ID.
 
 We publish now our website to IPNS:
 
@@ -154,15 +154,15 @@ You’ll get an output like this:
 Published to <your-peer-id>: /ipfs/<website-hash>
 ```
 
-This peer id is now available by accessing it in your browser:
+This peer ID is now available by accessing it in your browser:
 
 [https://ipfs.io/ipns/\<your-peer-id\>](https://ipfs.io/ipns/your-peer-id)
 
-In Brave you can directly access it with the `ipns://` protocol (it might take a few seconds, till it’s available):
+In Brave, you can directly access it with the `ipns://` protocol (it might take a few seconds, until it’s available):
 
 [ipfs://\<your-peer-id\>](ipfs://your-peer-id)
 
-You can check where the IPNS is pointing to by using this command:
+You can check where the IPNS is pointing by using this command:
 
 ```bash
 $ ipfs name resolve <your-peer-id>
@@ -194,9 +194,9 @@ $ ipfs name publish --key=<some-name> <website-hash>
 
 ## MFS – Mutable File System
 
-If you open the IPFS Web UI and navigate to the **Files** section you might wonder, why it’s empty.
+If you open the IPFS Web UI and navigate to the **Files** section, you might wonder why it’s empty.
 
-The reason is that files in IPFS are content-addressed and immutable. You can’t overwrite them, only create a new version. The hashes in your repository get additionally cleaned up automatically (unless they are pinned) when the cache is full or you run the cleaning task (garbage collection) manually:
+The reason is that files in IPFS are content-addressed and immutable. You can’t overwrite them, create a new version. The hashes in your repository get additionally cleaned up automatically (unless they are pinned) when the cache is full, or you run the cleaning task (garbage collection) manually:
 
 ```bash
 $ ipfs repo gc
@@ -210,9 +210,9 @@ MFS helps to make working with files more comfortable. We can now copy our websi
 $ ipfs files cp /ipfs/<website-hash> /simple-website
 ```
 
-This will create a new folder at the root of the Mutable File System and copy the contents of the website to it. If you reload the **Files** section of the IPFS Web UI you’ll see the folder, see its contents and hashes. You would use MFS for projects you plan to keep track of and have them stay around longer.
+This will create a new folder at the root of the Mutable File System and copy the contents of the website to it. If you reload the **Files** section of the IPFS Web UI, you’ll see the folder, see its contents, and hashes. You would use MFS for projects you plan to keep track of and have them stay around longer.
 
-You can use a row of UNIX-like commands to create a folder, write files, copy and move files on MFS. You can find all commands starting with `ipfs files` in the [Command-line reference](ipns://docs.ipfs.io/reference/cli/). This command would create a new file inside a folder:
+You can use a row of UNIX-like commands to create a folder, write files, and copy and move files on MFS. Furthermore, you can find all commands starting with `ipfs files` in the [Command-line reference](ipns://docs.ipfs.io/reference/cli/). This command would create a new file inside a folder:
 
 ```bash
 echo "Hello, World" | ipfs files write --create --parents /my-new-folder/hello-world.txt
@@ -220,19 +220,19 @@ echo "Hello, World" | ipfs files write --create --parents /my-new-folder/hello-w
 
 ## Pinning
 
-If you share content on a decentralized, distributed network, it will only be available, if at least one node serves it. If you’re the only node on the network and shut down your computer, the data won’t be accessible.
+If you share content on a decentralized, distributed network, it will be available, if at least one node serves it. If you’re the only node on the network and turn off your computer, the data won’t be accessible.
 
-[Pinning services](http://docs.ipfs.io/concepts/persistence/#pinning-services) solve this problem for you, they allow pinning CIDs to keep them online. I tried [Pinata](https://www.pinata.cloud/) because they offer 1GB storage for free.
+[Pinning services](http://docs.ipfs.io/concepts/persistence/#pinning-services) solve this problem for you, they allow pinning CID’s to keep them online. I tried [Pinata](https://www.pinata.cloud/) because they offer 1 GB of storage for free.
 
 ## Hosting IPFS Content With a Domain
 
-There are a lot of different options to serve content with a human-readable name. You could [register an ENS name](https://medium.com/coinmonks/how-to-register-an-ens-name-for-your-wallet-address-190767641dae), and [connect it to your latest CID](https://bitsofco.de/setting-up-a-decentralised-website/), buy a domain at [Unstoppable Domains](https://unstoppabledomains.com/), or use a service like [Fleek](https://fleek.co/), to name a few options.
+There are plenty of different options to serve content with a human-readable name. You could [register an ENS name](https://medium.com/coinmonks/how-to-register-an-ens-name-for-your-wallet-address-190767641dae), and [connect it to your latest CID](https://bitsofco.de/setting-up-a-decentralised-website/), buy a domain at [Unstoppable Domains](https://unstoppabledomains.com/), or use a service like [Fleek](https://fleek.co/), to name a few options.
 
-I use Fleek because I just wanted to play around with IPFS and they offer free hosting. I connected the [GitHub repository of my website](https://github.com/kogakure/website-11ty-stefanimhoff.de/) with Fleek and automatically deploy my website on each push to IPFS. I deploy it currently to a subdomain by adding a CNAME record in my DNS settings, but have bought already an Unstoppable Domain that I still need to move as a <abbr title="Non-Fungible Token">NFT</abbr> to my Ethereum wallet on the blockchain.
+I use Fleek because I just wanted to play around with IPFS, and they offer free hosting. I connected the [GitHub repository of my website](https://github.com/kogakure/website-11ty-stefanimhoff.de/) with Fleek and automatically deploy my website on each push to IPFS. Not only that, but I deploy it currently to a subdomain by adding a CNAME record in my DNS settings, but have bought an Unstoppable Domain.
 
 ## Conclusion
 
-I’m happy with how the decentralized internet is progressing and even though it still feels bumpy and like the early days of the internet. A lot of tinkering, trying out new ideas and technologies, but it is this feeling that makes me hopeful that we witness the beginning of something new.
+I’m happy with how the decentralized internet is progressing and even though it feels bumpy and like the early days of the internet. A lot of tinkering, and trying out new ideas and technologies, but it is this feeling that makes me hopeful that we witness the beginning of something new.
 
 I hope we will be able to bring back the control of the internet to the masses and give control of data to the individual.
 

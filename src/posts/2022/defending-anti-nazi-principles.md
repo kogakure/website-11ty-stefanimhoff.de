@@ -18,11 +18,11 @@ He identified five major principles of the Nazis:
 - Authoritarianism
 - Socialism
 
-We should remember that it weren’t some “evil” people, who were the reason for the war and its atrocities, but the collective acceptance and support for the five principles above.
+We should remember that it wasn’t “evil” people, who were the reason for the war and its atrocities, but the collective acceptance and support for the five principles above.
 
-It’s time to remind ourselves that the opposite of those values is the antidote against repeating the past. But unfortunately we can observe the opposite is happening.
+It’s time to remind ourselves that the opposite of those values is the antidote to repeating the past. But unfortunately, we can observe the opposite is happening.
 
-Everywhere _collectivism_ is strengthened, not only with the COVID crisis, but already before and continuing.
+Everywhere _collectivism_ is strengthened, not only with the COVID-19 crisis but before and continuing.
 
 We have _instinct_ and _emotion_ in every discussion, thinking in black or white is growing.
 
@@ -32,13 +32,13 @@ We have _instinct_ and _emotion_ in every discussion, thinking in black or white
 
 Rational discourse is nearly impossible these days.
 
-We have support for _war_ and _zero-sum thinking_ everywhere. How did we come from we need to help Ukraine with humanitarian aid to <q>we need to defeat Russia, so they can never attack anybody again, ever</q> in two weeks? Maybe figuring out a diplomatic way to let Putin end the war without losing his face would be an idea? No, zero-sum game.
+We have support for _war_ and _zero-sum thinking_ everywhere. How did we come from we need to help Ukraine with humanitarian aid to <q>we need to defeat Russia, that they can never attack anybody again, ever</q> in two weeks? Figuring out a diplomatic way to let Putin end the war without losing his face would have been a better idea. But no, everything is a zero-sum game.
 
-We have _Authoritarianism_ everywhere. During COVID we could see this accelerated dramatically. <q>Do this, or else!</q> The police used cars, horses, attack dogs and batons against peaceful protesters. People were interned in camps or locked at home when they tested positive for a virus. People was forbidden to work, demonstrate, meet, travel, or go to a restaurant. We had daily propaganda, and state-sponsored hate speech every day on television.
+We have _Authoritarianism_ everywhere. During COVID-19, we could see this accelerated dramatically. <q>Do this, or else!</q> The police used cars, horses, attack dogs, and batons against peaceful protesters. People were interned in camps or locked at home when they tested positive for a virus. People were forbidden to work, demonstrate, meet, travel, or go to a restaurant. We had daily propaganda and state-sponsored hate speech every day on television.
 
-Politicians call for expropriation of companies, for regulation of companies, regulation of speech and basic rights, there is discussion about restricting people in the name of climate change to specific amounts of living space or energy, and money is printed like toilet paper resulting in sky-rocketing inflation. _Socialism_ is getting stronger.
+Politicians call for the expropriation of companies, the regulation of companies, and for the regulation of speech and basic rights. There is a discussion about restricting people for climate change to specific amounts of living space or energy, and money is printed like toilet paper, resulting in skyrocketing inflation. _Socialism_ is getting stronger.
 
-But Hicks also reminds us there are five <cite>Ani-Nazi Principles</cite>:
+Hicks reminds us there are five <cite>Ani-Nazi Principles</cite>:
 
 - Individualism
 - Reason
@@ -46,7 +46,7 @@ But Hicks also reminds us there are five <cite>Ani-Nazi Principles</cite>:
 - Liberalism
 - Capitalism
 
-We should remind us that those five principles are the antidote to Nazi ideology. We need to fight against the principles of the Nazis and fight for Anti-Nazi Principles.
+We should remind ourselves that those five principles are the antidote to Nazi ideology. We need to fight against the principles of the Nazis and fight for Anti-Nazi Principles.
 
 [^hicks2010ub]: Stephen Hicks (2010): _Principled anti-Nazism [Section 41 of Nietzsche and the Nazis]_, <https://www.stephenhicks.org/2010/03/10/principled-anti-nazism-section-41-of-nietzsche-and-the-nazis/>.
 [^hicks2013bu]: Stephen Hicks (2013): _Principled anti-Nazism (Nietzsche and the Nazis, Part 8, Section 41)_, <https://youtu.be/VPb7BJJ13s0>.

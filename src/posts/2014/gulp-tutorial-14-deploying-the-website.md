@@ -2,18 +2,18 @@
 title: "Introduction to Gulp.js 14: Deploying the Website with Rsync"
 author: Stefan Imhoff
 date: 2014-10-31T08:00:00+02:00
-description: "The ultimative tutorial and guide for Gulp.js: How to deploy your website with rsync to your server."
+description: "The ultimate tutorial and guide for Gulp.js: How to deploy your website with rsync to your server."
 tags:
   - code
 series:
   - gulp
 ---
 
-This is the 14th of my series _Introduction to Gulp.js_. Today I will write a task to sync the files of my Jekyll site to my webserver.
+This is the 14th of my series _Introduction to Gulp.js_. Today I will write a task to sync the files of my Jekyll site to my web server.
 
 ## Deploying the Website
 
-There are a lot of possibilities to get a website on the server. You may use FTP, SFTP, SCP, SCP2, Rsync, or Git. I use Rsync because it’s fast and easy to use.
+There are plenty of possibilities to get a website on the server. You may use FTP, SFTP, SCP, SCP2, Rsync, or Git. I use Rsync because it’s fast and easy to use.
 
 I write another task as an entry point: `deploy`
 
@@ -28,7 +28,7 @@ var gulp = require("gulp");
 gulp.task("deploy", ["rsync"]);
 ```
 
-This will just start the `rsync` task. But I could add more tasks, for example, a task, which creates a zip archive of the build and copies it to a backup on my hard drive.
+This will start the `rsync` task. But I could add more tasks, for example, a task, which creates a zip archive of the build and copies it to a backup on my hard drive.
 
 ```bash
 $ npm install --save-dev gulp-rsync@0.0.5
@@ -56,7 +56,7 @@ rsync: {
 }
 ```
 
-This task will grab all files in my production folder, connect to my server, and copy all files recursively to my website root. It will delete old files and just add changes to the server.
+This task will grab all files in my production folder, connect to my server, and copy all files recursively to my website root. It will delete old files and add changes to the server.
 
 #### gulp/tasks/production/rsync.js
 
@@ -78,6 +78,6 @@ gulp.task("rsync", function () {
 
 This concludes the series _Introduction to Gulp.js_. Developing and deploying with Gulp.js is fun.
 
-I like the UNIX philosophy of Gulp.js: Having small files, which do one task and connect these to larger workflows. And because I kept my Gulp.js tasks small, pluggable, and easily shareable, I was able to add Gulp.js to my second website in less than five minutes.
+I like the UNIX philosophy of Gulp.js: Having small files, which do one task and connect these to larger workflows. And because I kept my Gulp.js tasks small, pluggable, and shareable, I was able to add Gulp.js to my second website in less than five minutes.
 
 {% more "View Source on GitHub", "https://github.com/kogakure/gulp-tutorial", true %}

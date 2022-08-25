@@ -2,24 +2,24 @@
 title: "Introduction to Gulp.js 15: Performance Improvements with WebP and Gzip"
 author: Stefan Imhoff
 date: 2014-12-21T11:15:00+01:00
-description: "The ultimative tutorial and guide for Gulp.js: How to improve the speed and performance of your website with WebP and Gzip."
+description: "The ultimate tutorial and guide for Gulp.js: How to improve the speed and performance of your website with WebP and Gzip."
 tags:
   - code
 series:
   - gulp
 ---
 
-This is the 15th part of my series _Introduction to Gulp.js_. Today I’ll add some tasks for performance improvement of the website with WebP for images and Gzip for text files.
+This is the 15th part of my series, _Introduction to Gulp.js_. Today I’ll add tasks for performance improvement of the website with WebP for images and Gzip for text files.
 
 ## Using WebP for images
 
-[WebP](https://developers.google.com/speed/webp/) is a new image format developed by Google. With WebP, it’s possible to achieve much better compression with better quality as with JPEG or PNG. Multiple browsers like **Google Chrome**, **Opera**, or **Konquerer** already support this image format.
+[WebP](https://developers.google.com/speed/webp/) is a new image format developed by Google. With WebP, it’s possible to achieve much better compression with better quality, as with JPEG or PNG. Multiple browsers like **Google Chrome**, **Opera**, or **Konquerer** support this image format.
 
-On my website, I use a header image which is in JPEG format **69 KB** in size, the same image is in WebP only **44 KB**. WebP can reduce the size of images by **25-34%**, which is a lot.
+On my website, I use a header image which is in JPEG format **69 KB** in size, the same image is in WebP **44 KB**. WebP can reduce the size of images by **25-34%**, which is a lot.
 
-That’s why I will create a task, which creates WebP images of my PNG and JPEG images and let the server deliver the smaller format to browsers, which support it.
+That’s why I will create a task, which creates WebP images of my PNG and JPEG images and let the server deliver the smaller format to browsers, which supports it.
 
-First I install the Gulp.js module for WebP:
+First, I install the Gulp.js module for WebP:
 
 ```bash
 $ npm install --save-dev gulp-webp@2.1.1
@@ -37,7 +37,7 @@ webp: {
 },
 ```
 
-The task is short and straight forward:
+The task is short and straightforward:
 
 #### gulp/tasks/production/webp.js
 
@@ -54,7 +54,7 @@ gulp.task("webp", function () {
 });
 ```
 
-This task needs to be run only for production and has to be executed after the revisioning of the images is finished because the server will just deliver a WebP image of the same name to the browser.
+This task needs to be run for production and has to be executed after the revisioning of the images is finished because the server will deliver a WebP image of the same name to the browser.
 
 #### gulp/tasks/production/build.js
 
@@ -102,23 +102,23 @@ permalink: .htaccess
 AddType image/webp .webp
 ```
 
-It is possible to use a `.htaccess` file and include in the [configuration file](https://jekyllrb.com/docs/configuration/) as to be included. Otherwise, Jekyll will ignore hidden files and don’t copy them to the target directory.
+It is possible to use a `.htaccess` file and include it in the [configuration file](https://jekyllrb.com/docs/configuration/). Otherwise, Jekyll will ignore hidden files and don’t copy them to the target directory.
 
-But I like it more to add [Yaml Front Matter](https://jekyllrb.com/docs/frontmatter/) and create the file this way. Another advantage is that the file isn’t invisible.
+But I like it more to add [YAML Front Matter](https://jekyllrb.com/docs/frontmatter/) and create the file this way. Another advantage is that the file isn’t invisible.
 
-If you sync your production website to a server it will deliver to browsers, which support WebP the Webp format when requesting a JPEG or PNG.
+If you sync your production website to a server, it will deliver to browsers, which support WebP the WebP format when requesting a JPEG or PNG.
 
 {% banner "It isn’t working …" %}
 
-Don’t wonder: The `.htaccess` file won’t work with the development server. It will need a server with support for `mod_rewrite` and `mod_headers` and of course support `.htaccess` files.
+Don’t wonder: The `.htaccess` file won’t work with the development server. It will need a server with support for `mod_rewrite` and `mod_headers` and support `.htaccess` files.
 
 {% endbanner %}
 
 ## Gzip text files
 
-Many servers compress files by default with Gzip before sending them to the browser. But it is always good to pre-gzip the files because it will be faster, as the server doesn’t need to compress the file on every request, it will need less CPU and the compression rate will be much higher with pre-gzipped files because most servers don’t use the maximum compression rate.
+Many servers compress files by default with Gzip before sending them to the browser. But it is always good to pre-gzip the files because it will be faster, as the server doesn’t need to compress the file on every request. And it will need less CPU and the compression rate will be much higher with pre-gzipped files because many servers don’t use the maximum compression rate.
 
-First I install the Gulp.js module:
+First, I install the Gulp.js module:
 
 ```bash
 $ npm install --save-dev gulp-gzip@1.2.0
@@ -153,7 +153,7 @@ gulp.task("gzip", function () {
 });
 ```
 
-I add the task in my production build file to a JavaScript Array together with the `webp` task, because this task and the Gzip task may run in parallel; WebP works only with images and Gzip only with text files.
+I add the task in my production build file to a JavaScript Array together with the `webp` task because this task and the Gzip task may run in parallel; WebP works with images and Gzip with text files.
 
 #### gulp/tasks/production/build.js
 

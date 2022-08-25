@@ -2,7 +2,7 @@
 title: "Civil War for Truth: Introduction"
 author: Stefan Imhoff
 date: "2022-06-06T07:00:00+02:00"
-description: This is the introduction of a seven-part series that
+description: This is the introduction to a seven-part series that
   investigates why the last 10 years were uniquely turbulent with
   ever-increasing political division, rampant censorship, and growing
   authoritarianism.
@@ -10,7 +10,7 @@ tags:
   - politics
 ---
 
-I was never interested in politics and could barely recollect the names of the current political leadership team, but the last ten years—in particular the last two years—were way too turbulent and politics got gradually more authoritarian which resulted in me getting gradually more political.
+I was never interested in politics and could barely recollect the names of the current political leadership team. But the last ten years—in particular the last two years—were far too turbulent and politics got gradually more authoritarian, which resulted in me getting gradually more political.
 
 > Just because you do not take an interest in politics doesn’t mean politics won’t take an interest in you.
 >
@@ -22,27 +22,27 @@ At first, I couldn’t point the finger at the reasons for why all these things 
 
 Lindsay explains in the podcast his hypothesis that we find ourselves at the beginning of a new enlightenment phase.
 
-We all felt that the internet was a big leap forward but we weren’t aware of the deep-reaching consequences, because the transition between periods is never abrupt and hard to comprehend when living in one.
+We all felt that the internet was a big leap forward, but we weren’t aware of the deep-reaching consequences because the transition between periods is never abrupt and hard to comprehend when living in one.
 
-The internet age started for some people already in the mid-90s, but it took 15-20 years until it reached the whole globe and technology became ubiquitous to enable huge parts of the population to participate in the exchange of ideas.
+The internet age started for early adopters in the mid-90s, but it took 15-20 years until it reached the whole globe and technology became ubiquitous to enable massive parts of the population to participate in the exchange of ideas.
 
-Maajid Nawaz reminded recently in a podcast that all <q>technology disrupts power structures,</q> the invention of the internet is comparable with the invention of the Gutenberg Press. After its invention, the church lost its gated narrative over the bible, because common people could start reading it themselves. This led to a lot of uprisings in Europe and the 30-Year-War.[^rogan2022yc] Existing power structures don’t let go of their power without a fight. But in the end, free information led to the Enlightenment.
+Maajid Nawaz reminded recently in a podcast that all <q>technology disrupts power structures,</q> the invention of the internet is comparable with the invention of the Gutenberg Press. After its invention, the church lost its gated narrative over the bible because common people could start reading it themselves. This led to plenty of uprisings in Europe and the 30-Year-War.[^rogan2022yc] Existing power structures don’t let go of their power without a fight. But in the end, free information led to the Enlightenment.
 
-Maajid Nawaz is sure, that we are in the midst of such a civil war, even though it’s not fought with physical violence.
+Maajid Nawaz is sure that we are in the midst of a civil war, even though it’s not fought with physical violence.
 
 > So, the powers that be, who are losing that power need to clamp down. (…) It’s an internal civil war in a hybrid war context, over truth, and over information. Centralization versus decentralization. Basically, it’s no longer about left or right, it’s about up versus down. It’s about power versus those who don’t have power.
 >
 > **Maajid Nawaz**, <cite>The Joe Rogan Experience 1780 – Maajid Nawaz</cite>[^rogan2022yc]
 
-Neil Oliver, a British television presenter, archaeologist, and author formulated a possible hypothesis in an interview with Bret Weinstein on why we don’t see physical violence in this civil war. The horrors of the 20th century were committed by generations who had seen and done terrible things. Neil Oliver has his doubts that the people who are running the show now, who were born and raised in peace, have the guts to do the necessary “wet work”.[^weinstein2022el]
+Neil Oliver, a British television presenter, archaeologist, and author, formulated a possible hypothesis in an interview with Bret Weinstein on why we don’t see physical violence in this civil war. The horrors of the 20th century were committed by generations who had seen and done terrible things. Neil Oliver has his doubts that the people who are running the show now, who were born and raised in peace, have the guts to do the necessary “wet work”.[^weinstein2022el]
 
 ## Enlightenment 2.0
 
 James Lindsay coins the term _Enlightenment 2.0_ in his podcast to describe this new period we live in.
 
-He uses Marx’s theory of economic development as an analogy to explain his hypothesis. Without going into too much detail, Marx described human progress from Tribalism (Phase 1) over Clan Structures (Phase 2), Feudalism (Phase 3), Capitalism (Phase 4), Socialism (Phase 5), and to Communism (Phase 6).
+He uses Marx’s theory of economic development as an analogy to explain his hypothesis. Without going into too much detail, Marx described human progress from Tribalism (Phase 1) over Clan Structures (Phase 2), Feudalism (Phase 3), Capitalism (Phase 4), Socialism (Phase 5), and Communism (Phase 6).
 
-Lindsay’s main point is that we _falsely_ believe that we were already in Phase 4 of the information economy, as we are in Phase 4 for property and material goods. Capitalism and the invention of property rights allowed humanity to make a huge step forward and resulted—after we figured out the problems of monopolies—in the creation of a rich middle class.
+Lindsay’s main point is that we _falsely_ believe that we were already in Phase 4 of the information economy, as we are in Phase 4 for property and material goods. Capitalism and the invention of property rights allowed humanity to make a giant step forward and resulted—after we figured out the problems of monopolies—in the creation of a rich middle class.
 
 This belief was wrong. Lindsay argues that we recently left Phase 3 (Information Mercantilism) and just entered Phase 4 (Information Capitalism). The internet was the missing piece to reach this phase.
 
@@ -52,11 +52,11 @@ This belief was wrong. Lindsay argues that we recently left Phase 3 (Information
 >
 > **James Lindsay**, <cite>Welcome to the Second Enlightenment</cite>[^lindsay2021bi]
 
-Lindsay explains that all the political, social, and economic problems we see now, are a result of the breakdown of our _Gated Institutions_ and an attempt of globalist, technocratic elites to keep their power and move society as quickly as possible into Phase 5 (a centralized, controlled information economy) with assisted living and thinking under control of a technocratic regime.
+Lindsay explains that all the political, social, and economic difficulties we see now, are a result of the breakdown of our _Gated Institutions_. It is an attempt of globalist, technocratic elites to keep their power and move society as quickly as possible into Phase 5 (a centralized, controlled information economy) with assisted living and thinking under the control of a technocratic regime.
 
-Many intellectuals observe the same issues and try to formulate hypotheses for what we witness. The American social psychologist Jonathan Haidt wrote the well-received article “<cite>Why the Past 10 Years of American Life Have Been Uniquely Stupid</cite>”[^haidt2022wy] in <cite>The Atlantic</cite> in April 2022, Andrew Doyle wrote “<cite>The experts are lying to you</cite>”[^doyle2022gf] in <cite>UnHerd</cite> in June 2022, Steve Patterson wrote last year “<cite>Our Present Dark Age, Part 1</cite>,”[^patterson2021km] and Eric Weinstein said in a discussion with Sam Harris in 2019 <q>I can’t think of a single institution I trust.</q>[^weinstein2019qo] And those are just a fraction of the articles and discussions regarding this topic.
+Many intellectuals observe the same issues and try to formulate hypotheses for what we witness. The American social psychologist Jonathan Haidt wrote the well-received article “<cite>Why the Past 10 Years of American Life Have Been Uniquely Stupid</cite>”[^haidt2022wy] in <cite>The Atlantic</cite> in April 2022. Andrew Doyle wrote “<cite>The experts are lying to you</cite>”[^doyle2022gf] in <cite>UnHerd</cite> in June 2022. Steve Patterson wrote last year “<cite>Our Present Dark Age, Part 1</cite>”[^patterson2021km]. Eric Weinstein said in a discussion with Sam Harris in 2019 <q>I can’t think of a single institution I trust.</q>[^weinstein2019qo] And those are just a fraction of the articles and discussions regarding this topic.
 
-Everybody can see the narratives of the _Gated Institutions_ crumbling right in front of our eyes. The COVID-19 crisis made this only more obvious. We see the fraud, corruption, and incompetence of an obsolescence system. We see the “expert class” losing its shit. We see the _Gated Institutions_, for example, the <abbr title="World Economic Forum">WEF</abbr> in Davos, the <abbr title="World Health Organization">WHO</abbr>, <abbr title="Centers for Disease Control and Prevention">CDC</abbr>, <abbr title="National Health Service">NHS</abbr>, <abbr title="United Nations">UN</abbr>, <abbr title="European Union">EU</abbr>, or other institutions fail and fail again. They can’t keep up with the connected knowledge of crowds that can disprove their lies and reveal their agendas in a matter of hours.
+Everybody can see the narratives of the _Gated Institutions_ crumbling right in front of our eyes. The COVID-19 crisis made this only more obvious. We see the fraud, corruption, and incompetence of an obsolescence system. We see the “expert class” losing its shit. Likewise, we see the _Gated Institutions_, for example, the <abbr title="World Economic Forum">WEF</abbr> in Davos, the <abbr title="World Health Organization">WHO</abbr>, <abbr title="Centers for Disease Control and Prevention">CDC</abbr>, <abbr title="National Health Service">NHS</abbr>, <abbr title="United Nations">UN</abbr>, <abbr title="European Union">EU</abbr>, or other institutions fail and fail again. They can’t keep up with the connected knowledge of crowds that can disprove their lies and reveal their agendas in a matter of hours.
 
 > We know they are lying.\
 > They know they are lying,\
@@ -68,7 +68,7 @@ Everybody can see the narratives of the _Gated Institutions_ crumbling right in 
 
 We see how their pristine leadership program “Young Global Leaders” releases morons that can’t speak properly or can’t stay scandal-free for a few months. They plagiarize speeches, books, or dissertations. We catch them when they have secret agreements, receive money from corporations, delete SMS or destroy hard drives with incriminating material. Their embarrassments get ridiculed with memes around the internet, shared and mocked. The internet doesn’t forget.
 
-We see them panicking and answering with censorship, de-platforming, rampant biased fact-checkers, and character assassination. They attack encrypted messengers and alternate social media platforms, increase surveillance, reduce privacy, and try to outlaw encryption. They claim to fight “disinformation,” “misinformation,” “conspiracy theories” and “fake news,” but most fake news gets released as propaganda by Gated Institutions.
+We see them panicking and answering with censorship, deplatforming, rampant biased fact-checkers, and character assassination. They attack encrypted messengers and alternate social media platforms, increase surveillance, reduce privacy, and try to outlaw encryption. They claim to fight “disinformation,” “misinformation,” “conspiracy theories” and “fake news,” but the fakest news gets released as propaganda by Gated Institutions.
 
 They manipulate surveys and use PR agencies or Think Tanks to steer public opinion. They don’t even shy away from using psychological warfare with Nudging techniques against the populace.[^furedi2022wg]
 
@@ -102,7 +102,7 @@ To understand why our _Gated Institutions_ break down all at the same time, we n
 
 ---
 
-This is the first part of a seven-part series that investigates why the last 10 years were uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate our politicians and corporations.
+This is the first part of a seven-part series that investigates, why the last 10 years were uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate our politicians and corporations.
 
 1. _Introduction_
 2. [Corporatism and Technocracy](/civil-war-truth-2-corporatism-technocracy/)

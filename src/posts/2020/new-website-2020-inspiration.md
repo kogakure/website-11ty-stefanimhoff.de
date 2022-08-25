@@ -7,19 +7,19 @@ tags:
   - design
 ---
 
-At the end of 2017, I had the wish to create a new website, as my old design and the technology got a little bit dated. I started by collecting inspirations and ideas about the direction I wanted to go.
+At the end of 2017, I had the wish to create a new website, as my old design and technology got dated. I started by collecting inspirations and ideas about the direction I wanted to go.
 
-In 2017 and 2018 I didn’t do a lot, but browsing inspiring websites, looking into trends and styles. I was sure to pick a Japanese inspired topic, as all my website designs had one: My first design was inspired by [Japanese Tattoo](/projects/koi-illustration/) (_Irezumi_), my second design was based on the topic [Bonsai](/projects/stefanimhoff-v2/) and my [martial arts website](https://www.kogakure.de/en/) uses [Bamboo](/projects/kogakure-v8/) as a recurrent theme since 1999.
+In 2017 and 2018 I didn’t do a lot, but browsing inspiring websites, and looking into trends and styles. I was sure to pick a Japanese-inspired topic, as all my website designs had one: My first design was inspired by [Japanese Tattoo](/projects/koi-illustration/) (_Irezumi_), my second design was based on the topic [Bonsai](/projects/stefanimhoff-v2/) and my [martial arts website](https://www.kogakure.de/en/) uses [Bamboo](/projects/kogakure-v8/) as a recurrent theme since 1999.
 
 ## Japanese Aesthetics & Design
 
-I looked into Japanese Design styles, Typography and Editorial Design as resources of inspiration—not only websites, but all kinds of design, from packaging, over graphic design, architecture, and interior design to traditional Japanese art styles.
+I looked into Japanese Design styles, Typography, and Editorial Design as resources of inspiration—not only websites, but all kinds of design, from packaging, graphic design, architecture, and interior design to traditional Japanese art styles.
 
-And as I always collected designs and saved them on boards or put them in folders on my computer, time went by and I removed designs again and added new. A small number of designs I liked even after a few months or even a year, but others I quickly became bored with. To better understand why the one kind of designs are quickly getting boring and others always keep my interest and tension, I decided to do a _small_ excursion into Japanese design. I read nearly everything I could get my hands on. After one and a half years and eight books later I knew a lot more about Japanese design.
+And as I always collected designs and saved them on boards or put them in folders on my computer, time went by, and I removed designs again and added new ones. A few designs I liked even after a few months or even a year, but others I quickly became bored with. To better understand why one design is quickly getting boring and others always keep my interest and tension, I decided to do a _small_ excursion into Japanese design. I read nearly everything I could get my hands on. After one and a half years and eight books later, I knew a lot more about Japanese design.
 
 ## Books on Japanese Design
 
-I read all books from _Kenya Hara_, art director of Muji, and one of the leading designers of Japan. But I also read the old and famous books {% affiliate "In Praise of Shadows", "0918172020" %} by _Jun’ichirō Tanizaki_ and {% affiliate "Reflections on Japanese Taste: The Structure of Iki", "0909952302" %} by _Kuki Shūzō_. I read a compendium on all major Japanese currents of Art and Aesthetics, from glamorous gold-loaded styles to minimalistic Zen styles. I mapped out my research in detail in this [mind-map](https://my.mindnode.com/FGhdh66uMbi1aJ9RfriKUL3JoMCHd18aS8z9Uayw).
+I read all books from _Kenya Hara_, the art director of Muji, and one of the leading designers of Japan. Additionally, I read the old and famous books {% affiliate "In Praise of Shadows", "0918172020" %} by _Jun’ichirō Tanizaki_ and {% affiliate "Reflections on Japanese Taste: The Structure of Iki", "0909952302" %} by _Kuki Shūzō_. I read a compendium on all major Japanese currents of Art and Aesthetics, from glamorous gold-loaded styles to minimalistic Zen styles. I mapped out my research in detail in this [mind-map](https://my.mindnode.com/FGhdh66uMbi1aJ9RfriKUL3JoMCHd18aS8z9Uayw).
 
 {% bookshelf %}
 {% book "0714866962", "Wa: The Essence of Japanese Design" %}
@@ -28,22 +28,22 @@ I read all books from _Kenya Hara_, art director of Muji, and one of the leading
 {% book "3037781831", "White" %}
 {% book "3037784660", "Ex-Formation" %}
 {% book "3037785799", "100 Whites" %}
-{% book "0918172020", "In Prase of Shadows" %}
+{% book "0918172020", "In Praise of Shadows" %}
 {% book "0909952302", "Reflection on Japanese Taste: The Structure of Iki" %}
 {% book "1880656124", "Wabi-Sabi for Artists, Designers, Poets & Philosophers" %}
 {% endbookshelf %}
 
 ## Shibui – Subtle Elegance
 
-After looking into all the different art forms, I decided to follow my feeling and picked the style of _Shibui_. _Shibui_ (渋い, adjective), _shibumi_ (渋み, noun), or _shibusa_ (渋さ, noun) means translated _bitter or astringent taste_, but has also the meaning of _subtle elegance_, _refined and unobtrusive_, _quiet and simple_, and _understated_. It’s the exact opposite of _amai_ (甘い, adjective) which means sweet.
+After looking into all the different art forms, I decided to follow my feeling and picked the style of _Shibui_. _Shibui_ (渋い, adjective), _shibumi_ (渋み, noun), or _shibusa_ (渋さ, noun) means translated _bitter or astringent taste_ but has additionally the meaning of _subtle elegance_, _refined and unobtrusive_, _quiet and simple_, and _understated_. It’s the opposite of _amai_ (甘い, adjective) which means sweet.
 
-It has its origins in the Muromachi period (1336-1573). In this period fell the [Ōnin War](https://en.wikipedia.org/wiki/%C5%8Cnin_War) (応仁の乱, Ōnin no Ran), a ten-year-long war that destroyed immense amounts of cultural value, beautiful art, statues, and temples. The Shōgun [Ashikaga Yoshimasa](https://en.wikipedia.org/wiki/Ashikaga_Yoshimasa) handed over the power to his son and retired in the area of Kyoto and spend his life reflecting on taste and aesthetics. The new simple and quiet art forms emerged likely out of philosophical resignation about the cultural loss.
+It has its origins in the Muromachi period (1336-1573). In this period fell the [Ōnin War](https://en.wikipedia.org/wiki/%C5%8Cnin_War) (応仁の乱, Ōnin no Ran), a ten-year-long war that destroyed immense amounts of cultural value, beautiful art, statues, and temples. The Shōgun [Ashikaga Yoshimasa](https://en.wikipedia.org/wiki/Ashikaga_Yoshimasa) handed over the power to his son and retired to the area of Kyoto and spend his life reflecting on taste and aesthetics. The new simple and quiet art forms emerged, likely out of philosophical resignation about the cultural loss.
 
 By the seventeenth century, it had become a distinct sense of beauty. It’s closely related to the art form of _wabi-sabi_, but should not be confused with it.
 
 _Wabi-sabi_ (侘寂) is an aesthetic art form that focuses on the beauty of old and broken things and is closely related to Zen Buddhism. Many _wabi-sabi_ objects are _shibui_, but not all _shibui_ objects are _wabi-sabi_.
 
-It’s a complicated concept—and still, I don’t have the feeling of understanding all the aspects. What makes it even more difficult is that these art forms are connected over a complicated network with different philosophical or religious ideas, for example, Shintō, Buddhism, or Daoism.
+It’s a complicated concept—and I don’t have the feeling of understanding all the aspects. What makes it even more difficult is that these art forms are connected over a complicated network with different philosophical or religious ideas, for example, Shintō, Buddhism, or Daoism.
 
 Shibui consists of seven aesthetic principles, sometimes called **The Shibui Seven**:
 
@@ -59,65 +59,65 @@ Shibui consists of seven aesthetic principles, sometimes called **The Shibui Sev
 
 ### Fukinsei – Asymmetry (不均斉)
 
-One of the concepts is asymmetry. This style is a trend in 2020, but a lot of the designers copy the style without understanding what makes it beautiful. The philosophical concept behind this is the idea of imperfection and irregularity. Nature creates random things that look chaotic and humans create something straight and geometrical. Asymmetry is placed in the middle: intentional imperfection. Zen has a similar concept with [Ensō](https://en.wikipedia.org/wiki/Ens%C5%8D), the imperfect circle, drawn by a calligraphist with a brush.
+One of the concepts is asymmetry. This style is a trend in 2020, but countless designers copy the style without understanding what makes it beautiful. The philosophical concept behind this is the idea of imperfection and irregularity. Nature creates random things that look chaotic, and humans create something straight and geometrical. Asymmetry is placed in the middle: intentional imperfection. Zen has a similar concept in [Ensō](https://en.wikipedia.org/wiki/Ens%C5%8D), the imperfect circle, drawn by a calligraphist with a brush.
 
-The concept can be seen in Japanese Gardens where rocks of different sizes are placed in a pattern that looks not orderly but still perfect. The observer takes part in the creative process by completing the uncompleted in their mind.
+The concept can be seen in Japanese Gardens, where rocks of different sizes are placed in a pattern that looks not orderly but still perfect. The observer takes part in the creative process by completing the uncompleted in their mind.
 
 When I created the concept for my design, I tried to integrate all seven concepts into the website. I used a lot of asymmetry in my layout, by moving photos or text on the grid to not be aligned strictly geometric.
 
 ### Kanso – Simplicity (簡素)
 
-The concept of simplicity is the most known, as Steve Jobs—he was Zen Buddhist and loved this simplicity—used the concept for Apple products.
+The concept of simplicity is the most known, as Steve Jobs—who was Zen Buddhist and loved this simplicity—used the concept for Apple products.
 
 It’s similar to the concept of Bauhaus, though its origin and philosophy are different. Bauhaus (and other similar art forms) tried to contrast the previous gorgeous decorations of royalty and replace them with something new as these powers declined.
 
-Simplicity means the elimination of confusion, things not important, removal of decoration, and keeping things in a simple, plain, and natural way. All non-essential things are suppressed or excluded. At the same time, you create more space. A lot of today's industrial design follows this concept.
+Simplicity means the elimination of confusion, things not necessary, removal of decoration, and keeping things in a simple, plain, and natural way. All non-essential things are suppressed or excluded. At the same time, you create more space. A lot of today's industrial design follows this concept.
 
-I tried to keep my design as simple as possible while at the same time optimizing the content for maximal information density. The website has no unnecessary elements, the navigation is as short as possible.
+I tried to keep my design as simple as possible, while at the same time optimizing the content for maximal information density. The website has no unnecessary elements, the navigation is as short as possible.
 
 ### Koko – Austerity (考古)
 
-Austerity is closely related to simplicity. It means intentionally limiting a thing to fewer options or exclusion and omission. Transferred to design it could mean to limit oneself to a few colors or one font. Or it could mean removing unnecessary things from the design. You don’t add something, that is not necessary.
+Austerity is closely related to simplicity. It means intentionally limiting a thing to fewer options or exclusion and omission. Transferred to design, it could mean limiting oneself to a few colors or one font. Or it could mean removing unnecessary things from the design. You don’t add something, that is not necessary.
 
-It’s interesting to note that there are studies that prove that fewer options lead to more sales for example. And people tend to be happier with fewer choices. It’s a slim zone between having no options and too many options.
+It’s interesting to note that there are studies that prove that fewer options lead to more sales, for example. And people tend to be happier with fewer choices. It’s a slim zone between having no options and too many options.
 
 I rolled back ideas multiple times because they integrated too much complexity. I removed a social icon bar I added in my early designs, removed fancy off-screen navigation, replaced complex icons with simple ones, and limited myself to a maximal amount of navigation items.
 
 ### Shizen – Naturalness (自然)
 
-Naturalness is a core concept built into Japanese life. Even the traditional houses create with their paper sliding-doors (shoji) a fluid barrier between the outside and the inside. Nature is always welcome and part of life.
+Naturalness is a core concept built into Japanese life. Even the traditional houses create with their paper sliding doors (shoji) a fluid barrier between the outside and the inside. Nature is always welcome and part of life.
 
 Naturalness means the absence of sham and artificiality. It can be achieved by integrating naturally occurring patterns and rhythms into a design. This could, for example, mean using natural colors or color combinations.
 
-To cover this concept I use subtle shadows and scaling effects produce the effect of real-world elements. I selected photography and colors that are natural, typical _shibui_ colors, identifiable by their high amount of greyness. I experimented long with colors until I found the _shibui_ formula. Thanks to the HSL color space I’m now able to _shibuify_ any color.
+To cover this concept, I use subtle shadows and scaling effects to produce the effect of real-world elements. I selected photography and natural colors, typical _shibui_ colors, identifiable by their high amount of grayness. I experimented long with colors until I found the _shibui_ formula. Thanks to the HSL color space, I’m now able to _shibuify_ any color.
 
 ### Yūgen – Subtlety (幽玄)
 
-This concept is one of the hardest to grasp, as it’s a feeling and emotion. It means _subtle grace_ or _hidden beauty_ but can best be described by explaining poetic expressions:
+This concept is one of the hardest to grasp, as it’s a feeling and emotion. It means _subtle grace_ or _hidden beauty_, but can best be described by explaining poetic expressions:
 
 It could be the feeling when the moon is behind the clouds and suddenly the clouds move away. Or a swarm of wild geese that are suddenly hidden by a cloud. An island on the horizon and a boat moving behind the island. It might be the feeling of wandering on and on for hours in a great forest without the thought of return.
 
-Yūgen is described as an awareness of the universe that triggers an emotional response too deep and powerful for words. The Japanese language has a lot of these words. Take for example _ikigai_ (域外), the reason for being or _komorebi_ (木漏れ日), sunlight filtering through trees. Or funny words like _age-otori_ (上げ劣り), the bad feeling one gets after a terrible haircut, or deeply sad _mono no aware_ (物の哀れ), the pathos of things—the awareness of the transcendence of all things, that everything will perish and disappear.
+Yūgen is described as an awareness of the universe that triggers an emotional response too deep and powerful for words. The Japanese language has a lot of these words. Take for example _ikigai_ (域外), the reason for being, or _komorebi_ (木漏れ日), sunlight filtering through trees. Or funny words like _age-otori_ (上げ劣り), the bad feeling one gets after a terrible haircut, or deeply sad _mono no aware_ (物の哀れ), the pathos of things—the awareness of the transcendence of all things, that everything will perish and disappear.
 
-In design, yūgen can be achieved by limiting information enough to arouse curiosity and leave something to the imagination. I use photos cut off by the fold of the screen inviting to scroll. Content appearing after you scrolled it into the viewport. Page transitions and scroll animations add further to this concept.
+In design, yūgen can be achieved by limiting information enough to arouse curiosity and leave something to the imagination. I use photos cut off by the fold of the screen, inviting visitors to scroll. Content appears after you scrolled it into the viewport. Page transitions and scroll animations add further to this concept.
 
 ### Datsuzoku – Unworldliness (脱俗)
 
 The concept of unworldliness means something that transcends the conventional. Something happening, that gives you the feeling of surprise and excitement. The moment you realize that you can have freedom from conventions.
 
-Examples could be a car breaking down, trains don’t drive, you get sick, you see something unexpected. Something that interrupts the everyday life.
+Examples could be a car breaking down, trains don’t drive, you are getting sick, or you are seeing something unexpected. Something that interrupts everyday life.
 
-In design this could be anything unusual, things the viewer wouldn’t expect. Something funny on a serious website or something not correctly placed. Ideas you wouldn’t expect in a given context.
+In design, this could be anything unusual, things the viewer wouldn’t expect. Something funny on a serious website or items not correctly placed. Ideas you wouldn’t expect in a given context.
 
-I hid multiple _easter eggs_ around the website for the unworldliness and unconventional and added one idea I never saw on the internet before. I’ll reveal one of them: You can click on any date and switch between English, German and Japanese format. Your selection is remembered. But there are more hidden secrets around the site. Happy searching!
+I hid multiple _Easter eggs_ around the website for the unworldliness and unconventional and added one idea I had never seen on the internet before. I’ll reveal one of them: You can click on any date and switch between English, German and Japanese formats. Your selection is remembered. But there are more hidden secrets around the site. Happy searching!
 
 ### Seijaku – Tranquility (静寂)
 
 The last concept of _shibui_ is tranquility. The feeling of stillness, quietness, and solitude you can have while sitting in a Japanese garden. Time for reflection or active rest.
 
-If you’re able to make the viewer stop or reflect—slow down—on a piece of design or art you achieved this concept.
+If you’re able to make the viewer stop or reflect—slow down—on a piece of design or art, you achieved this concept.
 
-The last concept I cannot guarantee but I hope the depth of the website and it’s many hidden gems slow down and invite to relaxed exploration.
+The last concept I cannot guarantee, but I hope the depth of the website and its many hidden gems slow down and invite relaxed exploration.
 
 ---
 

@@ -11,7 +11,7 @@ I live in **Hamburg**, Germany and work (from home) as a **Senior Software Engin
 
 I wake up each morning without an alarm clock between **6:30** and **7:00**, and go to bed at **22:00**. I meditate 15-20 minutes every morning, learn **Japanese** and **Spanish** every day on [Duolingo](https://www.duolingo.com/profile/kogakure), and do [Calisthenics](/calisthenics/) and running 2-3 times a week.
 
-I’m reading currently these **books**:
+I’m reading now these **books**:
 
 {% bookshelf %}
 {% book "0224101900" %}
