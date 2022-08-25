@@ -10,5 +10,5 @@ src/includes/critical
 .netlify
 
 # Vale
-.github/styles/*
-!.github/styles/Vocab/Base
+.github/styles/Readability
+.github/styles/write-good
