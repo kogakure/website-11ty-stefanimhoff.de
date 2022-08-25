@@ -7,38 +7,38 @@ permalink: /traditional-colors-of-japan/
 ---
 
 <section class="colors-japan rowgap">
-  <h1 class="colors-japan-title">{{ title }}</h1>
+	<h1 class="colors-japan-title">{{ title }}</h1>
 
-  <article class="color-japan-introduction" {{ site.animation }}>
-    <p>
-      A few years ago I found by accident the book
+	<article class="color-japan-introduction" {{ site.animation }}>
+		<p>
+      Some years ago I found by accident the book
       <cite>The Traditional Colors of Japan</cite> by
-      <strong>Nobyoshi Hamada</strong>. He also wrote the sister book
+      <strong>Nobyoshi Hamada</strong> in a bookstore. He also wrote the sister book
       <cite>Traditional Japanese Color Palette</cite>.
     </p>
-    <p>
-      It’s the best book about Japanese colors I know. The book is filled with
-      beautiful photography showing examples of nature, craftsmanship, and art
+		<p>
+      It’s the best book about Japanese colors I know. The book has beautiful
+			photography showing examples of nature, craftsmanship, and art
       applying the colors.
     </p>
-    <p>
+		<p>
       I took the time and converted all colors in the book into an ASE (Adobe
       Swatch Exchange) file that is usable in all Graphic software. You can
       download the file or browse all colors on this page.
     </p>
-    <p>
-      {% download "Download the Color Palette", "/downloads/traditional-colors-of-japan-rgb.zip" %}
-    </p>
-  </article>
+		<p>
+			{%- download "Download the Color Palette", "/downloads/traditional-colors-of-japan-rgb.zip" -%}
+		</p>
+	</article>
 
-  <article class="color-japan-books" {{ site.animation }}>
-    {% book "475624100X", "The Traditional Colors of Japan" %}
-    {% book "475624114X", "Traditional Japanese Color Palette" %}
-  </article>
+	<article class="color-japan-books" {{ site.animation }}>
+		{%- book "475624100X", "The Traditional Colors of Japan" -%}
+		{%- book "475624114X", "Traditional Japanese Color Palette" -%}
+	</article>
 
-  <article class="color-japan-grid">
-    {% for item in colorsJapan %}
-      {% color item.color, item.name, item.description %}
-    {% endfor %}
-  </article>
+	<article class="color-japan-grid">
+		{% for item in colorsJapan %}
+			{%- color item.color, item.name, item.description -%}
+		{% endfor %}
+	</article>
 </section>

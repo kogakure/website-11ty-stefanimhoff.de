@@ -19,46 +19,46 @@ Sitting in the sun eating ice cream. \
 Eating lunch with friends or co-workers. \
 Having a barbecue with my extended family. \
 Quickly grabbing groceries at the supermarket. \
-Feeling the wind on my face cruising on a catamaran. \
+Feeling the wind on my face, cruising on a catamaran. \
 Chatting with the waiter while eating Pho in my favorite restaurant. \
 Reading in the shadow after swimming for an hour in the Atlantic Ocean. \
-Sitting on a bench with a perfect view of the river watching ships going by.
+Sitting on a bench with a perfect view of the river, watching ships going by.
 
 But then I wake up and open my eyes. It is dark outside, cold, and rainy. The weather is matching the mood of this world.
 
-I recently gave away some books. Thirty of the books have now a new owner I never met. She wanted to have a contactless handover. To be safe. I put the books in front of my door. I admit I peeked through the peephole when she rang the bell. _The New Normal_.
+I recently gave away a few dozen books. Thirty of the books have now a new owner I never met. She wanted to have a contactless handover. To be safe. I put the books in front of my door. I admit I peeked through the peephole when she rang the bell. _The New Normal_.
 
-It’s lunchtime and I go for a walk. I see faceless children coming from school, nobody is talking or laughing. Empty eyes. I read that 500 children tried to kill themselves in the second lockdown.[^nrz2022gq] No wonder, I wore my mask less than eight hours in total in 2021, they have to wear it eight hours a day. _The New Normal_.
+It’s lunchtime and I go for a walk. I see faceless children coming from school, nobody is talking or laughing. Empty eyes. I read that 500 children tried to kill themselves in the second lockdown.[^nrz2022gq] No wonder, I wore my mask for less than eight hours in total in 2021, they have to wear it eight hours a day. _The New Normal_.
 
-I pass by a bridge and a woman yells at me I should keep six feet distance. Six feet away, six feet under. I always mix those two up. _The New Normal_.
+I pass by a bridge and a woman yells at me, I should keep six feet distance. Six feet away, six feet under. I always mix those two up. _The New Normal_.
 
-When I walk through the park I see the blue light of four police cars parking. Eight faceless policemen surround a bench with a middle-aged woman sitting on it. They yell at each other. She wants to be left alone, I hear. She must have committed a serious crime. I wonder. She must be dangerous. Otherwise, you wouldn’t send four police cars, right? As I walk by I see she is probably just drunk and depressed. The police grab her roughly and strap her hands with plastic bands and push her inside a car. _The New Normal_.
+When I walk through the park, I see the blue light of four police cars parking. Eight faceless policemen surround a bench with a middle-aged woman sitting on it. They yell at each other. She wants to be left alone, I hear. She must have committed a serious crime. I wonder. She must be dangerous. Otherwise, you wouldn’t send four police cars, right? As I walk by, I see she is probably just drunk and depressed. The police grab her roughly and strap her hands with plastic bands and push her inside a car. _The New Normal_.
 
 I follow a path through the woods and see two faceless seniors walking behind each other. The path is wide. They see me and walk off the path into the mud. Better dirty shoes than to be dead, I assume. _The New Normal_.
 
-Back at home, I open the news. I see hate, discrimination, lies, and propaganda. I read that around 30,000 “Neonazis” and “Plague Deniers” walk each Monday in the whole country to demonstrate against the political measures. I learn it’s probably more than 100,000 people, getting more each week.[^redaktion2022ia] Journalists wouldn’t lie, would they? I watch a few videos of the marches. I see families, children, seniors; I see the middle of the population. I see people fed up with the broken promises, lies, division, hate of the politicians. I don’t see any “Neonazi”, though. _The New Normal_.
+Back at home, I open the news. I see hate, discrimination, lies, and propaganda. I read that around 30,000 “Neo-Nazis” and “Plague Deniers” walk each Monday in the whole country to demonstrate against the political measures. I learn it’s probably more than 100,000 people, getting more each week.[^redaktion2022ia] Journalists wouldn’t lie, would they? I watch a few videos of the marches. I see families, children, and seniors; I see the middle of the population. I see people fed up with the broken promises, lies, division, and hate of politicians. I don’t see any “Neo-Nazi”, though. _The New Normal_.
 
-When the people did their Monday walks in 1989 to demonstrate for the reunification, the <abbr title="Socialist Unity Party of Germany">SED</abbr> call the people “Neonazis”, too.[^sed] This has a tradition here.
+When the people did their Monday walks in 1989 to demonstrate for a reunification, the <abbr title="Socialist Unity Party of Germany">SED</abbr> call the people “Neo-Nazis”, too.[^sed] This has a tradition here.
 
-The measures are dire but there is room to grow. Fiji still leads the charts of the worst of the worst, we are #2. China is on #6.[^stringency] How can we be worse than a dictatorship? _The New Normal_.
+The measures are dire, but there is room to grow. Fiji leads the charts of the worst of the worst, we are #2. China is on #6.[^stringency] How can we be worse than a dictatorship? _The New Normal_.
 
-Munich made walking illegal, I read.[^dpa2021ra] At least the walkers don’t get attacked by paramilitary troops and attack dogs, like in Amsterdam.[^guerrilla] They get fined 3,000 € or dragged into a police car and beaten up behind a curtain.[^disclose] _The New Normal_.
+Munich made walking illegal, I read.[^dpa2021ra] At least the walkers don’t get attacked by paramilitary troops and attack dogs, like in Amsterdam.[^guerrilla] They get fined €3,000 or dragged into a police car and beaten up behind a curtain.[^disclose] _The New Normal_.
 
-Another 25-year-old soccer player collapsed and died today with a heart attack[^obrien2022hl] and a news anchorman collapsed on live TV.[^world2022zi] FIFA reports a 5-fold increase in sudden cardiac and unexplained deaths among FIFA athletes in 2021.[^sones2021dx] Damn, climate change is getting really nasty. _The New Normal_.
+Another 25-year-old soccer player collapsed and died today from a heart attack[^obrien2022hl] and a news anchorman collapsed on live TV.[^world2022zi] FIFA reports a 5-fold increase in sudden cardiac and unexplained deaths among FIFA athletes in 2021.[^sones2021dx] Damn, climate change is getting really nasty. _The New Normal_.
 
 I regret opening the news. I rarely open the news these days.
 
 I see a video on Twitter of people standing in line for more than a kilometer on a Sunday morning in the rain to get the Eucharist. I heard it is blessed and will protect its recipient in 37%[^buchan2022li] of the time of getting a running nose, headache, and a sore throat for three days. _The New Normal_.
 
-I am accompanying a friend to a nearby lake. She has been in pain for weeks. There must have been poison in her Eucharist. This happens _extremly_ rarely, the government promises. She takes off her shoes and walks in shallow water. I think I see a smile.
+I am accompanying a friend to a nearby lake. She has been in pain for weeks. There must have been poison in her Eucharist. This happens _extremely_ rarely, the government promises. She takes off her shoes and walks in shallow water. I think I see a smile.
 
-_Eucharist_ is a funny word. Where did I read it? I remember.[^muraresku2020aa] 500 years before Jesus took the drink with his apostles, people traveled for the _Eleusinian Mysteries_ a long distance from Athens to Eleusis to receive a holy substance.[^konstantinos2018zz] Every religion needs mythic tales, holy items, prophets, obedience, rituals, tabus, pariahs, and enemies. Religion has a comeback. Maybe we’ll see soon again self-flagellation.
+_Eucharist_ is a funny word. Where did I read it? I remember.[^muraresku2020aa] 500 years before Jesus took the drink with his apostles, people traveled for the _Eleusinian Mysteries_ a long distance from Athens to Eleusis to receive a holy substance.[^konstantinos2018zz] Every religion needs mythic tales, holy items, prophets, obedience, rituals, taboos, pariahs, and enemies. Religion has a comeback. Maybe we can observe self-flagellation again soon.
 
-When the _Antonine Plague_ hit the Roman Empire between 165 and 180 AD, it killed 10 percent of the population. In Rome alone, 2,000 people per day died. Emperor _Marcus Aurelius_ sold his treasures to help fight the disease, before he probably died from the plague himself. Our leaders enrich themselves instead.
+When the _Antonine Plague_ hit the Roman Empire between 165 and 180 AD, it killed 10 percent of the population. In Rome alone, 2,000 people per day died. Emperor _Marcus Aurelius_ sold his treasures to help fight the disease, before he died from the plague himself. Our leaders enrich themselves instead.
 
-I learn that some psychologists believe the world is in a mass conformity psychosis.[^skool2021xw] Isolation and alternating phases of terror and relaxation. This is how totalitarian states keep their power. With _Menticide_.[^meerloo1956hc] Another funny word. <q>Fear is the mind-killer.</q>[^herbert1965bp] _Paul Atreides_ knew this.
+I learn that psychologists believe the world is in a mass conformity psychosis.[^skool2021xw] Isolation and alternating phases of terror and relaxation. This is how totalitarian states keep their power. With _Menticide_.[^meerloo1956hc] Another funny word. <q>Fear is the mind-killer.</q>[^herbert1965bp] _Paul Atreides_ knew this.
 
-I close the browser and put my phone in the drawer. It’s getting dark. Do I watch a TV Show? I read _Black Mirror_ didn’t get the 6th season, because everybody was already too depressed by reality.[^hibberd2020nv] I used to love playing dystopian games like _Deus Ex_,[^deusex] or _Half-Life 2_.[^halflife2] You can turn off the Playstation at any time. You can’t turn off reality.
+I close the browser and put my phone in the drawer. It’s getting dark. Do I watch a TV Show? I read that _Black Mirror_ didn’t get the 6th season because everybody was already too depressed by reality.[^hibberd2020nv] I used to love playing dystopian games like _Deus Ex_,[^deusex], or _Half-Life 2_.[^halflife2] You can turn off the PlayStation at any time. You can’t turn off reality.
 
 I decide to read a book instead. I never read much fiction. Now I love fiction. When the glow of my e-book reader shrouds the darkness with cold, white light, I get tired. My eyes close and I drift away. I hope I dream again of the _Old Normal_.
 

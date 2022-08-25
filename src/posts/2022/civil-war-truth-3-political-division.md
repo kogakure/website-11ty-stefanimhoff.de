@@ -14,27 +14,27 @@ tags:
 
 Politics have changed over the last 30+ years and people haven’t updated their model. In the 20th century, the conservatives tend to be the people calling for censorship, on topics of sex, comedy, or profanity. While comedian Lenny Bruce was arrested and persecuted in the 1960s for his comedy, George Carlin broke this wall with his [Seven Dirty Words](https://en.wikipedia.org/wiki/Seven_dirty_words) in the 1970s. But censorship is still prominent in American television.
 
-But the sides of power changed. Today authoritarian censorship comes from the extreme left. Now, that they have cultural control, they apply censorship on books or standup comedy. The sad part is that they believe they are the good ones.
+But the sides of power changed. Today, authoritarian censorship comes from the extreme left. Now, that they have cultural control, they apply censorship on books or standup comedy. The sad part is that they believe they are the good ones.
 
 > Four years of bombing kids in the middle east while hollowing out America’s economy for the benefit of weapons contractors, Wall Street, and predatory transnational corporations. All hail the resistance. Just a hunch, but if your political consensus is shared and amplified by every major cultural institution, establishment media empire, and billionaire tech oligarch in the world, maybe, just maybe, call me crazy but, maybe you’re not the resistance?
 >
 > **Paul Joseph Watson**, _AMERICA 2021_[^watson2021aa]
 
-I personally don’t like either side censoring content or name-calling critics. I want neither religion nor CRT taught in school. I don’t want conservatives to censor porn or progressives to remove books critical of gender dysphoria. But should I decide which side does more harm, I would choose the progressive left. If conservatives go uncontrolled, stagnation is the result. This is bad, but not harmful. If progressives go uncontrolled society-destroying things can happen.
+I, personally, don’t like either side censoring content or name-calling critics. I want neither religion nor CRT taught in school. I don’t want conservatives to censor porn or progressives to remove books critical of gender dysphoria. But should I decide which side does more harm, I would choose the progressive left. If conservatives go uncontrolled, stagnation is the result. This is bad, but not harmful. If progressives go uncontrolled, society-destroying things can happen.
 
 Not just has the power switched, but the terms for the _Left_ and the _Right_ don’t fit more to their original meanings. The origins of these terms lie in the French Revolution of 1798. Supporters of the king at the National Assembly stood to the president’s right and supporters of the revolution stood to his left.[^carlisle2019pn] Those terms were used to describe the _Right_ as people who stand for tradition, order, hierarchy, or conservative values and the _Left_ as people who want liberty, equality, liberalism, or progressivism.
 
-The classical definition of a left person 20 years ago was a person fighting for workers’ rights, unions, equality, and similar goals. The _Left_ of today couldn’t be further away from these values which is the reason they get called Progressives or Leftists. Today the _Left_ is the upper-middle-class and upper-class, the people in power, the notebook elites, who are called _Gauche caviar_ (“Caviar left”) in France. This can be observed in how the different economic classes vote in Western countries. Because the _Left_ abandoned the middle and lower class, they tend to vote more for populist parties if there is no alternative.
+The classical definition of a left person 20 years ago was a person fighting for workers’ rights, unions, equality, and similar goals. The _Left_ of today couldn’t be further away from these values, which is the reason they get called Progressives or Leftists. Today the _Left_ is the upper-middle-class and upper-class, the people in power, the notebook elites, who are called _Gauche caviar_ (“Caviar left”) in France. This can be observed in how the different economic classes vote in Western countries. Because the _Left_ abandoned the middle and lower class, they tend to vote more for populist parties if there is no alternative.
 
-Most parties in Germany moved further left in the last 15 years, leaving a new spot for the populist party AfD (Alternative for Germany). For classic liberals, there is barely an option to vote for. The Christian party CDU/CSU couldn’t have moved further away from Christian values, the Social Democratic Party of Germany (SPD) and the green party get mostly voted by progressives. At the last election, the winning party SPD barely reached 25% of the votes and no longer represents the majority of the people. Even together with the Green party, they didn’t reach an electoral majority and they needed the support of the economic liberal party FDP. The coalition nearly broke at the vote for mandatory vaccinations and many experts don’t think it will last the legislative period. The SPD and Green party were strongly in favor of mandatory vaccination, but the liberal party remembered that this would violate their liberal values and voted against the bill.
+Most parties in Germany moved further left in the last 15 years, leaving a new spot for the populist party AfD (Alternative for Germany). For classic liberals, there is barely an option to vote for. The Christian party CDU/CSU couldn’t have moved further away from Christian values, the Social Democratic Party of Germany (SPD) and the green party get mostly voted by progressives. At the last election, the winning party SPD barely reached 25% of the votes and no longer represents the majority of the people. Even together with the Green party, they didn’t reach an electoral majority, and they needed the support of the economic liberal party FDP. The coalition nearly broke at the vote for mandatory vaccinations, and many experts don’t think it will last the legislative period. The SPD and Green party were strongly in favor of mandatory vaccination, but the liberal party remembered that this would violate their liberal values and voted against the bill.
 
-And it doesn’t look better in other European countries. Emmanuel Macron faces a serious crisis of legitimacy, the voter turnout for the first round of parliamentary elections was just 47%. People despise his authoritarian leadership. <q>Macron’s electoral support is dwindling. He has been deserted by the young and professionals who have voted for the left, the workers who have voted for the far right and the traditionalists who cling on to the old right. His electorate now mainly comprises the retired and the wealthy.</q>[^devellennes2022lx]
+And it doesn’t look better in other European countries. Emmanuel Macron faces a serious crisis of legitimacy, the voter turnout for the first round of parliamentary elections was just 47%. People despise his authoritarian leadership. <q>Macron’s electoral support is dwindling. He has been deserted by the young and professionals who have voted for the left, the workers who have voted for the far right, and the traditionalists who cling on to the old right. His electorate now mainly comprises the retired and the wealthy.</q>[^devellennes2022lx]
 
 People stop following their leaders and will bring their opinions to the streets rather than the ballot box. This is what Mary Woods was talking about in her speech at Davos.
 
-By a classical definition of left/right, the sides have switched on many issues in reality. But even historically the definition doesn’t make any sense. Being right is used as a derogatory term comparable with being a Nazi and not a conservative. But even that is debatable, as the Nazi Party, the NSDAP, which is usually termed a far-right party is called “National*sozialistische* Deutsche Arbeiterpartei“ (National _Socialist_ German Party). And looking at their agenda in detail, it wasn’t that different from the Communist party except for the definition of the “In-Group”. In reality, <q>Fascism is a form of Socialism. (…) Fascists are Socialists with a national identity.</q>[^dsouza2017mo]
+By a classical definition of left/right, the sides have switched on many issues in reality. But even historically, the definition doesn’t make any sense. Being right is used as a derogatory term, comparable with being a Nazi and not a conservative. But even that is debatable, as the Nazi Party, the NSDAP, which is usually termed a far-right party is called “National*sozialistische* Deutsche Arbeiterpartei“ (National _Socialist_ German Party). And looking at their agenda in detail, it wasn’t that different from the Communist party except for the definition of the “In-Group”. In reality, <q>Fascism is a form of Socialism. (…) Fascists are Socialists with a national identity.</q>[^dsouza2017mo]
 
-Even the better idea of the [Political Compass](https://www.politicalcompass.org/) which defines two-axis, an economic left/right axis, and a social authoritarian/libertarian axis, is still a simplification. Many political parties in Western Democracies find themselves in the Authoritarian right sector which is a tragedy for somebody like me in the Libertarian left sector.
+Even the better idea of the [Political Compass](https://www.politicalcompass.org/) which defines two-axis, an economic left/right axis, and a social authoritarian/libertarian axis, is still a simplification. Many political parties in Western Democracies find themselves in the Authoritarian right sector, which is a tragedy for somebody like me in the Libertarian left sector.
 
 > I think, really, Socialism comes from the heart, right? We all wanna be Socialists. Capitalism comes from the head because there are always cheaters in any system, and there is an incentive in any system. So, when you’re young, if you’re not Socialist, you have no heart, when you’re older and you’re not a capitalist you have no head, right? You haven’t thought it through. So, I understand where it comes from.
 >
@@ -48,17 +48,17 @@ Even the better idea of the [Political Compass](https://www.politicalcompass.org
 
 I wish more people would take over Nassim Taleb’s ideas and be less binary in their political choices.
 
-I think it is time to dismiss those terms as oversimplified labels to discredit ideas you don’t like and instead look at each topic individually and then define a standpoint as conservative/traditional or progressive/modern. You need both sides to negotiate a contract or the society will tumble into tyranny and chaos.
+I think it is time to dismiss those terms as oversimplified labels to discredit ideas you don’t like and instead look at each topic individually and then define a standpoint as conservative/traditional or progressive/modern. You need both sides to negotiate a contract, or society will tumble into tyranny and chaos.
 
 ## Free Speech
 
-I’m a free speech absolutist as far as possible, following the definition of free speech by John Stuart Mill. I live in Germany which means we have a more limited speech than the USA due to our history, but even free speech in the USA has [exceptions](https://en.wikipedia.org/wiki/United_States_free_speech_exceptions).
+I’m a free speech absolutist as far as possible, following the definition of free speech by John Stuart Mill. I live in Germany, which means we have more limited speech than the USA due to our history, but even free speech in the USA has [exceptions](https://en.wikipedia.org/wiki/United_States_free_speech_exceptions).
 
 > But the peculiar evil of silencing the expression of an opinion is, that it is robbing the human race; posterity as well as the existing generation; those who dissent from the opinion, still more than those who hold it. If the opinion is right, they are deprived of the opportunity of exchanging error for truth: if wrong, they lose, what is almost as great a benefit, the clearer perception and livelier impression of truth, produced by its collision with error.
 >
 > **John Stuart Mill**, _On Liberty_, rev. ed. (Boston: Ticknor and Fields, 1863) 35–36[^saad2020aa]
 
-Freedom of speech can _only_ be applied to everybody with the same rules. Just because you don’t like some person's speech or think it’s hateful, is not a reason. Hate is as truth not objective and what the one person finds hateful, doesn’t bother the other. And the exceptions we have in most Western countries are already good enough.
+Freedom of speech can _only_ be applied to everybody with the same rules. Just because you don’t like some person's speech or think it’s hateful, is not a reason. Hate is, as truth, not objective and what one person finds hateful, doesn’t bother the other. And the exceptions we have in most Western countries are already good enough.
 
 If you are only for free speech, if it’s your speech, you are not for free speech. Every dictator in history allowed speech he liked. The African dictator Idi Amin said: <q>You have freedom of speech. It is freedom after speech that I cannot guarantee.</q>
 
@@ -68,13 +68,13 @@ If you are only for free speech, if it’s your speech, you are not for free spe
 
 There is no need for the protection of free speech for mainstream views. Because, as Mick Hume writes, <q>in the end, it is only those views deemed too extreme or offensive that need defending on free-speech grounds.</q>[^hume2020aa]
 
-Without free speech there is no possibility to find common ground, there is no discussion, and conflicts can’t be resolved without violence. Free speech is the only tool we have to stay on a balanced ground between tradition and progress. There is an evolutionary reason people come with different temperaments, and it is no accident people tend to get more conservative with age. Old people have lived a long life and learned what works and what does not and want to preserve these learnings for the next generation. Progressive new ideas are also needed, to prevent society to stagnate or dying out, if the external conditions change. But every new idea needs to be checked and tested. That is what free speech is for.
+Without free speech there is no possibility to find common ground, there is no discussion, and conflicts can’t be resolved without violence. Free speech is the only tool we have to stay on a balanced ground between tradition and progress. There is an evolutionary reason people come with different temperaments, and it is no accident people tend to get more conservative with age. Old people have lived a long life and learned what works and what does not, and want to preserve these learnings for the next generation. Progressive new ideas are also needed, to prevent society to stagnate or dying out, if the external conditions change. But every new idea needs to be checked and tested. That is what free speech is for.
 
 > If freedom of speech is taken away, dumb and silent we may be led, like sheep, to the slaughter.
 >
 > **George Washington**
 
-Freedom of speech doesn’t mean you need to listen. This is the most ridiculous counterargument which always comes up to attack free speech advocates that block impolite people. If I mute or block your speech for me, I don’t prevent you from reaching others. Free speech is not made to make the most extreme ends change their mind, but to allow the silent majority to listen and make up their own minds.
+Freedom of speech doesn’t mean you need to listen. This is the most ridiculous counterargument which always comes up to attack free speech advocates that block impolite people. If I mute or block your speech for me, I don’t prevent you from reaching others. Free speech is not made to make the most extreme ends change their mind, but to allow the silent majority to listen and make up their minds.
 
 Freedom of Speech is equivalent to “Freedom of Reach”. If you prevent a person from speaking on famous social media platforms with the argument, you can do this somewhere else, it is violating free speech. This doesn’t mean anybody needs to listen.
 
@@ -85,13 +85,13 @@ Helen Pluckrose and James Lindsay define four rules of free speech.[^pluckrose20
 3. **The Freedom not to Speak** – No person can be forced to share their ideas or to talk to any person.
 4. **The Freedom not to Listen** – No person can be forced to listen to ideas or any person.
 
-The freedom to speak without obstruction includes all things used by social media to limit the reach of people, be it with throttling, de-ranking, shadow-banning, de-platforming, or similar tactics. It means nobody needs to worry somebody is coming for their job, friends, or life when they speak up.
+The freedom to speak without obstruction includes all things used by social media to limit the reach of people, be it throttling, de-ranking, shadow-banning, deplatforming, or similar tactics. It means nobody needs to worry somebody is coming for their job, friends, or life when they speak up.
 
 The freedom to listen includes that ideas don’t get hidden or the access to them get obstructed in any matter, be it with warning labels, hiding the ideas, or making them “adult-only” (even though they don’t violate any youth law).
 
 The freedom not to speak includes that people can stay silent if they wish, and nobody can force you to take positions. Nobody has to tell you to put gender pronouns in your email or profile, nobody has to tell you to “bow a knee” or proclaim “silence is violence.”
 
-The freedom not to listen includes that a person can mute or block any person they don’t want to interact with.
+The freedom not to listen includes that a person can mute or block any person they want to avoid interacting with.
 
 Bad ideas can be defeated only with good ideas, blocking them doesn’t make them go away, they go somewhere else, somewhere hidden. The result might be more extreme ideas if they go unchallenged in echo chambers. We want bad ideas out in the open to expose them to the light of truth. If they can’t defend their position, they lose and go away. Blocking them makes them more attractive.
 
@@ -99,21 +99,21 @@ Bad ideas can be defeated only with good ideas, blocking them doesn’t make the
 >
 > **A Letter on Justice and Open Debate**[^letterjustice2020]
 
-If we don’t apply Freedom of Speech equally we need an arbiter of truth. But there is no such thing as objective truth and the last thing we want is to give this power to the state. Things change quickly and the regulations and censorship you cheered for because they benefited your side, might be used against you in the next election cycle.
+If we don’t apply Freedom of Speech equally, we need an arbiter of truth. But there is no such thing as objective truth, and the last thing we want is to give this power to the state. Things change quickly and the regulations and censorship you cheered for because they benefited your side, might be used against you in the next election cycle.
 
-This realization came as a surprise to many people when Elon Musk recently tried to buy Twitter. The whining was huge. For weeks all progressive media outlets wrote hit pieces on Musk. The idea that a funny, libertarian centrist, that stands for free speech, wants to open source the ranking algorithm of Twitter to make the company more transparent, and introduce encryption for direct messages scared the heck out of these authoritarians.
+This realization came as a surprise to many people when Elon Musk recently tried to buy Twitter. The whining was huge. For weeks, all progressive media outlets wrote hit pieces on Musk. The idea that a funny, libertarian centrist, that stands for free speech, wants to open source the ranking algorithm of Twitter to make the company more transparent, and introduce encryption for direct messages scared the heck out of these authoritarians.
 
-For years conservatives and centrists had to listen to the argument <q>It’s a private company, if you don’t like it, build your own.</q> After removing Donald Trump from Twitter, people moved to Parler. Then Google and Apple removed the app from their stores. <q>If you don’t like it build your own app store.</q> People started using the app on the web. Amazon decided to remove the AWS web servers the platform was hosted on. <q>If you don’t like it build your own servers.</q>
+For years conservatives and centrists had to listen to the argument <q>It’s a private company, if you don’t like it, build your own.</q> After removing Donald Trump from Twitter, people moved to Parler. Then Google and Apple removed the app from their stores. <q>If you don’t like it, build your own app store.</q> People started using the app on the web. Amazon decided to remove the AWS web servers the platform was hosted on. <q>If you don’t like it, build your own servers.</q>
 
 Nobody ever complained that billionaires are buying media companies to steer public opinion in their favor.
 
 > (…) people are worried about a billionaire having so much influence, but billionaires own pretty much all of the media. Jeff Bezos bought The Washington Post, John Henry bought The Boston Globe, Sheldon Adelson bought The Las Vegas [Review-]Journal, Laurene Powell Jobs bought The Atlantic, Patrick Soon-Shiong bought the L.A. Times, Mark Benioff bought Time, even the supposedly independent Guardian is funded by Bill Gates and the people who own social media companies like Mike Zuckerberg are billionaires with political agendas.
 >
-> The problem seems to be that Elon Musk has the wrong political agenda by not really having a political agenda. He’s a centrist who donates to both the republican and the democratic parties instead of just slavishly following the woke leftist agenda. This balance is a thread to the woke establishment.
+> The problem seems to be that Elon Musk has the wrong political agenda by not really having a political agenda. He’s a centrist who donates to both the republican and the democratic parties instead of just slavishly following the woke leftist agenda. This balance is a threat to the woke establishment.
 >
 > **Leo Kearse**, _Comedian Leo Kearse on the Elon Musk Twitter takeover making woke lefty liberals CRY_[^kearse2022wb]
 
-Suddenly, the authoritarians realized they opened pandora’s box with the introduction of biased algorithms, de-platforming, and censorship. The next mid-term election is coming up soon, and it doesn’t look good for the Democrats. There is a realistic chance that a Republican, possibly even Trump will move into the White House and starts using all those weapons against the other side. Now they cry for regulation.
+Suddenly, the authoritarians realized they opened Pandora’s box with the introduction of biased algorithms, deplatforming, and censorship. The next midterm election is coming up soon, and it doesn’t look good for the Democrats. There is a realistic chance that a Republican, possibly even Trump, will move into the White House and starts using all those weapons against the other side. Now they cry for regulation.
 
 > Probably the funniest effort along those lines was this passage:
 >
@@ -137,7 +137,7 @@ On the contrary, the Biden administration announced a week later the introductio
 >
 > **Cybersecurity & Infrastructure Security Agency**, <cite>Mis, Dis, Malinformation</cite>[^agency2022mu]
 
-Malinformation is insidious because it defines a fact that is the truth, but <q>causes you to distrust the government which means to the extent that your government is not trustworthy and you discuss it, you are guilty of terrorism.</q>[^weinstein2022hg]
+Malinformation is insidious because it defines a fact that is the truth, but <q>causes you to distrust the government which means to the extent that your government is not trustworthy, and you discuss it, you are guilty of terrorism.</q>[^weinstein2022hg]
 
 Anyone who thinks that this is only a problem in the USA is far from it. In Germany, the Federal Ministry of the Interior led by Nancy Faeser, introduced this year a new category of extremism: <cite>Delegitimization of the state relevant to the protection of the constitution</cite> (<cite>Verfassungsschutzrelevante Delegitimierung des Staates</cite>). It categorizes any form of criticism of lockdowns, mask mandates, school closures, retail store closures, and closures of cultural institutions, as a form of right-wing extremism.[^lengsfeld2022sv]
 
@@ -145,31 +145,31 @@ Anyone who thinks that this is only a problem in the USA is far from it. In Germ
 >
 > **Bundesministerium des Innern und für Heimat**, <cite>Verfassungsschutzbericht 2021</cite>[^bmi2022kl]
 
-This is a new form of undermining a Democracy because it puts any criticism and mentioning of undemocratic, authoritarian, or totalitarian tendencies in a category of enemies of the state. They don’t want to be exposed. Writing this sentence makes me technically a domestic extremist.
+This is a new form of undermining a Democracy because it puts any criticism and mentioning of undemocratic, authoritarian, or totalitarian tendencies in a category of enemies of the state. They would rather not be exposed. Writing this sentence makes me technically a domestic extremist.
 
 But even the former Federal Judge Hans-Jürgen Papier criticizes for example the Asylum and refugee policy of the German government as a breach of law[^schattauer2020qd] and the measurements of the COVID-19 crisis as a danger to freedom.[^schmalz2021ht]
 
-The doctor and podcast host Paul Brandenburg was raided and (temporarily) arrested by a special task force in May 2022. The Federal Ministry of the Interior had tried in the months prior to the incident to charge him because his opinions would delegitimize the state.[^douglas2022zf]
+The doctor and podcast host Paul Brandenburg was raided and (temporarily) arrested by a special task force in May 2022. The Federal Ministry of the Interior had tried in the months before the incident to charge him because his opinions would delegitimize the state.[^douglas2022zf]
 
 Germany didn’t learn anything from the Third Reich and the DDR, something similar to the <abbr title="Ministry of State Security">STASI</abbr> is slowly introduced again in Germany. The similarity in Authoritarian reaction in different Western countries at least suggests that there is some global coordination or playbook (_Operation Lockstep_) politicians follow along.
 
-It’s only a question of when the state will start the hunt on regular people in the name of the “War on Truth.”
+It’s only a question of when the state will start the hunt on regular people for the “War on Truth.”
 
-And their chances of getting things right don’t look good. They censored the “Lab Leak Hypothesis,” now regarded as the most probable reason for the COVID-19 pandemic. They censored the “Hunter Biden Laptop” story, critical information for the US presidential election, now known to be true and even admitted by the most left newspapers. A study found out that 16% of Biden voters wouldn’t have voted for him, would they had known the story which would have resulted in Trump staying the president.[^palmieri2022gb]
+And their chances of getting things right don’t look good. They censored the “Lab Leak Hypothesis,” now regarded as the most probable reason for the COVID-19 pandemic. They censored the “Hunter Biden Laptop” story, critical information for the US presidential election, now known to be true and even admitted by the most left newspapers. A study found out that 16% of Biden voters wouldn’t have voted for him, would they had known the story, which would have resulted in Trump staying the president.[^palmieri2022gb]
 
-The European Union doesn’t look better, they plan a similar task force to fight fake news and they recently announced to increase their efforts to fight disinformation (that is “the information we don’t like you to know”).[^parker2019va]
+The European Union doesn’t look better, they plan a similar task force to fight fake news, and they recently announced to increase their efforts to fight disinformation (that is “the information we don’t like you to know”).[^parker2019va]
 
-The Gated Institutions want to make sure their narrative doesn’t get questioned, because informed people ask questions, challenge decisions, and hold politicians and companies accountable.
+The Gated Institutions want to make sure their narrative doesn’t get questioned because informed people ask questions, challenge decisions, and hold politicians and companies accountable.
 
 > All of the most critical factors determining what people’s lives are like are invisible now. Most people don’t even know they’re happening. Oligarchy. Neoliberalism. Imperialism. Used to be you knew who the king was, and he’d openly do anything he wanted. Now that’s all kept carefully hidden.
 >
 > **Caitlin Johnstone**, _Patriot Act 2, Censorship, And Other Notes From The Edge Of The Narrative Matrix_[^johnstone2021kj]
 
-The reason most people have no clue how bad the state of the world is is the result of the breakdown of another pillar of our _Gated Institutions_: **Media and Journalism**.
+The reason most people have no clue how bad the state of the world is the result of the breakdown of another pillar of our _Gated Institutions_: **Media and Journalism**.
 
 ---
 
-This is the third part of a seven-part series that investigates why the last 10 years were uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate our media companies and journalists.
+This is the third part of a seven-part series that investigates, why the last 10 years were uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate our media companies and journalists.
 
 1. [Introduction](/civil-war-truth-1-introduction/)
 2. [Corporatism and Technocracy](/civil-war-truth-2-corporatism-technocracy/)

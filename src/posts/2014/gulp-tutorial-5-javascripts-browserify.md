@@ -2,22 +2,22 @@
 title: "Introduction to Gulp.js 5: Bundling JavaScript with Browserify"
 author: Stefan Imhoff
 date: 2014-10-22T08:00:00+02:00
-description: "The ultimative tutorial and guide for Gulp.js: How to bundle JavaScript files with Browserify and use CommonJS modules to structure and organize your code."
+description: "The ultimate tutorial and guide for Gulp.js: How to bundle JavaScript files with Browserify and use CommonJS modules to structure and organize your code."
 tags:
   - code
 series:
   - gulp
 ---
 
-This is the 5th part of my series _Introduction to Gulp.js_. Today I will show how to use Browserify to bundle your JavaScript and use CommonJS modules to run node modules in the Browser.
+This is the 5th part of my series, _Introduction to Gulp.js_. Today I will show how to use Browserify to bundle your JavaScript and use CommonJS modules to run node modules in the Browser.
 
 ## Browserify
 
-This task is a little more complex because I use [Browserify](http://browserify.org/) to bundle my JavaScript. If this is too complex for your needs you may just use [gulp-concat](https://www.npmjs.com/package/gulp-concat) to concatenate all your JavaScript files into one file.
+This task is more complex because I use [Browserify](http://browserify.org/) to bundle my JavaScript. If this is too complex for your needs, you may use [gulp-concat](https://www.npmjs.com/package/gulp-concat) to concatenate all your JavaScript files into one file.
 
-Browserify is an awesome tool, which allows you to use node modules in your browser. Over 70% of the node modules will run right away! And it will bundle up all of your dependencies. If you want to find out more about writing CommonJS modules for Browserify have a look into the documentation.
+Browserify is a wonderful tool, which allows you to use node modules in your browser. Over 70% of the node modules will run! And it will bundle up all of your dependencies. If you want to find out more about writing CommonJS modules for Browserify, have a look at the documentation.
 
-This task I saw in the <del>gulp-starter</del> <ins>[blendid](https://github.com/vigetlabs/blendid)</ins>. It’s quite long but clever. It allows creating multiple files with Browserify. I create two files. One file is loaded in the head of my website containing _Modernizr_ and one file with the rest of my JavaScript at the bottom.
+This task I saw in the <del>gulp-starter</del> <ins>[blendid](https://github.com/vigetlabs/blendid)</ins>. It’s long but clever. It allows the creation of multiple files with Browserify. I create two files. One file is loaded in the head of my website containing _Modernizr_ and one file with the rest of my JavaScript at the bottom.
 
 ## Creating JavaScript files with Browserify
 
@@ -133,7 +133,7 @@ gulp.task("scripts", function (callback) {
 });
 ```
 
-This task has some additional utilities for handling errors and logging the bundling process. Put these into a `util` folder in your `gulp` folder:
+This task has additional utilities for handling errors and logging the bundling process. Put these into a `util` folder in your `gulp` folder:
 
 #### gulp/util/bundleLogger.js
 
@@ -177,14 +177,14 @@ module.exports = function () {
 		})
 		.apply(this, args);
 
-	// Keep gulp from hanging on this task
+	// Keep gulp from hanging on to this task
 	this.emit("end");
 };
 ```
 
 ## Using CommonJS Modules
 
-Writing CommonJS modules is quite nice. You just export your function, object, string, integer, or whatever you like to export as a module or just individually:
+Writing CommonJS modules is nice. You export your function, object, string, or integer, you like to export as a module or individually:
 
 #### math.js
 
@@ -208,7 +208,7 @@ module.exports = {
 };
 ```
 
-Later you import your modules and use them:
+Later, you import your modules and use them:
 
 #### increment.js
 
@@ -265,9 +265,9 @@ I open my `package.json` file and need to add a few lines:
 }
 ```
 
-In the section `"browser"` you point `browserify-shim` to the asset you want to shim. I use [Bower](https://bower.io/) and have installed my packages into `app/_bower_components/`. The name you choose is the name you have to require later in your JavaScripts.
+In the section `"browser"` you point `browserify-shim` to the asset you want to shim. I use [Bower](https://bower.io/) and have installed my packages into `app/_bower_components/`. The name you choose is the name you have to require later in your JavaScript.
 
-Within `"browerify-shim"` you decide where to map this require to. To include jQuery or Modernizr later you would write:
+Within `"browerify-shim"` you decide where to map this `require` to. To include jQuery or Modernizr later you would write:
 
 #### app/assets/javascripts/head.js
 
@@ -289,6 +289,6 @@ You have to run `npm install` once you added a new entry to your `package.json` 
 
 ## Conclusion
 
-This concludes the 5th part of my series _Introduction to Gulp.js_. We learned how to use Browserify to bundle JavaScript files, how to use CommonJS modules to run node in your Browser, and how to use non-CommonJS JavaScript files.
+This concludes the 5th part of my series, _Introduction to Gulp.js_. We learned how to use Browserify to bundle JavaScript files, how to use CommonJS modules to run Node in your Browser, and how to use non-CommonJS JavaScript files.
 
 {% more "View Source on GitHub", "https://github.com/kogakure/gulp-tutorial", true %}

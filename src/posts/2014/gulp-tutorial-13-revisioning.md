@@ -2,18 +2,18 @@
 title: "Introduction to Gulp.js 13: Revisioning"
 author: Stefan Imhoff
 date: 2014-10-30T07:45:00+02:00
-description: "The ultimative tutorial and guide for Gulp.js: How to use revisioning to allow long caching of your assets and replace them  with hashed file names, that can be cache busted."
+description: "The ultimate tutorial and guide for Gulp.js: How to use revisioning to allow long caching of your assets and replace them  with hashed file names, that can be cache-busted."
 tags:
   - code
 series:
   - gulp
 ---
 
-This is the 13th part of my series _Introduction to Gulp.js_. Today I will write the task to revision my static assets.
+This is the 13th part of my series, _Introduction to Gulp.js_. Today I will write the task to revise my static assets.
 
 ## Copy Vector Fonts for Production
 
-Before I can work on the fun part of revisioning my asset files I first have to write another boring and short task, which is doing just one simple thing: Copy the fonts to the production assets folder.
+Before I can work on the fun part of revisioning my asset files, I first have to write another boring and short task, which is doing one simple thing: Copying the fonts to the production assets folder.
 
 #### gulp/config.js
 
@@ -45,13 +45,13 @@ gulp.task("copy:fonts:production", function () {
 
 ## Revisioning
 
-Optimizing of my assets is done. But one important thing is missing: Revisioning.
+Optimizing my assets is done. But one important thing is missing: Revisioning.
 
-For better performance, one should always cache the assets for a very long time. Hard drives are huge these days but speed for requesting assets isn’t still that awesome (especially on mobile). But one problem occurs if you cache the assets on a hard drive of a visitor. If you update a file, the browser will still serve the old file. And if you cache it for 10 years the user will never get the new asset, unless s/he deletes the browser cache manually. But which user does this?
+For better performance, one should always cache the assets for a long time. Hard drives are huge these days, but the speed for requesting assets isn’t that wonderful (on mobile devices). But one problem occurs if you cache the assets on a hard drive of a visitor. If you update a file, the browser will serve the old file. And if you cache it for 10 years, the user will never get the new asset, unless s/he deletes the browser cache manually. Yet what user does this?
 
-That’s why we need to rename every file that has been changed to invalidate the cache. I remember the days when we had to add a number by hand to our assets like `image_r1.png`, `image_r2.png`. This sucks. Today reading the content of a file and generating a checksum can achieve this easier. This checksum will be always the same unless something gets changed.
+That’s why we need to rename every file that has been changed to invalidate the cache. I remember the days when we had to add a number manually to our assets, like `image_r1.png`, or `image_r2.png`. This sucks. Today, reading the content of a file and generating a checksum can achieve this easier. This checksum will always be the same unless something gets changed.
 
-My next task will rename all assets. This way the `application.css` will become `application-f084d03b.css`. If I change just one dot in this file it will get a new filename.
+My next task will rename all assets. This way, the `application.css` will become `application-f084d03b.css`. If I change one tiny thing in this file, it will get a new filename.
 
 I install `gulp-rev`, which will handle this renaming of assets:
 
@@ -91,7 +91,7 @@ var rev = require("gulp-rev");
 var config = require("../../config").revision;
 
 /**
- * Revision all asset files and
+ * Revision of all asset files and
  * write a manifest file
  */
 gulp.task("revision", function () {
@@ -107,7 +107,7 @@ gulp.task("revision", function () {
 
 ## Replacing Paths to Assets
 
-The last step of my production build is to replace all occurrences of assets with a revisioned file name in all files.
+The last step of my production build is to replace all occurrences of assets with a revised file name in all files.
 
 This task will need `gulp-rev-collector` to replace the paths names to assets:
 
@@ -128,7 +128,7 @@ collect: {
 }
 ```
 
-I replace these paths only in files I know they could contain paths to assets. Don’t include any images or binary files. Revision collector will try to open them and destroy most binary files.
+I replace these paths in files I know could contain paths to assets. Don’t include any images or binary files. The revision collector will try to open them and destroy binary files.
 
 #### gulp/tasks/production/rev-collector.js
 
@@ -146,12 +146,12 @@ gulp.task("rev:collect", function () {
 });
 ```
 
-This task will look into the `manifest.json` file and replace every path to one of the assets in every HTML, CSS, JavaScript, and Text, etc.
+This task will look into the `manifest.json` file and replace every path to one of the assets in every HTML, CSS, JavaScript, and Text.
 
 The production build is finished! Only one thing is missing to complete this series of tutorials about Gulp.js: Deploying the Website to my server.
 
 ## Conclusion
 
-This concludes the 13th part of my series _Introduction to Gulp.js_. Today we learned how to revision the asset files and replace links to these files.
+This concludes the 13th part of my series, _Introduction to Gulp.js_. Today we learned how to revise the asset files and replace links to these files.
 
 {% more "View Source on GitHub", "https://github.com/kogakure/gulp-tutorial", true %}

@@ -2,7 +2,7 @@
 title: "The Gods of the Copybook Headings: A Warning Against Loss of Virtue, Morality, and Reason"
 date: 2021-06-12T10:00:00+02:00
 author: Stefan Imhoff
-description: A modern interpretation of Rudyard Kiplings great poem.
+description: A modern interpretation of Rudyard Kipling’s great poem.
 tags:
   - poetry
   - featured
@@ -10,15 +10,15 @@ tags:
 
 {% youtube "37ARLInjLVE" %}
 
-A few months ago I stumbled over the poem <cite>The Gods of the Copybook Headings</cite> by _Rudyard Kipling_. I had never heard of the poem before, but the [visual interpretation of the poem](https://www.youtube.com/watch?v=37ARLInjLVE) by filmmaker and author [Lauren Southern](https://laurensouthern.net/) put me under a spell. I watched it over and over again and can recite the poem from my memory.
+A few months ago, I stumbled over the poem <cite>The Gods of the Copybook Headings</cite> by _Rudyard Kipling_. I had never heard of the poem before, but the [visual interpretation of the poem](https://www.youtube.com/watch?v=37ARLInjLVE) by filmmaker and author [Lauren Southern](https://laurensouthern.net/) put me under a spell. I watched it over and over again and can recite the poem from my memory.
 
-As a _mostly_ reasonable person with political center-left libertarian views, I’m utterly frustrated with the ongoing global movement against reason that accelerated over the last 5 years. The poem echoes this feeling.
+As a reasonable person with political center-left libertarian views, I’m utterly frustrated with the ongoing global movement against reason that accelerated over the last 5 years. The poem echoes this feeling.
 
 ## Historical Background
 
-The poem was released into a deeply confusing and worrying time. The First World War had killed 17 Million people—Kiplings son one of them—and the Spanish flu killed additional 59-100 Million people between 1918-1920.
+The poem was released at a deeply confusing and worrying time. The First World War had killed 17 Million people—Kipling’s son one of them—and the Spanish flu killed an additional 59-100 Million people between 1918-1920.
 
-Disillusioned from the war Pacifism became popular, Patriotism unpopular, and religion and morality suffered a major setback.
+Disillusioned from the war, Pacifism became popular, Patriotism unpopular, and religion and morality suffered a major setback.
 
 The Russian Revolution had removed the Tsar in 1917 and many people looked at Marxist socialism as the solution to all humanity’s problems.
 
@@ -28,13 +28,13 @@ The poem is his warning.
 
 ## Copybook Headings
 
-![A page from a 19th-century copybook, in which the printed headings have been copied. The homily is paraphrased from a 17th-century sermon of Isaac Barrow, Against Detraction — “Good nature like a bee, collects honey from every herb. Ill nature, like a spider, sucks poison from the flowers.”](/assets/images/posts/copybook-headings.jpg)
+![A page from a 19th-century copybook, in which the printed headings have been copied. The homily is paraphrased from a 17th-century sermon of Isaac Barrow, Against Detraction — “Good nature, like a bee, collects honey from every herb. Ill nature, like a spider, sucks poison from the flowers.”](/assets/images/posts/copybook-headings.jpg)
 
 Copybook Headings were lined pages with short wisdom, aphorisms, or verses at the top, used to practice cursive writing. The student was challenged to repeat the sentence a few dozen times on the page and by doing not only learned the handwriting but took in the wisdom and morals transmitted from one generation to another.
 
 ## The Poem
 
-The poem was released in London on 26th October 1919 in the _Sunday Pictorial_. In 1920 it was released in the USA under the title <cite>The Gods of the Copybook Margins.</cite>
+The poem was released in London on 26th October 1919 in the _Sunday Pictorial_. In 1920, it was released in the USA under the title <cite>The Gods of the Copybook Margins</cite>.
 
 It is a poem with ten stanzas, each with four lines (Quatrains) with a rhyme scheme of AABB CCDD.
 
@@ -47,7 +47,7 @@ The poem is a conservative poem. Its basic message is that everything progressiv
 > Peering through reverent fingers I watch them flourish and fall, \
 > And the Gods of the Copybook Headings, I notice, outlast them all.
 
-The poet travels metaphorically through different times and as different people and bows to the _Gods of the Marketplace_.
+The poet travels metaphorically through different times and as different people, and bows to the _Gods of the Marketplace_.
 
 The _Gods of the Marketplace_, are those <q>temporary fads like Dutch tulip bulbs, dot-com stocks, mortgage-backed securities, and […] carbon credits,</q>[^levinson2011kv] writes _William A. Levinson_. These gods are promises and ideas, social progress, and delusory ideologies that despise the truth. The 20th century had no shortage of these ideas, even though Kipling didn’t know about the harm that Socialism, Fascism, or Nazi ideology would unleash on the world.
 
@@ -62,11 +62,11 @@ But all these bad ideas will fail and crumble and the _Gods of the Copybook Head
 > But we found them lacking in Uplift, Vision and Breadth of Mind, \
 > So we left them to teach the Gorillas while we followed the March of Mankind.
 
-The poet tells the story that these laws were there from the beginning. Early humans learned from the errors others made: Fire will burn you, poisonous berries will make you sick, a predator will eat you. This common knowledge became stories and turned into myths over time.[^peterson2017yx]
+The poet tells the story that these laws were there from the beginning. Early humans learned from the errors others made: Fire will burn you, poisonous berries will make you sick, and a predator will eat you. This common knowledge became stories and turned into myths over time.[^peterson2017yx]
 
 But new gods arrived that looked more promising: progress, money, wealth, or comfort. Humanity forgot the common knowledge and wisdom and moved on.
 
-Not every progress is good for the individual. While agriculture led to an explosion in the growth of population, it resulted in declined health of humans and higher mother and child mortality. Less food variation resulted in malnutrition. Dense living conditions with other humans and animals, poor sewage, and waste conditions resulted in declined health. The bones and skulls of those humans were much smaller than their hunter-gatherer ancestors.[^curnoe2017dn] We can see this even today, where most people need their wisdom tooth’s removed because they don’t fit in the jaw, because we don’t chew hard things anymore.
+Not every progress is good for the individual. While agriculture led to an explosion in the growth of population, it resulted in declined health of humans and higher mother and child mortality. Less food variation resulted in malnutrition. Dense living conditions with other humans and animals, poor sewage, and waste conditions resulted in declining health. The bones and skulls of those humans were much smaller than their hunter-gatherer ancestors.[^curnoe2017dn] We can see this even today, where most people need their wisdom tooth’s removed because they don’t fit in the jaw because we don’t chew hard things anymore.
 
 ### Stanza 3
 
@@ -77,7 +77,7 @@ Not every progress is good for the individual. While agriculture led to an explo
 
 The _Gods of the Marketplace_ end civilizations that ignore common knowledge and objective truth.
 
-Where the hunter-gatherer knew <q>if I hunt two monkeys today, I have to walk twice as long tomorrow,</q> the humans that follow the ideas of the Marketplace don’t learn. Again and again, we can see them failing.
+Where the hunter-gatherer knew <q>if I hunt two monkeys today, I have to walk twice as long tomorrow,</q> the humans who follow the ideas of the Marketplace don’t learn. Again and again, we can see them failing.
 
 Be it Rome that fell through decadence and politics unable to defend the Empire against invading barbarians, or the Maya that created cities with millions of inhabitants, artificial soil, and streets but destroyed themselves with endless war and unrestrained extraction of natural resources.
 
@@ -94,19 +94,19 @@ We live in a time filled with lies that deny objective truth and create pseudo-r
 
 Large parts of the world honesty believe that Black people are hunted by racist police in the streets. Instead of researching the topic to get to the truth, the self-proclaimed social justice warriors replace their social media profile images with black images to show solidarity. This doesn’t help to solve the structural problems of Black communities but gives a quick way of feeling self-righteous and morally superior.
 
-But when investigated the stories begin to crumble quickly. The “Black Lives Matter” organization was founded on a lie repeating the mantra <q>Hands up, don’t shoot</q> of the _Michael Brown_ case.[^elder2020aa] More worrying is that the organization was founded by confessing Marxists. The founders have ties to the radical-left terrorist organization “The Weather Underground” which bombed buildings like _The Capitol_ and _Pentagon_ in the 60s and 70s.[^kohls2020aa]
+But when investigated, the stories begin to crumble quickly. The “Black Lives Matter” organization was founded on a lie repeating the mantra <q>Hands up, don’t shoot</q> of the _Michael Brown_ case.[^elder2020aa] More worrying is that the organization was founded by confessing Marxists. The founders have ties to the radical-left terrorist organization “The Weather Underground” which bombed buildings like _The Capitol_ and _Pentagon_ in the 60s and 70s.[^kohls2020aa]
 
-Until recently they stated one of their goals was the “destruction of the nuclear family.” The organization is used every four years to help the Democrats win elections. It is used to transfer billions of donations through dubious channels to political agitators, most money will likely never reach Black communities. Even the mother of _Breonna Taylor_, a victim of a police shooting, called the organization a fraud.[^byrne2021pl] The co-founder however grew exceptionally rich for a Marxist since she started the organization.[^vincent2021en]
+Until recently, they stated one of their goals was the “destruction of the nuclear family.” The organization is used every four years to help the Democrats win elections. It is used to transfer billions of donations through dubious channels to political agitators, the money will likely never reach Black communities. Even the mother of _Breonna Taylor_, a victim of a police shooting, called the organization a fraud.[^byrne2021pl] The co-founder, however, grew exceptionally rich for a Marxist since she started the organization.[^vincent2021en]
 
-While they claim Blacks are hunted in the streets by racist cops, the real number of shot unarmed Blacks for 2019 was between 13-27 (depending on the database), the numbers for Whites are slightly higher.[^mccaffree2021li] Taking the crime and murder rate to the proportion of the US population these numbers are easily explained.
+While they claim Blacks are hunted in the streets by racist cops, the number of shot unarmed Blacks for 2019 was between 13-27 (depending on the database), and the numbers for Whites are higher.[^mccaffree2021li] Taking the crime and murder rate to the proportion of the US population these numbers are explained.
 
-Though each shooting is tragic, it’s far from being a major problem considering that the police conducts over 300 million checks each year.
+Though each shooting is tragic, it’s far from being a major problem, considering that the police conduct over 300 million checks each year.
 
-The big elephant in the room on the other hand is regularly ignored by everybody: **93%** of Black murder victims are murdered by Blacks.[^sherman2013rw]
+The big elephant in the room, on the other hand, is regularly ignored by everybody: **93%** of Black murder victims are murdered by Blacks.[^sherman2013rw]
 
 Murder is the leading cause of death for Black males between 15-34.[^qiu2014mo] The absence of a father in the home is one of the reasons for the high crime rate in Black communities. **72%** of Black children (in some cities more than 80%) are born out of wedlock.[^jacobson2013cp] The Father Absence Crisis is _the_ major problem of the Black Community.[^steward2013aa]
 
-The riots and looting of 2020 and the defunding or abolishing of the police in some cities in the USA resulted in massively increasing murder rates (Portland reported a 2,000% surge)[^faria2021qg] and destroyed communities for decades. As _Thomas Sowell_ noted, many black ghettos are still desolated decades after the race riots of the 60s.[^sowell2013aa]
+The riots and looting of 2020 and the defunding or abolishing of the police in cities in the USA resulted in massively increasing murder rates (Portland reported a 2,000% surge)[^faria2021qg] and destroyed communities for decades. As _Thomas Sowell_ noted, many black ghettos are still desolated decades after the race riots of the 60s.[^sowell2013aa]
 
 Ironically, it’s mostly white progressives who want to abolish the police in Black neighborhoods, **81%** of Blacks want the same level or more of policing.[^gillespie2020dv]
 
@@ -116,13 +116,13 @@ Women’s sports are in the progress of being eradicated by biological males com
 
 Aggressive male criminals can self-identify in California as female and are transferred to women’s prisons where they are put together with biological women.[^emmons2020en] Soon women’s shelters might be forced to take in biological males, that self-identify as female.[^desanctis2021db]
 
-Gender dysphoria in Swedish teen girls is up 1,500 percent since 2008.[^dms2020ck] Teenage girls are insecure and prone to social peer pressure which explains the sky-rocking numbers with whole groups of girls coming out as ”Trans” or “Non-Binary.” In some countries, it’s possible to use puberty blockers or even sex reassignment surgery without the consent of the parents. This results in irreversible damage that can’t be reversed should the child change their mind later.[^robbins2018sc][^jackson2020cv]
+Gender dysphoria in Swedish teen girls is up 1,500 percent since 2008.[^dms2020ck] Teenage girls are insecure and prone to social peer pressure, which explains the sky-rocking numbers with whole groups of girls coming out as ”Trans” or “Non-Binary.” In some countries, it’s possible to use puberty blockers or even sex reassignment surgery without the consent of the parents. This results in irreversible damage that can’t be reversed should the child change their mind later.[^robbins2018sc][^jackson2020cv]
 
-Radical activists try to compel speech and intimidate others to recognize the 70+ made-up gender pronouns while it is perfectly possible to respect any transgender with the existing two pronouns.
+Radical activists try to compel speech and intimidate others to recognize the 70+ made-up gender pronouns, while it is perfectly possible to respect any transgender with the existing two pronouns.
 
-The denial of objective truth shows itself in the invention of words like <q>birthing person</q> (mother), <q>chestfeeding</q> (breastfeeding), or in statements like <q>men can menstruate and give birth</q> or <q>a trans-woman is a woman</q> which are objectively false.
+The denial of objective truth shows itself in the invention of words like <q>birthing person</q> (mother), <q>chest feeding</q> (breastfeeding), or in statements like <q>men can menstruate and give birth</q> or <q>a trans-woman is a woman</q> which are objectively false.
 
-Attacks on scientists of biology or evolution biology increased in the last years. Multiple scientists retracted their papers out of fear of being canceled. _Naval Ravikant_ said in a recent interview: <q>Biology will suffer the most. Synthetic biology, for example, a lot of this will end up in China, because you won’t be able to map facts and reality and actions together.</q>[^rogan2019ul]
+Attacks on scientists of biology or evolution biology increased in the last few years. Multiple scientists retracted their papers out of fear of being canceled. _Naval Ravikant_ said in a recent interview: <q>Biology will suffer the most. Synthetic biology, for example, a lot of this will end up in China because you won’t be able to map facts and reality and actions together.</q>[^rogan2019ul]
 
 The denial of objective truth will not only endanger women and children but drive all science of biology into foreign countries, resulting in a huge scientific knowledge drain.
 
@@ -133,11 +133,11 @@ The denial of objective truth will not only endanger women and children but driv
 > But when we disarmed They sold us and delivered us bound to our foe, \
 > And the Gods of the Copybook Headings said: “Stick to the Devil you know.”
 
-The _Cambrian_ is a reference to the Welsh _Lloyd George_, prime minister during World War I. He negotiated the peace treaty in Versailles in 1919. The disarmament of the Germans was negotiated but at the same time the disarmament of the winners. The peace didn’t hold for long and Germany rearmed in secrecy.
+The _Cambrian_ is a reference to the Welsh _Lloyd George_, prime minister during World War I. He negotiated the peace treaty in Versailles in 1919. The disarmament of the Germans was negotiated but at the same time the disarmament of the winners. The peace didn’t hold for long, and Germany rearmed in secrecy.
 
-This stanza is a warning to believe nobody that promises lasting peace. A country needs to ensure it’s always able to defend its values and borders (if needed with violence) against aggressors or it will cease to exist.
+This stanza is a warning to believe nobody who promises lasting peace. A country needs to ensure it’s always able to defend its values and borders (if needed with violence) against aggressors, or it will cease to exist.
 
-If you don’t, you will get conditions like France, were 226 people where killed by Islamic terrorists between 2011 and 2021.[^ap2020wm] The parallel societies grew so dangerous in the past years, that the police don't go anymore into some cities districts. 20 retired generals and 1,000 soldiers warned in April 2021 in an open letter,[^bbcnews2021eu] followed by another warning, signed by 130,000 people, that a civil war might soon break out.[^bbcnews2021uf]
+If you don’t, you will get conditions like France, where 226 people were killed by Islamic terrorists between 2011 and 2021.[^ap2020wm] The parallel societies grew so dangerous in the past years, that the police don't go anymore into some city districts. 20 retired generals and 1,000 soldiers warned in April 2021 in an open letter,[^bbcnews2021eu] followed by another warning, signed by 130,000 people, that a civil war might soon break out.[^bbcnews2021uf]
 
 It is important to be able to defend oneself because <q>a harmless man is not a good man. A good man is a very, very dangerous man, who has that under voluntary control,</q> as _Jordan B. Peterson_ stated.
 
@@ -150,19 +150,19 @@ One can become worried about the security of Western values and way of life when
 > Till our women had no more children and the men lost reason and faith, \
 > And the Gods of the Copybook Headings said: “The Wages of Sin is Death.”
 
-The _Feminian Sandstones_ is a reference to the emancipation of women. The stanza is also a reference to relaxed sexual morality.
+The _Feminian Sandstones_ is a reference to the emancipation of women. The stanza is additionally a reference to relaxed sexual morality.
 
-The results of the sexual revolution and women in the workforce are positive for the individual. But the plunging birthrates in most Western countries are a serious threat to these countries. If the fertility rate falls below the replacement level, a population is unable to recover and will die out. Problems arise much earlier with an aging population because social security systems, health care, and retirement plans stop working.
+The results of the sexual revolution and women in the workforce are positive for the individual. But the plunging birthrates in Western countries are a serious threat to these countries. If the fertility rate falls below the replacement level, a population is unable to recover and will die out. Problems arise much earlier with an aging population because social security systems, health care, and retirement plans stop working.
 
-The stable nuclear family is in decline, with one-person households increasing dramatically. Senseless One-Night-Stands, pornography, girls making their income as prostitutes on OnlyFans are a side-effect of constantly lowered sexual morality. Finding a partner is reduced to dating apps, where people get “swiped” by their looks.
+The stable nuclear family is declining, with one-person households increasing dramatically. Senseless One-Night-Stands, pornography, and girls making their income as prostitutes on OnlyFans are a side effect of constantly lowered sexual morality. Finding a partner is reduced to dating apps, where people get “swiped” by their looks.
 
-Children are hypersexualized and objectified in TV shows like “Cuties” or “AJ, and the Queens”, indoctrinated into the idea that sex is a “spectrum”, that women and men are biologically the same and are exposed to porn long before they reach puberty.
+Children are hypersexualized and objectified in TV shows like “Cuties” or “AJ, and the Queens”, indoctrinated into the idea that sex is a “spectrum”, that women and men are biologically the same, and are exposed to porn long before they reach puberty.
 
-The rate of STDs in the USA hit a record high for the 6th year in a row in 2019, with 2.5 million Americans having either chlamydia, gonorrhea, or syphilis infections. Less than 20 years ago these infections were at a historic low or close to elimination.[^rt2021kd]
+The rate of STDs in the USA hit a record high for the 6th year in a row in 2019, with 2.5 million Americans having either chlamydia, gonorrhea, or syphilis infections. Less than 20 years ago, these infections were at a historic low or close to elimination.[^rt2021kd]
 
 Secularism is on the rise and people search for meaning in substitute gods like money, fame, identity politics, or social justice.
 
-As _Martin S. Spiller_ writes: <q>Without sexual morality, the traditional social contract based on trust between the sexes would vanish, and the people would eventually abandon marriage. Without marriage, the family, the most basic unit of any civilization would wither and die.</q>[^spiller2000]
+As _Martin S. Spiller_ writes: <q>Without sexual morality, the traditional social contract based on trust between the sexes would vanish, and the people would eventually abandon marriage. Without marriage, the family, the most basic unit of any civilization, would wither and die.</q>[^spiller2000]
 
 ### Stanza 7
 
@@ -171,15 +171,15 @@ As _Martin S. Spiller_ writes: <q>Without sexual morality, the traditional socia
 > But, though we had plenty of money, there was nothing our money could buy, \
 > And the Gods of the Copybook Headings said: “If you don’t work you die.”
 
-This stanza is a reference to lending money to pay off debt or handing out free money which is the common way of many countries these days to deal with problems. This will not work for much longer, inflation (or even hyperinflation) will be the result. Rich people already move their money into cryptocurrencies and other assets to prevent the devaluation of their assets.
+This stanza is a reference to lending money to pay off debt or handing out free money, which is the common way in many countries these days to deal with problems. This will not work for much longer, inflation (or even hyperinflation) will be the result. Rich people move their money into cryptocurrencies and other assets to prevent the devaluation of their assets.
 
-As _Elon Musk_ put it in quite harsh words on _Joe Rogans_ Podcast: <q>Now let me just break it to you, the fools out there. If you don’t make stuff, there’s no stuff.</q>[^rogan1470]
+As _Elon Musk_ put it in harsh words on _Joe Rogan’s_ Podcast: <q>Now let me just break it to you, the fools out there. If you don’t make stuff, there’s no stuff.</q>[^rogan1470]
 
-Socialism is again high in favor in Western countries, particularly by the educated, bored, upper-middle-class that live everyday a comfortable life through the means of capitalist production while at the same time rail against it.
+Socialism is again high in favor in Western countries, particularly among the educated, bored, upper-middle-class that live every day a comfortable life through the means of capitalist production while at the same time rail against it.
 
 They paint capitalism as the devil even though it cut extreme poverty (less than $1.90 per day) in half between 1990 and 2010.[^murphy2018ez][^mitchell2018qu][^rosling2015lc]
 
-It seems we never learn from our past. More and more people want to destroy the current way of life. Everywhere people talk about a restart of “how we live” or a “Great Reset.” These utopian ideas always end in bloodshed and millions of dead people, because you can’t create a society on the drawing board. <q>Communism doesn’t know how</q>[^lindsay2021ut] which is why it fails each time. 100 million dead people should have been enough to learn that it won’t work, but it seems like it doesn’t.
+It seems we never learn from our past. More and more people want to destroy the current way of life. Everywhere, people talk about a restart of “how we live” or a “Great Reset.” These utopian ideas always end in bloodshed and millions of dead people because you can’t create a society on the drawing board. <q>Communism doesn’t know how</q>[^lindsay2021ut] which is why it fails each time. 100 million dead people should have been enough to learn that it won’t work, but it seems like it doesn’t.
 
 ### Stanza 8
 
@@ -188,17 +188,17 @@ It seems we never learn from our past. More and more people want to destroy the 
 > That All is not Gold that Glitters, and Two and Two make Four— \
 > And the Gods of the Copybook Headings limped up to explain it once more.
 
-When an idea or dogma is failing and it becomes obvious how bad it was the liars either double down and try to keep the lie alive for as long as possible or they disappear.
+When an idea or dogma is failing, and it becomes obvious how bad it was, the liars either double down and try to keep the lie alive for as long as possible, or they disappear.
 
-We can see this now regarding the Corona crisis. The crisis will not be remembered for its virus, because the death rate is only around 0.13%.[^margolis2020aa] It will be remembered, because of how incompetent, corrupt, and authoritarian our political leaders, news media, the science community, and Big Tech reacted to the crisis.
+We can see this now regarding the Corona crisis. The crisis will not be remembered for its virus because the death rate is only around 0.13%.[^margolis2020aa] It will be remembered, because of how incompetent, corrupt, and authoritarian our political leaders, news media, the science community, and Big Tech reacted to the crisis.
 
-I remember how everybody rallied around ventilators in spring 2020. Buying ventilators was the most important political topic for weeks. Sick people were put on ventilators early on. The image of ventilators was used as a tactic to intimidate people into social distancing and masking. A few doctors knew all along what is now known: Putting people on ventilators kills them in **50%** of the cases (regardless of their condition).[^thompson2020wr] There are much better methods without ventilators that result in a drastically reduced death rate for intensive care patients. But the specialists were silenced, censored, or removed from social media. Hundred thousand died needlessly by wrong medical care. Politicians moved sick elderly back into senior homes everywhere, where they infected each other and died.[^posteditorialboard2021kc] These were not COVID-19 deaths, but deaths caused by incompetent politicians.
+I remember how everybody rallied around ventilators in the spring of 2020. Buying ventilators was the most important political topic for weeks. Sick people were put on ventilators early on. The image of ventilators was used as a tactic to intimidate people into social distancing and masking. A few doctors knew all along what is now known: Putting people on ventilators kills them in **50%** of the cases (regardless of their condition).[^thompson2020wr] There are much better methods without ventilators that result in a drastically reduced death rate for intensive care patients. But the specialists were silenced, censored, or removed from social media. A hundred thousand died needlessly of wrong medical care. Politicians moved sick elderly back into senior homes everywhere, where they infected each other and died.[^posteditorialboard2021kc] These were not COVID-19 deaths, but deaths caused by incompetent politicians.
 
 Masks and lockdowns were presented as the one perfect solution to prevent infections, but the data after a year shows countries without mask mandates or lockdowns had similar death rates.[^mcmaken2020qu]
 
-Drugs as Hydroxychloroquine and Ivermectin were (and still are) rejected by large parts of the medical community, even though the doctors could see the results of their effectiveness in their patients. Especially Ivermectin has proven itself highly effective in multiple meta-studies as a drug for prevention, treatment, and possibly even to treat Post-COVID or vaccine side effects.[^weinstein2021zr]
+Drugs such as Hydroxychloroquine and Ivermectin were (and still are) rejected by large parts of the medical community, even though the doctors could see the results of their effectiveness in their patients. Ivermectin has proven itself highly effective in multiple meta-studies as a drug for prevention, treatment, and possibly even to treat Post-COVID or vaccine side effects.[^weinstein2021zr]
 
-The further the time will progress the more scandals around COVID will come to light. Sharing the “right-wing” _Lab Leak Hypothesis_ one year ago could have gotten a person de-platformed, and now it’s a broadly accepted hypothesis. Big Tech and media prevented this story from discussing. Now they retroactively stealth edit old articles, push forward all kinds of reasons why they got it _so_ wrong, and blame others.[^hlusa2021ag][^watson2021pa]
+The further the time will progress, the more scandals around COVID-19 will come to light. Sharing the “right-wing” _Lab Leak Hypothesis_ one year ago could have gotten a person deplatformed, and now it’s a broadly accepted hypothesis. Big Tech and the media prevented this story from discussing. Now they retroactively stealth edit old articles, push forward all kinds of reasons why they got it _so_ wrong, and blame others.[^hlusa2021ag][^watson2021pa]
 
 ### Stanza 9
 
@@ -209,15 +209,15 @@ The further the time will progress the more scandals around COVID will come to l
 
 This stanza is a depressing realization that humanity will not learn from its mistakes. We will repeat them again, and again, and again.
 
-Bad ideas like Socialism, Communism, or Fascism are kept alive or are revived. It’s 2021 and we have again concentration camps in China and the world pretends nothing happened because we don’t want to risk our business opportunities with China.
+Bad ideas like Socialism, Communism, or Fascism are kept alive or revived. It’s 2021, and we have again concentration camps in China and the world pretends nothing happened because we don’t want to risk our business opportunities with China.
 
 Racist, sexists, anti-scientific, anti-reason, postmodernist ideas like <q>Critical Theory</q> are pushed into the education system and companies and destroy these institutions[^nayna2019qz] unless brave people stand up against these toxic ideas.[^pachal2020gj][^monroe2021im]
 
-People get segregated by race, have to disavow their “whiteness” or acknowledge their “privilege.” People of color that don’t subscribe to these ideas are labeled “race traitor”, “Uncle Tom”, “or not being authentically (race/sex/sexual orientation).”
+People get segregated by race, and have to disavow their “whiteness” or acknowledge their “privilege.” People of color that doesn't subscribe to these ideas are labeled “race traitor”, “Uncle Tom”, “or not being authentically (race/sex/sexual orientation).”
 
-Identity politics divide people into smaller and smaller sub-categories that fight each other. Discourse is shut down with compelled speech codes, trigger warnings, or safe spaces. People are bullied into compliance, are harassed, doxed, or fired from their jobs for disagreeing.
+Identity politics divide people into smaller and smaller sub-categories that fight each other. Discourse is shut down with compelled speech codes, trigger warnings, or safe spaces. People are bullied into compliance, harassed, doxed, or fired from their jobs for disagreeing.
 
-And a lot of progressives don’t understand the ideas behind these movements that look often appealing. We won’t learn unless we burn our fingers again.
+And many progressives don’t understand the ideas behind these movements that look appealing. We won’t learn unless we burn our fingers again.
 
 ### Stanza 10
 
@@ -226,23 +226,23 @@ And a lot of progressives don’t understand the ideas behind these movements th
 > As surely as Water will wet us, as surely as Fire will burn, \
 > The Gods of the Copybook Headings with terror and slaughter return!
 
-The last stanza is the 4th thing that is certain from the previous stanza. It is a closing loop to previous stanzas. The _brave new world_ is a reference to Shakespeare’s _The Tempest_, Act V. scene 1 line 183. The title for Huxley’s _Brave New World_ is derived from Shakespeares’ play. The utopian novel has a lot of references to our times.
+The last stanza is the 4th thing that is certain from the previous stanza. It is a closing loop to previous stanzas. The _brave new world_ is a reference to Shakespeare’s _The Tempest_, Act V. scene 1 line 183. The title for Huxley’s _Brave New World_ is derived from Shakespeare’s play. The utopian novel has numerous references to our times.
 
 The conservative commentator _Michael Knowles_ was recently asked by _Chris Williamson_ on his podcast if we live currently more in _Brave New World_ or _1984_. He answered that we live 10% in _1984_ and 90% in _Brave New World_.[^williamson2021uf]
 
-Reaching for Utopia (greek “not a place”) results always in a Dystopia (greek “bad place”). Utopian ideologies are **psychopathic** and arise from the inability to live in the reality.[^lindsay2020aa]
+Reaching for Utopia (Greek “not a place”) always results in a Dystopia (Greek “bad place”). Utopian ideologies are **psychopathic** and arise from the inability to live in the reality.[^lindsay2020aa]
 
 There will be no war, that ends all wars, no “Great Reset”, no restart without getting rid of millions of people that don’t subscribe to the idea. <q>All zero-point ideologies were devastating and always resulted in totalitarian systems or totalitarian thinking,</q> stated Prof. _Nobert Bolz_ in a recent podcast.[^muller-ullrich2021bu] He fears that the Western world is again in a situation where serious intellectuals are thinking about whether we could go back to zero, construct a new form of society and economy, a new human nature.
 
-The pandemic or climate crisis offers convenient reasons to justify authoritarian or totalitarian ideas for “the greater good.” The German _Supreme Court_ already hinted that massive personal restrictions might be justified to reach the climate goals.[^escritt2021ap]
+The pandemic or climate crisis offers convenient reasons to justify authoritarian or totalitarian ideas for “the greater good.” The German _Supreme Court_ hinted that massive personal restrictions might be justified to reach the climate goals.[^escritt2021ap]
 
-A recent survey asked how many Germans would be willing to pay every month to stop climate change. If I remember correctly the number was below € 20 per month. Even at the risk of disillusioning large numbers of my readers, every German (including children and senior citizens) would have to pay between **€ 300** and **€ 600** net every month **for the next 30 years** in order to reach the climate goals of the Paris Agreement.[^unger2021pf] And this would reduce Germany’s global CO₂ emissions from **2%** to **1%**, which is as much savings as China generates _additionally_ each year.[^unger2021pf] It will not only destroy the country’s competitiveness, make the energy supply unreliable, but also have no measurable effect. Neither will stopped eating meat. But if the self-righteous voters demand measures from the politicians, that will be exactly what we are given.
+A recent survey asked how many Germans would be willing to pay every month to stop climate change. If I remember correctly, the number was below €20 per month. Even risking disillusioning large numbers of my readers, every German (including children and senior citizens) would have to pay between **€300** and **€600** net every month **for the next 30 years** to reach the climate goals of the Paris Agreement.[^unger2021pf] This would reduce Germany’s global CO₂ emissions from **2%** to **1%**, which is as many savings as China generates _additionally_ each year.[^unger2021pf] It will not only destroy the country’s competitiveness, and make the energy supply unreliable, but have no measurable effect. Neither will stop eating meat. But if the self-righteous voters demand measures from the politicians, that will be what we are given.
 
-So be prepared to have fewer (or no) flights in the future, to lose your car, and be restricted in your movement and freedoms. If you think the COVID-19 restrictions were bad, you have no clue what is coming.
+Be prepared to have fewer (or no) flights in the future, lose your car, and be restricted in your movement and freedoms. If you think the COVID-19 restrictions were bad, you have no clue what is coming.
 
 All these endeavors ignore human nature, reason, personal liberty, and self-determination. To achieve a reset one would have to suppress, intimidate, incarcerate, reeducate, or even kill millions of people. I don’t think any sane person would like to live in a totalitarian, digitalized surveillance state like China is currently building. We have to call out and shame people that push for these ideas before it is too late.
 
-Reality will **always** win, _eventually_. The question is to what price. A lie doesn’t become true, because everybody wants it to be true. _The Gods of the Copybook Headings_ can’t be ignored, without paying a high price.
+Reality will **always** win, _eventually_. But to what price? A lie doesn’t become true because everybody wants it to be true. _The Gods of the Copybook Headings_ can’t be ignored, without paying a high price.
 
 [^levinson2011kv]: William A. Levinson (2011): [The Revenge of the Gods of the Copybook Headings](https://www.americanthinker.com/articles/2011/08/the_revenge_of_the_gods_of_the_copybook_headings.html)
 [^peterson2017yx]: Jordan B. Peterson (2017): [2017 Maps of Meaning: The Architecture of Belief (University of Toronto)](https://www.youtube.com/playlist?list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h)

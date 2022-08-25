@@ -13,14 +13,14 @@
 	},
 	{
 		"id": "3",
-		"name": "Resberry Red",
+		"name": "Raspberry Red",
 		"description": "The rich purplish red of raspberries.",
 		"color": "#8E354A"
 	},
 	{
 		"id": "4",
 		"name": "Old Rose",
-		"description": "A soft, light red; a washed-out vermillion.",
+		"description": "A soft, light red; a washed-out vermilion.",
 		"color": "#F8C3CD"
 	},
 	{
@@ -50,7 +50,7 @@
 	{
 		"id": "9",
 		"name": "Rose Pink",
-		"description": "The pale vermillion of classic pink roses.",
+		"description": "The pale vermilion of classic pink roses.",
 		"color": "#E87A90"
 	},
 	{
@@ -74,7 +74,7 @@
 	{
 		"id": "13",
 		"name": "Rose Gray",
-		"description": "Gray with a hint of rose red.",
+		"description": "Gray with a hint of rose-red.",
 		"color": "#9E7A7A"
 	},
 	{
@@ -104,7 +104,7 @@
 	{
 		"id": "18",
 		"name": "Old Rose",
-		"description": "A faded rose red.",
+		"description": "A faded rose-red.",
 		"color": "#BF6766"
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"id": "25",
 		"name": "Cardinal",
-		"description": "A vivid red, named for the color of the cassocks worn by cardianls of the Roman Catholic Church.",
+		"description": "A vivid red, named for the color of the cassocks worn by cardinals of the Roman Catholic Church.",
 		"color": "#AB3B3A"
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"id": "40",
 		"name": "Mahogany",
-		"description": "The deep reddish-brwon of mahogany wood.",
+		"description": "The deep reddish-brown of mahogany wood.",
 		"color": "#854836"
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"id": "49",
 		"name": "Indian Pink",
-		"description": "A pale vermillion.",
+		"description": "A pale vermilion.",
 		"color": "#FB966E"
 	},
 	{
@@ -308,13 +308,13 @@
 	{
 		"id": "52",
 		"name": "Melon Pink",
-		"description": "The orange-pink of canteloupe melon.",
+		"description": "The orange-pink of cantaloupe melon.",
 		"color": "#DB8E71"
 	},
 	{
 		"id": "53",
-		"name": "Orange Vermillion",
-		"description": "A strong orange vermillion.",
+		"name": "Orange Vermilion",
+		"description": "A strong orange vermilion.",
 		"color": "#F05E1C"
 	},
 	{
@@ -1004,7 +1004,7 @@
 	{
 		"id": "168",
 		"name": "Turquoise Blue",
-		"description": "The vivid blue green of turquoises.",
+		"description": "The vivid blue-green of turquoises.",
 		"color": "#268785"
 	},
 	{
@@ -1034,7 +1034,7 @@
 	{
 		"id": "173",
 		"name": "Horizon Blue",
-		"description": "The pale sky blue visible on the horizon.",
+		"description": "The pale sky-blue visible on the horizon.",
 		"color": "#A5DEE4"
 	},
 	{
@@ -1082,7 +1082,7 @@
 	{
 		"id": "181",
 		"name": "Goblin Blue",
-		"description": "A dull blue green.",
+		"description": "A dull blue-green.",
 		"color": "#336774"
 	},
 	{
@@ -1184,7 +1184,7 @@
 	{
 		"id": "198",
 		"name": "Royal Blue",
-		"description": "A rich pruplish blue associated with the British royal family.",
+		"description": "A rich purplish blue associated with the British royal family.",
 		"color": "#0B346E"
 	},
 	{
@@ -1304,7 +1304,7 @@
 	{
 		"id": "218",
 		"name": "Purple",
-		"description": "A mixture of red and blue, with many hies, including lavender and lilca; the unmodified term usually refers to a reddish purple.",
+		"description": "A mixture of red and blue, with many hies, including lavender and lilac; the unmodified term usually refers to a reddish purple.",
 		"color": "#592C63"
 	},
 	{

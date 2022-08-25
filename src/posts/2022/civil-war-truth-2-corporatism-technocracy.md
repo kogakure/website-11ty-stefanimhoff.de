@@ -12,7 +12,7 @@ tags:
 
 ## Corporatism
 
-It’s nearly impossible to separate these days Politics and Economy from each other. Most Western countries are already captured by blunt corporatism.
+It’s nearly impossible to separate, these days, Politics, and the Economy from each other. Blunt corporatism captures most Western countries.
 
 Corporatism is the economic policy component of fascism, an ideology thought up by Giovanni Gentile.[^dsouza2017mo] It is <q>economic totalitarianism as practiced by Mussolini and Hitler.</q>[^dilorenzo1994uv] Mussolini was praised by many people, including Winston Churchill, who admired him <q>as late as 1940.</q>[^dilorenzo1994uv]
 
@@ -21,47 +21,47 @@ Corporatism is the economic policy component of fascism, an ideology thought up 
 >
 > **Benito Mussolini**[^ideas2021hh]
 
-This revived trend is worrying because when governments and corporations work together they can create a lot of evil. The state can outsource things that aren’t legal to corporations (such as censorship), or use companies for the enforcement of laws they wouldn’t have the resources for otherwise (such as checking COVID passports). And the corporations can control the market and harm the people if they go unchecked by the legislative branch.
+This revived trend is worrying because when governments and corporations work together they can create a lot of evil. The state can outsource things that aren’t legal to corporations (such as censorship), or use companies for the enforcement of laws they wouldn’t have the resources for otherwise (such as checking COVID-19 passports). And corporations can control the market and harm the people if they go unchecked by the legislative branch.
 
 Everybody in Washington knows that the laws are made by companies and financial institutes and not by politicians. This is the same in most Western Democracies. It prevents good candidates from entering politics, drives away the few good politicians left, and leaves us with a _Kakistocracy_, a system of government run by the worst, least qualified, or most unscrupulous citizens.
 
 Most politics these days is political theater, what Chris Williamson coined as _Performative Disagreement_ in his interview with General Robert Spalding.[^williamson2022ud]
 
-We could observe this in the primaries of the US elections in 2019 when candidates like Kamala Harris accused Joe Biden indirectly of being a racist because he opposed public school buses and worked with segregationists in his past.[^breuninger2019gm] She also accused him indirectly of rape when she said she believed Biden’s accusers for sexual misconduct.[^burke2019hj] After she lost in the primaries she was picked as his running mate nevertheless, proving the political theater. This trend can be observed not just in the USA, but throughout Western Democracies.
+We could observe this in the primaries of the US elections in 2019 when candidates like Kamala Harris accused Joe Biden indirectly of being a racist because he opposed public school buses and worked with segregationists in his past.[^breuninger2019gm] She accused him indirectly of rape when she said she believed Biden’s accusers for sexual misconduct.[^burke2019hj] After she lost in the primaries she was picked as his running mate, nevertheless, proving the political theater. This trend can be observed not just in the USA, but throughout Western Democracies.
 
-And the growing influence of unelected organizations like the World Economic Forum (WEF) under Klaus Schwab and their direct influence on politicians and companies is a worrying trend. The WEF is in reality only an exchange for Corporatism, even if they call it euphemistic <q>Public-Private Partnerships</q>.[^matuschek2022gv]
+And the growing influence of unelected organizations like the World Economic Forum (WEF) under Klaus Schwab and their direct influence on politicians and companies is a worrying trend. The WEF is in reality only exchange for Corporatism, even if they call it euphemistic <q>Public-Private Partnerships</q>.[^matuschek2022gv]
 
-Klaus Schwab bragged publicly already in 2017 how his followers had <q>penetrated</q> all political cabinets.[^schwab2017aw] A huge amount of rising politicians are already part of his “Young Global Leaders” program.
+Klaus Schwab bragged publicly in 2017 about how his followers had <q>penetrated</q> all political cabinets.[^schwab2017aw] A huge amount of rising politicians are part of his “Young Global Leaders” program.
 
-Luckily, it seems to begin to fail. Mary Woods, professor of Global Economic Governance at the University of Oxford complained at the WEF conference in November 2021, that the people stop following their leaders:
+Luckily, it begins to fail. Mary Woods, professor of Global Economic Governance at the University of Oxford complained at the WEF conference in November 2021, that the people stop following their leaders:
 
 > At Davos a few years ago, the Edelman survey showed us the good news is that the elites across the world trust each other more and more. So we can come together and design and do beautiful things together. The bad news is that in every single country they were polling, the majority of people trusted their elite less. So we can lead, but if people aren’t following, we’re not going to get to where we want to go.
 >
 > **Mary Woods**, _The World Economic Forum’s Great Narrative Conference_, November 2021 (via [James Lindsay](https://twitter.com/ConceptualJames/status/1484355983082094598))
 
-## Lobbyism, Sponsoring and Corruption
+## Lobbyism, Sponsoring, and Corruption
 
-Current politics in most Western Democracies are flooded with problems like nepotism, insider trading, and corruption. All of this is illegal, but nearly never do politicians get held accountable. And it doesn’t matter in which country you look, be it Nancy Pelosi in the US continuously benefitting on the stock market from her inside knowledge,[^zilber2022sc] or the corruption affair of the current German chancellor during his time as mayor of Hamburg city.[^latsch2022le] But there is another legal form of corruption.
+Current politics in Western Democracies are flooded with problems like nepotism, insider trading, and corruption. All of this is illegal, but nearly never do politicians get held accountable. And it doesn’t matter in which country you look, be it, Nancy Pelosi, in the US continuously benefitting from the stock market from her inside knowledge,[^zilber2022sc] or the corruption affair of the current German chancellor during his time as mayor of Hamburg city.[^latsch2022le] But there is another legal form of corruption.
 
 Lobbyism is a growing problem in Western Democracies. In Germany, only donations to political parties that exceed €50,000 need to be specified. Yearly donations over €10,000 need to go into the annual report. In 2021 alone, all German political parties received more than €11.6 million in donations, as Sahra Wagenknecht, a politician of the party _Die Linke_ mentions in her report. The Ministry of Health received €60 million in donations from corporations.[^wagenknecht2022qo]
 
 Worrying are also the continued donations of the _Bill & Melinda Gates Foundation_ to politicians, education, and science. The “German Society for International Cooperation” (GIZ) received 2021 over \$138 million in donations from the foundation. It is a company that works together with the Development Assistance Ministry and other ministries.[^wallasch2022ih]
 
-Another huge problem for hidden corruption is sponsoring political events because it is completely exempt from any reporting. A party congress can easily exceed 50 corporate sponsors, each paying between €10,000 and €20,000 for a booth.[^winter2019yu] The party congress of the SPD, the leading German party, was sponsored by Pfizer, DocMorris, and Microsoft, all beneficiaries of the Corona crisis.[^wagenknecht2022qo]
+Another huge problem for hidden corruption is sponsoring political events because it is exempt from any reporting. A party congress can easily exceed 50 corporate sponsors, each paying between €10,000 and €20,000 for a booth.[^winter2019yu] The party congress of the SPD, the leading German party, was sponsored by Pfizer, DocMorris, and Microsoft, all beneficiaries of the Corona crisis.[^wagenknecht2022qo]
 
-Sahra Wagenknecht mentions another problem: The revolving door effect. Politicians that work in a specific resort together with Lobbyists of a company get often promoted into well-payed positions in exactly those companies later. A department head responsible for contracts for the Corona warn-app given to the Deutsche Telekom got shortly after a lucrative position at the Telekom.[^wagenknecht2022qo]
+Sahra Wagenknecht mentions another problem: The revolving door effect. Politicians that work in a specific resort together with Lobbyists of a company get often promoted into well-payed positions in exactly those companies later. A department head responsible for contracts for the Corona warn-app given to Deutsche Telekom got shortly after a lucrative position at Telekom.[^wagenknecht2022qo]
 
 This <q>continual interchange of personnel (…) between business and government (…) create[s] a state within the state to serve private interests which are not always in harmony with the general interests of the nation.</q>[^dilorenzo1994uv]
 
-These legal, intransparent tricks to buy influence into legislation should be outlawed and called what it is: **corruption**.
+These legal, non-transparent tricks to buy influence into legislation should be outlawed and called what it is: **corruption**.
 
 ## A Loss of Separation of Powers
 
-An important fundamental base for liberal democracy is the division of a state’s government into different branches: legislative, executive, and judicature. In theory, they are not allowed to reach over the borders into another branch. In a dictatorship, the dictator decides on the laws, decides who to punish, and sometimes even does the execution himself.
+An important fundamental base for liberal democracy is the division of a state’s government into different branches: legislative, executive, and judicature. In theory, they are not allowed to reach over the borders into another branch. In a dictatorship, the dictator decides on the laws, decides whom to punish, and sometimes even does the execution himself.
 
-During COVID, but starting already in the years earlier, these lines got blurry. In a lot of countries, it’s common practice to appoint former politicians to the position of a federal judge. Former German chancellor Angela Merkel placed her political friend Stephan Harbarth as president in the Supreme Court. This move was useful for her during the Corona crisis. The Supreme Court didn’t touch any one of the over 10,000 lawsuits against Corona restrictions in the two years of the pandemic and then ruled all measurements to be constitutional.[^rbb242021qk] This is the opposite of what for example the Spanish Supreme Court or the New Zealand Supreme Court ruled. This government-friendly ruling by the German Supreme Court might be the result of a nightly dinner the former chancellor gave to the judges of the Supreme Court.[^focusonline2021hh]
+During COVID-19, but starting already in the years earlier, these lines got blurry. In many countries, it is common practice to appoint former politicians to the position of a federal judge. Former German chancellor Angela Merkel placed her political friend Stephan Harbarth as president of the Supreme Court. This move was useful for her during the Corona crisis. The Supreme Court didn’t touch any one of the over 10,000 lawsuits against Corona restrictions in the two years of the pandemic and then ruled all measurements to be constitutional.[^rbb242021qk] This is the opposite of what for example the Spanish Supreme Court or the New Zealand Supreme Court ruled. This government-friendly ruling by the German Supreme Court might be the result of a nightly dinner the former chancellor gave to the judges of the Supreme Court.[^focusonline2021hh]
 
-But not only the Supreme Court ruled worrying during the pandemic. There were uncounted cases of house searches and confiscations of property of judges, doctors, or scientists that spoke out against the measurements of the state. Most of them were baseless accusations and the cases were dismissed, but it still is an effective tool to punish critics. Critics get raided, computers get confiscated (sometimes for months), and the press smears their names. Even if it is unjustified, the damage is done. These worrying tendencies have damaged the population’s trust in the legal system for a long time.
+But not only the Supreme Court ruled, worrying during the pandemic. There were uncounted cases of house searches and confiscations of property of judges, doctors, or scientists that spoke out against the measurements of the state. Most of them were baseless accusations and the cases were dismissed, but it still is an effective tool to punish critics. Critics get raided, computers get confiscated (sometimes for months), and the press smears their names. Even if it is unjustified, the damage is done. These worrying tendencies have damaged the population’s trust in the legal system for a long time.
 
 And the executive branch didn’t increase their trust either. The uncounted beatings of demonstrators around the world will be a stain on that branch for decades. Police don’t deserve our trust anymore.
 
@@ -69,11 +69,11 @@ It is shocking how violent they have been against demonstrators. The images of p
 
 ## Misuse of Emergency Powers
 
-During COVID-19 we saw a worrying misuse of emergency powers. Some countries, like Germany, implemented new laws, other countries already had laws in place, some of them implemented as the result of the War on Terrorism.
+During COVID-19, we saw a worrying misuse of emergency powers. Some countries, like Germany, implemented new laws, other countries already had laws in place, and some of them were implemented as the result of the War on Terrorism.
 
 It is a rule of nature that powers once gained are very rarely given away voluntarily. We have to be all the more careful about the powers we give to politicians.
 
-Maajid Nawaz mentioned on Joe Rogan’s podcast just three examples of state powers that were never given away.[^rogan2022yc] Egypt has a constitution that protects ideas, but it is suspended for over 20 years since 1981 after the assassination of Anwar Sadat. The Patriot Act was introduced as a result of 9/11 and allowed the state to extend its surveillance to spy on regular citizens of the USA. The imminent threat is over, but the law is still in place. The UK implemented a law that removed the “right to remain silent” and treated it as a criminal offense in the name of fighting terrorism.
+Maajid Nawaz mentioned on Joe Rogan’s podcast just three examples of state powers that were never given away.[^rogan2022yc] Egypt has a constitution that protects ideas, but it is suspended for over 20 years since 1981 after the assassination of Anwar Sadat. The Patriot Act was introduced as a result of 9/11 and allowed the state to extend its surveillance to spy on regular citizens of the USA. The imminent threat is over, but the law is still in place. The UK implemented a law that removed the “right to remain silent” and treated it as a criminal offense for fighting terrorism.
 
 COVID-19 was used as an excuse to remove basic rights of citizens as the right to free speech, the right to peacefully assembly, and the right to bodily integrity.
 
@@ -89,25 +89,25 @@ COVID-19 was used as an excuse to remove basic rights of citizens as the right t
 >
 > **Maajid Nawaz**, _The Joe Rogan Experience 1780 – Maajid Nawaz_[^rogan2022yc]
 
-These laws were rushed in without the consent of the people, and without a vote during an election, in many cases by decree. They were applied often in hypocritical ways to preserve the powers of the state, for example by forbidding “bad” demonstrations against measurements and restrictions and allowing “good” demonstrations for social causes like “Black Lives Matter” or the environment.
+These laws were rushed in without the consent of the people, and without a vote during an election, often by decree. They were applied often in hypocritical ways to preserve the powers of the state, for example by forbidding “bad” demonstrations against measurements and restrictions and allowing “good” demonstrations for social causes like “Black Lives Matter” or the environment.
 
-Canada used its emergency laws, implemented against terrorism and catastrophes, to freeze the bank accounts of Truckers that demonstrated against mandatory vaccination. This was a blunt violation of a law meant for a completely different case. And even worse, it was the first state-driven use of de-banking as a weapon against civilians.
+Canada used its emergency laws, implemented against terrorism and catastrophes, to freeze the bank accounts of Truckers that demonstrated against mandatory vaccination. This was a blunt violation of a law meant for an entirely different case. And even worse, it was the first state-driven use of de-banking as a weapon against civilians.
 
 The most worrying thing is that Trudeau not only froze the accounts of the Truckers but the accounts of every person helping in any form _retroactively_. This means that people selling petrol or ice cream to the Truckers got their bank accounts frozen (sometimes for many weeks) because they did something in the past which was not illegal at that time.
 
-David Sacks mentions how bad the negative consequences will be because this precedent makes it dangerous to donate to any political cause that might collide with the interests of the state in the future. This will damage the trust in government and the finance system for a long time.[^sacks2022py]
+David Sacks mentions how bad the negative consequences will be because this precedent makes it dangerous to donate to any political campaign that might collide with the interests of the state in the future. This will damage the trust in government and the finance system for a long time.[^sacks2022py]
 
 ## The Oligarchs and Technocratic Elites
 
-Corporations merge into monopolies or oligarchies. We have Big Oil, Big Food, Big Finance, and Big Pharma. Most industries of the world are controlled by a handful of companies. Black Rock and Vanguard own the world. And governments don’t want or can’t control these tendencies. The existing anti-trust laws are rarely applied.
+Corporations merge into monopolies or oligarchies. We have Big Oil, Big Food, Big Finance, and Big Pharma. Most industries of the world are controlled by a handful of companies. Black Rock and Vanguard own the world. And governments don’t want or can’t control these tendencies. The existing antitrust laws are rarely applied.
 
 The elite meets in Davos at the World Economic Forum (WEF). They don’t even hide their dystopian agenda, but proudly praise a technocratic future.
 
 > Welcome to 2030. I own nothing, have no privacy, and life has never been better.
 
-This is an actual quote from the WEF website which was removed after a huge backlash. Their plans for a “Great Reset” are often considered a conspiracy theory, but it is the actual book title of Klaus Schwabs’ book.
+This is a quote from the WEF website, which was removed after a massive backlash. Their plans for a “Great Reset” are considered a conspiracy theory, but it is the book title of Klaus Schwabs’ book.
 
-Most people are too lazy to read what these technocrats plan for us and instead believe the “Fact Checkers” bought by the same people that assure us, it’s all not true. Until it is.
+People are too lazy to read what these technocrats plan for us and instead believe the “Fact Checkers” bought by the same people that assure us, it’s all not true. Until it is.
 
 The Federal Ministry of Education and Research of Germany commissioned a study in 2020 about the future in 2030 with the title <cite>The Future of Values Held By People in Our Country</cite>.[^bmfbuf2020ah] Hidden in the full text of the study at the end of a modern, friendly, and fancy-looking website they openly fantasize about the introduction of a social credit score system that will reward people who do volunteer work, care for relatives, donate their organs, safe for retirement, behave in traffic and have a low carbon footprint with faster and easier access to education.
 
@@ -119,7 +119,7 @@ The Federal Ministry of Education and Research of Germany commissioned a study i
 
 Hidden behind marketing speech and euphemistic language, camouflaged as a hypothetical scenario, a social credit system as implemented in China is being flirted with. In blunt corporatist language, they want to additionally allow companies to benefit from your behavior.
 
-Sometimes I despise the TV Show <cite>Black Mirror</cite>, because it seems technocrats use it as a source of ideas and not a warning. They also regularly get inspired by <cite>1984</cite>, <cite>Brave New World</cite>, and <cite>Fahrenheit 451</cite>.
+Occasionally, I despise the TV Show <cite>Black Mirror</cite> because it seems technocrats use it as a source of ideas and not a warning. They also regularly get inspired by <cite>1984</cite>, <cite>Brave New World</cite>, and <cite>Fahrenheit 451</cite>.
 
 Comedian Tim Dillon joked about listening to conversations between technocrats on [Clubhouse](https://www.clubhouse.com/).
 
@@ -129,15 +129,15 @@ He remarks how <q>cold and calculated</q> they are. Listening to them <q>would b
 
 The wet dreams of these technocrats is a future with a central digital currency that can be controlled at will and allow governments or corporations to ensure the money is only spent on things they deem sensible.[^rogan2022yc]
 
-The coming automation and progress in robotics and AI will result in huge parts of the population not being needed anymore. The resulting basic income, combined with digital passports, and constant surveillance that can track your health or mood, will allow governments to crush any dissent.
+The coming automation and progress in robotics and AI will result in massive parts of the population not being needed anymore. The resulting basic income, combined with digital passports, and constant surveillance that can track your health or mood, will allow governments to crush any dissent.
 
 They advertise eating bugs[^fleming2018xl] or synthetic meat[^shieber2021jc] to the masses, while they surely continue eating the best steak. And while you are asked to <q>shower not daily anymore to save energy,</q>[^anti-spiegel2022ak] they fly with private jets to Climate Change Conferences,[^newsau2021yw] preach about rising sea levels while at the same time buy villas near the ocean.[^vujinovic2020gg] They think we’re stupid.
 
-There will be soon a huge class of dispossessed people that rent everything from the technocrats. It will start with convenience, but once renting replaced everything, it is easy to restrict and limit the movement of people. Nobody would ever think of introducing a social credit system, right? Linking all those things together will allow them to easily remove your access to liberty, money, movement, or food with the click of a mouse if you utter criticism or don’t behave as expected.
+There will be soon a gigantic class of dispossessed people that rent everything from the technocrats. It will start with convenience, but once renting replaced everything, it is easy to restrict and limit the movement of people. Nobody would ever think of introducing a social credit system, right? Linking all those things together will allow them to easily remove your access to liberty, money, movement, or food with the click of a mouse if you utter criticism or don’t behave as expected.
 
 ---
 
-This is the second part of a seven-part series that investigates why the last 10 years were uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate our political division.
+This is the second part of a seven-part series that investigates, why the last 10 years were uniquely turbulent with ever-increasing political division, rampant censorship, and growing authoritarianism. The next part will investigate our political division.
 
 1. [Introduction](/civil-war-truth-1-introduction/)
 2. _Corporatism and Corruption_

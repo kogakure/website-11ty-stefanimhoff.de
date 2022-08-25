@@ -13,15 +13,13 @@ With the release of the mobile versions of [Obsidian](https://obsidian.md/) last
 
 The mobile versions are fantastic. They support all plugins of the Desktop version, even community plugins.
 
-A few of the plugins do make not a lot of sense, though (like Sliding Panes on a mobile phone) and I hope a future version brings the option to turn off specific extensions _just_ on mobile.
-
-The mobile version has mobile-only settings, to customize the toolbar and quick action.
+The mobile version has additional settings for mobile, to customize the toolbar and quick action.
 
 ## Synchronization
 
-To sync between Desktop and mobile devices the Obsidian vaults have to be moved in an iCloud system folder.
+To sync between Desktop and mobile devices, the Obsidian vaults have to be moved to an iCloud system folder.
 
-The synchronization is super fast (I assume thanks to Apple CloudKit). It takes 2-3 seconds to see a change reflected live on another device.
+The synchronization is superfast (I assume thanks to Apple CloudKit). It takes 2-3 seconds to see a change reflected live on another device.
 
 ## My Updated Setup
 
@@ -47,24 +45,24 @@ You need to remove the `\` in front of `#gstatus` to get the script working. The
 
 {% endbanner %}
 
-I plan to run this script soon with a daemon in regular intervals.
+I plan to run this script soon with a daemon at regular intervals.
 
-The same vault is indexed into my [DEVONthink](https://devontechnologies.com/apps/devonthink) **Archive** database.
+The same vault is indexed in my [DEVONthink](https://devontechnologies.com/apps/devonthink) **Archive** database.
 
-And because the vault lives in iCloud, all changes in Obsidian or DEVONthink to any file are reflected immediately. DEVONthink supports the Markdown syntax of Obsidian which makes it very comfortable to edit files no matter in which of the two applications.
+And because the vault lives in iCloud, all changes in Obsidian or DEVONthink to any file are reflected immediately. DEVONthink supports the Markdown syntax of Obsidian, which makes it convenient to edit files regardless of which of the two applications.
 
-Obsidian has better tools for linking and thinking than DEVONthink, but DEVONthink is more powerful in storing reference items, analyzing text, tagging, and a lot of other features.
+Obsidian has better tools for linking and thinking than DEVONthink, but DEVONthink is more powerful in storing reference items, analyzing text, tagging, and plenty of other features.
 
 ## My Note-Taking Workflow
 
 When I come across an interesting article, quote, audio, or video, I capture the item as explained in my previous article [How I Process Information Into Notes](/processing-information-into-notes/).
 
-If it is text in an image I use the OCR feature to convert it into selectable text. I’m really curious how my workflow will improve with the upcoming Apple updates this fall, which will bring native text selection in images.
+If it is text in an image, I use the OCR feature to convert it into selectable text. I’m curious how my workflow will improve with the upcoming Apple updates this fall, which will bring native text selection in images.
 
-Articles I save always as Markdown to my reference database for later reference. The DEVONthink capture feature is one of the most useful features I know. It grabs the article, cleans it from advertising and layout elements, and converts it Markdown, including all links.
+Articles I always save as Markdown to my reference database for later reference. The DEVONthink capture feature is one of the most useful features I know. It grabs the article, cleans it from advertising and layout elements, and converts it to Markdown, including all links.
 
-I use the Markdown highlight feature (`==highlight==`) to mark interesting parts of the text. These parts get converted into permanent notes in Obsidian. To remember where I got the note from I create a new entry in a [BibDesk](https://bibdesk.sourceforge.io/) database (which lives inside my Obsidian vault in a subfolder) and add the reference key to the note.
+I use the Markdown highlight feature (`==highlight==`) to mark appealing parts of the text. These parts get converted into permanent notes in Obsidian. To remember where I got the note from, I create a new entry in a [BibDesk](https://bibdesk.sourceforge.io/) database (which lives inside my Obsidian vault in a subfolder) and add the reference key to the note.
 
 I tag my notes with hashtags (`#tag`) which I convert to system tags with DEVONthink.
 
-To link notes together I use the auto-complete feature of Obsidian to find related notes.
+To link notes together, I use the auto-complete feature of Obsidian to find related notes.
