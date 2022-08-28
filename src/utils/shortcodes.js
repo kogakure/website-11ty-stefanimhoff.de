@@ -21,8 +21,7 @@ module.exports = {
 			alt="${alt}"
 				class="book-cover"
 				src="${amazonImageUrl}"
-			/>
-		</a>`;
+			/></a>`;
 
 		return html;
 	},
@@ -55,10 +54,10 @@ module.exports = {
 		if (href) {
 			html = outdent`
 				<a
-					rel="nofollow noopener noreferrer external" 
-					target="_blank" 
-					href="${href}" 
-					class="flag" 
+					rel="nofollow noopener noreferrer external"
+					target="_blank"
+					href="${href}"
+					class="flag"
 					title="${label}"
 				>
 					<span class="flag-hidden" aria-hidden="true">[</span>${label}<span class="flag-hidden" aria-hidden="true">]</span></a>`;
@@ -72,11 +71,11 @@ module.exports = {
 	},
 	netflix: function (id) {
 		const html = outdent`
-			<a 
-				rel="nofollow noopener noreferrer external" 
-				target="_blank" 
-				href="https://www.netflix.com/title/${id}" 
-				class="flag flag-netflix" 
+			<a
+				rel="nofollow noopener noreferrer external"
+				target="_blank"
+				href="https://www.netflix.com/title/${id}"
+				class="flag flag-netflix"
 				title="Netflix"
 			>
 				<span class="flag-hidden" aria-hidden="true">[</span>N<span class="flag-hidden" aria-hidden="true">etflix]</span></a>`;
@@ -85,11 +84,11 @@ module.exports = {
 	},
 	primevideo: function (id) {
 		const html = outdent`
-		<a 
-			rel="nofollow noopener noreferrer external" 
-			target="_blank" 
-			href="https://www.amazon.de/gp/video/detail/${id}" 
-			class="flag flag-prime-video" 
+		<a
+			rel="nofollow noopener noreferrer external"
+			target="_blank"
+			href="https://www.amazon.de/gp/video/detail/${id}"
+			class="flag flag-prime-video"
 			title="Prime Video"
 		>
 			<span class="flag-hidden" aria-hidden="true">[</span>P<span class="flag-hidden" aria-hidden="true">rime Video]</span></a>`;
@@ -161,8 +160,7 @@ module.exports = {
 				<svg aria-hidden="true" viewBox="0 0 24 24" width="1em" height="1em">
 					<use xlink:href="#arrow-right"></use>
 				</svg>
-			</span>
-		</a>`;
+			</span></a>`;
 
 		return html;
 	},
@@ -204,7 +202,7 @@ module.exports = {
 		return outdent`
 		<div class="video-wrapper">
 			<iframe src="https://www.youtube.com/embed/${id}"
-				frameborder="0" allowfullscreen			 
+				frameborder="0" allowfullscreen
 				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
 			</iframe>
 		</div>`;
@@ -212,7 +210,7 @@ module.exports = {
 	odysee: function (id) {
 		return outdent`
 		<div class="video-wrapper">
-			<iframe id="lbry-iframe" src="https://odysee.com/$/embed/${id}" 
+			<iframe id="lbry-iframe" src="https://odysee.com/$/embed/${id}"
 				frameborder="0" allowfullscreen
 				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
 			</iframe>
