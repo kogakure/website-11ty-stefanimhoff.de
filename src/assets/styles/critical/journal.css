@@ -182,7 +182,7 @@
 	> h5,
 	> h6 {
 		font-size: var(--font-size-3);
-		margin-block-start: var(--space-10) !important;
+		margin-block-start: var(--space-14) !important;
 	}
 
 	> h2:first-of-type,
