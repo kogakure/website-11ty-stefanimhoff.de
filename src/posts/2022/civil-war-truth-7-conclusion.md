@@ -235,7 +235,7 @@ J. Michael Straczynski took Twain’s quote as inspiration and formulated this c
 >
 > **J. Michael Straczynski**, _The Amazing Spider-Man: Civil War_ (emphasis mine)
 
-In the early stages of society, you have the option to reject bad ideas. Use your right to vote, to remove unfit candidates from power. Use your voice to reject unjust policies. And if you can’t because the price you might have to pay is too high, you should follow the advice of Aleksandr Solzhenitsyn:
+In the early stages of a society that descents to Totalitarianism, you have the option to reject bad ideas. Use your right to vote, to remove unfit candidates from power. Use your voice to reject unjust policies. And if you can’t because the price you might have to pay is too high, you should follow the advice of Aleksandr Solzhenitsyn:
 
 > Let the lie come into the world, let it even triumph. But not through me.
 
