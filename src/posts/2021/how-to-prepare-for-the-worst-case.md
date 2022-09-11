@@ -125,10 +125,10 @@ I have an extensive amount of food in stock, all things I regularly consume and 
 ### Drinks
 
 - Water, _glass-bottled_ (20 l)
-- Apple Juice, _opened it lasts 6 months due to a vacuum_ (25 l)
+- Apple Juice, _opened it lasts 6 months due to a vacuum_ (40 l)
 - Orange Juice (10 l)
-- Breakfast Juice (6 l)
-- Dark Multivitamin Juice (6 l)
+- Breakfast Juice (10 l)
+- Dark Multivitamin Juice (10 l)
 
 ### Cooking
 
