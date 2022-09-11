@@ -41,12 +41,7 @@ module.exports = {
 		}
 
 		return outdent`
-		<aside>
-			<details ${isOpen} class="banner">
-				<summary>${summary}</summary>
-				${content}
-			</details>
-		</aside>`;
+		<aside><details ${isOpen} class="banner"><summary>${summary}</summary>${content}</details></aside>`;
 	},
 	flag: function (label, href) {
 		let html;
