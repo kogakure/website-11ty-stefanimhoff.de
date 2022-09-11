@@ -107,7 +107,7 @@ I subscribed to LanguageTool Premium because it has extra features. Enhanced gra
 
 [iA Writer](https://ia.net/writer) is my favorite app to write text. I write nearly everything with iA Writer. I have in my Apps, for example in Neovim, Visual Studio Code, and Obsidian a shortcut, to open the current document in iA Writer, make changes, save it and go back to the other application.
 
-With iA Writer, the writing is bliss. Focus mode allows writing distraction-free while highlighting the active sentence or paragraph. It supports powerful syntax highlights to spot weak verbs, repetition, and cutter. And a useful Style Check to remove fillers, clichés, and redundancies.
+With iA Writer, the writing is bliss. Focus mode allows writing distraction-free while highlighting the active sentence or paragraph. It supports powerful syntax highlights to spot weak verbs, repetition, and clutter. And a useful Style Check to remove fillers, clichés, and redundancies.
 
 The last update in iA Writer brought support for the WikiLink syntax that allows me to navigate and write notes on my Obsidian vault.
 
