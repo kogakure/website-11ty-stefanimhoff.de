@@ -34,7 +34,7 @@ Maajid Nawaz is sure that we are in the midst of a civil war, even though it’s
 >
 > **Maajid Nawaz**, <cite>The Joe Rogan Experience 1780 – Maajid Nawaz</cite>[^rogan2022yc]
 
-Neil Oliver, a British television presenter, archaeologist, and author, formulated a possible hypothesis in an interview with Bret Weinstein on why we don’t see physical violence in this civil war. The horrors of the 20th century were committed by generations who had seen and done terrible things. Neil Oliver has his doubts that the people who are running the show now, who were born and raised in peace, have the guts to do the necessary “wet work”.[^weinstein2022el]
+Neil Oliver, a British television presenter, archaeologist, and author, formulated a possible hypothesis in an interview with Bret Weinstein on why we don’t see physical violence in this civil war. The horrors of the 20th century were committed by generations who had seen and done terrible things. Neil Oliver has his doubts that the people who are running the show now, who were born and raised in peace, have the guts to do the necessary “wet work.”[^weinstein2022el]
 
 ## Enlightenment 2.0
 

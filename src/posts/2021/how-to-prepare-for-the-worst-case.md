@@ -164,7 +164,7 @@ I bought a {% affiliate "military rain poncho", "B00D9A4WRU" %}, recommended by 
 
 I have two bicycles, an older mountain bike with a suspension fork and a new [Cube Hyde Pro](https://archiv.cube.eu/2020/347200) city bike with a belt drive system. Those should be sufficient to leave the city when the energy is not restored after a week. I bought a few physical maps to reach my bug-out location by bike.
 
-When I was a teenager, I bought a {% affiliate "US military compass", "B08D774ZM8" %} that I own. Additionally, I have binoculars and a monocular. I’m thinking of buying a physical bike map of Germany.
+When I was a teenager, I bought a {% affiliate "US military compass", "B08D774ZM8" %} that I own. Additionally, I have binoculars and a monocular.
 
 ### Medicine, Health & Security
 
@@ -269,5 +269,4 @@ And yes, I bought the {% affiliate "Gadsden flag", "B085VRYBPH" %} sticker addit
 [^roussinos2021dl]: Aris Roussinos (2021): _This is how civilisations collapse_, <https://unherd.com/2021/11/this-is-how-civilisations-collapse/>.
 [^spiegel2017oz]: Der Spiegel (2017): _G20 in Hamburg: Eine Stadt im Ausnahmezustand_, <https://youtu.be/ojToYs6nCnk>.
 [^bundesheer2021dn]: Österreichs Bundesheer (2021): _Blackout - ein weiträumiger, eventuell gar europaweiter Stromausfall_, <https://youtu.be/mHWcOQ_7Y-U>.
-[^hanslik2018wu]: Christoph Hanslik, Matthias Dechant, Andreas Wetz, and Paul Poet (2018): _Ist Österreich auf einen Blackout vorbereitet?_, <https://www.addendum.org/blackout/>.
 [^poet2019ss]: Paul Poet (2019): _Was passiert, wenn der Strom wirklich länger ausfällt_, <https://youtu.be/UQR9xXNKojw>.
