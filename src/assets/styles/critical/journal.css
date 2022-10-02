@@ -128,13 +128,23 @@
 	}
 }
 
+/** Cover image */
+.journal-post-cover-image {
+	grid-column: 1 / -1;
+
+	@media (--tablet) {
+		grid-column: 1 / 13;
+		grid-row: 2;
+	}
+}
+
 /** Journal Detail Page Meta */
 .journal-post-meta {
 	grid-column: 2 / -2;
-	grid-row: 2;
 
 	@media (--tablet) {
 		grid-column: -6 / -3;
+		grid-row: 2;
 	}
 }
 
