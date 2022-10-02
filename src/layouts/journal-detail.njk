@@ -8,6 +8,11 @@ css: journal.css
 
 <article class="journal-post-container">
 	<h1 class="journal-post-title">{{ title | nbsp | safe }}</h1>
+	{% if cover %}
+		<div class="journal-post-cover-image">
+			<img src="/assets/images/covers/{{ cover }}" alt="{{ title }}" />
+		</div>
+	{% endif %}
 	<aside class="journal-post-meta">
 		<div class="journal-post-meta-author">
 			<em>By</em>
@@ -20,7 +25,7 @@ css: journal.css
 		</div>
 		<div class="journal-post-meta-time">
 			{{ content | striptags(true) | wordcount }}
-			<span class="journal-post-meta-time-fragment">words</span> • 
+			<span class="journal-post-meta-time-fragment">words</span> •
       {{ content | readingTime }}
 			<span class="journal-post-meta-time-fragment">read</span>
 		</div>
@@ -36,4 +41,3 @@ css: journal.css
 	</div>
 	{% include "pagination.njk" %}
 </article>
-

@@ -14,7 +14,7 @@ I plan to improve the internal documentation of my company’s Design System. I 
 
 Writing good text consists of two components, correct translation, and error-free, understandable writing.
 
-***
+---
 
 ## Translation
 
@@ -34,7 +34,7 @@ Full-page translations and full document translations are exclusive to the DeepL
 
 I’m using the [DeepL API](https://www.deepl.com/pro-api/) (500,000 characters are free per month) to directly translate in Raycast with the [Deepcast](https://www.raycast.com/mooxl/deepcast) application.
 
-***
+---
 
 ## Dictionaries & Thesaurus
 
@@ -77,7 +77,7 @@ The platform has good resources for learning English with games, lists, flashcar
 - [Jisho](https://jisho.org/) is a minimalistic Japanese dictionary, including animations and stroke order for Kanji.
 - [Tangorin](https://tangorin.com/) is a website with a dictionary and vocabulary lists of widely used learning systems like JLPT or Jōyō.
 
-***
+---
 
 ## Copywriting
 
