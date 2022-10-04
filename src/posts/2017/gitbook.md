@@ -9,7 +9,7 @@ tags:
 
 I finished writing my first book. I worked on it for the last six months. To be honest, I didn’t write it recently, but over 18 years.
 
-[![GitBook: kogakure](/assets/images/posts/gitbook-kogakure.jpg)](https://book.kogakure.de/)
+[![GitBook: kogakure](/assets/images/posts/gitbook-kogakure.jpg)](https://www.kogakure.de/)
 
 It was always available for _free_ for everyone on [my website](https://www.kogakure.de/). I started writing in 1999 with my first website, containing a collection of notes and thoughts about **Ninja** and their martial art, **Ninjutsu**.
 
@@ -70,7 +70,6 @@ And I needed to design a cover in two sizes for the book.
 ## Resources
 
 - Download **PDF**, **EPUB**, **Mobi** versions on [GitBook](https://github.com/kogakure/book-kogakure/releases)
-- Read the [online version](https://book.kogakure.de/) of the book
-- [Source code](https://github.com/kogakure/book-kogakure) of the book
-- Found an error, typo, or mistake? Report it [here](https://github.com/kogakure/book-kogakure/issues) or add a comment on the section of the book (opens a discussion)
-- The [website](https://www.kogakure.de/), which is the basis of the book
+- Read the [online version](https://www.kogakure.de/) of the book
+- [Source code](https://github.com/kogakure/website-11ty-kogakure.de) of the book
+- Found an error, typo, or mistake? Report it [here](https://github.com/kogakure/website-11ty-kogakure.de/issues).

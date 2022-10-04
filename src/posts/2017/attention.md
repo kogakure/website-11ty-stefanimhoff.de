@@ -82,7 +82,7 @@ These are a few of the things I did in the last few years to strengthen my aware
 - **I practice selective ignorance**. It’s not easy, but sometimes caring less is the best option, to get the attention back.
 - **I try not to use my headphones in the subway**. When I’m reading, I can practice focusing on the book and not on my surrounding. Sporadically, I intentionally do nothing but focus on the people in the subway.
 - **I read a lot about the brain and its weaknesses**. If you know all the biases and fallacies, you are less likely to be a victim of them.
-- **I read a lot about habit-forming, addiction, and multitasking** (which is not possible in humans). I try to do intentional single-tasking: reading,  eating, or watching a TV show, without the distraction of multiple other things at the same time.
+- **I read a lot about habit-forming, addiction, and multitasking** (which is not possible in humans). I try to do intentional single-tasking: reading, eating, or watching a TV show, without the distraction of multiple other things at the same time.
 - **I started living a [Minimalist](/minimalism/) life**. Fewer things mean less distraction and more attention to the things, which matter to you.
 - **I watch and consume intentionally positive, inspiring, creative and uprising** videos or texts (e.g., [TED Talks](https://www.ted.com/)), to change the ratio of positive to negative messages I hear about.
 
@@ -106,7 +106,7 @@ These are a few of the ideas I implemented or tried in the last few years to pre
 
 It’s not easy and sometimes even not possible at all to overcome the obstacles of attention-grabbing media with pure willpower. But by building habits of **mindful media consumption**, you might be able to get your attention back. Not every day, but it is a process worth working on. It’s not the device, it’s you. The device can be used to be creative, connect to other people, and be inspired. Or it can be used to distract yourself mindless for hours. It’s your choice.
 
-By following my advice, I was able to finish redesigning [two](https://www.kogakure.de/) [websites](https://hamburg.stefanimhoff.de/) and [wrote a book](https://book.kogakure.de/) this year.
+By following my advice, I was able to finish redesigning [two](https://www.kogakure.de/) [websites](https://hamburg.stefanimhoff.de/) and wrote a book this year.
 
 If you have read to this point, without being distracted, kudos! Now put down your phone and look out the window for a few minutes.
 
@@ -126,6 +126,6 @@ If you have read to this point, without being distracted, kudos! Now put down yo
 - [Have Smartphones Destroyed a Generation?](https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/) (The Atlantic)
 - [‘Our minds can be hijacked’: the tech insiders who fear a smartphone dystopia](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia) (The Guardian)
 - [Technology is destroying the most important asset in your life](https://qz.com/1091883/technology-is-destroying-the-most-important-asset-in-your-life/) (Quartz)
-- [Alarming Statistics That Show Just How Addicted We Are To Mobile Devices ](https://www.breakthetwitch.com/statistics-mobile-devices/)(Break the Twitch)
+- [Alarming Statistics That Show Just How Addicted We Are To Mobile Devices](https://www.breakthetwitch.com/statistics-mobile-devices/)(Break the Twitch)
 
 _This article was first published on [On Advertising](https://medium.com/on-advertising/) and featured by Medium._
