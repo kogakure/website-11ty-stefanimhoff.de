@@ -106,7 +106,7 @@ These are a few of the ideas I implemented or tried in the last few years to pre
 
 It’s not easy and sometimes even not possible at all to overcome the obstacles of attention-grabbing media with pure willpower. But by building habits of **mindful media consumption**, you might be able to get your attention back. Not every day, but it is a process worth working on. It’s not the device, it’s you. The device can be used to be creative, connect to other people, and be inspired. Or it can be used to distract yourself mindless for hours. It’s your choice.
 
-By following my advice, I was able to finish redesigning [two](https://www.kogakure.de/) [websites](https://hamburg.stefanimhoff.de/) and [wrote a book](https://book.kogakure.de/) this year.
+By following my advice, I was able to finish redesigning [two](https://www.kogakure.de/) [websites](https://hamburg.stefanimhoff.de/) and wrote a book this year.
 
 If you have read to this point, without being distracted, kudos! Now put down your phone and look out the window for a few minutes.
 

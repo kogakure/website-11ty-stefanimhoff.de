@@ -92,7 +92,7 @@
 		"categories": ["Writing", "Graphic Design"],
 		"text": "<p>I wrote this book in <strong>2017</strong> out of the essays I’ve written on my <a href='https://www.kogakure.de/en/' rel='nofollow noopener noreferrer external' target='_blank'>Martial Arts website</a> in the last 20 years. It’s a book in German about the Ninja and their secret art of Ninjutsu.</p><p>I also designed the book cover for my book. The book was written with <a href='https://www.gitbook.com/' rel='nofollow noopener noreferrer external' target='_blank'>GitBook</a> and can be read or downloaded for free as PDF, ePub, or Mobi eBook.</p>",
 		"linkText": "Read the Book",
-		"link": "https://book.kogakure.de/",
+		"link": "https://www.kogakure.de/",
 		"external": true,
 		"image": "/assets/images/projects/thumbnails/book-kogakure.jpg",
 		"class": "project-layout-50-end"
