@@ -1,0 +1,34 @@
+---
+permalink: sketchnotes.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+	<title>{{ site.title }} (Sketchnotes)</title>
+	<subtitle>{{ site.description }}</subtitle>
+	<link href="{{ site.url }}/haiku.xml" rel="self" type="application/atom+xml"/>
+	<link href="{{ site.url }}" rel="alternate" type="text/html"/>
+	<id>{{ site.url }}/sketchnotes/</id>
+	<author>
+		<name>{{ site.author }}</name>
+	</author>
+	{% include "feed-webfeeds.njk" %}
+	{% for sketchnote in sketchnotes | reverse %}
+		<entry>
+			<title>{{ sketchnote.title }}</title>
+			<link href="{{ site.url }}/haiku/{{ haiku.id }}/" />
+			<updated>{{ sketchnote.date | dateToISO }}</updated>
+			<id>{{ site.url }}/sketchnotes/{{ sketchnote.title | slugify }}/</id>
+			<content type="html">
+			<![CDATA[
+			<figure>
+				<img src="{{ site.url }}{{ sketchnote.image }}" alt="{{ sketchnote.title }}" />
+				{% if sketchnote.description %}
+				<figcaption>{{ sketchnote.description | safe }}</figcaption>
+				{% endif %}
+			</figure>
+			]]>
+			</content>
+		</entry>
+	{% endfor %}
+</feed>

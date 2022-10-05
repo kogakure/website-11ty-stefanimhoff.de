@@ -1,6 +1,7 @@
 [
 	{
 		"title": "This is Water 1",
+		"date": "2022-01-01",
 		"image": "/assets/images/sketchnotes/this-is-water-1.jpg",
 		"class": "sketchnotes-item-large",
 		"format": "landscape",
@@ -8,12 +9,14 @@
 	},
 	{
 		"title": "This is Water 2",
+		"date": "2022-01-02",
 		"image": "/assets/images/sketchnotes/this-is-water-2.jpg",
 		"format": "square",
 		"description": "I always wanted to do a Sketchnote for the Commencement Speech <strong>This Is Water</strong> to Kenyon College class of 2005 by the late <strong>David Foster Wallace</strong>."
 	},
 	{
 		"title": "Being a Good Listener",
+		"date": "2022-01-03",
 		"image": "/assets/images/sketchnotes/being-a-good-listener.jpg",
 		"class": "sketchnotes-item-medium",
 		"format": "landscape",
@@ -21,12 +24,14 @@
 	},
 	{
 		"title": "Better Conversation",
+		"date": "2022-01-04",
 		"image": "/assets/images/sketchnotes/better-conversation.jpg",
 		"format": "portrait",
 		"description": "A Sketchnote I did of the TED Talk <strong>Celeste Headlee</strong: <a href='https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation' rel='nofollow noopener noreferrer external' target='_blank'>10 ways to have a better conversation</a>."
 	},
 	{
 		"title": "Bikablo Practice 1",
+		"date": "2022-01-05",
 		"image": "/assets/images/sketchnotes/bikablo-practice-1.jpg",
 		"class": "sketchnotes-item-medium",
 		"format": "portrait",
@@ -34,6 +39,7 @@
 	},
 	{
 		"title": "Bikablo Practice 2",
+		"date": "2022-01-06",
 		"image": "/assets/images/sketchnotes/bikablo-practice-2.jpg",
 		"class": "sketchnotes-item-medium",
 		"format": "portrait",
@@ -41,6 +47,7 @@
 	},
 	{
 		"title": "Bikablo Practice 3",
+		"date": "2022-01-07",
 		"image": "/assets/images/sketchnotes/bikablo-practice-3.jpg",
 		"class": "sketchnotes-item-large",
 		"format": "portrait",
@@ -48,6 +55,7 @@
 	},
 	{
 		"title": "Bikablo Practice 4",
+		"date": "2022-01-08",
 		"image": "/assets/images/sketchnotes/bikablo-practice-4.jpg",
 		"class": "sketchnotes-item-large",
 		"format": "portrait",
@@ -55,78 +63,92 @@
 	},
 	{
 		"title": "How to Speak so That People Want to Listen",
+		"date": "2022-01-09",
 		"image": "/assets/images/sketchnotes/how-to-speak.jpg",
 		"format": "portrait",
 		"description": "Sketchnote of the TED-Talk <a href='https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen#t-185141' rel='nofollow noopener noreferrer external' target='_blank'>How to speak so that people want to listen</a> by <strong>Julian Treasure</strong>."
 	},
 	{
 		"title": "Random Sketches 1",
+		"date": "2022-01-10",
 		"image": "/assets/images/sketchnotes/random-sketches-1.jpg",
 		"class": "sketchnotes-item-medium",
 		"format": "portrait"
 	},
 	{
 		"title": "Random Sketches 2",
+		"date": "2022-01-11",
 		"image": "/assets/images/sketchnotes/random-sketches-2.jpg",
 		"format": "portrait"
 	},
 	{
 		"title": "Random Sketches 3",
+		"date": "2022-01-12",
 		"image": "/assets/images/sketchnotes/random-sketches-3.jpg",
 		"class": "sketchnotes-item-medium",
 		"format": "portrait"
 	},
 	{
 		"title": "Random Sketches 4",
+		"date": "2022-01-13",
 		"image": "/assets/images/sketchnotes/random-sketches-4.jpg",
 		"format": "portrait"
 	},
 	{
 		"title": "Random Sketches 5",
+		"date": "2022-01-14",
 		"image": "/assets/images/sketchnotes/random-sketches-5.jpg",
 		"format": "portrait"
 	},
 	{
 		"title": "Random Sketches 6",
+		"date": "2022-01-15",
 		"image": "/assets/images/sketchnotes/random-sketches-6.jpg",
 		"format": "portrait"
 	},
 	{
 		"title": "Random Sketches 7",
+		"date": "2022-01-16",
 		"image": "/assets/images/sketchnotes/random-sketches-7.jpg",
 		"format": "portrait"
 	},
 	{
 		"title": "Random Sketches 8",
+		"date": "2022-01-17",
 		"image": "/assets/images/sketchnotes/random-sketches-8.jpg",
 		"format": "portrait"
 	},
 	{
 		"title": "Self-Actualization vs. Self-Image Actualization",
+		"date": "2022-01-18",
 		"image": "/assets/images/sketchnotes/self-actualization.jpg",
 		"format": "landscape",
 		"description": "<strong>Bruce Lee</strong> on the difference between <strong>Self-Actualization</strong> and <strong>Self-Image Actualization</strong>. Most people pursue only the first and never find their true selves."
 	},
 	{
 		"title": "The Art of Enough",
+		"date": "2022-01-19",
 		"image": "/assets/images/sketchnotes/the-art-of-enough.jpg",
 		"format": "portrait",
 		"description": "Sketchnote for the article <a href='https://experiencelife.com/article/the-art-of-enough/' rel='nofollow noopener noreferrer external' target='_blank'>The Art of Enough</a>, about consumption, spending mindful, and buying quality."
 	},
 	{
 		"title": "Title Lettering",
+		"date": "2022-01-20",
 		"image": "/assets/images/sketchnotes/title-lettering.jpg",
 		"format": "landscape",
 		"description": "Title lettering in one of my Sketchnote books."
 	},
 	{
 		"title": "Weight Idea",
+		"date": "2022-01-21",
 		"image": "/assets/images/sketchnotes/weight-idea.jpg",
 		"format": "landscape",
 		"description": "Some ideas I had about how to visualize weights for my training diary."
 	},
 	{
 		"title": "The Wim Hof Method",
+		"date": "2022-01-22",
 		"image": "/assets/images/sketchnotes/wim-hof-method.jpg",
 		"class": "sketchnotes-item-medium",
 		"format": "portrait",
