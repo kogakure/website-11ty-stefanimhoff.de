@@ -1,0 +1,35 @@
+---
+permalink: haiku.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+	<title>{{ site.title }} (Haiku)</title>
+	<subtitle>{{ site.description }}</subtitle>
+	<link href="{{ site.url }}/haiku.xml" rel="self" type="application/atom+xml"/>
+	<link href="{{ site.url }}" rel="alternate" type="text/html"/>
+	<id>{{ site.url }}/haiku/</id>
+	<author>
+		<name>{{ site.author }}</name>
+	</author>
+	{% include "feed-webfeeds.njk" %}
+	{% for haiku in haikus | reverse %}
+		<entry>
+			<title>Haiku {{ haiku.id }}</title>
+			<link href="{{ site.url }}/haiku/{{ haiku.id }}/" />
+			<updated>{{ haiku.date | dateToISO }}</updated>
+			<id>{{ site.url }}/haiku/{{ haiku.id }}/</id>
+			<content type="html">
+			<![CDATA[
+			<blockquote lang="de">
+				<p>{{ haiku.de | safe | nl2br }}</p>
+			</blockquote>
+			<hr />
+			<blockquote lang="en">
+				<p>{{ haiku.en | safe | nl2br }}</p>
+			</blockquote>
+			]]>
+			</content>
+		</entry>
+	{% endfor %}
+</feed>
