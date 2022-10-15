@@ -62,6 +62,10 @@ The platform has good resources for learning English with games, lists, flashcar
 
 [Acronymfinder](https://acronymfinder.com/) is my favorite dictionary to look up acronyms. The acronyms are grouped for better understanding in categories such as “Information Technology”, “Military & Government”, “Science & Medicine” and others.
 
+### Lose the Very
+
+[Lose the Very](https://www.losethevery.com/) is a cool project that allows you to find replacements for adjectives in combination with _very_. Instead of _very good_ you could write _exceptional_, _sterling_, _splendid_, _super_, _excellent_, or _marvelous_ for example.
+
 ### dict.cc
 
 [dict.cc](https://www.dict.cc/) is a useful dictionary I use for years. It even has a [Latin](https://enla.dict.cc/) dictionary.
