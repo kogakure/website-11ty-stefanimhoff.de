@@ -58,7 +58,7 @@ When the _Antonine Plague_ hit the Roman Empire between 165 and 180 AD, it kille
 
 I learn that psychologists believe the world is in a mass conformity psychosis.[^skool2021xw] Isolation and alternating phases of terror and relaxation. This is how totalitarian states keep their power. With _Menticide_.[^meerloo1956hc] Another funny word. <q>Fear is the mind-killer.</q>[^herbert1965bp] _Paul Atreides_ knew this.
 
-I close the browser and put my phone in the drawer. It’s getting dark. Do I watch a TV Show? I read that _Black Mirror_ didn’t get the 6th season because everybody was already too depressed by reality.[^hibberd2020nv] I used to love playing dystopian games like _Deus Ex_,[^deusex], or _Half-Life 2_.[^halflife2] You can turn off the PlayStation at any time. You can’t turn off reality.
+I close the browser and put my phone in the drawer. It’s getting dark. Do I watch a TV Show? I read that _Black Mirror_ didn’t get the 6th season because everybody was already too depressed by reality.[^hibberd2020nv] I used to love playing dystopian games like _Deus Ex_[^deusex] or _Half-Life 2_.[^halflife2] You can turn off the PlayStation at any time. You can’t turn off reality.
 
 I decide to read a book instead. I never read much fiction. Now I love fiction. When the glow of my e-book reader shrouds the darkness with cold, white light, I get tired. My eyes close and I drift away. I hope I dream again of the _Old Normal_.
 
