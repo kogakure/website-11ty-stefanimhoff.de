@@ -15,5 +15,5 @@ module.exports = {
 	twitter: '@kogakure',
 	animationDelay: `data-sal=${animation} data-sal-duration=${duration} data-sal-delay=${delay} data-sal-easing=${easing}`,
 	animation: `data-sal=${animation} data-sal-duration=${duration} data-sal-easing=${easing}`,
-	external: `rel="nofollow noopener noreferrer" target="_blank"`,
+	external: 'rel="nofollow noopener noreferrer" target="_blank"',
 };
