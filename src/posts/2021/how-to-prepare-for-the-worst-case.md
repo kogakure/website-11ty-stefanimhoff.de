@@ -14,13 +14,7 @@ I tended to have a more positive image of human nature than _Thomas Hobbes_, I b
 >
 > **Amos Burton** (James S. A. Corey), _The Expanse, S5.6: Tribes_
 
-When a third of the population decided against vaccination (a novel gene therapy that provides time-limited personal protection and no protection of others) the rhetoric escalated quickly. A politician of the CSU party tweeted <q>Impfen macht frei</q>[^mooser2021lp] (Vaccination sets you free), words that echo the crimes of the National Socialists.
-
-_Oliver Welke_, the host of the comedy show “_Heute Show_” called unvaccinated <q>asocial</q>[^rnd2021rc] a term invented by the National Socialists to devalue classes of undesirables as inferior and harmful to society. The term “_Volksgesundheit_”[^hendrig2020jc] was suddenly used everywhere, despite its tainted past and better words available to describe public health.
-
-Patriotism[^link2021kt] was quick _en vogue_ again, after being left for years to right-wing parties.
-
-_Noam Chomsky_ called out in a public interview to segregate unvaccinated from society and starve them into submission.[^nationalpoststaff2021vm] Shortly thereafter, Austria and Germany introduced lockdowns for unvaccinated. Austria went even further and introduced mandatory vaccination for everybody.
+When parts of the population decided against vaccination (a novel gene therapy that provides time-limited personal protection and no protection of others) the rhetoric escalated. A politician of the CSU party tweeted <q>Impfen macht frei</q>[^mooser2021lp] (Vaccination sets you free), words that echo the crimes of the National Socialists. _Oliver Welke_, the host of the comedy show “_Heute Show_” called unvaccinated <q>asocial</q>[^rnd2021rc] a term invented by the National Socialists to devalue classes of undesirables as inferior and harmful to society. The term “_Volksgesundheit_”[^hendrig2020jc] was suddenly used everywhere, despite its tainted past and better words available to describe public health. Patriotism[^link2021kt] was quick _en vogue_ again, after being left for years to right-wing parties. _Noam Chomsky_ called out in a public interview to segregate unvaccinated from society and starve them into submission.[^nationalpoststaff2021vm] Shortly thereafter, Austria and Germany introduced lockdowns for unvaccinated. Austria went even further and introduced mandatory vaccination for everybody.
 
 > People are tribal. The more settled things are, the bigger the tribes can be. The churn comes, and the tribes get small again.
 >
