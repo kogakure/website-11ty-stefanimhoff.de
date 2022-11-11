@@ -172,7 +172,7 @@ module.exports = {
 	email: function (text, key = false) {
 		const downloadText = 'Download public key (ProtonMail/GPG)';
 		const link = outdent`
-		<a id="email" class="objuscated" href="mailto:hey (at) imhoff (dot) name">
+		<a id="email" class="objuscated" href="mailto:hey [at] stefanimhoff [dot] de">
 			${text}
 		</a>`;
 		const keyDownload = outdent`
@@ -180,7 +180,7 @@ module.exports = {
 			<a
 				title="${downloadText}"
 				aria-label="${downloadText}"
-				href="/downloads/publickey.hey@imhoff.name-9cb867d4ccd2c1d7d9fde82f4b649797f3e007a9.asc"
+				href="/downloads/publickey.hey@stefanimhoff.de-9cb867d4ccd2c1d7d9fde82f4b649797f3e007a9.asc"
 			>
 				<svg class="lock-icon" aria-hidden="true" viewBox="0 0 24 24" width="1em" height="1em">
 					<use xlink:href="#lock"></use>

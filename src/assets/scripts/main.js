@@ -3,11 +3,7 @@ import { btnHandler } from './modules/btn-handler';
 import { scrollHandler } from './modules/scroll-handler';
 import { sourceCodeInfo } from './modules/source-code-info';
 
-if (
-	'querySelector' in document &&
-	'localStorage' in window &&
-	'addEventListener' in window
-) {
+if ('querySelector' in document && 'localStorage' in window && 'addEventListener' in window) {
 	/* Initialize scroll reveal */
 	sal({
 		threshold: 0.1,
@@ -48,8 +44,8 @@ if (
 				event.preventDefault();
 
 				link.classList.remove('objuscated');
-				link.text = 'hey@imhoff.name';
-				link.href = 'mailto:hey@imhoff.name';
+				link.text = 'hey@stefanimhoff.de';
+				link.href = 'mailto:hey@stefanimhoff.de';
 
 				if (lock) {
 					lock.classList.remove('hidden');
