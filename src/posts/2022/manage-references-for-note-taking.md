@@ -87,7 +87,7 @@ The items are recorded in a specific format in the background:
 If I want to use this key in a note in [Obsidian](https://obsidian.md/), I can use my Markdown template to copy the entry and paste it into the note.
 
 ```md
-[^Thiel2022vp]: Peter Thiel (2022): _Paypal Co-Founder Peter Thiel - Bitcoin Keynote_, <https://youtu.be/ko6K82pXcPA>.
+[^thiel2022vp]: Peter Thiel (2022): _Paypal Co-Founder Peter Thiel - Bitcoin Keynote_, <https://youtu.be/ko6K82pXcPA>.
 ```
 
 The format is not official Markdown syntax, but citations from [MultiMarkdown](https://rawgit.com/fletcher/MultiMarkdown-6-Syntax-Guide/master/index.html). Even if a tool doesn't support it, you can still read it. If a tool supports it, like [iA Writer](https://ia.net/writer), you get automatically nice reference notes.
@@ -99,7 +99,7 @@ If I want to write a note and add a reference, I would do it like this:
 factory that is used to label enemies. There is
 nothing _environmental_, _social_ or _governance_
 with the companies labeled ESG-friendly, the CCP
-is ESG-friendly.[^Thiel2022vp]
+is ESG-friendly.[^thiel2022vp]
 ```
 
 When I decide to write a Markdown post that should be published, I can convert the MultiMarkdown to regular footnotes, but replace the `#` in the cite key with `^`.

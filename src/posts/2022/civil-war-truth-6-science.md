@@ -36,7 +36,7 @@ The peer-review process itself <q>provides only a minimal assurance of quality, 
 
 Bret Weinstein goes further in his assessment and thinks the whole process is corrupt and doesn’t ensure scientific quality, but is used by gatekeepers to filter out new, heterodox ideas and to protect scientist carriers and research money.
 
-A recent study from September 2022 investigated the connection between status and anonymity in the peer-review process.[^Huber2022ez] The paper found <q>strong evidence for […] status bias: while only 23 percent recommend ‘reject’ when the prominent researcher is the only author shown, 48 percent do so when the paper is anonymized, and 65 percent do so when the little-known author is the only author shown.</q> The authors <q>suggest that double-anonymization is a minimum requirement for an unbiased review process.</q>
+A recent study from September 2022 investigated the connection between status and anonymity in the peer-review process.[^huber2022ez] The paper found <q>strong evidence for […] status bias: while only 23 percent recommend ‘reject’ when the prominent researcher is the only author shown, 48 percent do so when the paper is anonymized, and 65 percent do so when the little-known author is the only author shown.</q> The authors <q>suggest that double-anonymization is a minimum requirement for an unbiased review process.</q>
 
 One of the reasons false studies live so long is that thousands of scientists have already built their careers on flawed papers. <q>It’s like an epidemic, in the sense that they’re infected with these wrong ideas, and they’re spreading it to other researchers through journals,</q>[^freedman2010fe] says Ioannidis.
 
@@ -176,7 +176,7 @@ This is the sixth part of a seven-part series that investigates, why the last 10
 
 [^ioannidis2005ud]: John P. A. Ioannidis (2005): _Why Most Published Research Findings Are False_, <https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124>.
 [^freedman2010fe]: David H. Freedman (2010): _Lies, Damned Lies, and Medical Science_, <https://www.theatlantic.com/magazine/archive/2010/11/lies-damned-lies-and-medical-science/308269/>.
-[^Huber2022ez]: Juergen Huber, Sabiou M. Inoua, Rudolf Kerschbamer, Christian König-Kersting, Stefan Palan, and Vernon L. Smith (2022):  _Nobel and Novice: Author Prominence Affects Peer Review_, <https://ssrn.com/abstract=4190976>.
+[^huber2022ez]: Juergen Huber, Sabiou M. Inoua, Rudolf Kerschbamer, Christian König-Kersting, Stefan Palan, and Vernon L. Smith (2022): _Nobel and Novice: Author Prominence Affects Peer Review_, <https://ssrn.com/abstract=4190976>.
 [^wodarg2022et]: Wolfgang Wodarg (2022): _Warum liegt die Forschung im Argen?_, <https://odysee.com/warum-liegt-die-forschung-im-argen:d5c02f44357c5cc9bea81f4e649d7cdb299d9435>.
 [^weinstein2020rj]: Eric Weinstein (2020): _18: Eric Weinstein (Solo) - Slipping the DISC: State of The Portal/Chapter 2020_, <https://youtu.be/QxnkGymKuuI>.
 [^weinstein2020ac]: Eric Weinstein and Bret Weinstein (2020): _19: Bret Weinstein - The Prediction and the DISC_, <https://youtu.be/JLb5hZLw44s>.

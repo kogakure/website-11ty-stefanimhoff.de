@@ -96,7 +96,7 @@ I load all my files with the suffix of `*.sass` or `*.scss`. First, I pipe the f
 
 And I run the CSS files through Autoprefixer, which will add vendor prefixes. I used the Mixins of Compass a long time, but stopped now and write pure CSS. All vendor prefixes are added later for the browsers I want to support.
 
-You might have guessed: If you wish to use Compass,  set the option `compass` to `true`.
+You might have guessed: If you wish to use Compass, set the option `compass` to `true`.
 
 ## Conclusion
 

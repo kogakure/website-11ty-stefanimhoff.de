@@ -41,7 +41,7 @@ However, there were many spellings of the characters, which was not conducive to
 
 The small seal is indeed beautiful by its curved lines, but was cumbersome to write in everyday use. At the beginning of the Han Dynasty, the [clerical script](https://en.wikipedia.org/wiki/Clerical_script), had much straighter lines and was easier and faster to write. This font further abstracted many characters.
 
-At the same time, the _cursive script_ was invented, which is called [grass font](https://en.wikipedia.org/wiki/Cursive_script_(East_Asia)). It was used for private correspondence, but written by the common people. In this font, the strokes are connected. It looks like the brush has not been lifted off the paper.
+At the same time, the _cursive script_ was invented, which is called [grass font](<https://en.wikipedia.org/wiki/Cursive_script_(East_Asia)>). It was used for private correspondence, but written by the common people. In this font, the strokes are connected. It looks like the brush has not been lifted off the paper.
 
 In the 2nd century AD, scribes who disliked the concept of chancery script developed the [regular script](https://en.wikipedia.org/wiki/Regular_script).
 

@@ -40,7 +40,7 @@ Twitter was and is my biggest time sink because I can get the most information q
 
 Unfortunately, it’s a big stinking pile of garbage. With the ongoing culture war, everybody is yelling at each other.
 
-I could decide to ignore it, but as _Pericles_ said, <q>just because you do not take an interest in politics doesn’t mean politics won’t take an interest in you.</q> 
+I could decide to ignore it, but as _Pericles_ said, <q>just because you do not take an interest in politics doesn’t mean politics won’t take an interest in you.</q>
 
 I would like to keep an eye at least sometimes on what’s going on to be able to assess threats and defend against them. News is now biased and unreliable for a while. I’ll read and research the facts and make up my mind on my own now, rather than read the interpretation of a 20-something social activist without a journalism degree at one of those _media outlets_.
 

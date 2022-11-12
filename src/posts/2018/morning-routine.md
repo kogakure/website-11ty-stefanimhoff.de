@@ -107,7 +107,7 @@ My breakfast consists of 5 different types of cereal (oats, spelt, barley, rye, 
 
 ### Prepare For the Day
 
-I prepare for the day, by checking my **calendar** for upcoming events, meetings, and birthdays. I  open my **To-Do** app [Things](https://culturedcode.com/things/) on my tablet and select my tasks for the day.
+I prepare for the day, by checking my **calendar** for upcoming events, meetings, and birthdays. I open my **To-Do** app [Things](https://culturedcode.com/things/) on my tablet and select my tasks for the day.
 
 ---
 
