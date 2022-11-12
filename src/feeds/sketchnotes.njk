@@ -6,7 +6,7 @@ eleventyExcludeFromCollections: true
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 	<title>{{ site.title }} (Sketchnotes)</title>
 	<subtitle>{{ site.description }}</subtitle>
-	<link href="{{ site.url }}/haiku.xml" rel="self" type="application/atom+xml"/>
+	<link href="{{ site.url }}/sketchnotes.xml" rel="self" type="application/atom+xml"/>
 	<link href="{{ site.url }}" rel="alternate" type="text/html"/>
 	<id>{{ site.url }}/sketchnotes/</id>
 	<author>
@@ -16,7 +16,7 @@ eleventyExcludeFromCollections: true
 	{% for sketchnote in sketchnotes | reverse %}
 		<entry>
 			<title>{{ sketchnote.title }}</title>
-			<link href="{{ site.url }}/haiku/{{ haiku.id }}/" />
+			<link href="{{ site.url }}/sketchnotes/{{ sketchnote.title | slugify }}/" />
 			<updated>{{ sketchnote.date | dateToISO }}</updated>
 			<id>{{ site.url }}/sketchnotes/{{ sketchnote.title | slugify }}/</id>
 			<content type="html">
