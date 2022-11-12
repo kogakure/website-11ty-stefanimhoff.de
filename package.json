@@ -15,6 +15,7 @@
 		"live": "netlify dev --live",
 		"plop": "plop",
 		"prebuild": "npm run clean",
+		"prepare": "husky install",
 		"prestart": "npm run clean",
 		"publish": "npm-run-all build deploy",
 		"start": "netlify dev",
@@ -33,10 +34,18 @@
 	"author": "Stefan Imhoff",
 	"license": "ISC",
 	"homepage": "https://www.stefanimhoff.de",
+	"lint-staged": {
+		"**/*.{md,html,css}": [
+			"npx prettier --write"
+		],
+		"**/*.js": [
+			"npx eslint --fix"
+		]
+	},
 	"devDependencies": {
-		"@11ty/eleventy": "1.0.1",
-		"@11ty/eleventy-plugin-rss": "^1.1.1",
-		"@11ty/eleventy-plugin-syntaxhighlight": "^3.1.0",
+		"@11ty/eleventy": "1.0.2",
+		"@11ty/eleventy-plugin-rss": "^1.2.0",
+		"@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
 		"autoprefixer": "^10.2.5",
 		"babelify": "^10.0.0",
 		"browserify": "^17.0.0",
@@ -56,6 +65,8 @@
 		"gulp-sourcemaps": "^3.0.0",
 		"gulp-svg-sprite": "^1.5.0",
 		"html-minifier": "^4.0.0",
+		"husky": "^8.0.0",
+		"lint-staged": "^13.0.3",
 		"lodash": "^4.17.21",
 		"markdown-it-charts": "^1.0.5",
 		"markdown-it-external-anchor": "^1.0.0",
@@ -79,7 +90,7 @@
 		"postcss-media-minmax": "^5.0.0",
 		"postcss-nested": "^5.0.5",
 		"postcss-sort-media-queries": "^3.7.7",
-		"prettier": "^2.2.1",
+		"prettier": "^2.7.1",
 		"sal.js": "^0.8.4",
 		"stylelint": "^13.12.0",
 		"stylelint-a11y": "^1.2.3",
