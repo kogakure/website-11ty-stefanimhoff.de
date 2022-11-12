@@ -9,7 +9,7 @@ eleventyExcludeFromCollections: true
 	<link href="{{ site.url }}/index.xml" rel="self" type="application/atom+xml"/>
 	<link href="{{ site.url }}" rel="alternate" type="text/html"/>
 	{% if collections.journal %}
-		<updated>{{ collections.journal | rssLastUpdatedDate }}</updated>
+		<updated>{{ collections.journal | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
 	{% endif %}
 	<id>{{ site.url }}/</id>
 	<author>
