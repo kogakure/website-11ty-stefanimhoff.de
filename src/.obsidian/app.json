@@ -1,0 +1,10 @@
+{
+  "showFrontmatter": true,
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "posts",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "assets/images/posts",
+  "livePreview": false
+}
