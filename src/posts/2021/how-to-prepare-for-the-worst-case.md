@@ -60,7 +60,7 @@ But cities will quickly turn into deadly traps in case of catastrophes. That’s
 
 ## Boy Scouts and Military Service
 
-Because I’m over 40, I had the “privilege” to be born before the internet and before personal computers were common in every household. Until the personal computer arrived when I was a teenager, I was outside. I created bows and spears and learned how to shoot with them. I practiced throwing knives until they kept sticking to the wall. My friends and I build fortresses and bunkers in the forest and played war. I remember a school friend who needed to visit the hospital after a stone hit his head in a war scenario.
+Because I’m over 40, I had the “privilege” to be born before the internet and before personal computers were common in every household. Until the personal computer arrived when I was a teenager, I was outside. I created bows and spears and learned how to shoot with them. I practiced throwing knives until they kept sticking to the wall. My friends and I built fortresses and bunkers in the forest and played war. I remember a school friend who needed to visit the hospital after a stone hit his head in a war scenario.
 
 I was a Boy Scout for many years and got my first knife when I was 7 or 8. I stayed in Boy Scout camps for long cold weeks during the holidays in Denmark or in mountains and forests in Germany, where we build bridges and slept in tents. We baked bread and had watered-down tea. The next supermarket was miles away. I never liked it too much, but hardship builds character.
 
