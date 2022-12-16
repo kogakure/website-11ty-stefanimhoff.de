@@ -134,7 +134,7 @@ The output is not too impressive, but this is an example. I tried it on long vid
 This is the first part of a four-part series of essays that investigates different aspects of AI. From political and social impact to AI research. I’ll dive deeper into the topics of speech-to-text, text generation, and text-to-image generation and share useful resources, videos, and links.
 
 1. _Introduction_
-2. Text Generation
+2. [Text Generation](/artificial-intelligence-2-text-generation/)
 3. Text-to-Image Generation
 4. Getting Started with Text-to-Image Generation
 
