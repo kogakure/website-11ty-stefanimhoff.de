@@ -199,7 +199,7 @@ This is the second part of a four-part series of essays that investigates differ
 1. [Introduction](/artificial-intelligence-1-introduction/)
 2. _Text Generation_
 3. [Text-to-Image Generation](/artificial-intelligence-3-text-to-image-generation/)
-4. Getting Started with Text-to-Image Generation
+4. [Getting Started with Text-to-Image Generation](/artificial-intelligence-4-getting-started/)
 
 [^copilotqna]: Visual Studio Code (2022): Copilot Q&A, <https://www.youtube.com/watch?v=gRNo_JOl-9g>.
 [^levelupcopilot]: Visual Studio Code (2022): Level up with Copilot, <https://www.youtube.com/watch?v=Uq7ppvXCBDM>.

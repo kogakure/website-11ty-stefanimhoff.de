@@ -136,7 +136,7 @@ This is the first part of a four-part series of essays that investigates differe
 1. _Introduction_
 2. [Text Generation](/artificial-intelligence-2-text-generation/)
 3. [Text-to-Image Generation](/artificial-intelligence-3-text-to-image-generation/)
-4. Getting Started with Text-to-Image Generation
+4. [Getting Started with Text-to-Image Generation](/artificial-intelligence-4-getting-started/)
 
 [^crunchbase]: Crunchbase (2022): OpenAI, <https://www.crunchbase.com/organization/openai>.
 [^ghcinvestigation]: Matthew Butterick (2022): Maybe you don’t mind if GitHub Copi­lot used your open-source code with­out ask­ing. But how will you feel if Copi­lot erases your open-source com­mu­nity?, <https://githubcopilotinvestigation.com/>.

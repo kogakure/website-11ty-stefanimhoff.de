@@ -109,4 +109,4 @@ This is the third part of a four-part series of essays that investigates differe
 1. [Introduction](/artificial-intelligence-1-introduction/)
 2. [Text Generation](/artificial-intelligence-2-text-generation/)
 3. _Text-to-Image Generation_
-4. Getting Started with Text-to-Image Generation
+4. [Getting Started with Text-to-Image Generation](/artificial-intelligence-4-getting-started/)
