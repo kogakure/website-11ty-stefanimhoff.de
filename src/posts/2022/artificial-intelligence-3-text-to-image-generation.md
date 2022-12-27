@@ -76,10 +76,6 @@ You can find [Disco Diffusion](https://github.com/alembics/disco-diffusion), [VQ
 
 You can run Dreambooth on GoogleColab. This [tutorial video](https://www.youtube.com/watch?v=-JtBUoPcjeM) or [this video](https://www.youtube.com/watch?v=Z-hyKADmHmE) explain the steps.
 
-## Unstable Diffusion
-
-The Kickstarter project [Unstable Diffusion](https://www.kickstarter.com/projects/unstablediffusion/unstable-diffusion-unrestricted-ai-art-powered-by-the-crowd) plans to create a Community GPU Cloud driven by the community instead of massive companies. It met its initial goal of $25,000 in less than a day and is now on its way to $100,000.
-
 ## Playgrounds and Services
 
 Plenty of services are available to generate images. [Playground](https://playgroundai.com/) allows using Stable Diffusion (1000/day), or with the Pro Plan for $15 per month (2000/day). You can use the DALL·E add-on for $10 per month to create 800 DALL·E images per month.
