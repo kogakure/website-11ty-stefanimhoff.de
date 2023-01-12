@@ -187,6 +187,8 @@ This is the sixth part of a seven-part series that investigates, why the last 10
 [^ioannidis2021zp]: John P. A. Ioannidis (2021): _Reconciling estimates of global spread and infection fatality rates of COVID-19: An overview of systematic evaluations_, <https://onlinelibrary.wiley.com/doi/10.1111/eci.13554>.
 [^ivmmeta2022ra]: ivmmeta.com (2022): _Ivermectin for COVID-19: real-time meta analysis of 84 studies_, <https://ivmmeta.com/>.
 [^weinstein2022el]: Bret Weinstein and Neil Oliver (2022): _Keeping Sane: Bret Speaks with Neil Oliver_, <https://youtu.be/0ytv1pzjiSw>.
+[^lawrie2022jo]: Tess Lawrie (2022): _A Letter to Dr Andrew Hill_, <https://odysee.com/@OracleFilms:1/2022.03.04-A-Letter-to-Andrew-Hill-V8_HD:3>.
+[^kennedy2021aa]: Robert F. Kennedy, Jr. (2021): _Bill Gates and Neo-Feudalism: A Closer Look at Farmer Bill_, <https://childrenshealthdefense.org/defender/bill-gates-neo-feudalism-farmer-bill/>.
 [^lindsay2021ew]: James Lindsay (2021): _The Dawn of Medical Lysenkoism_, <https://podcasts.apple.com/podcast/new-discourses/id1499880546?i=1000516473942>.
 [^corbett2020oq]: James Corbett (2020): _Who Is Bill Gates?_, <https://youtu.be/TY-vLrz9XCc>.
 [^news2020rh]: TOTT News (2020): _The Gates Family, Eugenics and COVID-19_, <https://tottnews.com/2020/04/09/gates-family-eugenics-covid-19/>.
