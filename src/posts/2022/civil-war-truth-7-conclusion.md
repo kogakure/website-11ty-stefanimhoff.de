@@ -253,7 +253,7 @@ A massive community of artists and writers is dedicated to mocking political ide
 
 [Argo Nerd](https://twitter.com/argonerd) is a German commentator who creates commentary by putting two contradicting news articles next to each other.
 
-Plenty of fantastic cartoonists mock political and ideological ideas. My favorites are [George Alexopoulos](https://twitter.com/GPrime85/), [Bob Moran](https://twitter.com/bobscartoons), and [Stonetoss](https://stonetoss.com/), but it’s worth following [FreedomToons](https://www.youtube.com/c/FreedomToons), [Grrr Graphics](https://grrrgraphics.com/) and [Comically Incorrect](https://comicallyincorrect.com/).
+Plenty of fantastic cartoonists mock political and ideological ideas. My favorites are [George Alexopoulos](https://twitter.com/GPrime85/), [Bob Moran](https://twitter.com/bobscartoons), [Tatsuya Ishida](https://sinfest.xyz/) and [Stonetoss](https://stonetoss.com/), but it’s worth following [FreedomToons](https://www.youtube.com/c/FreedomToons), [Grrr Graphics](https://grrrgraphics.com/) and [Comically Incorrect](https://comicallyincorrect.com/).
 
 [The Babylon Bee](https://babylonbee.com/) is the funniest satirical website on the internet. They recently started hiring the creator of [Libs of TikTok](https://allmylinks.com/libsoftiktok), a hilarious channel exposing crazy leftist ideas. The Babylon Bee has a sister news site, [Not the Bee](https://notthebee.com/), that collects stories that sound like satire but are unfortunately true.
 
