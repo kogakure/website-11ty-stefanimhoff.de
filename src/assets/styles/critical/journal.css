@@ -132,9 +132,13 @@
 .journal-post-cover-image {
 	grid-column: 1 / -1;
 
-	@media (--tablet) {
-		grid-column: 1 / 13;
+	@media (--desktop) {
+		grid-column: 1 / -6;
 		grid-row: 2;
+	}
+
+	@media (--wide) {
+		grid-column: 1 / -7;
 	}
 }
 
@@ -143,8 +147,17 @@
 	grid-column: 2 / -2;
 
 	@media (--tablet) {
-		grid-column: -6 / -3;
+		grid-column: 5 / -5;
+		grid-row: 3;
+	}
+
+	@media (--desktop) {
+		grid-column: 15 / -2;
 		grid-row: 2;
+	}
+
+	@media (--wide) {
+		grid-column: 14 / -4;
 	}
 }
 
@@ -170,15 +183,17 @@
 	grid-column: 2 / -2;
 
 	@media (--tablet) {
-		grid-column: 3 / 13;
+		grid-column: 5 / -5;
+		grid-row: 4;
 	}
 
 	@media (--desktop) {
-		grid-column: 5 / 13;
+		grid-column: 6 / -6;
+		grid-row: 3;
 	}
 
 	@media (--wide) {
-		grid-column: 7 / 13;
+		grid-column: 7 / -7;
 	}
 
 	> h2 {
