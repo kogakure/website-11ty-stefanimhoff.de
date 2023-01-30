@@ -24,7 +24,12 @@ On a Sunday morning, I decided to create a [prototype](https://codepen.io/kogaku
 
 Later that week, I decided to create my first iA Writer template based on that style. I called the template [Nanzan](https://github.com/kogakure/ia-writer-template-nanzan) (南山) because the book was typeset by the _Nanzan Institute for Religion and Culture_. The template is free, and you can download the code as a ZIP archive and double-click the `.iatemplate` file.
 
+<figure>
+
 ![Nanzan](/assets/images/posts/ia-writer-template-nanzan.jpg)
+
+<figcaption>Nanzan</figcaption>
+</figure>
 
 {% more "iA Writer Template Nanzan on GitHub", "https://github.com/kogakure/ia-writer-template-nanzan", true %}
 
@@ -34,7 +39,12 @@ Later that week, I decided to create my first iA Writer template based on that s
 
 After I finished my first template, I decided to create my second template immediately, based on the aesthetic style I used for my branding. I called it [Shibui](https://github.com/kogakure/ia-writer-template-shibui) (渋い) because that is the style I based my design on.
 
+<figure>
+
 ![Shibui](/assets/images/posts/ia-writer-template-shibui.jpg)
+
+<figcaption>Shibui</figcaption>
+</figure>
 
 {% more "iA Writer Template Shibui on GitHub", "https://github.com/kogakure/ia-writer-template-shibui", true %}
 

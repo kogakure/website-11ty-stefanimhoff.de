@@ -56,7 +56,12 @@ I like in particular the italic font with the beautiful loops and curves. I pick
 
 Next, I picked a Typographic Scale. A scale is a way to pick font sizes based on a fixed set of rules, for example, a specific harmonic number or formula to create a harmonic visual image. I decided to go with the [golden section](https://www.modularscale.com/?1&em&1.618) (ratio 1:1.618).
 
+<figure>
+
 ![Typographic Scale](/assets/images/posts/typographic-scale.png)
+
+<figcaption>Typographic Scale</figcaption>
+</figure>
 
 I picked 20 Pixels as the base font size. Furthermore, I’m in my forties and websites pick fonts far too small. The company iA Inc. wrote 2006 the essay [The 100% Easy-2-Read Standard](https://ia.net/topics/100e2r), but still, fonts below the recommended 16 Pixels of browsers are a standard.
 
@@ -200,25 +205,55 @@ As he shows in the fantastic free video, [Aaron Draplin Takes On a Logo Design C
 
 I followed this technique on all my designs and created dozens of variations, sometimes entire pages, sometimes a small detail as the footer or a meta section.
 
+<figure>
+
 ![All Artboards of the base design](/assets/images/posts/base-design.jpg "Base Design")
 
+<figcaption>All Artboards of the base design</figcaption>
+</figure>
+
+<figure>
+
 ![Variants of the Meta section](/assets/images/posts/meta-section-design.png "Meta Section")
+
+<figcaption>Variants of the Meta section</figcaption>
+</figure>
 
 Designing was the part that brought the most fun to me. Designing is like a concert: It starts with a cello, but then more and more instruments get added until the full [concert ends in a massive crescendo](https://youtu.be/XpT-92HS11I). The start is always the hardest, with the designer staring at a blank, white screen. But then things fall into the place and ideas multiply and in the end, everything is obvious, and the next screen is easy to create.
 
 I started designing the blog detail page headline and moved out from there, creating text, header, footer, and small details.
 
+<figure>
+
 ![About Section](/assets/images/posts/about-design.jpg "About Section")
+
+<figcaption>About Section</figcaption>
+</figure>
 
 Then I moved into color variations for the pages. I designed error pages, navigation, special pages, and the homepage last. I didn’t design every detail, but quickly moved from idea to idea, leaving behind a mess of unnamed layers and incomplete or outdated ideas.
 
+<figure>
+
 ![Color Variants](/assets/images/posts/color-variants-design.jpg "Color Variants")
+
+<figcaption>Color Variants</figcaption>
+</figure>
 
 I created a giant design for all layout variations I wanted to support on a page (e.g., the combination of an image and a text). I moved quickly to [CodePen](https://codepen.io/) to create prototypes for these variations to validate my ideas where feasible. You can see all my prototypes on my CodePen account.
 
+<figure>
+
 ![Homepage](/assets/images/posts/homepage-design.jpg "Homepage")
 
+<figcaption>Homepage</figcaption>
+</figure>
+
+<figure>
+
 ![Haiku Section](/assets/images/posts/haiku-design.jpg "Haiku Section")
+
+<figcaption>Haiku Section</figcaption>
+</figure>
 
 In the fall of 2019, I finished my design and left it for a few weeks untouched to see if I start disliking it. On the 25th of November 2019, I finally started coding.
 
