@@ -6,7 +6,7 @@ css: journal.css
 {% set previousPost = collections.journal | getPreviousCollectionItem(page) %}
 {% set nextPost = collections.journal | getNextCollectionItem(page) %}
 
-<article class="journal-post-container">
+<article class="journal-post-container{% if cover %} with-cover{% endif %}">
 	<h1 class="journal-post-title">{{ title | nbsp | safe }}</h1>
 	{% if cover %}
 		<div class="journal-post-cover-image">

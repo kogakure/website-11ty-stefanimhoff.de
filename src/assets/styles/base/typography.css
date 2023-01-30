@@ -216,6 +216,7 @@ samp {
 kbd {
 	background-color: #f7f7f7;
 	border-color: #cccccc;
+	border-radius: var(--radius-2);
 	border-style: solid;
 	border-width: var(--border-width-1);
 	box-shadow: var(--shadow-beveled-keyboard);

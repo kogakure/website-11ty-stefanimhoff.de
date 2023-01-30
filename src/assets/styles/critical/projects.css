@@ -49,6 +49,10 @@
 .project-figure {
 	align-items: center;
 	margin: 0;
+
+	figcaption {
+		text-align: start;
+	}
 }
 
 /** Projects Layout 50/50 */
@@ -71,6 +75,7 @@
 	& figcaption {
 		grid-column: 1 / -1;
 		grid-row: 2;
+		text-align: start;
 	}
 }
 
