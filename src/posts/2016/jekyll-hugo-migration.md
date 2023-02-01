@@ -1,10 +1,10 @@
 ---
 title: Migrating to Hugo
+permalink: /jekyll-hugo-migration/
 author: Stefan Imhoff
 date: 2016-08-27T13:05:57+02:00
 description: A blog post about the migration from Jekyll to Hugo and why it’s worth trying out Hugo.
-tags:
-  - code
+tags: ["code"]
 ---
 
 ## Migrating from Jekyll to Hugo

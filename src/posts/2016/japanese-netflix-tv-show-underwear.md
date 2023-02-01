@@ -1,10 +1,10 @@
 ---
 title: Underwear
+permalink: /japanese-netflix-tv-show-underwear/
 author: Stefan Imhoff
 date: 2016-02-12T07:00:11+02:00
 description: "Netflix released a new Japanese TV Show: Underwear (Atelier). I recommend this brilliant work about a young girl starting in an exclusive custom tailoring lingerie store in Tokyo."
-tags:
-  - film
+tags: ["film"]
 ---
 
 ## A Fantastic, New Japanese Netflix TV Show

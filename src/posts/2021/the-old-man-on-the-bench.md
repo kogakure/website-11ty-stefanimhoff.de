@@ -1,10 +1,10 @@
 ---
 title: The Old Man on the Bench
+permalink: /the-old-man-on-the-bench/
 date: 2021-08-31T12:30:00+02:00
 author: Stefan Imhoff
 description: The old man watching for birds.
-tags:
-  - personal
+tags: ["personal"]
 ---
 
 When my daily routines were changed by the Corona crisis, I picked up a new habit: Walking. Each day I walked around lakes and through forests in the morning, during lunchtime, or in the evening.

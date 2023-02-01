@@ -1,10 +1,10 @@
 ---
 title: GitWeb Theme
+permalink: /gitweb-theme/
 author: Stefan Imhoff
 date: 2009-02-19T20:00:00+02:00
 description: My popular theme for GitWeb to download for free. Now GitWeb looks more similar to GitHub and is not ugly anymore.
-tags:
-  - download
+tags: ["download"]
 ---
 
 ## GitHub Style for GitWeb

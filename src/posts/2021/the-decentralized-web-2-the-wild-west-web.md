@@ -1,11 +1,11 @@
 ---
 title: "The Decentralized Web: The Wild West Web"
+permalink: /the-decentralized-web-2-the-wild-west-web/
 date: 2021-11-01T09:00:00+02:00
 author: Stefan Imhoff
 description: This is the second part of a three-part series on the Decentralized Web. This part will show promising examples for the decentralized web.
-tags:
-  - decentralization
-  - software
+tags: ["decentralization", "software"]
+series: ["decentralized-web"]
 ---
 
 The construction of the DWeb (decentralized web) is in full progress for a few years. It’s going on unnoticed by the public, and it’s proceeding slowly. One of the most prominent examples of the decentralized web is Bitcoin (and other cryptocurrencies like Ethereum). Bitcoin is <q>nothing less than freedom money,</q>[^gladstein2021on] [^fridman2021vm] says _Alex Gladstein_, chief strategy officer of the [Human Rights Foundation](https://hrf.org/).

@@ -1,12 +1,10 @@
 ---
 title: Using Readwise with Obsidian for Note-Talking
+permalink: /using-readwise-with-obsidian-for-note-talking/
 date: 2021-09-14T18:00:00+02:00
 author: Stefan Imhoff
 description: How I started using Readwise to maintain my highlights of various tools for note-taking
-tags:
-  - productivity
-  - software
-  - tip
+tags: ["productivity", "software", "tip"]
 ---
 
 I recently rediscovered [Readwise](https://readwise.io/i/stefan805) again. I’d heard of the service before, but couldn’t see the immediate advantage for me, and had forgotten it again.

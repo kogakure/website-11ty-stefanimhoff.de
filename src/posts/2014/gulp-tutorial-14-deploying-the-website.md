@@ -1,12 +1,11 @@
 ---
 title: "Introduction to Gulp.js 14: Deploying the Website with Rsync"
+permalink: /gulp-tutorial-14-deploying-the-website/
 author: Stefan Imhoff
 date: 2014-10-31T08:00:00+02:00
 description: "The ultimate tutorial and guide for Gulp.js: How to deploy your website with rsync to your server."
-tags:
-  - code
-series:
-  - gulp
+tags: ["code"]
+series: ["gulp"]
 ---
 
 This is the 14th of my series _Introduction to Gulp.js_. Today I will write a task to sync the files of my Jekyll site to my web server.

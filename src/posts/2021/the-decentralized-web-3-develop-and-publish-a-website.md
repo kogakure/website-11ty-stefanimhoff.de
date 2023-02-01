@@ -1,11 +1,11 @@
 ---
 title: "The Decentralized Web: Develop and Publish a Website"
+permalink: /the-decentralized-web-3-develop-and-publish-a-website/
 date: 2021-11-08T09:00:00+01:00
 author: Stefan Imhoff
 description: This is the third part of a three-part series on the Decentralized Web. In this part, we’ll code and release our first decentralized website.
-tags:
-  - decentralization
-  - code
+tags: ["decentralization", "code"]
+series: ["decentralized-web"]
 ---
 
 In the last part, we will get our hands dirty and play with IPFS to publish a website. If you want to dig deeper into IPFS later, please have a look at the [official documentation hosted on IPFS](http://docs.ipfs.io).

@@ -1,14 +1,10 @@
 ---
 title: Everyday Carry
+permalink: /everyday-carry/
 date: 2020-03-14T15:30:00+02:00
 author: Stefan Imhoff
 description: In this essay, I show my Everyday Carries and explain why I carry them.
-attribution:
-  - author: Stefan Imhoff
-    title: My Everyday Carries
-    url: https://www.stefanimhoff.de
-tags:
-  - self-improvement
+tags: ["self-improvement"]
 ---
 
 ## Things I Carry Around Every Day

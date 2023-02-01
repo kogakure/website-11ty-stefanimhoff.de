@@ -1,13 +1,14 @@
 ---
 title: "Civil War for Truth: Political Division"
+permalink: /civil-war-truth-3-political-division/
 date: 2022-06-20T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the third part of a seven-part series that
   investigates why the last 10 years were uniquely turbulent with
   ever-increasing political division, rampant censorship, and growing
   authoritarianism.
-tags:
-  - politics
+tags: ["politics"]
+series: ["civil-war-truth"]
 ---
 
 ## Changing Power Dynamics – Left and Right

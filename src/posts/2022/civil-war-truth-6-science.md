@@ -1,13 +1,14 @@
 ---
 title: "Civil War for Truth: Science"
+permalink: /civil-war-truth-6-science/
 date: 2022-07-11T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the sixth part of a seven-part series that
   investigates why the last 10 years were so uniquely turbulent with
   ever-increasing political division, rampant censorship, and growing
   authoritarianism.
-tags:
-  - politics
+tags: ["politics"]
+series: ["civil-war-truth"]
 ---
 
 ## Science Is Fundamentally Broken

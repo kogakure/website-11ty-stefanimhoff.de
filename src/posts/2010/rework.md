@@ -1,10 +1,10 @@
 ---
 title: Rework
+permalink: /rework/
 author: Stefan Imhoff
 date: 2010-04-27T16:30:00+02:00
 description: "Reading recommendation for the new book from Basecamp: Rework. A short, well-illustrated book on product development and how to run a company that has not been wrongly put on the bestseller list for a long time and has been praised to the highest standards."
-tags:
-  - book
+tags: ["book"]
 ---
 
 ## Change the Way You Work Forever

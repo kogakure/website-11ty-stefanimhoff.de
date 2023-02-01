@@ -1,10 +1,10 @@
 ---
 title: Koi Design
+permalink: /koi-design/
 author: Stefan Imhoff
 date: 2007-06-02T02:00:00+02:00
 description: Irezumi (Japanese tattooing) is an inspiration for my website and the origin of my design.
-tags:
-  - design
+tags: ["design"]
 ---
 
 ## Inspiration and Idea For My Header

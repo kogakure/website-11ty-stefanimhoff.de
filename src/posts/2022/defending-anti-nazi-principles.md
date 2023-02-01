@@ -1,11 +1,10 @@
 ---
 title: Defending Anti-Nazi Principles
+permalink: /defending-anti-nazi-principles/
 date: 2022-05-08T13:00:00+02:00
 author: Stefan Imhoff
 description: The five Anti-Nazi Principles by Stephen Hicks.
-tags:
-  - philosophy
-  - politics
+tags: ["philosophy", "politics"]
 ---
 
 Today is the “_Anniversary of the Liberation from National Socialism_.” I stumbled upon _Section 41_ of the book <cite>Nietzsche and the Nazis</cite>[^hicks2010ub][^hicks2013bu] by **Stephen Hicks**, Ph.D.

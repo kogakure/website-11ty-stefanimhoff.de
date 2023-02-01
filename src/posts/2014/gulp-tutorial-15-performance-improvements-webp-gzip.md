@@ -1,12 +1,11 @@
 ---
 title: "Introduction to Gulp.js 15: Performance Improvements with WebP and Gzip"
+permalink: /gulp-tutorial-15-performance-improvements-webp-gzip/
 author: Stefan Imhoff
 date: 2014-12-21T11:15:00+01:00
 description: "The ultimate tutorial and guide for Gulp.js: How to improve the speed and performance of your website with WebP and Gzip."
-tags:
-  - code
-series:
-  - gulp
+tags: ["code"]
+series: ["gulp"]
 ---
 
 This is the 15th part of my series, _Introduction to Gulp.js_. Today I’ll add tasks for performance improvement of the website with WebP for images and Gzip for text files.

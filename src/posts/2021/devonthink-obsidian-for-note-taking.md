@@ -1,12 +1,10 @@
 ---
 title: "DEVONthink and Obsidian: The Perfect Pair of Tools for Note-Taking"
+permalink: /devonthink-obsidian-for-note-taking/
 date: 2021-07-23T09:08:49+02:00
 author: Stefan Imhoff
 description: With the release of the mobile versions of Obsidian, my note-taking workflow with Obsidian and DEVONthink is now even more fun than before.
-tags:
-  - productivity
-  - software
-  - note-taking
+tags: ["productivity", "software", "note-taking"]
 ---
 
 With the release of the mobile versions of [Obsidian](https://obsidian.md/) last week, my note-taking workflow got even more comfortable.

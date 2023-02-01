@@ -1,10 +1,10 @@
 ---
 title: I Wrote a Book in GitBook
+permalink: /gitbook/
 author: Stefan Imhoff
 date: 2017-06-27T16:16:34+02:00
 description: I finished writing my first book in GitBook. I worked on it for the last six months, and it’s available to read online, as PDF, EPUB, and Mobi.
-tags:
-  - book
+tags: ["book"]
 ---
 
 I finished writing my first book. I worked on it for the last six months. To be honest, I didn’t write it recently, but over 18 years.

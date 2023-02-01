@@ -1,12 +1,12 @@
 ---
 title: "The Advent of AI: Text Generation"
+permalink: /artificial-intelligence-2-text-generation/
 date: 2022-12-17T12:00:00+01:00
 author: Stefan Imhoff
 description: This is a four-part series of essays that investigates different aspects of AI.
 cover: ai-cover-2.jpg
-tags:
-  - code
-  - software
+tags: ["code", "software", "writing"]
+series: ["artificial-intelligence"]
 ---
 
 ## GitHub Copilot

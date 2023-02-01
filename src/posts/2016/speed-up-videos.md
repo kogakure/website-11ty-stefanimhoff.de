@@ -1,10 +1,10 @@
 ---
 title: How to Speed Up Videos
+permalink: /speed-up-videos/
 author: Stefan Imhoff
 date: 2016-09-03T14:15:19+02:00
 description: Watching HTML5 video with increased speed is possible. Fortunately, there is an extension for that.
-tags:
-  - software
+tags: ["software"]
 ---
 
 A few weeks ago I was browsing my YouTube **Watch Later** lists and thinking: <q>There are many good quality videos, I wish I could watch them faster to see more of them.</q> All these screencasts, comedy, Tech Talks, conference presentations … I searched for fun tools to watch videos faster.

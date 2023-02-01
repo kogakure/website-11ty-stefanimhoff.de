@@ -1,13 +1,14 @@
 ---
 title: "Civil War for Truth: Media and Journalism"
+permalink: /civil-war-truth-4-media-journalism/
 date: 2022-06-27T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the fourth part of a seven-part series that
   investigates why the last 10 years were uniquely turbulent with
   ever-increasing political division, rampant censorship, and growing
   authoritarianism.
-tags:
-  - politics
+tags: ["politics"]
+series: ["civil-war-truth"]
 ---
 
 ## Internet killed the Newspaper Star

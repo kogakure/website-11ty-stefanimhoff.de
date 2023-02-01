@@ -1,13 +1,14 @@
 ---
 title: "Civil War for Truth: Conclusion"
+permalink: /civil-war-truth-7-conclusion/
 date: 2022-07-18T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the last part of a seven-part series that
   investigates why the last 10 years were so uniquely turbulent with
   ever-increasing political division, rampant censorship, and growing
   authoritarianism.
-tags:
-  - politics
+tags: ["politics"]
+series: ["civil-war-truth"]
 ---
 
 ## The Black Pill or the White Pill?

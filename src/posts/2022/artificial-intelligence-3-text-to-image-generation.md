@@ -1,12 +1,12 @@
 ---
 title: "The Advent of AI: Text-to-Image Generation"
+permalink: /artificial-intelligence-3-text-to-image-generation/
 date: 2022-12-21T12:00:00+01:00
 author: Stefan Imhoff
 description: This is a four-part series of essays that investigates different aspects of AI.
 cover: ai-cover-3.jpg
-tags:
-  - design
-  - software
+tags: ["code", "software", "design"]
+series: ["artificial-intelligence"]
 ---
 
 Another type of AI that captures the time and minds of people around the world for months is text-to-image generation. You might have seen the website [This Person Does Not Exist](https://www.thispersondoesnotexist.com/), which generates a new face on every reload. Text-to-image generation is even better, you can generate images just with a text input.

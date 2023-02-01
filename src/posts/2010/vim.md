@@ -1,10 +1,10 @@
 ---
 title: Vim
+permalink: /vim/
 author: Stefan Imhoff
 date: 2010-10-29T19:00:00+02:00
 description: How I became a convinced Vim disciple, why Vim is an ingenious editor, and how to best practice if you want to learn Vim.
-tags:
-  - code
+tags: ["code"]
 ---
 
 ## By the Power of Vim … I Have the Power

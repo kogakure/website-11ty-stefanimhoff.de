@@ -1,11 +1,11 @@
 ---
 title: New Website 2020
+permalink: /new-website-2020/
 date: 2020-07-07T07:20:20+02:00
 author: Stefan Imhoff
 description: "Finally, after 3 years with 250 hours of work, I finished my longest-running project: A new design and code for my website. Everything is new. I created over 1,400 files with 29,000 lines of code."
-tags:
-  - code
-  - design
+tags: ["code", "design"]
+series: ["new-website-2020"]
 ---
 
 Finally, after **3 years** with **250 hours** of work, I finished my longest-running project: A _complete new_ design and code for my website. Everything is new. I created over **1,400** files with **29,000** lines of code.

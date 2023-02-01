@@ -1,10 +1,10 @@
 ---
 title: Dreaming of the Old Normal
+permalink: /dreaming-of-the-old-normal/
 date: 2022-01-06T18:00:00+01:00
 author: Stefan Imhoff
 description: I had a dream of a world long forgotten.
-tags:
-  - personal
+tags: ["personal"]
 ---
 
 Last night I dreamed of the “Old Normal”, the one we called previously life.

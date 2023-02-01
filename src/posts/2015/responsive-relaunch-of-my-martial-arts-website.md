@@ -1,11 +1,10 @@
 ---
 title: Responsive Relaunch of My Martial Arts Website
+permalink: /responsive-relaunch-of-my-martial-arts-website/
 author: Stefan Imhoff
 date: 2015-04-07T22:00:00+01:00
 description: "I relaunched my martial arts website kogakure.de with a responsive design. This post gives an overview of the process of creating my website: Design, Typography, Vector Graphics, Jekyll, Grids, Responsive Design, and BEM."
-tags:
-  - design
-  - code
+tags: ["design", "code"]
 ---
 
 ## Relaunch of My Martial Arts Website

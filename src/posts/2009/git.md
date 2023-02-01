@@ -1,10 +1,10 @@
 ---
 title: Git
+permalink: /git/
 author: Stefan Imhoff
 date: 2009-02-10T20:00:00+02:00
 description: An extensive collection of links to tutorials, tutorials, screencasts, and documentation on Git.
-tags:
-  - code
+tags: ["code"]
 ---
 
 ## Introduction to Git

@@ -1,11 +1,10 @@
 ---
 title: "The Gods of the Copybook Headings: A Warning Against Loss of Virtue, Morality, and Reason"
+permalink: /interpretation-the-gods-of-the-copybook-headings/
 date: 2021-06-12T10:00:00+02:00
 author: Stefan Imhoff
 description: A modern interpretation of Rudyard Kipling’s great poem.
-tags:
-  - poetry
-  - featured
+tags: ["poetry", "featured"]
 ---
 
 {% youtube "37ARLInjLVE" %}

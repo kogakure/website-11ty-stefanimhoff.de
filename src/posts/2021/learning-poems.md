@@ -1,11 +1,10 @@
 ---
 title: Learning Poems
+permalink: /learning-poems/
 date: 2021-08-23T11:28:20+02:00
 author: Stefan Imhoff
 description: Why I started learning poems.
-tags:
-  - personal
-  - self-improvement
+tags: ["poetry", "self-improvement"]
 ---
 
 I’ve been enjoying learning poems for a few months now. It started when I heard a fantastic [visual recitation](https://youtu.be/37ARLInjLVE) by _Lauren Southern_ of _Rudyard Kipling’s_ [The Gods of the Copybook Headings](http://www.kiplingsociety.co.uk/poems_copybook.htm).

@@ -1,13 +1,10 @@
 ---
 title: Templates for iA Writer
+permalink: /templates-for-ia-writer/
 author: Stefan Imhoff
 date: "2022-03-17T18:00:00+01:00"
 description: I created two preview templates for my favorite writing app iA Writer
-tags:
-  - code
-  - design
-  - download
-  - featured
+tags: ["code", "design", "download", "featured"]
 ---
 
 I write a lot. Not only essays, but notes, poetry, books, technical documentation, discussions, and proposals at work. The things I write are usually in [Markdown](https://daringfireball.net/projects/markdown/syntax) because it’s one of the quickest and best Markup languages that exist.

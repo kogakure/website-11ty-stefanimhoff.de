@@ -1,10 +1,10 @@
 ---
 title: Morning Routine
+permalink: /morning-routine/
 date: 2018-09-08T18:00:00+02:00
 author: Stefan Imhoff
 description: On the advantages of building yourself a morning routine and the details of my morning routine.
-tags:
-  - self-improvement
+tags: ["self-improvement"]
 ---
 
 Lately, I have been thinking a lot about habits and routines. I’ve had always routines in my life, but I wanted to build a better morning routine because I’ve come across many sources, that emphasized the importance of routines for success in life.

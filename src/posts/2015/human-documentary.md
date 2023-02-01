@@ -1,10 +1,10 @@
 ---
 title: Human
+permalink: /human-documentary/
 author: Stefan Imhoff
 date: 2015-09-29T19:07:20+02:00
 description: Human, the new movie by Yann Arthus-Bertrand is a moving film made of real-life stories from more than 2000 women and men in 60 countries mixed with stunning aerial photography and ground photography.
-tags:
-  - film
+tags: ["film"]
 ---
 
 ## A Film by Yann Arthus-Bertrand

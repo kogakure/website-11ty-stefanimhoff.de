@@ -1,13 +1,14 @@
 ---
 title: "Civil War for Truth: Corporatism and Technocracy"
+permalink: /civil-war-truth-2-corporatism-technocracy/
 date: 2022-06-13T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the second part of a seven-part series that
   investigates why the last 10 years were uniquely turbulent with
   ever-increasing political division, rampant censorship, and growing
   authoritarianism.
-tags:
-  - politics
+tags: ["politics"]
+series: ["civil-war-truth"]
 ---
 
 ## Corporatism

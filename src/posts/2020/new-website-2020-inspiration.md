@@ -1,10 +1,11 @@
 ---
 title: "New Website 2020: Inspiration"
+permalink: /new-website-2020-inspiration/
 date: 2020-07-14T08:00:00+02:00
 author: Stefan Imhoff
 description: This is the first of three parts in a series of essays about the process of creating my new website. This one has a look into the inspiration for my website.
-tags:
-  - design
+tags: ["design"]
+series: ["new-website-2020"]
 ---
 
 At the end of 2017, I had the wish to create a new website, as my old design and technology got dated. I started by collecting inspirations and ideas about the direction I wanted to go.

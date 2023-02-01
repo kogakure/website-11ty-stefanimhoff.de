@@ -1,10 +1,10 @@
 ---
 title: Django Article
+permalink: /webstandards-magazine-django/
 author: Stefan Imhoff
 date: 2010-09-21T09:25:00+02:00
 description: I was allowed to write a multipage article about Django in Webstandards-Magazin. I wrote about what I appreciate about Django and why I use it.
-tags:
-  - publication
+tags: ["publication"]
 ---
 
 ## Webstandards-Magazine, Issue 07/2010

@@ -1,10 +1,10 @@
 ---
 title: Best of 2020
+permalink: /best-of-2020/
 date: 2020-12-22T18:00:00+02:00
 author: Stefan Imhoff
 description: A distilled collection of my favorite topics, articles, videos, podcasts, people, or other things in 2020.
-tags:
-  - tip
+tags: ["tip"]
 ---
 
 This article is a distilled collection of my favorite topics, articles, videos, podcasts, people, or other things in 2020. I tried to get the recommendations in order, you can expect similar topics to follow each other.

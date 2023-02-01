@@ -1,12 +1,10 @@
 ---
 title: Decodeunicode
+permalink: /decodeunicode/
 author: Stefan Imhoff
 date: 2011-06-02T18:38:00+02:00
 description: "Book recommendation for those who are interested in writing and characters: 'decodeunicode - Die Schriftzeichen der Welt'. 656 pages thick, almost 2 kg heavy, and with all 109,242 current characters of the Unicode character set."
-tags:
-  - book
-  - design
-  - typography
+tags: ["book", "design", "typography"]
 ---
 
 ## A Book with All Unicode Characters

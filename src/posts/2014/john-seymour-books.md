@@ -1,10 +1,10 @@
 ---
 title: John Seymour’s Books on Self-Sufficiency
+permalink: /john-seymour-books/
 author: Stefan Imhoff
 date: 2014-08-03T16:00:00+02:00
 description: On John Seymour’s fantastic, beautifully illustrated books on self-sufficiency, agriculture, and crafts. The optimal equipment for an upcoming zombie apocalypse.
-tags:
-  - book
+tags: ["book"]
 ---
 
 My earliest memories of books are that I lie on my parents’ soft carpet on my stomach in the living room and read the <cite>Atlas of World History</cite> or the books of _John Seymour_. Who was John Seymour, and why did his books remain in my memory?

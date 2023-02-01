@@ -1,11 +1,10 @@
 ---
 title: Building a Personal Brand
+permalink: /building-a-personal-brand/
 date: 2022-02-23T20:00:00+01:00
 author: Stefan Imhoff
 description: How I used the Design System of my website to “quickly” create new designs for my other two websites and created a personal brand at the same time.
-tags:
-  - design
-  - personal
+tags: ["design", "personal"]
 ---
 
 More than 15 years ago, I read somewhere an article about how every person will be their brand in the future and has to sell themselves to potential clients or employers. I don’t remember what the article said in detail or who wrote it, but one thing stuck to my mind until today: <q>You can’t prevent people to find things about you on the internet you don’t want them to find, but by curating your content you can make it easier for them to find the right things.</q>

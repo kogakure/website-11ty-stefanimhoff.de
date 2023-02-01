@@ -1,10 +1,11 @@
 ---
 title: "New Website 2020: Design"
 date: 2020-07-21T08:00:00+02:00
+permalink: /new-website-2020-design/
 author: Stefan Imhoff
 description: This is the second of three parts in a series of essays about the process of creating my new website. This one shows the design process for my website.
-tags:
-  - design
+tags: ["design"]
+series: ["new-website-2020"]
 ---
 
 ## Design

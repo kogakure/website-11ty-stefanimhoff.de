@@ -1,13 +1,14 @@
 ---
 title: "Civil War for Truth: Introduction"
+permalink: /civil-war-truth-1-introduction/
 author: Stefan Imhoff
 date: "2022-06-06T07:00:00+02:00"
 description: This is the introduction to a seven-part series that
   investigates why the last 10 years were uniquely turbulent with
   ever-increasing political division, rampant censorship, and growing
   authoritarianism.
-tags:
-  - politics
+tags: ["politics"]
+series: ["civil-war-truth"]
 ---
 
 I was never interested in politics and could barely recollect the names of the current political leadership team. But the last ten years—in particular the last two years—were far too turbulent and politics got gradually more authoritarian, which resulted in me getting gradually more political.

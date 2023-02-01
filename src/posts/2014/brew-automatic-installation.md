@@ -1,10 +1,10 @@
 ---
 title: Automated Installation for macOS
+permalink: /brew-automatic-installation/
 author: Stefan Imhoff
 date: 2014-04-04T21:09:00+02:00
 description: How to automatically install software on macOS using Homebrew and Homebrew Cask. Homebrew Cask can install over 1300 applications, including many commercial products.
-tags:
-  - software
+tags: ["software"]
 ---
 
 The installation of the software has always been poor on macOS. There are too many ways of installation.

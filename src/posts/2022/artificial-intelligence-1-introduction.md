@@ -1,12 +1,12 @@
 ---
 title: "The Advent of AI: Introduction"
+permalink: /artificial-intelligence-1-introduction/
 date: 2022-12-14T20:00:00+01:00
 author: Stefan Imhoff
 description: This is a four-part series of essays that investigates different aspects of AI.
 cover: ai-cover-1.jpg
-tags:
-  - code
-  - software
+tags: ["code", "software"]
+series: ["artificial-intelligence"]
 ---
 
 ## Abstract

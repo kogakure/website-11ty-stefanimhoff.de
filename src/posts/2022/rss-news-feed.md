@@ -1,10 +1,10 @@
 ---
 title: The Return of the News Feed
+permalink: /rss-news-feed/
 date: 2022-11-05T16:00:00+01:00
 author: Stefan Imhoff
 description: Why you should stop reading news inside of social media sites and instead use the RSS/Atom news feed format to directly follow content creators, and why you should provide a news feed as a content creator.
-tags:
-  - tip
+tags: "tip"
 ---
 
 People always ask me how I stay up to date with all those new tools, libraries, memes, jokes, industry or political news without getting overwhelmed. My answer is simple: <q>I use an RSS feed reader for as long as I can remember.</q> I follow 817 sources. I read everything within my RSS Reader, from blogs to news sites, YouTube videos, Twitter, and Reddit, to newsletters.

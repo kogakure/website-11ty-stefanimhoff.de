@@ -1,11 +1,10 @@
 ---
 title: If— Guidance for a Virtuous, Stoic Life
+permalink: /interpretation-if/
 date: 2021-12-13T18:00:00+01:00
 author: Stefan Imhoff
 description: A modern interpretation of Rudyard Kipling’s great poem.
-tags:
-  - poetry
-  - featured
+tags: ["poetry", "featured"]
 ---
 
 After my last poem interpretation for [The Gods of the Copybook Headings](/interpretation-the-gods-of-the-copybook-headings/), I saw a recommendation for another poem by _Rudyard Kipling_: **If—**. It is a shorter poem, but each sentence has a profound meaning. Kipling must have had an in-depth understanding of human nature.

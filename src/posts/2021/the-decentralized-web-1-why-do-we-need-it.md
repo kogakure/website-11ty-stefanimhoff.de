@@ -1,12 +1,11 @@
 ---
 title: "The Decentralized Web: Why Do We Need It?"
+permalink: /the-decentralized-web-1-why-do-we-need-it/
 date: 2021-10-25T09:00:00+02:00
 author: Stefan Imhoff
 description: This is the first part of a three-part series on the Decentralized Web. This part will highlight the dangers looming on the free internet.
-tags:
-  - decentralization
-  - politics
-  - philosophy
+tags: ["decentralization", "politics", "philosophy"]
+series: ["decentralized-web"]
 ---
 
 It’s been at least 25 years since I first used a modem to dial through the landline into “the internet”. You’ll never forget the [robotic beeping](https://archive.org/details/44568-pocket-modem-conection-1-norm-d.-d.-teoli-jr.-a.-c.) when you grew up with Dial-Up Modems.

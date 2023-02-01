@@ -1,10 +1,10 @@
 ---
 title: Domain Hosting
+permalink: /domain-hosting/
 author: Stefan Imhoff
 date: 2007-05-30T23:55:00+02:00
 description: Host domains separately from the web hosting package. Why this is a good idea, and what are the benefits?
-tags:
-  - tip
+tags: ["tip"]
 ---
 
 ## Why You Shouldn’t Host Your Domains With Your Web Host

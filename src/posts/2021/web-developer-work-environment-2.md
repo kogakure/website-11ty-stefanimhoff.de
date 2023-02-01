@@ -1,13 +1,11 @@
 ---
 title: "Setting Up a Web Developer Work Environment: Neovim"
+permalink: /web-developer-work-environment-2/
 date: 2021-12-23T10:00:00+01:00
 author: Stefan Imhoff
 description: I decided to re-examine my developer tools and replace some of them with better tools.
-tags:
-  - code
-  - personal
-  - productivity
-  - software
+tags: ["code", "personal", "productivity", "software"]
+series: ["web-developer-work-environment"]
 ---
 
 As I mentioned in my introduction, I use Vim for a long time. My shortcuts and commands have carved their way into my memory, and I don’t even need to think about 80% of my shortcuts. Occasionally, I can’t even recall them without doing them.

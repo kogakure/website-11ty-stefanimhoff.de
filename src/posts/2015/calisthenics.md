@@ -1,11 +1,10 @@
 ---
 title: Calisthenics
+permalink: /calisthenics/
 author: Stefan Imhoff
 date: 2015-05-19T21:45:00+00:00
 description: Learning Body Weight Training is possible for everybody. It’s free, you can do it anywhere, you need no gym or expensive equipment to train, and you can improve constantly.
-tags:
-  - health
-  - self-improvement
+tags: ["health", "self-improvement"]
 ---
 
 ## Getting Started with Body Weight Training

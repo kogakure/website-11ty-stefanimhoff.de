@@ -1,12 +1,11 @@
 ---
 title: I Counted Everything I Own
+permalink: /i-counted-everything-i-own/
 date: 2022-01-25T19:34:18+01:00
 author: Stefan Imhoff
 description: As a minimalist I’m interested in how much stuff I own. I counted all the things I own.
 charts: true
-tags:
-  - minimalism
-  - personal
+tags: ["minimalism", "personal"]
 ---
 
 When I started to be interested in [Minimalism](/minimalism/) in 2017, I decided to count all my stuff.

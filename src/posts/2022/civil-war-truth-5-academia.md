@@ -1,13 +1,14 @@
 ---
 title: "Civil War for Truth: Academia"
+permalink: /civil-war-truth-5-academia/
 date: 2022-07-04T07:00:00+02:00
 author: Stefan Imhoff
 description: This is the fifth part of a seven-part series that
   investigates why the last 10 years were uniquely turbulent with
   ever-increasing political division, rampant censorship, and growing
   authoritarianism.
-tags:
-  - politics
+tags: ["politics"]
+series: ["civil-war-truth"]
 ---
 
 ## The Long March Through the Institutions

@@ -1,13 +1,10 @@
 ---
 title: How I Made My Phone Boring Again
+permalink: /boring-phone/
 date: 2021-03-10T18:00:00+02:00
 author: Stefan Imhoff
 description: Tricks I introduced in 2020 to make my devices less addictive.
-tags:
-  - personal
-  - productivity
-  - self-improvement
-  - tip
+tags: ["personal", "productivity", "self-improvement", "tip"]
 ---
 
 Since I wrote my well-received essay [Self-Defence in the Age of Attention](/attention/) in 2017 I tried many tricks to reduce the addiction to digital devices in my life.

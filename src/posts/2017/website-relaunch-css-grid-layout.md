@@ -1,11 +1,10 @@
 ---
 title: Website Relaunch with CSS Grid Layout
+permalink: /website-relaunch-css-grid-layout/
 date: 2017-08-14T12:00:00+02:00
 author: Stefan Imhoff
 description: I redesigned my martial arts website with CSS Grid Layout and added a Service Worker.
-tags:
-  - code
-  - design
+tags: ["code", "design"]
 ---
 
 4 months of work, 49 hours of coding, plus more hours for designing a new homepage, creating a new OTF font, and polishing up my old 3D models. But now my martial arts website [kogakure.de](https://www.kogakure.de/) is online.

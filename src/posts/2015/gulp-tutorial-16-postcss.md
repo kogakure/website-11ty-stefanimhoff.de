@@ -1,12 +1,11 @@
 ---
 title: "Introduction to Gulp.js 16: PostCSS"
+permalink: /gulp-tutorial-16-postcss/
 author: Stefan Imhoff
 date: 2015-10-16T07:50:29+00:00
 description: "The ultimate tutorial and guide for Gulp.js: How to use PostCSS with Gulp to process CSS and how to lint your CSS files with Stylelint."
-tags:
-  - code
-series:
-  - gulp
+tags: ["code"]
+series: ["gulp"]
 ---
 
 This is the 16th part of my series _Introduction to Gulp.js_. Today, I will show how to use PostCSS to process CSS files. I will replace Ruby Sass with PostCSS and additionally show how to lint stylesheets automatically in the background while developing with Stylelint.

@@ -1,12 +1,11 @@
 ---
 title: "Introduction to Gulp.js 3: Build, Clean and Jekyll"
+permalink: /gulp-tutorial-3-build-clean-jekyll/
 author: Stefan Imhoff
 date: 2014-10-20T10:00:00+02:00
 description: "The ultimate tutorial and guide for Gulp.js: How to write tasks for cleaning files and folders, generating the build and the website with Jekyll."
-tags:
-  - code
-series:
-  - gulp
+tags: ["code"]
+series: ["gulp"]
 ---
 
 This is the 3rd part of my series, _Introduction to Gulp.js_. Today I will write the build task, which will execute all other tasks needed for a build, the task to delete assets for a fresh start, and the task to create my Jekyll site.

@@ -1,12 +1,11 @@
 ---
 title: "Introduction to Gulp.js 12: Optimize CSS, JavaScript, Images and HTML"
+permalink: /gulp-tutorial-12-optimize-css-javascript-images-and-html/
 author: Stefan Imhoff
 date: 2014-10-29T08:00:00+02:00
 description: "The ultimate tutorial and guide for Gulp.js: How to optimize CSS, JavaScript, images, and HTML to speed up your website."
-tags:
-  - code
-series:
-  - gulp
+tags: ["code"]
+series: ["gulp"]
 ---
 
 This is the 12th part of my series, _Introduction to Gulp.js_. Today I will write tasks to optimize the assets of my website: CSS, JavaScript, Images, and HTML.

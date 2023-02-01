@@ -1,10 +1,10 @@
 ---
 title: HOME
+permalink: /home-documentary/
 author: Stefan Imhoff
 date: 2009-06-15T17:23:00+02:00
 description: "Recommended Film: View the nature documentation HOME by Yann Arthus-Bertrand for FREE. Beautiful aerial photographs of the world. The creation of the earth, life, destruction by man and hope and ways out."
-tags:
-  - film
+tags: ["film"]
 ---
 
 ## Stunning Documentary About Our Earth

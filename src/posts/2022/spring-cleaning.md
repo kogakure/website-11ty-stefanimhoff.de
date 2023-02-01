@@ -1,10 +1,10 @@
 ---
 title: Spring Cleaning
+permalink: /spring-cleaning/
 date: 2022-05-26T15:00:00+02:00
 author: Stefan Imhoff
 description: I removed my link and quote posts and will share interesting things on Reddit from now on.
-tags:
-  - personal
+tags: ["personal"]
 ---
 
 When I published my new website in 2020 I added two new content types to my essays: **links** and **quotes**. But over time I found that I rarely used quotes. I instead collect quotes in my Zettelkasten note-taking system and add my thoughts to each quote.

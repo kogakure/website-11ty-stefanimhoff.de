@@ -1,12 +1,10 @@
 ---
 title: Typography of My Website
+permalink: /website-typography/
 author: Stefan Imhoff
 date: 2014-06-19T10:30:00+02:00
 description: "About the typography of my new website: scale, font, vertical rhythm, font size, font size, and sentence width."
-tags:
-  - design
-  - code
-  - typography
+tags: ["design", "code", "typography"]
 ---
 
 I’m a _typophile_. But this is nothing for a self-help group because it means to love typography. It was clear to me from the start that I would start with typography for my new website.

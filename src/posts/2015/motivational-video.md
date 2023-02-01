@@ -1,10 +1,10 @@
 ---
 title: Motivational Video
+permalink: /motivational-video/
 author: Stefan Imhoff
 date: 2015-08-14T18:15:00+00:00
 description: Last week I found an inspirational film on YouTube, focusing on Motivation. But because it was poorly quoted, I tried to find the quotes and resolve the issue.
-tags:
-  - film
+tags: ["film"]
 ---
 
 ## Why Do We Fall?

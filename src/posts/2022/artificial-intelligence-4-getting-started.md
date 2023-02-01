@@ -1,13 +1,12 @@
 ---
 title: "The Advent of AI: Getting Started with Text-to-Image Generation"
+permalink: /artificial-intelligence-4-getting-started/
 date: 2022-12-24T12:00:00+01:00
 author: Stefan Imhoff
 description: This is a four-part series of essays that investigates different aspects of AI.
 cover: ai-cover-4.jpg
-tags:
-  - code
-  - design
-  - software
+tags: ["code", "software", "design"]
+series: ["artificial-intelligence"]
 ---
 
 Text-to-image generation needs a powerful [NVIDIA GPU](https://www.youtube.com/watch?v=H-6DXU967bU) with at least 4 GB VRAM. You can run Stable Diffusion on an Apple M1 chip. The easiest way to get started is either with [UnstableFusion](https://github.com/ahrm/UnstableFusion) for Windows, Mac, and Linux, or with [Diffusion Bee](https://diffusionbee.com/) for Mac.

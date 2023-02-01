@@ -1,12 +1,11 @@
 ---
 title: "Introduction to Gulp.js 1: Intro and Setup"
+permalink: /gulp-tutorial-1-intro-setup/
 author: Stefan Imhoff
 date: 2014-10-18T08:35:47+02:00
 description: "The ultimate tutorial and guide for Gulp.js: The first part of my series on Gulp.js. What is Gulp.js? Why use it? And how to install Gulp and Jekyll."
-tags:
-  - code
-series:
-  - gulp
+tags: ["code"]
+series: ["gulp"]
 ---
 
 My website is running [Jekyll](https://jekyllrb.com/) now since the beginning of 2014. But I wasn’t happy with my build and development process. I started with Rake tasks and chose later [Grunt.js](https://gruntjs.com/) as my build system, but parts of the process were left in Ruby. I used [Compass](http://compass-style.org/) a lot, and [Jekyll Assets](http://ixti.net/jekyll-assets/) was handling my versioning. But Grunt.js and the Jekyll Asset Pipeline didn’t play well together. Then a new solution came along: [Gulp.js](https://gulpjs.com/).

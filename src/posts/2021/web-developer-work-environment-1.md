@@ -1,13 +1,11 @@
 ---
 title: "Setting Up a Web Developer Work Environment: Terminal, Zsh, and TMUX"
+permalink: /web-developer-work-environment-1/
 date: 2021-12-20T10:00:00+01:00
 author: Stefan Imhoff
 description: I decided to re-examine my developer tools and replace some of them with better tools.
-tags:
-  - code
-  - personal
-  - productivity
-  - software
+tags: ["code", "personal", "productivity", "software"]
+series: ["web-developer-work-environment"]
 ---
 
 Tools are what differentiates humans from other animals. A few animals, such as <q>Crows and chimps, and dolphins are all known to fashion and use tools but are limited by their ability to carry them places.</q>[^heying2021ug]

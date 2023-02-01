@@ -1,10 +1,10 @@
 ---
 title: Design of My New Logo
+permalink: /logo-design/
 author: Stefan Imhoff
 date: 2014-04-18T19:00:00+02:00
 description: "Insight into the design of my new logo and Rakkan: idea, research, and a short digression on the Chinese script."
-tags:
-  - design
+tags: ["design"]
 ---
 
 Since a logo is one of the essential elements that recognize a website, I wanted from the beginning to design a logo that fits the theme of the rest of the design of the site.
