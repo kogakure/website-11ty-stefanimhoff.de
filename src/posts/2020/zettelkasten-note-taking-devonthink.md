@@ -192,7 +192,12 @@ I might write notes in one of my paper notebooks. Handwriting has plenty of adva
 
 I regularly reserve time to transfer notes, highlights, and quotes from books I’ve read into notes in my Zettelkasten.
 
+<figure>
+
 ![DEVONthink view on a Markdown document with a sidebar for notes](/assets/images/posts/devonthink-zettelkasten.jpg "My Zettelkasten in DEVONthink")
+
+<figcaption>DEVONthink view on a Markdown document with a sidebar for notes</figcaption>
+ </figure>
 
 Every afternoon I clean the inbox and properly tag the items. Every Zettelkasten note gets a unique ID and title (generated with a snippet in [Alfred](https://www.alfredapp.com/)) and then moved into a separate database for notes. Inspirational items and documents get moved into their database.
 
