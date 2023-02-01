@@ -314,7 +314,8 @@ blockquote p:first-child {
 	opacity: 0.6;
 }
 
-blockquote blockquote p:last-child {
+blockquote blockquote p:last-child,
+blockquote.pullquote p:last-child {
 	list-style: none;
 	opacity: 0.6;
 }
