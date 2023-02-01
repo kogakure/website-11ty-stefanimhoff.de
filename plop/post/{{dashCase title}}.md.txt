@@ -4,10 +4,7 @@ title: {{titleCase title}}
 date: {{date}}
 author: Stefan Imhoff
 description: {{description}}
-tags:
-{{#each tags}}
-  - {{.}}
-{{/each}}
+tags: [{{#each tags}}"{{.}}"{{#unless @last}}, {{/unless}}{{/each}}]
 ---
 
 Hello World!
