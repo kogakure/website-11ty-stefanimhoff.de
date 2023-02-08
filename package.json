@@ -11,12 +11,12 @@
 		"debug": "DEBUG=* npx eleventy",
 		"deploy": "netlify deploy --prod",
 		"deploy:preview": "netflify deploy",
-		"dev": "ELEVENTY_ENV=development npm run watch",
+		"dev": "ELEVENTY_ENV=development pnpm run watch",
 		"live": "netlify dev --live",
 		"plop": "plop",
-		"prebuild": "npm run clean",
+		"prebuild": "pnpm run clean",
 		"prepare": "husky install",
-		"prestart": "npm run clean",
+		"prestart": "pnpm run clean",
 		"publish": "npm-run-all build deploy",
 		"start": "netlify dev",
 		"svg": "gulp svg",
@@ -104,5 +104,8 @@
 		"vinyl-buffer": "^1.0.1",
 		"vinyl-source-stream": "^2.0.0",
 		"workbox-cli": "^6.1.5"
+	},
+	"dependencies": {
+		"@babel/core": "^7.0.0"
 	}
 }

@@ -8,13 +8,13 @@ This is the source of my [personal website][si] build with [Eleventy], [PostCSS]
 ## Installation
 
 ```sh
-npm install
+pnpm install
 ```
 
 ## Running the Website
 
 ```sh
-npm start
+pnpm start
 ```
 
 For more tasks have a look into the `package.json`.
