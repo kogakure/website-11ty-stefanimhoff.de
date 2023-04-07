@@ -121,6 +121,16 @@ The YouTube creators [Rachel and Jun](https://www.youtube.com/@RachelandJun) cre
 
 This 9 minute long documentary shows the craft of Japanese woodwork. Japanese woodwork is known to create houses, furniture, and other wooden objects without the use of iron nails or glue. The wood parts are fitted perfectly to be stuck together like a puzzle.
 
+### Karakuri Box
+
+{% youtube "P41diIqlYSk" %}
+
+The wooden designs of [Karakuri Box](https://karakuri.gr.jp/en/) are based on a 120-year-old traditional craft of “secret boxes” made in the Hakone Odawara region of Japan. Each box has a different design and way of opening. Even the smallest boxes might take a puzzle master [five minutes to open](https://www.youtube.com/watch?v=Yd63V64uYC4).
+
+The company has a club program that automatically sends each Christmas season a new box puzzle to a member. You can pick out of the currently ten craftsmen for your present.
+
+The [YouTube channel](https://www.youtube.com/@karakuribox.official/) has plenty of videos presenting the designs (including solutions).
+
 ### Irezumi – Japanese Tattoo
 
 {% youtube "4orFB7tRDno" %}
