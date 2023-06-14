@@ -1,5 +1,5 @@
 [![Live](https://img.shields.io/badge/live-v4.stefanimhoff.de-green.svg)](https://v4.stefanimhoff.de/)
-![Maintenance](https://img.shields.io/maintenance/yes/2023.svg)
+![Maintenance](https://img.shields.io/maintenance/no/2023.svg)
 
 # stefanimhoff.de
 
